@@ -1,0 +1,159 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "连帽卫衣套装",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家",
+      "运动"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "运动"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，宽松版型符合当下休闲潮流"
+  },
+  "colors": {
+    "primary_color": "多色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "绒面",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤, 蓬松保暖"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "中腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "前拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "金属扣"
+    ],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "加绒"
+    ],
+    "functional_features": [
+      "保暖"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的休闲运动感，兼具街头潮流气息。",
+    "design_highlight": "350G重磅加绒面料，提供优异保暖性与舒适度，上衣金属双头拉链。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "全年龄"
+    ],
+    "flattering_features": "宽松版型不挑身材，连帽设计修饰颈部和肩部。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适休闲风格的年轻群体，注重保暖性和实用性。",
+    "selling_points": [
+      "350G重磅加绒，保暖性强",
+      "宽松休闲版型，不挑身材",
+      "20种颜色选择，满足个性化需求",
+      "中性设计，男女皆可穿",
+      "金属双头拉链，提升质感"
+    ],
+    "similar_brands_style": "类似优衣库基础款的舒适度，兼具部分街头潮牌的宽松版型。",
+    "coordination_suggestions": [
+      "搭配运动鞋和棒球帽，打造活力运动风。",
+      "内搭T恤，拉链敞开穿着，增加层次感。",
+      "搭配休闲帆布鞋或板鞋，适合日常出街。"
+    ]
+  },
+  "ecommerce": {
+    "title": "350G重磅加绒连帽卫衣套装男女秋冬宽松休闲运动情侣款外套长裤",
+    "search_keywords": [
+      "加绒卫衣套装",
+      "连帽卫衣",
+      "情侣卫衣",
+      "宽松卫衣",
+      "运动套装",
+      "秋冬卫衣",
+      "重磅卫衣",
+      "休闲套装",
+      "男女同款",
+      "保暖卫衣"
+    ],
+    "hashtags": [
+      "#加绒卫衣",
+      "#连帽套装",
+      "#情侣穿搭",
+      "#秋冬必备",
+      "#宽松版型",
+      "#街头休闲",
+      "#保暖舒适",
+      "#多色可选"
+    ],
+    "description": "这款350G重磅加绒连帽卫衣套装，采用优质面料，内里加绒设计，带来卓越的保暖性和亲肤感。宽松版型不挑身材，提供20种时尚色彩选择，满足您的个性化需求。上衣采用金属双头拉链，细节考究。无论是日常通勤、休闲运动还是居家穿着，都能轻松打造舒适有型的潮流造型。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "橄榄绿",
+      "深蓝",
+      "深棕",
+      "卡其",
+      "军绿",
+      "粉色",
+      "深灰",
+      "米白",
+      "浅卡其",
+      "墨绿",
+      "米色",
+      "芥末黄",
+      "浅灰",
+      "炭灰",
+      "玫红",
+      "黑色",
+      "奶白"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_065.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1335
+  }
+}

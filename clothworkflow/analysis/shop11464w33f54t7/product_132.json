@@ -1,0 +1,137 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "礼服裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "性感",
+      "复古"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典款，通过细节设计融入现代审美，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "灰紫色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "冷色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "夏冷"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "圆领",
+    "sleeve_type": "无袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "褶皱"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅高贵的晚宴礼服，展现女性柔美曲线。",
+    "design_highlight": "胸部和腰部的褶皱设计以及肩部垂坠的披肩式设计。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，褶皱设计修饰腰腹部，垂坠感面料显瘦。",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅、注重品质的都市女性，适合出席正式场合。",
+    "selling_points": [
+      "优雅的灰紫色调，衬托肤色",
+      "精妙的褶皱设计，修饰身形",
+      "垂坠感面料，穿着舒适飘逸",
+      "经典礼服款式，适合多种正式场合"
+    ],
+    "similar_brands_style": "类似Max Mara、Theory的优雅简约风格，或一些轻奢礼服品牌。",
+    "coordination_suggestions": [
+      "搭配精致的细高跟鞋和手拿包，打造晚宴造型。",
+      "佩戴简约的钻石项链和耳环，提升整体华丽感。",
+      "搭配一件同色系或裸色系披肩，增加保暖性和层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款优雅灰紫色褶皱高腰修身礼服裙女 气质无袖长款晚宴连衣裙",
+    "search_keywords": [
+      "礼服裙",
+      "晚宴裙",
+      "灰紫色连衣裙",
+      "褶皱连衣裙",
+      "高腰礼服",
+      "修身长裙",
+      "无袖连衣裙",
+      "气质礼服",
+      "优雅长裙",
+      "正式场合连衣裙"
+    ],
+    "hashtags": [
+      "#礼服裙",
+      "#晚宴穿搭",
+      "#优雅气质",
+      "#褶皱设计",
+      "#高级灰",
+      "#静奢风",
+      "#女神范"
+    ],
+    "description": "这款优雅的灰紫色礼服裙，采用轻盈垂坠的面料，带来顺滑亲肤的穿着体验。独特的胸部和腰部褶皱设计，巧妙修饰身形，勾勒出曼妙曲线。高腰剪裁拉长腿部比例，无袖设计搭配肩部披肩式细节，尽显高贵气质。无论是出席晚宴、派对还是重要活动，都能让您成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "灰紫色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_132.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1216
+  }
+}

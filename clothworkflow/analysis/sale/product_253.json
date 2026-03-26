@@ -1,0 +1,152 @@
+{
+  "basic_info": {
+    "category": "裤子",
+    "subcategory": "卫裤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "运动",
+      "居家",
+      "校园"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，但宽松版型符合当下休闲趋势"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "长款",
+    "neckline": null,
+    "sleeve_type": null,
+    "waistline": "松紧腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "系带"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": [
+      "保暖"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的街头休闲感，简约百搭。",
+    "design_highlight": "420G重磅毛圈面料，提供优异的保暖性和舒适度。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松直筒版型不挑身材，松紧腰设计舒适。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、休闲风格的年轻群体，注重面料质感和日常穿着体验。",
+    "selling_points": [
+      "420G重磅毛圈面料，保暖舒适",
+      "宽松直筒版型，不挑身材",
+      "多色可选，满足不同搭配需求",
+      "经典百搭款，四季皆宜",
+      "松紧腰系带设计，穿着方便"
+    ],
+    "similar_brands_style": "类似优衣库、Zara的基础休闲款，但更偏向街头潮流感。",
+    "coordination_suggestions": [
+      "搭配同色系连帽卫衣和运动鞋，打造休闲运动套装。",
+      "搭配白色T恤和棒球帽，营造简约街头风。",
+      "搭配宽松衬衫和帆布鞋，适合日常通勤或休闲逛街。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 420G重磅毛圈直筒卫裤男女同款宽松休闲运动长裤秋冬保暖",
+    "search_keywords": [
+      "卫裤",
+      "直筒裤",
+      "运动裤",
+      "重磅",
+      "毛圈",
+      "纯棉",
+      "宽松",
+      "休闲",
+      "男女同款",
+      "秋冬",
+      "保暖",
+      "街头"
+    ],
+    "hashtags": [
+      "#卫裤",
+      "#重磅卫裤",
+      "#直筒裤",
+      "#男女同款",
+      "#休闲穿搭",
+      "#秋冬必备",
+      "#街头风",
+      "#舒适穿搭"
+    ],
+    "description": "这款TILANI重磅毛圈直筒卫裤，精选420G厚实纯棉毛圈面料，触感柔软亲肤，保暖性极佳。宽松直筒版型设计，不挑身材，穿着舒适自在。简约纯色风格，搭配松紧腰系带，无论是日常休闲、运动健身还是居家穿着，都能轻松打造时尚舒适的造型。多色可选，满足您的个性搭配需求。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "黑色",
+      "棕色",
+      "米白",
+      "卡其",
+      "军绿",
+      "白色",
+      "黄色",
+      "藏青",
+      "浅绿",
+      "灰色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_253.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1281
+  }
+}

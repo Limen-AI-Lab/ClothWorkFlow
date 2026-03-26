@@ -1,0 +1,162 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "卫衣套装",
+    "gender": "中性",
+    "age_range": "儿童",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家",
+      "运动"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "运动",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "珊瑚橘",
+      "墨绿",
+      "米白",
+      "浅灰绿",
+      "浅卡其",
+      "深卡其",
+      "白色",
+      "草绿",
+      "棕色",
+      "深灰"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "长袖",
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": [
+      "透气",
+      "弹力",
+      "舒适"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "简约舒适的儿童休闲运动套装，色彩选择丰富。",
+    "design_highlight": "宽松版型和重磅毛圈面料，强调舒适度和质感。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "全年龄"
+    ],
+    "flattering_features": "宽松版型不挑身材，适合各种体型的儿童。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "注重儿童穿着舒适度和日常休闲风格的家长",
+    "selling_points": [
+      "340g重磅毛圈面料",
+      "宽松版型不挑身材",
+      "多色可选",
+      "透气舒适有弹力",
+      "经典百搭款"
+    ],
+    "similar_brands_style": "类似优衣库童装基础款风格",
+    "coordination_suggestions": [
+      "搭配运动鞋和棒球帽，打造活泼运动风。",
+      "搭配休闲板鞋，适合日常上学或玩耍。",
+      "搭配同色系袜子，增加整体造型感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024秋季新款儿童圆领卫衣套装男童女童宽松重磅毛圈纯棉运动休闲两件套",
+    "search_keywords": [
+      "儿童卫衣套装",
+      "男童卫衣",
+      "女童卫衣",
+      "圆领卫衣",
+      "重磅毛圈",
+      "纯棉套装",
+      "宽松运动服",
+      "休闲两件套",
+      "春秋童装",
+      "百搭童装"
+    ],
+    "hashtags": [
+      "#儿童卫衣套装",
+      "#童装",
+      "#休闲运动风",
+      "#重磅纯棉",
+      "#多色可选",
+      "#舒适童装",
+      "#春秋穿搭",
+      "#亲子装"
+    ],
+    "description": "这款儿童圆领卫衣套装采用340g重磅毛圈纯棉面料，手感柔软亲肤，透气舒适且富有弹性。宽松版型设计，不挑身材，让孩子活动自如。经典纯色多色可选，轻松搭配，是日常休闲、运动、上学的好选择，为孩子带来舒适时尚的穿着体验。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "黑色",
+      "珊瑚橘",
+      "墨绿",
+      "米白",
+      "浅灰绿",
+      "浅卡其",
+      "深卡其",
+      "白色",
+      "草绿",
+      "棕色",
+      "深灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_130.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1177
+  }
+}

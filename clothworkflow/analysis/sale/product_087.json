@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "category": "卫衣",
+    "subcategory": "连帽卫衣",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古"
+    ],
+    "aesthetic": "Y2K",
+    "trend_relevance": "水洗做旧工艺和oversized版型是近年街头潮流的经典元素，具有较高的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "酒红",
+    "secondary_colors": [
+      "紫色",
+      "深灰",
+      "卡其",
+      "粉色",
+      "墨绿",
+      "炭灰",
+      "黑色",
+      "棕色",
+      "浅灰"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "磨毛",
+    "drape": "硬挺",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "O型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": [
+      "保暖"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "复古休闲的街头潮流感，宽松舒适且具有个性。",
+    "design_highlight": "水洗做旧的复古色彩和加绒厚实的质感。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求舒适、潮流和个性的年轻消费者。",
+    "selling_points": [
+      "360G重磅加绒纯棉面料，保暖舒适",
+      "水洗做旧工艺，复古潮流感强",
+      "Oversized宽松版型，不挑身材",
+      "多色可选，满足不同搭配需求",
+      "连帽设计，休闲百搭"
+    ],
+    "similar_brands_style": "类似Champion、Stussy等街头潮牌的基础款风格。",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+运动鞋，打造休闲街头风。",
+      "内搭白色T恤，下搭工装裤+马丁靴，增加层次感和硬朗度。",
+      "搭配束脚裤+老爹鞋，展现潮流运动风。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024秋冬新款360G重磅加绒卫衣男潮牌水洗做旧连帽衫oversize宽松情侣外套",
+    "search_keywords": [
+      "加绒卫衣",
+      "连帽卫衣",
+      "水洗做旧",
+      "重磅卫衣",
+      "oversize卫衣",
+      "情侣卫衣",
+      "街头潮牌",
+      "复古卫衣",
+      "秋冬卫衣",
+      "纯棉卫衣",
+      "宽松卫衣",
+      "套头卫衣"
+    ],
+    "hashtags": [
+      "#加绒卫衣",
+      "#水洗做旧",
+      "#oversize",
+      "#街头潮牌",
+      "#复古穿搭",
+      "#秋冬必备",
+      "#情侣款"
+    ],
+    "description": "这款360G重磅加绒连帽卫衣，采用优质纯棉面料，内里加绒，保暖舒适。独特的做旧水洗工艺，赋予其复古潮流的街头感。Oversized宽松版型，不挑身材，轻松穿出慵懒随性范。多色可选，无论是日常通勤、休闲逛街还是校园穿搭，都能轻松驾驭，是秋冬衣橱的百搭单品。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "酒红",
+      "紫色",
+      "深灰",
+      "卡其",
+      "粉色",
+      "墨绿",
+      "炭灰",
+      "黑色",
+      "棕色",
+      "浅灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "Tilani"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_087.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1329
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "西装套装",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "约会",
+      "派对",
+      "正式商务"
+    ]
+  },
+  "style": {
+    "primary_style": "商务",
+    "secondary_styles": [
+      "优雅",
+      "复古"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典款式融合流行元素，具有一定的潮流感但整体偏向经典优雅"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": "涤纶混纺",
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "半透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "修身",
+    "length": "常规",
+    "neckline": "V领",
+    "sleeve_type": "灯笼袖",
+    "waistline": "高腰",
+    "hem": "荷叶边",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "珠饰"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "刺绣"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅大气的都市女性形象，兼具正式感与时尚感。",
+    "design_highlight": "肩部和领口精致的珠饰刺绣与半透灯笼袖的结合。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线和荷叶边下摆修饰腰部和臀部，V领拉长颈部线条，灯笼袖遮盖手臂。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "28-45岁追求优雅、精致、有品味的都市职业女性",
+    "selling_points": [
+      "精致珠饰刺绣，提升整体奢华感",
+      "独特的半透灯笼袖设计，增添时尚与浪漫气息",
+      "修身X型剪裁，凸显女性优美曲线",
+      "高腰荷叶边下摆，修饰身形更显优雅",
+      "经典黑色，百搭且适合多种正式场合"
+    ],
+    "similar_brands_style": "类似Max Mara、Theory的优雅商务风格，融合ZARA的时尚元素",
+    "coordination_suggestions": [
+      "搭配尖头高跟鞋和手拿包，出席正式晚宴或商务活动。",
+      "搭配简约项链和耳环，打造精致通勤造型。",
+      "搭配细腰带强调腰线，增加时尚感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024秋季新款法式优雅黑色珠饰刺绣V领灯笼袖修身西装套装女",
+    "search_keywords": [
+      "西装套装女",
+      "黑色套装",
+      "珠饰刺绣",
+      "灯笼袖",
+      "V领",
+      "修身",
+      "优雅",
+      "通勤",
+      "正式场合",
+      "气质"
+    ],
+    "hashtags": [
+      "#法式优雅",
+      "#商务套装",
+      "#气质穿搭",
+      "#灯笼袖",
+      "#黑色经典",
+      "#职场穿搭",
+      "#精致女人"
+    ],
+    "description": "这款2024秋季新款法式优雅黑色西装套装，采用优质混纺面料，上衣V领设计，肩部和领口点缀精致珠饰刺绣，搭配半透灯笼袖，尽显浪漫与奢华。修身X型剪裁，高腰荷叶边下摆巧妙修饰身形，凸显女性优美曲线。无论是日常通勤、商务会议还是重要约会，都能轻松打造优雅大气的时尚造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_150.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1235
+  }
+}

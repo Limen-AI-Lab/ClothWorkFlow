@@ -1,0 +1,139 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "抹胸连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "海滩度假"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "性感",
+      "度假风"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典款式，通过面料和细节体现时尚感，不受短期潮流影响"
+  },
+  "colors": {
+    "primary_color": "墨绿",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "冬冷"
+  },
+  "material": {
+    "primary_fabric": "真丝",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "修身直筒",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "抹胸",
+    "sleeve_type": "无袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "褶皱"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅性感的晚宴礼服感，充满高级感和垂坠感。",
+    "design_highlight": "胸部和腰部的褶皱设计，以及垂坠的袖部细节。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "修身剪裁凸显身材曲线，褶皱设计增加层次感。",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅、高级感的都市女性，注重品质和设计细节。",
+    "selling_points": [
+      "高级感墨绿色调",
+      "独特褶皱设计，修饰身形",
+      "垂坠感面料，穿着舒适",
+      "抹胸设计，展现肩颈线条",
+      "适合多种正式场合"
+    ],
+    "similar_brands_style": "类似Max Mara、Theory等品牌的高级感礼服风格",
+    "coordination_suggestions": [
+      "搭配金色或银色细高跟鞋和精致手拿包，出席晚宴。",
+      "搭配简约项链和耳环，突出颈部线条。",
+      "披一件同色系或对比色系的真丝披肩，增加层次感和保暖性。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款法式优雅墨绿褶皱抹胸连衣裙女 高级感修身显瘦长款礼服裙",
+    "search_keywords": [
+      "抹胸连衣裙",
+      "墨绿色礼服",
+      "褶皱设计",
+      "修身长裙",
+      "晚宴裙",
+      "高级感",
+      "度假风",
+      "真丝连衣裙",
+      "优雅长裙",
+      "派对礼服"
+    ],
+    "hashtags": [
+      "#抹胸连衣裙",
+      "#墨绿礼服",
+      "#褶皱设计",
+      "#高级感穿搭",
+      "#晚宴裙",
+      "#度假风",
+      "#优雅女性",
+      "#静奢风"
+    ],
+    "description": "这款墨绿色抹胸连衣裙，采用垂坠感面料，触感顺滑亲肤。独特的褶皱设计巧妙修饰身形，展现优雅曲线。抹胸款式凸显迷人肩颈线条，超长裙摆更显高挑。无论是出席晚宴、派对还是度假，都能轻松打造高级感造型，成为人群焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "墨绿"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_059.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1203
+  }
+}

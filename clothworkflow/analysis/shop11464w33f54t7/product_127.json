@@ -1,0 +1,145 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "礼服裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴",
+      "婚礼",
+      "红毯"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "奢华",
+      "浪漫",
+      "简约"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典礼服款式，不受短期潮流影响，但细节设计融入现代审美"
+  },
+  "colors": {
+    "primary_color": "白色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "半透",
+    "hand_feel_guess": "顺滑亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "圆领",
+    "sleeve_type": "灯笼袖",
+    "waistline": "高腰",
+    "hem": "开叉",
+    "back_design": null,
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "珠饰"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "褶皱"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅高贵的晚宴礼服，兼具浪漫与现代感。",
+    "design_highlight": "上半身透视珠饰灯笼袖与胸部褶皱抹胸设计。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，修身剪裁凸显身材曲线，透视袖部修饰手臂线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅与品质的都市女性，需要出席正式场合。",
+    "selling_points": [
+      "优雅修身版型，凸显女性曲线",
+      "精致珠饰透视灯笼袖，增添浪漫奢华感",
+      "高腰设计拉长身材比例",
+      "垂坠感面料，穿着舒适有质感",
+      "经典白色，适合多种正式场合"
+    ],
+    "similar_brands_style": "类似Pronovias、Tadashi Shoji等婚纱礼服品牌风格，或国内设计师品牌。",
+    "coordination_suggestions": [
+      "搭配银色或金色细高跟鞋，提升整体精致度。",
+      "佩戴简约的钻石耳环和项链，避免过于繁复。",
+      "手持精致小巧的手拿包，完成晚宴造型。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款白色珠饰透视灯笼袖礼服裙 高腰修身显瘦晚宴年会连衣裙",
+    "search_keywords": [
+      "礼服裙",
+      "晚宴裙",
+      "白色礼服",
+      "珠饰连衣裙",
+      "透视袖",
+      "灯笼袖",
+      "高腰连衣裙",
+      "修身礼服",
+      "年会礼服",
+      "主持人礼服",
+      "优雅长裙"
+    ],
+    "hashtags": [
+      "#礼服裙",
+      "#晚宴穿搭",
+      "#白色礼服",
+      "#珠饰设计",
+      "#优雅女神",
+      "#年会必备",
+      "#高级感穿搭"
+    ],
+    "description": "这款白色礼服裙以其优雅修身的版型和精致的珠饰透视灯笼袖设计，完美诠释了现代女性的浪漫与高贵。高腰剪裁巧妙拉长腿部比例，垂坠感面料带来舒适穿着体验。无论是出席晚宴、年会还是婚礼，都能让您成为焦点，展现独特魅力。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "白色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_127.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1236
+  }
+}

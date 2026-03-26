@@ -1,0 +1,149 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "短袖T恤套装",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "复古",
+      "街头"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "经典休闲款式，通过水洗做旧工艺赋予复古潮流感，不受短期潮流影响，具有较强的持续流行性。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [
+      "深灰",
+      "橄榄绿",
+      "浅卡其"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "null",
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "松紧腰",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的复古休闲感，带有街头潮流气息。",
+    "design_highlight": "妙雪花复古水洗做旧工艺，赋予面料独特的肌理感和色彩层次。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，松紧腰设计舒适包容，短裤长度适中。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、休闲和复古潮流感的年轻消费者。",
+    "selling_points": [
+      "100%纯棉面料，舒适透气",
+      "250G平纹棉T恤与420G毛圈棉短裤，重磅有质感",
+      "妙雪花复古水洗做旧工艺，独特潮流",
+      "宽松版型，不挑身材，穿着舒适",
+      "多色可选，满足不同搭配需求"
+    ],
+    "similar_brands_style": "类似优衣库的舒适基础款与潮流品牌如Carhartt WIP的工装复古风格结合。",
+    "coordination_suggestions": [
+      "搭配白色运动鞋和棒球帽，打造活力街头风。",
+      "搭配帆布鞋和单肩包，适合日常休闲逛街。",
+      "单穿T恤搭配牛仔裤，或短裤搭配衬衫，实现多场景穿搭。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILAN妙雪花复古短袖套装男夏季100%纯棉重磅水洗做旧T恤短裤两件套潮",
+    "search_keywords": [
+      "妙雪花",
+      "复古短袖套装",
+      "纯棉T恤",
+      "水洗做旧",
+      "重磅棉",
+      "休闲短裤",
+      "男士套装",
+      "夏季套装",
+      "街头潮流",
+      "宽松版型",
+      "情侣装"
+    ],
+    "hashtags": [
+      "#复古套装",
+      "#纯棉T恤",
+      "#水洗做旧",
+      "#街头潮流",
+      "#夏季穿搭",
+      "#宽松舒适",
+      "#情侣款",
+      "#TILAN"
+    ],
+    "description": "TILAN妙雪花复古短袖套装，精选100%纯棉面料，T恤采用250G平纹棉，短裤为420G毛圈棉，重磅有质感。独特的妙雪花水洗做旧工艺，赋予服装复古潮流感。宽松版型设计，不挑身材，穿着舒适透气。多色可选，轻松打造休闲街头风格，是您夏季日常通勤、休闲出街的理想选择。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "炭灰",
+      "深灰",
+      "橄榄绿",
+      "浅卡其"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILAN"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_032.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1336
+  }
+}

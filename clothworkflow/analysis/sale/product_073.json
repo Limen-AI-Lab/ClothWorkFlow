@@ -1,0 +1,141 @@
+{
+  "basic_info": {
+    "category": "裤子",
+    "subcategory": "短裤",
+    "gender": "中性",
+    "age_range": "全年龄",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "运动",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "运动",
+      "工装"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "深棕",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "肌理感",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "常规",
+    "length": "短款",
+    "neckline": null,
+    "sleeve_type": null,
+    "waistline": "中腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "无"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "简约实用的休闲运动感",
+    "design_highlight": "可定制化服务",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "沙漏形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "常规版型不挑身材",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "追求舒适实用、注重定制化服务的年轻群体",
+    "selling_points": [
+      "来图定制，个性化选择",
+      "自选面料，品质保证",
+      "快速出板，高效服务",
+      "舒适纯棉面料",
+      "百搭休闲款式"
+    ],
+    "similar_brands_style": "类似优衣库基础款风格，注重实用性和舒适度",
+    "coordination_suggestions": [
+      "搭配T恤+运动鞋，打造日常休闲运动风。",
+      "搭配卫衣+帆布鞋，适合春秋季节的舒适穿搭。",
+      "搭配衬衫+凉鞋，营造轻松度假感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI短裤定制 来图自选面料快速出板 团队班服运动休闲纯棉短裤",
+    "search_keywords": [
+      "短裤定制",
+      "来图定制",
+      "自选面料",
+      "快速出板",
+      "团队服",
+      "班服",
+      "运动短裤",
+      "休闲短裤",
+      "纯棉短裤",
+      "男女同款",
+      "TILANI"
+    ],
+    "hashtags": [
+      "#短裤定制",
+      "#团队服",
+      "#班服定制",
+      "#运动休闲",
+      "#纯棉短裤",
+      "#个性定制",
+      "#TILANI"
+    ],
+    "description": "TILANI提供专业的短裤定制服务，支持来图定制和自选面料，确保品质与个性兼具。采用舒适纯棉面料，版型经典百搭，无论是团队班服、运动休闲还是日常穿着都非常适合。我们承诺快速出板，让您的创意迅速变为现实。"
+  },
+  "image_info": {
+    "image_type": "产品宣传图",
+    "available_colors_shown": [
+      "深棕"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_073.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1113
+  }
+}

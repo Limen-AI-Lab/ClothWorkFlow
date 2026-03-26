@@ -1,0 +1,144 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "T恤短裤套装",
+    "gender": "男装",
+    "age_range": "18-35",
+    "season": [
+      "夏",
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "运动",
+      "居家",
+      "校园"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "水洗做旧效果和oversized版型是近年街头潮流的经典元素，具有较高的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "null",
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "中腰",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "字母logo",
+    "pattern_description": "胸前“Advanced”字母印花，字体风格复古，带有闪电和烟雾效果",
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧",
+      "数码印花"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "复古街头感十足，宽松舒适且不失个性。",
+    "design_highlight": "独特的做旧水洗工艺和胸前带有闪电效果的复古字母印花。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦，短裤长度适中，适合日常穿着。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求潮流、注重舒适度的年轻男性。",
+    "selling_points": [
+      "复古水洗做旧工艺，独特有型",
+      "oversized宽松版型，舒适不挑身材",
+      "纯棉面料，亲肤透气",
+      "街头潮流设计，个性百搭",
+      "T恤短裤套装，省心搭配"
+    ],
+    "similar_brands_style": "类似潮牌集合店风格、偏向美式街头风。",
+    "coordination_suggestions": [
+      "搭配运动鞋和棒球帽，打造活力运动风。",
+      "搭配项链和帆布鞋，营造休闲街头感。",
+      "单穿T恤搭配牛仔裤，或单穿短裤搭配卫衣，实现多场景穿搭。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI复古水洗做旧T恤短裤套装男夏季潮牌宽松oversize街头印花纯棉短袖五分裤",
+    "search_keywords": [
+      "复古水洗",
+      "做旧T恤",
+      "潮牌男装",
+      "oversize短袖",
+      "街头套装",
+      "纯棉短裤",
+      "夏季男士",
+      "印花T恤",
+      "宽松休闲",
+      "五分裤"
+    ],
+    "hashtags": [
+      "#复古水洗",
+      "#街头潮牌",
+      "#Oversize",
+      "#男士套装",
+      "#夏季穿搭",
+      "#纯棉舒适",
+      "#个性印花",
+      "#休闲时尚"
+    ],
+    "description": "TILANI夏季新款复古水洗做旧T恤短裤套装，采用优质纯棉面料，手感柔软亲肤。独特的做旧工艺搭配胸前潮流字母印花，彰显街头个性。Oversized宽松版型，舒适不挑身材，无论是日常休闲、运动还是居家，都能轻松驾驭，打造时尚潮流穿搭。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "炭灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_272.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1268
+  }
+}

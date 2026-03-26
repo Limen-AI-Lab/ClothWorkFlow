@@ -1,0 +1,137 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "西装套装",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "约会",
+      "派对",
+      "正式商务"
+    ]
+  },
+  "style": {
+    "primary_style": "商务",
+    "secondary_styles": [
+      "优雅",
+      "复古"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典款式与流行元素结合，具有一定的时尚感和经典度"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "涤纶",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "哑光",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "修身",
+    "length": "常规",
+    "neckline": "V领",
+    "sleeve_type": "灯笼袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "珠饰"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅大气的都市女性套装，兼具正式感与时尚感。",
+    "design_highlight": "上衣的灯笼袖设计和肩部珠饰点缀，以及收腰的荷叶边下摆。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，收腰设计凸显腰身，灯笼袖修饰手臂线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求时尚与品质的都市职业女性",
+    "selling_points": [
+      "优雅V领设计，修饰颈部线条",
+      "独特灯笼袖与珠饰点缀，增添设计感",
+      "高腰阔腿裤，显瘦显高",
+      "修身收腰荷叶边上衣，凸显女性曲线",
+      "适合多种正式及半正式场合"
+    ],
+    "similar_brands_style": "类似Max Mara、Theory的优雅商务风格",
+    "coordination_suggestions": [
+      "搭配尖头高跟鞋和手拿包，出席正式晚宴。",
+      "搭配简约项链和耳环，提升整体精致度。",
+      "搭配通勤手提包，适合日常商务办公。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024秋季新款黑色V领灯笼袖珠饰收腰上衣阔腿裤两件套时尚气质女装套装",
+    "search_keywords": [
+      "黑色套装",
+      "女装套装",
+      "V领上衣",
+      "灯笼袖",
+      "珠饰",
+      "收腰",
+      "阔腿裤",
+      "时尚气质",
+      "商务通勤",
+      "晚宴礼服"
+    ],
+    "hashtags": [
+      "#气质套装",
+      "#商务穿搭",
+      "#晚宴礼服",
+      "#灯笼袖",
+      "#黑色时尚",
+      "#职场穿搭",
+      "#显瘦套装"
+    ],
+    "description": "这款黑色时尚气质女装套装，采用V领设计，修饰颈部线条，搭配独特的灯笼袖和精致珠饰点缀，尽显优雅。上衣收腰荷叶边设计，巧妙勾勒腰身，搭配高腰阔腿裤，拉长腿部比例，显瘦显高。面料舒适有垂坠感，适合商务通勤、约会、派对等多种场合，轻松打造高级感穿搭。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_021.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1217
+  }
+}

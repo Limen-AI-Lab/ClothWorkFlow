@@ -1,0 +1,149 @@
+{
+  "basic_info": {
+    "category": "裤子",
+    "subcategory": "工装裤",
+    "gender": "男装",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋",
+      "夏"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "工装",
+    "secondary_styles": [
+      "街头",
+      "复古",
+      "休闲"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "工装裤作为经典款式，结合水洗做旧工艺，具有复古潮流感，不受短期潮流影响，属于常青款。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [
+      "藏青",
+      "酒红"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "长款",
+    "neckline": null,
+    "sleeve_type": null,
+    "waistline": "中腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "系带"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "工装口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "复古休闲的街头工装感，随性不羁。",
+    "design_highlight": "大口袋工装设计与水洗做旧工艺的结合，营造复古街头氛围。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，大口袋设计增加层次感，水洗做旧修饰腿部线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求潮流、注重舒适度的年轻男性",
+    "selling_points": [
+      "水洗做旧工艺，复古有型",
+      "宽松阔腿版型，舒适不挑身材",
+      "多口袋工装设计，实用性强",
+      "纯棉面料，亲肤透气",
+      "百搭款式，轻松打造街头休闲风"
+    ],
+    "similar_brands_style": "类似Dickies、Carhartt WIP的工装风格，结合日系街头休闲感。",
+    "coordination_suggestions": [
+      "搭配连帽卫衣+运动鞋，打造休闲街头风。",
+      "搭配T恤+帆布鞋，简约日常。",
+      "搭配衬衫+马丁靴，增添硬朗感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "复古水洗做旧工装裤男潮牌宽松直筒阔腿多口袋休闲裤街头束脚卫裤",
+    "search_keywords": [
+      "工装裤",
+      "水洗做旧",
+      "阔腿裤",
+      "直筒裤",
+      "多口袋",
+      "休闲裤",
+      "街头潮牌",
+      "男裤",
+      "复古",
+      "宽松",
+      "卫裤",
+      "束脚裤"
+    ],
+    "hashtags": [
+      "#工装裤",
+      "#水洗做旧",
+      "#阔腿裤",
+      "#街头风",
+      "#男装穿搭",
+      "#复古潮牌",
+      "#休闲裤"
+    ],
+    "description": "这款复古水洗做旧工装裤，采用舒适纯棉面料，经过特殊水洗工艺处理，呈现独特的做旧质感。宽松直筒阔腿版型，不挑身材，穿着舒适自在。两侧大口袋设计，兼具实用与潮流感。无论是日常休闲、街头穿搭还是户外活动，都能轻松驾驭，彰显个性潮范。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "炭灰",
+      "藏青",
+      "酒红"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_040.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1255
+  }
+}

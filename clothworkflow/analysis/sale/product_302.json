@@ -1,0 +1,156 @@
+{
+  "basic_info": {
+    "category": "裤子",
+    "subcategory": "休闲短裤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "居家",
+      "校园",
+      "运动"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，水洗做旧工艺赋予其复古潮流感，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "深紫",
+    "secondary_colors": [
+      "藏青",
+      "棕色",
+      "黑色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "短款",
+    "neckline": null,
+    "sleeve_type": null,
+    "waistline": "松紧腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "系带"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": [
+      "吸湿排汗",
+      "透气",
+      "柔软"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "休闲舒适，带有复古街头感的日常短裤",
+    "design_highlight": "420G重磅毛圈面料与水洗做旧工艺",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，松紧腰设计舒适度高",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适休闲风格的年轻群体",
+    "selling_points": [
+      "420G重磅毛圈面料，舒适有型",
+      "水洗做旧工艺，复古潮流感",
+      "宽松版型，不挑身材",
+      "环保、柔软、透气、吸汗多功能",
+      "多色可选，百搭日常"
+    ],
+    "similar_brands_style": "类似优衣库基础款的舒适度，融合了部分潮牌的街头复古元素",
+    "coordination_suggestions": [
+      "搭配纯色T恤+运动鞋，打造休闲运动风。",
+      "搭配宽松衬衫+帆布鞋，营造日系街头感。",
+      "搭配卫衣+棒球帽，展现潮流街头范。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TLANI 420G重磅水洗做旧毛圈短裤男夏季宽松休闲运动五分裤女潮牌",
+    "search_keywords": [
+      "短裤",
+      "休闲短裤",
+      "运动短裤",
+      "五分裤",
+      "重磅短裤",
+      "水洗做旧",
+      "毛圈短裤",
+      "宽松短裤",
+      "潮牌短裤",
+      "夏季短裤",
+      "男女同款",
+      "TLANI"
+    ],
+    "hashtags": [
+      "#休闲短裤",
+      "#水洗做旧",
+      "#重磅面料",
+      "#夏季穿搭",
+      "#男女同款",
+      "#街头风",
+      "#舒适百搭"
+    ],
+    "description": "TLANI 420G重磅毛圈短裤，精选优质面料，触感柔软亲肤，吸湿透气。采用独特水洗做旧工艺，呈现自然复古色泽，潮流感十足。宽松版型设计，不挑身材，穿着舒适自在。无论是日常休闲、运动健身还是街头穿搭，都能轻松驾驭，是您夏季衣橱的百搭单品。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "PLUM PURPLE",
+      "DARK PURPLE",
+      "NAVY BLUE",
+      "BLACK"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_302.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1278
+  }
+}

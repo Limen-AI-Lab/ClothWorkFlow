@@ -1,0 +1,152 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "长袖T恤",
+    "gender": "男装",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古",
+      "美式"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "水洗做旧工艺和oversized版型是近年街头潮流的经典元素，具有持续的流行度。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [
+      "浅灰"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "胸前大幅英文艺术字体印花，带有妙雪花做旧效果",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧",
+      "妙雪花工艺"
+    ],
+    "functional_features": [
+      "吸湿排汗",
+      "透气",
+      "柔软",
+      "环保"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "复古随性的美式街头感，兼具舒适与个性。",
+    "design_highlight": "独特的妙雪花水洗做旧工艺和胸前艺术字体印花。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦，水洗做旧效果增加层次感。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求潮流、注重舒适度的年轻男性。",
+    "selling_points": [
+      "260G重磅纯棉面料，舒适有质感",
+      "美式妙雪花水洗做旧工艺，复古潮流",
+      "宽松oversized版型，不挑身材",
+      "环保柔软透气吸汗，穿着体验佳",
+      "个性印花设计，彰显街头态度"
+    ],
+    "similar_brands_style": "类似优衣库UT系列与美式街头潮牌的结合风格。",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+运动鞋，打造休闲街头风。",
+      "内搭白色T恤，露出下摆，增加层次感，搭配工装裤和帆布鞋。",
+      "搭配黑色休闲裤+马丁靴，营造酷帅暗黑风格。"
+    ]
+  },
+  "ecommerce": {
+    "title": "美式复古妙雪花水洗做旧长袖T恤男 260G重磅纯棉宽松圆领街头潮牌上衣",
+    "search_keywords": [
+      "美式复古",
+      "妙雪花",
+      "水洗做旧",
+      "长袖T恤",
+      "男士T恤",
+      "重磅纯棉",
+      "宽松",
+      "圆领",
+      "街头潮牌",
+      "春秋上衣",
+      "oversize",
+      "印花T恤"
+    ],
+    "hashtags": [
+      "#美式复古",
+      "#水洗做旧",
+      "#街头潮牌",
+      "#oversize",
+      "#长袖T恤",
+      "#纯棉",
+      "#妙雪花",
+      "#男装穿搭"
+    ],
+    "description": "这款美式复古妙雪花水洗做旧长袖T恤，采用260G重磅纯棉面料，手感柔软亲肤，吸湿透气。独特的妙雪花水洗工艺，呈现出自然的做旧感和复古潮流范。宽松oversized版型，不挑身材，穿着舒适自在。胸前个性印花设计，彰显街头态度，是日常休闲、街头穿搭的理想选择。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "炭灰",
+      "浅灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TTLAN"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_028.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1332
+  }
+}

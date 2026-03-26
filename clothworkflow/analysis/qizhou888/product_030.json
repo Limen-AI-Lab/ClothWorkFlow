@@ -1,0 +1,139 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "衬衫半裙套装",
+    "gender": "女装",
+    "age_range": "25-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "约会",
+      "海滩度假"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "简约",
+      "度假"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典简约款，不受潮流影响，但粉色系在春夏有一定流行度"
+  },
+  "colors": {
+    "primary_color": "粉色",
+    "secondary_colors": [
+      "白色"
+    ],
+    "color_scheme": "条纹",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "春暖"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "适中",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "翻领",
+    "sleeve_type": "短袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "条纹",
+    "pattern_description": "细条纹",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "清新舒适的休闲度假感",
+    "design_highlight": "短款衬衫与高腰半裙的搭配，拉长身材比例",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，宽松版型遮盖腰腹部赘肉",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "25-35岁追求舒适休闲风格的女性",
+    "selling_points": [
+      "舒适透气纯棉面料",
+      "高腰设计显高显瘦",
+      "简约条纹经典百搭",
+      "两件套可分开搭配",
+      "适合多种休闲场合"
+    ],
+    "similar_brands_style": "类似Zara基础款风格",
+    "coordination_suggestions": [
+      "搭配平底凉鞋和草编包，打造度假风情。",
+      "搭配小白鞋和帆布包，适合日常休闲。",
+      "搭配精致项链和手提包，提升通勤感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款粉色条纹短袖衬衫高腰半身裙两件套女休闲时尚套装",
+    "search_keywords": [
+      "粉色套装",
+      "条纹衬衫",
+      "高腰半裙",
+      "休闲套装",
+      "夏季女装",
+      "两件套",
+      "时尚通勤",
+      "度假风",
+      "纯棉套装",
+      "显瘦套装"
+    ],
+    "hashtags": [
+      "#粉色套装",
+      "#夏季穿搭",
+      "#休闲时尚",
+      "#高腰显瘦",
+      "#度假风",
+      "#条纹控",
+      "#两件套穿搭"
+    ],
+    "description": "这款粉色条纹短袖衬衫高腰半身裙套装，采用舒适透气的纯棉面料，带来清爽穿着体验。短款衬衫搭配高腰半裙，巧妙拉长身材比例，显高显瘦。简约条纹设计经典百搭，无论是日常通勤、休闲逛街还是度假出游，都能轻松打造时尚造型。两件套设计，可分开搭配，实用性强。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "粉色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/qizhou888/product_030.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1166
+  }
+}

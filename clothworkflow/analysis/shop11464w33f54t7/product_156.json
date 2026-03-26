@@ -1,0 +1,139 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "礼服裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "轻奢",
+      "复古"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典礼服款式，结合流行色彩和不对称设计，具有一定的潮流感"
+  },
+  "colors": {
+    "primary_color": "紫色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "冷色调",
+    "color_saturation": "高饱和鲜艳",
+    "color_season": "冬冷"
+  },
+  "material": {
+    "primary_fabric": "醋酸",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "修身",
+    "length": "长款",
+    "neckline": "一字肩",
+    "sleeve_type": "长袖",
+    "waistline": "高腰",
+    "hem": "不规则",
+    "back_design": null,
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "褶皱",
+      "压褶"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "高贵典雅，充满设计感的晚宴礼服。",
+    "design_highlight": "不对称一字肩领口设计和侧边风琴褶拼接。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "一字肩展现肩颈线条，高腰线拉长腿部比例，侧边褶皱修饰身形。",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求时尚、注重品质和设计感的都市女性，尤其适合出席正式场合。",
+    "selling_points": [
+      "独特的不对称一字肩设计，展现优雅肩颈线。",
+      "侧边风琴褶拼接，增加设计感和飘逸感。",
+      "高饱和度紫色，吸睛且显肤白。",
+      "修身剪裁结合垂坠面料，凸显女性曲线。",
+      "适合多种正式场合穿着，提升个人气质。"
+    ],
+    "similar_brands_style": "类似Self-Portrait、Needle & Thread等轻奢礼服品牌风格。",
+    "coordination_suggestions": [
+      "搭配银色或金色细高跟鞋和精致手拿包，打造晚宴造型。",
+      "佩戴简约钻石项链和耳环，提升整体华丽感。",
+      "搭配同色系或裸色系披肩，应对室内外温差。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款法式优雅紫色一字肩连衣裙女 气质修身显瘦长款晚礼服裙",
+    "search_keywords": [
+      "紫色连衣裙",
+      "一字肩礼服",
+      "晚宴裙",
+      "修身长裙",
+      "法式优雅",
+      "风琴褶",
+      "气质连衣裙",
+      "派对礼服",
+      "醋酸面料",
+      "不对称设计"
+    ],
+    "hashtags": [
+      "#紫色连衣裙",
+      "#一字肩礼服",
+      "#晚宴穿搭",
+      "#法式优雅",
+      "#气质女神",
+      "#轻奢礼服",
+      "#设计感连衣裙"
+    ],
+    "description": "这款2024新款法式优雅紫色一字肩连衣裙，采用高品质垂坠面料，带来顺滑亲肤的穿着体验。独特的不对称一字肩领口设计，巧妙展现肩颈线条，搭配侧边精致的风琴褶拼接，行走间尽显飘逸灵动。修身剪裁完美勾勒女性曲线，高腰设计拉长腿部比例。高饱和度的紫色调，吸睛且衬肤色，是您出席晚宴、派对、约会等正式场合的理想选择，轻松打造高贵典雅的女神范。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "紫色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_156.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1280
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "卫衣套装",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "运动"
+    ],
+    "aesthetic": "辣妹风",
+    "trend_relevance": "经典卫衣套装款式，结合烫钻元素增加时尚感，符合当下年轻人追求个性和舒适的潮流。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "灰色",
+      "玫红",
+      "藏青",
+      "深灰"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "绒面",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "珠饰"
+    ],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "烫钻"
+    ],
+    "functional_features": [
+      "保暖"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "舒适休闲中带有一丝闪耀的街头时尚感。",
+    "design_highlight": "全身满天星烫钻设计，增添潮流与个性。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "全年龄"
+    ],
+    "flattering_features": "宽松版型不挑身材，连帽设计修饰颈部。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求时尚潮流、注重舒适度的年轻男女。",
+    "selling_points": [
+      "350G重磅抓绒棉，保暖舒适",
+      "高温烫钻工艺，不易脱落，闪耀吸睛",
+      "宽松版型，不挑身材，男女同款",
+      "多色可选，满足不同个性需求",
+      "三件套设计，搭配省心"
+    ],
+    "similar_brands_style": "类似Zara休闲系列、H&M基础款与潮流元素的结合。",
+    "coordination_suggestions": [
+      "搭配运动鞋和棒球帽，打造活力街头风。",
+      "内搭简约T恤，敞开拉链卫衣，增加层次感。",
+      "搭配休闲帆布鞋，适合日常休闲穿搭。"
+    ]
+  },
+  "ecommerce": {
+    "title": "爆闪满天星三件套 350G重磅抓绒棉连帽卫衣男女同款休闲运动套装",
+    "search_keywords": [
+      "卫衣套装",
+      "满天星",
+      "烫钻",
+      "重磅卫衣",
+      "抓绒棉",
+      "连帽卫衣",
+      "运动裤",
+      "男女同款",
+      "休闲套装",
+      "街头风",
+      "情侣装",
+      "秋冬新款"
+    ],
+    "hashtags": [
+      "#满天星卫衣",
+      "#烫钻套装",
+      "#重磅卫衣",
+      "#情侣卫衣",
+      "#街头潮流",
+      "#秋冬穿搭",
+      "#休闲运动风",
+      "#男女同款"
+    ],
+    "description": "这款爆闪满天星三件套采用350G重磅抓绒棉，触感柔软亲肤，保暖性极佳。全身高温烫钻工艺，打造闪耀夺目的满天星效果，不易脱落。宽松版型设计，不挑身材，男女同款，是日常休闲、街头穿搭的理想选择，轻松打造时尚个性look。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "灰色",
+      "玫红",
+      "藏青",
+      "深灰",
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_015.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1236
+  }
+}

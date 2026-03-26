@@ -1,0 +1,146 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "T恤套装/背心套装",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古",
+      "工装"
+    ],
+    "aesthetic": "Y2K",
+    "trend_relevance": "水洗做旧工艺和宽松版型是近年街头潮流的经典元素，具有较高的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [
+      "黑色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "松紧腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "随性不羁的街头复古感，兼具舒适与个性。",
+    "design_highlight": "独特的重磅水洗做旧工艺，营造出复古的肌理感和色彩渐变效果。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦；短裤长度适中，修饰腿型。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求潮流、注重舒适度的年轻男女",
+    "selling_points": [
+      "重磅纯棉面料，舒适有质感",
+      "水洗做旧工艺，复古潮流",
+      "宽松版型，不挑身材",
+      "百搭套装，省心搭配",
+      "中性设计，男女皆宜"
+    ],
+    "similar_brands_style": "类似优衣库UT系列与街头潮牌的结合，如Stussy、Carhartt WIP的基础款风格。",
+    "coordination_suggestions": [
+      "搭配高帮帆布鞋和棒球帽，打造美式街头休闲风。",
+      "搭配运动鞋和渔夫帽，适合日常出游或运动。",
+      "内搭白色T恤，增加层次感，搭配项链提升时尚度。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TLANI夏季新款重磅水洗做旧纯棉短袖T恤短裤套装男女同款宽松街头休闲潮牌",
+    "search_keywords": [
+      "水洗做旧",
+      "重磅纯棉",
+      "短袖T恤",
+      "短裤套装",
+      "男女同款",
+      "宽松",
+      "街头潮牌",
+      "复古",
+      "休闲",
+      "夏季新款",
+      "中性风",
+      "oversize"
+    ],
+    "hashtags": [
+      "#水洗做旧",
+      "#街头潮牌",
+      "#oversize",
+      "#男女同款",
+      "#夏季穿搭",
+      "#复古风",
+      "#纯棉套装",
+      "#休闲时尚"
+    ],
+    "description": "TLANI夏季新款重磅水洗做旧纯棉短袖T恤短裤套装，精选优质纯棉面料，手感柔软亲肤，克重适中，穿着舒适透气。独特的做旧水洗工艺，呈现出自然的复古肌理感和渐变色泽，彰显个性潮流。宽松oversize版型设计，不挑身材，男女皆可轻松驾驭。无论是日常通勤、休闲逛街还是户外活动，都能轻松打造时尚街头造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "炭灰",
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": "TLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_293.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1292
+  }
+}

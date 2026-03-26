@@ -1,0 +1,140 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "礼服裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "性感",
+      "复古"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "经典款型，通过细节和面料体现时尚感，不受短期潮流影响"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "null",
+    "fabric_blend": "null",
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "V领",
+    "sleeve_type": "长袖",
+    "waistline": "高腰",
+    "hem": "开叉",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [
+      "蕾丝花边"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "镂空"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅性感的晚宴礼服，展现女性曲线美。",
+    "design_highlight": "胸前V领镂空设计与裙摆蕾丝拼接开叉。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，修身剪裁凸显身材曲线，V领修饰颈部线条。",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅与性感的都市女性，注重品质和设计感。",
+    "selling_points": [
+      "深V领口与高领拼接设计，独特且性感",
+      "修身版型，完美展现女性曲线",
+      "裙摆高开叉与蕾丝拼接，行走间若隐若现，增添魅力",
+      "经典黑色，百搭且显瘦，适合多种正式场合"
+    ],
+    "similar_brands_style": "类似Self-Portrait、Needle & Thread等轻奢礼服品牌风格",
+    "coordination_suggestions": [
+      "搭配精致高跟鞋和手拿包，出席晚宴或派对。",
+      "佩戴长款耳饰和简约项链，提升整体造型的华丽感。",
+      "外搭一件同色系披肩或小西装，增加保暖性和层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款黑色深V领高开叉蕾丝拼接修身长款礼服裙女 优雅性感晚宴连衣裙",
+    "search_keywords": [
+      "黑色礼服裙",
+      "深V领连衣裙",
+      "高开叉长裙",
+      "蕾丝拼接",
+      "修身礼服",
+      "晚宴裙",
+      "性感连衣裙",
+      "优雅长裙",
+      "派对礼服",
+      "年会礼服"
+    ],
+    "hashtags": [
+      "#黑色礼服",
+      "#性感长裙",
+      "#晚宴穿搭",
+      "#蕾丝拼接",
+      "#高开叉",
+      "#优雅气质",
+      "#派对必备"
+    ],
+    "description": "这款黑色深V领高开叉蕾丝拼接修身长款礼服裙，采用优质面料，触感柔软亲肤。独特的V领与高领设计，巧妙展现颈部线条与锁骨美。修身版型完美勾勒女性曲线，裙摆高开叉与精致蕾丝拼接，行走间尽显优雅与性感。无论是晚宴、派对还是重要场合，都能让您成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_052.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1252
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "修身长款连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴"
+    ]
+  },
+  "style": {
+    "primary_style": "复古",
+    "secondary_styles": [
+      "优雅",
+      "性感"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "经典款式，蕾丝元素经久不衰，修身剪裁凸显女性魅力，不受短期潮流影响。"
+  },
+  "colors": {
+    "primary_color": "酒红",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "蕾丝",
+    "fabric_blend": "null",
+    "fabric_weight": "中等150-250g",
+    "texture": "肌理感",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "半透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "长款",
+    "neckline": "V领",
+    "sleeve_type": "长袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [
+      "蕾丝花边"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "镂空"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅复古的性感晚宴礼服，展现女性曲线美。",
+    "design_highlight": "全身蕾丝面料与修身剪裁，以及不对称的V领设计。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "修身剪裁凸显腰身和臀部曲线，V领拉长颈部线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅、性感和复古风格的都市女性，注重场合着装。",
+    "selling_points": [
+      "法式复古蕾丝面料，精致优雅",
+      "修身版型，完美展现女性曲线",
+      "酒红色调，衬托肤色，提升气场",
+      "V领设计，修饰颈部线条，增添性感魅力",
+      "适合多种正式场合，如晚宴、派对、约会"
+    ],
+    "similar_brands_style": "类似Self-Portrait、Needle & Thread等轻奢礼服品牌风格",
+    "coordination_suggestions": [
+      "搭配精致高跟鞋和手拿包，打造晚宴造型。",
+      "佩戴简约的钻石项链和耳环，提升整体华丽感。",
+      "搭配一件同色系或黑色羊绒披肩，增加保暖性和层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "法式复古酒红色蕾丝连衣裙女2024新款修身显瘦V领长袖晚宴礼服裙",
+    "search_keywords": [
+      "蕾丝连衣裙",
+      "酒红色礼服",
+      "修身长裙",
+      "V领连衣裙",
+      "复古连衣裙",
+      "晚宴礼服",
+      "派对裙",
+      "性感连衣裙",
+      "法式连衣裙",
+      "长袖连衣裙",
+      "显瘦连衣裙",
+      "优雅礼服"
+    ],
+    "hashtags": [
+      "#蕾丝连衣裙",
+      "#酒红色礼服",
+      "#复古风",
+      "#晚宴穿搭",
+      "#性感优雅",
+      "#派对必备",
+      "#法式浪漫"
+    ],
+    "description": "这款法式复古酒红色蕾丝连衣裙，采用精致镂空蕾丝面料，触感柔软亲肤。修身版型完美勾勒女性曼妙曲线，V领设计巧妙修饰颈部线条，尽显优雅性感。长袖设计兼顾保暖与美观，是您出席晚宴、派对、约会等正式场合的理想选择，轻松打造吸睛造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "酒红"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_007.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1270
+  }
+}

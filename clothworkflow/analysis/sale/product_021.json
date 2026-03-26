@@ -1,0 +1,151 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "卫衣套装",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "居家",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "复古"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "复古水洗工艺是近年流行的趋势，卫衣套装作为经典休闲单品，具有较强的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "多色可选",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "长袖",
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的复古休闲感，兼具街头潮流气息。",
+    "design_highlight": "420G重磅水洗毛圈面料，带来独特的复古做旧质感。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形"
+    ],
+    "flattering_features": "宽松版型不挑身材，对各种体型都有很好的包容性。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、时尚和复古潮流的年轻消费者。",
+    "selling_points": [
+      "420G重磅毛圈面料，保暖舒适",
+      "复古水洗工艺，独特做旧质感",
+      "宽松版型，不挑身材",
+      "柔软亲肤，舒适透气",
+      "卫衣三件套，搭配灵活"
+    ],
+    "similar_brands_style": "类似优衣库的舒适基础款与太平鸟的潮流休闲款结合。",
+    "coordination_suggestions": [
+      "搭配老爹鞋和棒球帽，打造街头休闲风。",
+      "内搭白色T恤，增加层次感，适合日常通勤。",
+      "单穿卫衣搭配牛仔裤，简约时尚。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024秋季新款复古水洗毛圈卫衣三件套男士重磅420G纯棉宽松休闲运动套装",
+    "search_keywords": [
+      "卫衣套装",
+      "复古水洗",
+      "毛圈卫衣",
+      "重磅纯棉",
+      "宽松卫衣",
+      "休闲运动",
+      "男士套装",
+      "情侣款",
+      "秋冬卫衣",
+      "做旧卫衣"
+    ],
+    "hashtags": [
+      "#复古水洗",
+      "#卫衣套装",
+      "#重磅卫衣",
+      "#休闲穿搭",
+      "#街头风",
+      "#情侣款",
+      "#秋冬新品"
+    ],
+    "description": "这款复古水洗毛圈卫衣三件套，采用420G重磅纯棉面料，柔软亲肤，舒适透气，带来卓越的穿着体验。独特的复古水洗工艺，赋予服装独特的做旧质感和潮流气息。宽松版型设计，不挑身材，轻松打造随性休闲风格。无论是日常通勤、休闲逛街还是居家运动，都能轻松驾驭，是秋冬衣橱的理想选择。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "酒红",
+      "米白",
+      "紫色",
+      "深蓝",
+      "炭灰",
+      "军绿",
+      "灰色",
+      "卡其",
+      "深棕",
+      "墨绿"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILAN"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_021.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1359
+  }
+}

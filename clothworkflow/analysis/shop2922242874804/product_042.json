@@ -1,0 +1,147 @@
+{
+  "basic_info": {
+    "category": "衬衫",
+    "subcategory": "长袖衬衫",
+    "gender": "男装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "正式商务",
+      "校园"
+    ]
+  },
+  "style": {
+    "primary_style": "商务",
+    "secondary_styles": [
+      "休闲",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "天蓝",
+    "secondary_colors": [
+      "白色",
+      "浅蓝",
+      "灰色",
+      "浅紫",
+      "浅灰"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "100%棉",
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "合身",
+    "length": "常规",
+    "neckline": "翻领",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "弧形摆",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "胸袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "干净利落的都市通勤感，简约而不失专业。",
+    "design_highlight": "经典牛津纺衬衫版型，100%纯棉面料提升穿着舒适度。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "直筒型",
+      "沙漏形"
+    ],
+    "flattering_features": "合身版型修饰身形，翻领设计显得精神干练。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "25-45岁追求舒适与性价比的都市男性，职场新人或日常通勤需求者。",
+    "selling_points": [
+      "100%纯棉面料，舒适透气",
+      "经典商务休闲版型，百搭不挑人",
+      "多色可选，满足不同搭配需求",
+      "工厂直销，高性价比"
+    ],
+    "similar_brands_style": "类似优衣库、海澜之家等基础款衬衫风格",
+    "coordination_suggestions": [
+      "搭配西裤和皮鞋，打造商务通勤造型。",
+      "搭配休闲裤和小白鞋，营造轻松日常感。",
+      "内搭T恤，解开纽扣作为外套穿着，增加层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "超级工厂天猫品牌同款衬衫男长袖纯棉商务休闲免烫衬衣春夏季薄款",
+    "search_keywords": [
+      "男士衬衫",
+      "长袖衬衫",
+      "纯棉衬衫",
+      "商务衬衫",
+      "休闲衬衫",
+      "免烫衬衫",
+      "薄款衬衫",
+      "春季衬衫",
+      "夏季衬衫",
+      "男装衬衣",
+      "工厂直销"
+    ],
+    "hashtags": [
+      "#男士衬衫",
+      "#纯棉衬衫",
+      "#商务休闲",
+      "#通勤穿搭",
+      "#百搭单品",
+      "#工厂直销",
+      "#天猫同款"
+    ],
+    "description": "这款男士长袖衬衫精选100%纯棉面料，触感柔软亲肤，透气舒适，是您日常通勤和休闲穿搭的理想选择。经典翻领设计搭配合身版型，简约而不失商务感，胸前口袋增添实用性。多色可选，轻松搭配各种场合，无论是搭配西裤出席正式场合，还是搭配休闲裤享受假日时光，都能展现您的绅士风范。工厂直销，品质保证，性价比高。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "天蓝",
+      "白色",
+      "浅蓝",
+      "灰色",
+      "浅紫",
+      "浅灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "超级工厂"
+  },
+  "_meta": {
+    "image": "downloaded_images/shop2922242874804/product_042.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1253
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "吊带连衣裙",
+    "gender": "女装",
+    "age_range": "25-35",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "海滩度假",
+      "日常通勤"
+    ]
+  },
+  "style": {
+    "primary_style": "甜美",
+    "secondary_styles": [
+      "浪漫",
+      "优雅"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典浪漫风格，不受潮流影响，但印花图案具有季节性"
+  },
+  "colors": {
+    "primary_color": "浅紫色",
+    "secondary_colors": [
+      "深紫色",
+      "白色"
+    ],
+    "color_scheme": "印花",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "夏冷"
+  },
+  "material": {
+    "primary_fabric": "欧根纱",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "半透明",
+    "drape": "飘逸",
+    "elasticity": "无弹",
+    "transparency": "半透",
+    "hand_feel_guess": "轻盈飘逸"
+  },
+  "construction": {
+    "silhouette": "A型",
+    "fit": "修身",
+    "length": "中长",
+    "neckline": "吊带",
+    "sleeve_type": "无袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "紫色系水墨感花卉印花",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "浪漫飘逸的夏日度假风情",
+    "design_highlight": "独特的紫色水墨花卉印花和轻盈的欧根纱材质",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型",
+      "梨形"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，A字裙摆修饰胯部和腿部线条",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-35岁追求浪漫优雅风格的都市女性",
+    "selling_points": [
+      "浪漫水墨花卉印花",
+      "轻盈飘逸欧根纱面料",
+      "高腰A字版型修饰身材",
+      "适合约会度假场合"
+    ],
+    "similar_brands_style": "类似Self-Portrait、Needle & Thread的浪漫礼服风格",
+    "coordination_suggestions": [
+      "搭配裸色高跟鞋和精致手拿包，出席晚宴或派对。",
+      "搭配平底凉鞋和草编包，打造海滩度假风。",
+      "搭配白色小开衫和小白鞋，适合日常通勤和约会。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款法式浪漫紫色水墨花卉印花欧根纱吊带连衣裙中长款",
+    "search_keywords": [
+      "连衣裙",
+      "吊带裙",
+      "印花裙",
+      "欧根纱",
+      "紫色",
+      "中长款",
+      "浪漫",
+      "度假",
+      "约会",
+      "A字裙"
+    ],
+    "hashtags": [
+      "#浪漫连衣裙",
+      "#夏日穿搭",
+      "#印花裙",
+      "#欧根纱",
+      "#度假风",
+      "#约会穿搭",
+      "#紫色系"
+    ],
+    "description": "这款夏季新款吊带连衣裙，采用轻盈飘逸的欧根纱面料，搭配独特的紫色水墨花卉印花，尽显法式浪漫与优雅。高腰A字版型巧妙修饰身材，拉长腿部比例。无论是约会、派对还是海滩度假，都能让你成为焦点，轻松打造迷人造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "浅紫色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_014.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1166
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "抹胸上衣+西裤套装",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴",
+      "度假"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "轻奢",
+      "性感",
+      "通勤"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典款与流行元素结合，抹胸设计和珠饰工艺具有一定的时尚感，整体风格偏向经典优雅，不易过时。"
+  },
+  "colors": {
+    "primary_color": "米白",
+    "secondary_colors": [
+      "白色",
+      "金色"
+    ],
+    "color_scheme": "拼色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "涤纶",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "上衣：珠饰亮面；裤子：光滑哑光",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "上衣：珠饰触感；裤子：顺滑"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "上衣：短款；裤子：九分",
+    "neckline": "抹胸",
+    "sleeve_type": "无袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "珠饰",
+      "亮片"
+    ],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "珠绣"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "精致优雅，充满高级感的晚宴或正式场合着装。",
+    "design_highlight": "上衣的抹胸设计和精美的珠饰工艺。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，抹胸设计展现肩颈线条，修身版型凸显身材曲线。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求精致、优雅，注重场合感的都市女性。",
+    "selling_points": [
+      "精致珠饰抹胸上衣，提升整体奢华感",
+      "高腰修身西裤，修饰腿型显高显瘦",
+      "套装设计，省去搭配烦恼，轻松打造高级感",
+      "适合多种正式场合，展现优雅气质"
+    ],
+    "similar_brands_style": "类似Max Mara、Theory等品牌的高级通勤与晚宴系列。",
+    "coordination_suggestions": [
+      "搭配细高跟凉鞋和精致手拿包，出席晚宴或派对。",
+      "搭配简约项链和耳环，增加整体精致度。",
+      "外搭一件同色系西装外套，适合商务或半正式场合。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款轻奢珠饰抹胸上衣高腰修身九分西裤套装女 优雅晚宴派对两件套",
+    "search_keywords": [
+      "抹胸套装",
+      "珠饰上衣",
+      "高腰西裤",
+      "晚宴套装",
+      "派对穿搭",
+      "优雅套装",
+      "轻奢女装",
+      "修身显瘦",
+      "正式场合",
+      "两件套"
+    ],
+    "hashtags": [
+      "#抹胸套装",
+      "#珠饰上衣",
+      "#高腰西裤",
+      "#晚宴穿搭",
+      "#轻奢风",
+      "#优雅气质",
+      "#派对必备",
+      "#静奢风"
+    ],
+    "description": "这款轻奢珠饰抹胸上衣高腰修身九分西裤套装，采用精致珠饰工艺，闪耀迷人光泽。抹胸设计展现优美肩颈线条，高腰西裤修饰腿部比例，打造修长身形。整体剪裁流畅，面料舒适有垂坠感，无论是晚宴、派对还是正式场合，都能轻松穿出高级感，彰显您的独特品味与优雅气质。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "米白"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_160.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1300
+  }
+}

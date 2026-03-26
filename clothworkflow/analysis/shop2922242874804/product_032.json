@@ -1,0 +1,146 @@
+{
+  "basic_info": {
+    "category": "衬衫",
+    "subcategory": "休闲衬衫",
+    "gender": "男装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "商务休闲"
+    ]
+  },
+  "style": {
+    "primary_style": "商务休闲",
+    "secondary_styles": [
+      "简约",
+      "经典"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "灰色",
+    "secondary_colors": [
+      "蓝色",
+      "米白",
+      "粉色",
+      "绿色"
+    ],
+    "color_scheme": "拼色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "莫代尔",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "合身",
+    "length": "常规",
+    "neckline": "翻领",
+    "sleeve_type": "长袖",
+    "waistline": null,
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "格纹",
+    "pattern_description": "细小格纹",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "干净利落的都市通勤感，舒适且不失正式。",
+    "design_highlight": "垂感光滑的莫代尔面料，提升穿着舒适度。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "直筒型",
+      "沙漏形"
+    ],
+    "flattering_features": "合身版型修饰身形，格纹图案增加视觉层次感。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "25-45岁追求舒适与品质的都市男性，注重日常通勤和休闲穿着。",
+    "selling_points": [
+      "垂感光滑莫代尔面料",
+      "天猫品牌同款品质",
+      "多色经典格纹可选",
+      "舒适透气，适合多季节穿着",
+      "工厂直销，性价比高"
+    ],
+    "similar_brands_style": "类似优衣库、海澜之家等基础款商务休闲风格",
+    "coordination_suggestions": [
+      "搭配休闲西裤和皮鞋，打造商务休闲通勤look。",
+      "搭配牛仔裤和小白鞋，营造轻松日常休闲感。",
+      "内搭纯色T恤，解开衬衫纽扣作为外套穿着，增加层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "超级工厂天猫品牌同款莫代尔格纹衬衫男士长袖垂感光滑休闲商务衬衣",
+    "search_keywords": [
+      "莫代尔衬衫",
+      "男士格纹衬衫",
+      "长袖衬衣",
+      "商务休闲衬衫",
+      "垂感衬衫",
+      "光滑面料",
+      "天猫同款",
+      "工厂直销",
+      "男装衬衫",
+      "春夏季衬衫"
+    ],
+    "hashtags": [
+      "#男士衬衫",
+      "#格纹衬衫",
+      "#莫代尔",
+      "#商务休闲",
+      "#通勤穿搭",
+      "#超级工厂",
+      "#品质男装"
+    ],
+    "description": "这款超级工厂出品的男士长袖格纹衬衫，采用垂感光滑的莫代尔面料，带来极致舒适的穿着体验。经典格纹设计，简约而不失时尚，轻松驾驭商务休闲与日常通勤。天猫品牌同款品质，工厂直销，性价比极高。多色可选，满足不同搭配需求，是您衣橱不可或缺的百搭单品。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "灰色格纹",
+      "蓝色格纹",
+      "米白格纹",
+      "粉色格纹",
+      "绿色格纹",
+      "深灰格纹",
+      "浅蓝格纹"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "超级工厂"
+  },
+  "_meta": {
+    "image": "downloaded_images/shop2922242874804/product_032.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1248
+  }
+}

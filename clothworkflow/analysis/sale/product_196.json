@@ -1,0 +1,156 @@
+{
+  "basic_info": {
+    "category": "卫衣",
+    "subcategory": "圆领卫衣",
+    "gender": "中性",
+    "age_range": "全年龄",
+    "season": [
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "米白",
+      "奶白",
+      "橘红",
+      "绿色",
+      "墨绿",
+      "浅绿",
+      "卡其",
+      "深灰",
+      "军绿",
+      "浅卡其"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "毛圈布",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "肌理感",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "舒适百搭的日常休闲感",
+    "design_highlight": "重磅毛圈面料带来的厚实保暖感",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "追求舒适百搭的青少年及成人",
+    "selling_points": [
+      "340G重磅毛圈，保暖舒适",
+      "立体裁剪，版型挺括",
+      "多色可选，满足不同搭配需求",
+      "经典圆领设计，百搭不挑人"
+    ],
+    "similar_brands_style": "类似优衣库基础款风格",
+    "coordination_suggestions": [
+      "搭配牛仔裤+运动鞋，打造休闲街头风。",
+      "内搭衬衫，露出领口和下摆，增加层次感。",
+      "搭配休闲裤+帆布鞋，适合日常居家或校园穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "秋冬新款340G重磅毛圈圆领卫衣男童女童宽松纯色套头衫儿童打底衫",
+    "search_keywords": [
+      "圆领卫衣",
+      "重磅卫衣",
+      "毛圈卫衣",
+      "纯色卫衣",
+      "宽松卫衣",
+      "儿童卫衣",
+      "青少年卫衣",
+      "秋冬卫衣",
+      "百搭卫衣",
+      "套头衫"
+    ],
+    "hashtags": [
+      "#圆领卫衣",
+      "#重磅毛圈",
+      "#秋冬穿搭",
+      "#儿童卫衣",
+      "#百搭单品",
+      "#休闲风",
+      "#纯色卫衣"
+    ],
+    "description": "这款秋冬圆领卫衣采用340G重磅毛圈面料，手感柔软亲肤，保暖性极佳。经典圆领设计搭配宽松版型，不挑身材，穿着舒适自在。立体裁剪确保版型挺括有型，不易变形。提供多种时尚色彩选择，无论是日常通勤、休闲逛街还是居家穿着，都能轻松搭配，打造简约舒适的时尚造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图, 多色展示, 细节图",
+    "available_colors_shown": [
+      "黑色",
+      "米白",
+      "奶白",
+      "橘红",
+      "绿色",
+      "墨绿",
+      "浅绿",
+      "卡其",
+      "深灰",
+      "军绿",
+      "浅卡其"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TLAN"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_196.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1259
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "衬衫套装",
+    "gender": "女装",
+    "age_range": "25-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "约会",
+      "海滩度假"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "极简",
+      "欧美"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典休闲套装，不受潮流影响，但配色符合美拉德趋势"
+  },
+  "colors": {
+    "primary_color": "深棕色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "亚麻",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "肌理感",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "微透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "翻领",
+    "sleeve_type": "长袖",
+    "waistline": "中腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "慵懒随性的都市休闲感，透露出低调的质感。",
+    "design_highlight": "宽松舒适的版型和亚麻面料带来的自然垂坠感。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦，高腰裤型拉长腿部比例。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-35岁追求舒适、时尚且注重面料质感的都市女性。",
+    "selling_points": [
+      "舒适透气的亚麻面料",
+      "宽松版型不挑身材",
+      "百搭纯色设计",
+      "可拆分搭配，实用性强",
+      "慵懒随性风格"
+    ],
+    "similar_brands_style": "类似Zara、H&M的休闲套装风格，偏向COS的极简质感。",
+    "coordination_suggestions": [
+      "内搭白色吊带，搭配凉鞋和草编包，打造度假风。",
+      "内搭黑色修身T恤，搭配乐福鞋和简约手提包，适合日常通勤。",
+      "解开衬衫纽扣作为开衫，内搭同色系背心，搭配高跟鞋，更显时尚。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款亚麻衬衫套装女宽松休闲长袖衬衣阔腿裤两件套度假风",
+    "search_keywords": [
+      "亚麻套装",
+      "女装衬衫",
+      "阔腿裤",
+      "休闲套装",
+      "度假风",
+      "宽松版型",
+      "夏季新款",
+      "两件套",
+      "深棕色",
+      "舒适透气"
+    ],
+    "hashtags": [
+      "#亚麻套装",
+      "#休闲穿搭",
+      "#度假风",
+      "#静奢风",
+      "#不挑身材",
+      "#夏季必备"
+    ],
+    "description": "这款亚麻衬衫套装采用舒适透气的亚麻面料，带来轻盈凉爽的穿着体验。宽松的版型设计，不挑身材，完美修饰身形。简约的纯色设计，无论是日常通勤还是海边度假，都能轻松打造慵懒随性的时尚造型。衬衫和阔腿裤可拆分搭配，实用性强，是您衣橱不可或缺的百搭单品。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "深棕色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/qizhou888/product_017.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1207
+  }
+}

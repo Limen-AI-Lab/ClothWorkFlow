@@ -1,0 +1,139 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "衬衫套装",
+    "gender": "女装",
+    "age_range": "25-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "约会"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "极简",
+      "欧美"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "经典条纹元素，属于经典百搭款，不受潮流影响，但宽松版型符合当下舒适穿搭趋势。"
+  },
+  "colors": {
+    "primary_color": "牛仔蓝",
+    "secondary_colors": [
+      "白色"
+    ],
+    "color_scheme": "条纹",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "牛仔",
+    "fabric_blend": "null",
+    "fabric_weight": "中等150-250g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "翻领",
+    "sleeve_type": "长袖",
+    "waistline": "中腰",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "条纹",
+    "pattern_description": "细条纹",
+    "decorations": [],
+    "pockets": "胸袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "随性舒适的都市休闲感，不失时尚度。",
+    "design_highlight": "经典的细条纹与宽松版型结合，打造慵懒随性的时尚感。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型遮肉显瘦，直筒裤型修饰腿部线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-35岁追求舒适与时尚兼具的都市女性",
+    "selling_points": [
+      "经典条纹设计，永不过时",
+      "宽松版型，舒适不挑身材",
+      "水洗牛仔面料，柔软亲肤",
+      "套装搭配，省心时尚"
+    ],
+    "similar_brands_style": "类似Zara、H&M等快时尚品牌的基础款风格",
+    "coordination_suggestions": [
+      "搭配白色T恤内搭，解开衬衫纽扣，打造层次感。",
+      "搭配小白鞋或乐福鞋，更显休闲舒适。",
+      "搭配简约手提包或斜挎包，提升整体造型感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024春夏季新款女装时尚休闲条纹衬衫阔腿裤两件套宽松水洗牛仔套装",
+    "search_keywords": [
+      "条纹衬衫",
+      "阔腿裤套装",
+      "牛仔套装",
+      "女装休闲套装",
+      "宽松衬衫",
+      "水洗牛仔",
+      "时尚两件套",
+      "春夏季女装",
+      "通勤套装",
+      "慵懒风"
+    ],
+    "hashtags": [
+      "#条纹套装",
+      "#牛仔穿搭",
+      "#休闲时尚",
+      "#春季新款",
+      "#慵懒风穿搭",
+      "#通勤套装",
+      "#OOTD"
+    ],
+    "description": "这款2024春夏季新款女装条纹衬衫阔腿裤套装，采用舒适的水洗牛仔面料，柔软亲肤。经典的细条纹设计搭配宽松版型，时尚百搭不挑身材。无论是日常通勤还是休闲逛街，都能轻松打造随性舒适的都市时尚感。一套解决穿搭烦恼，是您衣橱不可或缺的时尚单品。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "牛仔蓝"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/qizhou888/product_026.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1184
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "连帽卫衣套装",
+    "gender": "中性",
+    "age_range": "1-12岁（儿童）",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "运动",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，但颜色选择符合当下流行趋势"
+  },
+  "colors": {
+    "primary_color": "多色（图片展示多种颜色）",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "磨毛"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "舒适百搭的儿童休闲运动套装，简约大方。",
+    "design_highlight": "340G环保面料和磨毛内里，强调舒适保暖性。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "全年龄"
+    ],
+    "flattering_features": "宽松版型不挑身材，适合各种体型的儿童。",
+    "size_range_guess": "S-XL（儿童尺码）"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "注重舒适度和实用性的儿童家长，追求简约休闲风格的儿童服装。",
+    "selling_points": [
+      "340G重磅环保面料，保暖舒适",
+      "磨毛内里，亲肤柔软",
+      "宽松版型，活动自如不束缚",
+      "多色可选，满足不同喜好",
+      "经典连帽卫衣套装，百搭实用"
+    ],
+    "similar_brands_style": "类似优衣库（Uniqlo）儿童基础款风格、H&M儿童休闲系列",
+    "coordination_suggestions": [
+      "搭配运动鞋和棒球帽，打造活力运动风。",
+      "内搭T恤，增加层次感，适应不同温度。",
+      "搭配休闲板鞋，适合日常上学或游玩。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI儿童连帽卫衣套装340G环保面料磨毛加绒秋冬款男女童休闲运动服",
+    "search_keywords": [
+      "儿童卫衣套装",
+      "连帽卫衣",
+      "童装",
+      "秋冬款",
+      "加绒",
+      "磨毛",
+      "环保面料",
+      "休闲运动服",
+      "男女童",
+      "纯棉"
+    ],
+    "hashtags": [
+      "#儿童卫衣",
+      "#童装",
+      "#休闲套装",
+      "#秋冬穿搭",
+      "#舒适童装",
+      "#环保面料",
+      "#连帽卫衣",
+      "#儿童运动服"
+    ],
+    "description": "TILANI儿童连帽卫衣套装，精选340G重磅环保面料，内里磨毛工艺，柔软亲肤，保暖舒适。宽松版型设计，让孩子活动自如无束缚。经典连帽卫衣搭配束脚裤，简约百搭，多色可选，是孩子秋冬日常、校园、户外活动的理想选择。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "米白",
+      "卡其",
+      "深灰",
+      "黑色",
+      "珊瑚橙",
+      "墨绿",
+      "浅卡其",
+      "橄榄绿",
+      "草绿",
+      "奶白"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_237.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1261
+  }
+}

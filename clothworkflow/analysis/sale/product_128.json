@@ -1,0 +1,157 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古"
+    ],
+    "aesthetic": "Y2K",
+    "trend_relevance": "水洗做旧工艺和宽松版型是近年街头潮流的经典元素，具有较高的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "深灰蓝",
+    "secondary_colors": [
+      "紫色",
+      "浅蓝色",
+      "军绿色",
+      "卡其色",
+      "黑色",
+      "粉色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧",
+      "喷马骝",
+      "磨破"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "宽松舒适，带有复古街头感的休闲T恤。",
+    "design_highlight": "300G重磅水洗喷马骝磨破工艺，营造独特的复古做旧感。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦，磨破设计增加时尚感。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求潮流、注重舒适度的年轻男女。",
+    "selling_points": [
+      "300G重磅纯棉面料，舒适有型",
+      "水洗喷马骝磨破工艺，复古潮流",
+      "宽松oversized版型，不挑身材",
+      "7色可选，满足不同搭配需求",
+      "中性款式，男女同款"
+    ],
+    "similar_brands_style": "类似优衣库UT系列的基础款与街头潮流品牌的结合，如太平鸟、GXG等。",
+    "coordination_suggestions": [
+      "搭配水洗牛仔短裤+运动鞋，打造休闲街头风。",
+      "搭配工装裤+帆布鞋，展现潮流工装感。",
+      "内搭长袖打底衫，叠穿营造层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 2024夏季新款300G重磅水洗喷马骝磨破短袖T恤男女同款宽松潮牌圆领上衣",
+    "search_keywords": [
+      "TILANI",
+      "短袖T恤",
+      "男士T恤",
+      "女士T恤",
+      "中性T恤",
+      "水洗做旧",
+      "磨破",
+      "重磅纯棉",
+      "oversized",
+      "街头潮牌",
+      "夏季新款",
+      "圆领上衣"
+    ],
+    "hashtags": [
+      "#街头潮牌",
+      "#水洗做旧",
+      "#oversize",
+      "#男女同款",
+      "#夏季穿搭",
+      "#复古T恤",
+      "#磨破设计"
+    ],
+    "description": "TILANI 2024夏季新款短袖T恤，采用300G重磅纯棉面料，手感柔软舒适，不易变形。独特的喷马骝水洗磨破工艺，打造复古做旧的街头潮流感。宽松oversized版型，不挑身材，男女同款，轻松穿出时尚范。多色可选，无论是日常休闲、街头穿搭还是校园风格，都能轻松驾驭，是您衣橱不可或缺的潮流单品。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "深灰蓝",
+      "紫色",
+      "浅蓝色",
+      "军绿色",
+      "卡其色",
+      "黑色",
+      "粉色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_128.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1346
+  }
+}

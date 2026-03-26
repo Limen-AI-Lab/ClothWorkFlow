@@ -1,0 +1,94 @@
+{
+  "basic_info": {
+    "category": null,
+    "subcategory": null,
+    "gender": null,
+    "age_range": null,
+    "season": [],
+    "occasion": []
+  },
+  "style": {
+    "primary_style": null,
+    "secondary_styles": [],
+    "aesthetic": null,
+    "trend_relevance": null
+  },
+  "colors": {
+    "primary_color": "绿色",
+    "secondary_colors": [
+      "白色"
+    ],
+    "color_scheme": "撞色",
+    "color_temperature": "冷色调",
+    "color_saturation": "高饱和鲜艳",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": null,
+    "fabric_blend": null,
+    "fabric_weight": null,
+    "texture": null,
+    "drape": null,
+    "elasticity": null,
+    "transparency": null,
+    "hand_feel_guess": null
+  },
+  "construction": {
+    "silhouette": null,
+    "fit": null,
+    "length": null,
+    "neckline": null,
+    "sleeve_type": null,
+    "waistline": null,
+    "hem": null,
+    "back_design": null,
+    "closure": null
+  },
+  "design_details": {
+    "pattern_type": "字母logo",
+    "pattern_description": "白色中文“哇噢快返”字样",
+    "decorations": [],
+    "pockets": null,
+    "stitching": null,
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "醒目、直接的文字信息展示。",
+    "design_highlight": "高饱和度的绿色背景与白色文字的强烈对比。",
+    "visual_weight": "量感强"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [],
+    "flattering_features": null,
+    "size_range_guess": null
+  },
+  "commercial": {
+    "price_tier": null,
+    "target_audience": null,
+    "selling_points": [],
+    "similar_brands_style": null,
+    "coordination_suggestions": []
+  },
+  "ecommerce": {
+    "title": null,
+    "search_keywords": [],
+    "hashtags": [],
+    "description": null
+  },
+  "image_info": {
+    "image_type": "文字信息图",
+    "available_colors_shown": [
+      "绿色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_122.png",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 665
+  }
+}

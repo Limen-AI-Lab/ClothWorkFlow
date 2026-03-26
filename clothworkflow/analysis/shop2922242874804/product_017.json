@@ -1,0 +1,139 @@
+{
+  "basic_info": {
+    "category": "衬衫",
+    "subcategory": "商务衬衫",
+    "gender": "男装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "正式商务",
+      "约会"
+    ]
+  },
+  "style": {
+    "primary_style": "商务",
+    "secondary_styles": [
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "白色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "竹纤维",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "合身",
+    "length": "常规",
+    "neckline": "翻领",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": [
+      "免烫",
+      "爽滑"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "干净利落的商务通勤感，专业且舒适。",
+    "design_highlight": "竹纤维面料带来的免烫和爽滑特性。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "直筒型",
+      "沙漏形"
+    ],
+    "flattering_features": "合身版型修饰身形，翻领设计提升专业度。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "25-45岁追求舒适免烫、注重商务形象的都市男性。",
+    "selling_points": [
+      "竹纤维面料，亲肤舒适",
+      "免烫设计，易于打理",
+      "爽滑透气，穿着体验佳",
+      "经典白色，百搭商务",
+      "天猫品牌同款，品质保证"
+    ],
+    "similar_brands_style": "类似优衣库、海澜之家等基础商务款风格",
+    "coordination_suggestions": [
+      "搭配西裤和领带，打造正式商务造型。",
+      "搭配休闲裤和乐福鞋，适合日常通勤。",
+      "解开一两颗纽扣，搭配牛仔裤，营造休闲轻松感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "超级工厂天猫品牌同款男士竹纤维免烫商务衬衫长袖白色职业正装",
+    "search_keywords": [
+      "男士衬衫",
+      "竹纤维衬衫",
+      "免烫衬衫",
+      "商务衬衫",
+      "白色衬衫",
+      "长袖衬衫",
+      "职业装",
+      "正装",
+      "男装",
+      "通勤衬衫",
+      "超级工厂"
+    ],
+    "hashtags": [
+      "#男士衬衫",
+      "#商务通勤",
+      "#免烫衬衫",
+      "#竹纤维",
+      "#职场穿搭",
+      "#经典白衬衫",
+      "#超级工厂"
+    ],
+    "description": "这款男士商务衬衫精选优质竹纤维面料，触感柔软爽滑，具有出色的免烫特性，让您告别繁琐熨烫。经典白色设计，合身版型，无论是商务会议还是日常通勤，都能轻松打造专业干练形象。天猫品牌同款品质，工厂直销，性价比高，是您衣橱不可或缺的百搭单品。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "白色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "超级工厂"
+  },
+  "_meta": {
+    "image": "downloaded_images/shop2922242874804/product_017.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1178
+  }
+}

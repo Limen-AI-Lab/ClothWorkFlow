@@ -1,0 +1,143 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "复古做旧风格是近年街头潮流的常青元素，具有较高的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "null",
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "毛边",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧",
+      "磨破"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "慵懒随性的街头复古感，带有不羁的个性。",
+    "design_highlight": "独特的炒雪花磨破做旧工艺，营造出复古破旧的街头感。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦，磨破设计增加时尚感。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求潮流、喜欢街头复古风格的年轻男女。",
+    "selling_points": [
+      "230G双纱平纹棉，舒适有质感",
+      "炒雪花磨破做旧工艺，独特个性",
+      "Oversized宽松版型，不挑身材",
+      "中性款式，男女同款",
+      "百搭街头风格"
+    ],
+    "similar_brands_style": "类似国潮品牌、快时尚品牌中的街头系列（如：Zara、H&M的街头款）",
+    "coordination_suggestions": [
+      "搭配黑色宽松短裤+运动鞋，打造休闲街头look。",
+      "搭配牛仔裤+帆布鞋，展现日常随性风格。",
+      "内搭白色长袖T恤叠穿，增加层次感，搭配工装裤和马丁靴，更显硬朗。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款炒雪花磨破短袖T恤男潮牌复古做旧宽松oversize纯棉半袖女",
+    "search_keywords": [
+      "炒雪花短袖",
+      "磨破T恤",
+      "复古做旧",
+      "oversize短袖",
+      "街头潮牌",
+      "纯棉T恤",
+      "男女同款",
+      "宽松半袖",
+      "夏季新款",
+      "230G重磅"
+    ],
+    "hashtags": [
+      "#炒雪花短袖",
+      "#磨破T恤",
+      "#复古做旧",
+      "#oversize",
+      "#街头潮牌",
+      "#男女同款",
+      "#夏季穿搭"
+    ],
+    "description": "这款炒雪花磨破短袖T恤，采用230G双纱平纹棉，手感舒适，质感厚实。独特的炒雪花水洗做旧工艺结合磨破设计，营造出浓郁的复古街头氛围。Oversized宽松版型，不挑身材，男女同款，轻松打造慵懒随性范。无论是日常休闲、街头穿搭还是校园生活，都能轻松驾驭，彰显个性潮流态度。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "炭灰",
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "null"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_140.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1297
+  }
+}

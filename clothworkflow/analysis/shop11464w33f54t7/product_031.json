@@ -1,0 +1,140 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "豹纹连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "日常通勤"
+    ]
+  },
+  "style": {
+    "primary_style": "复古",
+    "secondary_styles": [
+      "性感",
+      "成熟"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "豹纹是经典的时尚元素，不受短期潮流影响，但其流行度会周期性回潮。"
+  },
+  "colors": {
+    "primary_color": "焦糖",
+    "secondary_colors": [
+      "黑色",
+      "米白"
+    ],
+    "color_scheme": "拼色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "丝绒",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "绒面",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "长款",
+    "neckline": "V领",
+    "sleeve_type": "长袖",
+    "waistline": "系带收腰",
+    "hem": "开叉",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "豹纹",
+    "pattern_description": "经典豹纹图案，由焦糖色、黑色和米白色斑点组成",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "压褶"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "充满野性魅力和成熟性感的复古风情。",
+    "design_highlight": "全身豹纹图案与腰部褶皱设计。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "V领修饰颈部线条，收腰设计凸显腰身，长款裙身拉长整体比例。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-45岁追求时尚、自信且注重个人风格的都市女性。",
+    "selling_points": [
+      "经典豹纹图案，时尚百搭",
+      "V领设计，修饰颈部线条",
+      "收腰褶皱，凸显女性曲线",
+      "丝绒面料，舒适保暖有质感",
+      "长款设计，优雅大方"
+    ],
+    "similar_brands_style": "类似Zara、Mango等快时尚品牌中偏成熟性感的款式。",
+    "coordination_suggestions": [
+      "搭配黑色高跟鞋和手拿包，打造派对或约会造型。",
+      "搭配黑色短靴和皮夹克，增添几分帅气街头感。",
+      "搭配简约的金色饰品，提升整体精致度。"
+    ]
+  },
+  "ecommerce": {
+    "title": "复古豹纹V领长袖连衣裙女秋冬新款修身显瘦丝绒褶皱中长款包臀裙",
+    "search_keywords": [
+      "豹纹连衣裙",
+      "V领连衣裙",
+      "长袖连衣裙",
+      "丝绒连衣裙",
+      "秋冬连衣裙",
+      "修身连衣裙",
+      "复古连衣裙",
+      "派对连衣裙",
+      "性感连衣裙",
+      "中长款连衣裙"
+    ],
+    "hashtags": [
+      "#豹纹控",
+      "#复古风",
+      "#丝绒连衣裙",
+      "#秋冬穿搭",
+      "#派对穿搭",
+      "#性感穿搭",
+      "#V领设计",
+      "#时尚单品"
+    ],
+    "description": "这款复古豹纹V领长袖连衣裙，采用柔软亲肤的丝绒面料，带来舒适保暖的穿着体验。经典的豹纹图案搭配V领设计，尽显女性的野性魅力与优雅气质。腰部褶皱收腰设计，巧妙修饰身形，展现迷人曲线。无论是日常通勤、约会还是派对，都能轻松打造吸睛造型，成为人群焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "焦糖豹纹"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_031.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1233
+  }
+}

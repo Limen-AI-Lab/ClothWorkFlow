@@ -1,0 +1,146 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "暗黑",
+      "休闲"
+    ],
+    "aesthetic": "Y2K",
+    "trend_relevance": "融合了Y2K和暗黑街头元素，符合当下年轻群体追求个性和潮流的趋势。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "深蓝"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "冷色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "胸前大幅暗黑风格印花，包含建筑、羊和十字架等元素，并有闪电状光效点缀。",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "数码印花"
+    ],
+    "functional_features": [
+      "吸湿排汗",
+      "透气"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "张扬个性的街头暗黑风，带有复古Y2K的神秘感。",
+    "design_highlight": "胸前独特的暗黑风格印花，结合闪电光效，视觉冲击力强。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求个性、喜爱街头潮流文化的年轻群体。",
+    "selling_points": [
+      "300g重磅纯棉面料，舒适有质感",
+      "独特暗黑Y2K印花，彰显个性",
+      "Oversized宽松版型，不挑身材",
+      "环保、柔软、透气、吸汗，穿着体验佳"
+    ],
+    "similar_brands_style": "类似潮牌如Off-White、Supreme的街头印花T恤风格，但更偏向暗黑Y2K。",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+高帮帆布鞋，打造休闲街头look。",
+      "搭配工装裤+马丁靴，增添硬朗暗黑感。",
+      "内搭长袖打底衫，叠穿出层次感，适合春秋穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TLANI 300G重磅纯棉短袖T恤男潮牌Y2K暗黑风印花宽松情侣款夏季",
+    "search_keywords": [
+      "TLANI",
+      "短袖T恤",
+      "男士T恤",
+      "纯棉T恤",
+      "重磅T恤",
+      "Y2K",
+      "暗黑风",
+      "街头潮牌",
+      "印花T恤",
+      "宽松T恤",
+      "情侣款",
+      "夏季新款"
+    ],
+    "hashtags": [
+      "#街头潮牌",
+      "#Y2K风格",
+      "#暗黑系穿搭",
+      "#oversizeT恤",
+      "#纯棉短袖",
+      "#情侣穿搭",
+      "#个性印花"
+    ],
+    "description": "TLANI 300G重磅纯棉短袖T恤，精选优质棉料，柔软亲肤，透气吸汗。独特Y2K暗黑风格印花，融合神秘建筑、羊和十字架元素，搭配闪电光效，彰显不羁个性。Oversized宽松版型，不挑身材，男女同款，轻松打造街头潮流范。无论是日常休闲还是潮流穿搭，都能让你成为焦点。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "黑色",
+      "深蓝"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_074.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1310
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "度假风连衣裙",
+    "gender": "女装",
+    "age_range": "25-35",
+    "season": [
+      "夏"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "海滩度假"
+    ]
+  },
+  "style": {
+    "primary_style": "欧美",
+    "secondary_styles": [
+      "甜美",
+      "性感",
+      "度假"
+    ],
+    "aesthetic": "辣妹风",
+    "trend_relevance": "夏季流行款式，强调腰部和胸部设计，符合当下度假风和辣妹风潮"
+  },
+  "colors": {
+    "primary_color": "玫红",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "高饱和鲜艳",
+    "color_season": "春暖"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "哑光",
+    "drape": "适中",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "修身",
+    "length": "长款",
+    "neckline": "V领",
+    "sleeve_type": "短袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "褶皱"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "充满活力和性感的度假风情，展现女性魅力。",
+    "design_highlight": "胸前深V和腰部镂空扭结设计，强调腰线和身材曲线。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "深V领修饰颈部线条，腰部镂空设计凸显纤细腰身，高腰线拉长腿部比例。",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-35岁追求时尚、热爱度假和派对的都市女性",
+    "selling_points": [
+      "性感深V领设计",
+      "独特腰部镂空扭结",
+      "高饱和玫红色吸睛",
+      "修身显瘦版型",
+      "适合度假和派对穿着"
+    ],
+    "similar_brands_style": "类似Zara、H&M等快时尚品牌度假系列",
+    "coordination_suggestions": [
+      "搭配金色配饰和高跟凉鞋，打造派对女王范。",
+      "搭配草编包和平底凉鞋，营造海滩度假风情。",
+      "搭配简约手拿包和精致耳环，适合约会穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款性感深V镂空扭结连衣裙女 度假风高腰显瘦玫红长裙",
+    "search_keywords": [
+      "连衣裙",
+      "深V",
+      "镂空",
+      "扭结",
+      "玫红",
+      "度假风",
+      "长裙",
+      "高腰",
+      "显瘦",
+      "性感",
+      "派对",
+      "夏季"
+    ],
+    "hashtags": [
+      "#度假风",
+      "#辣妹风",
+      "#深V连衣裙",
+      "#镂空设计",
+      "#玫红长裙",
+      "#夏季穿搭",
+      "#派对穿搭"
+    ],
+    "description": "这款夏季新款连衣裙，采用吸睛的玫红色，深V领口与腰部镂空扭结设计大胆性感，完美展现女性魅力。高腰线剪裁拉长腿部比例，修身版型显瘦。无论是海滩度假、时尚派对还是浪漫约会，都能让你成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "玫红"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/qizhou888/product_049.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1172
+  }
+}

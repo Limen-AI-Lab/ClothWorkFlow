@@ -1,0 +1,155 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "T恤短裤套装",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，宽松版型符合当下休闲潮流"
+  },
+  "colors": {
+    "primary_color": "卡其",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "中腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的日常休闲感，简约百搭。",
+    "design_highlight": "400G重磅毛圈棉面料，提供优异的质感和穿着体验。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、简约、百搭风格的年轻群体",
+    "selling_points": [
+      "400G重磅毛圈棉，质感厚实舒适",
+      "16色可选，满足多样化搭配需求",
+      "宽松版型，不挑身材，穿着舒适",
+      "经典圆领短袖T恤+短裤套装，日常百搭",
+      "水洗工艺，提升面料柔软度和复古感"
+    ],
+    "similar_brands_style": "类似优衣库U系列基础款风格，偏向日系休闲",
+    "coordination_suggestions": [
+      "搭配小白鞋+棒球帽，打造活力休闲运动风。",
+      "搭配帆布鞋+单肩包，适合日常逛街或校园穿搭。",
+      "搭配凉鞋+墨镜，轻松打造夏日度假风。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 2024夏季新款400G重磅毛圈棉T恤短裤套装男女同款宽松休闲运动五分裤",
+    "search_keywords": [
+      "重磅T恤",
+      "毛圈棉短裤",
+      "男女同款",
+      "宽松套装",
+      "休闲运动",
+      "五分裤",
+      "纯棉短袖",
+      "夏季新款",
+      "百搭",
+      "街头风",
+      "情侣装"
+    ],
+    "hashtags": [
+      "#重磅T恤",
+      "#毛圈棉短裤",
+      "#男女同款",
+      "#休闲套装",
+      "#夏季穿搭",
+      "#百搭单品",
+      "#情侣穿搭",
+      "#舒适面料"
+    ],
+    "description": "TILANI 2024夏季新款T恤短裤套装，精选400G重磅毛圈棉面料，手感柔软亲肤，厚实有质感。宽松版型设计，不挑身材，穿着舒适自在。经典圆领短袖T恤搭配休闲短裤，简约百搭，轻松打造日常休闲、街头运动等多种风格。提供16种丰富色彩选择，满足您的个性化搭配需求。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "米白",
+      "卡其",
+      "浅灰",
+      "藏青",
+      "深灰",
+      "蓝色",
+      "黄色",
+      "浅黄",
+      "墨绿",
+      "棕色",
+      "浅绿",
+      "黑色",
+      "白色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_034.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1332
+  }
+}

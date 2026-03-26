@@ -1,0 +1,137 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "礼服裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴",
+      "婚礼"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "奢华",
+      "复古"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典款式，不受潮流影响，但丝绒材质在秋冬有回潮趋势"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "丝绒",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "绒面",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "长款",
+    "neckline": "圆领",
+    "sleeve_type": "无袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "无"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅高贵的晚宴礼服，展现女性曲线美。",
+    "design_highlight": "肩部垂坠的薄纱披肩设计，增加飘逸感和层次感。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "修身剪裁凸显腰部曲线，长款设计拉长身形。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅、注重品质的都市女性，出席正式场合。",
+    "selling_points": [
+      "经典黑色丝绒材质，尽显奢华质感",
+      "修身版型，完美展现女性曼妙曲线",
+      "独特薄纱披肩设计，增添飘逸与神秘感",
+      "适合多种正式场合穿着，提升个人魅力"
+    ],
+    "similar_brands_style": "类似Max Mara、Theory等品牌的高级感礼服",
+    "coordination_suggestions": [
+      "搭配精致手拿包和高跟鞋，打造晚宴造型。",
+      "佩戴简约钻石项链和耳环，提升整体华丽感。",
+      "搭配同色系或银色系配饰，保持整体造型的和谐统一。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024秋冬新款黑色丝绒礼服裙女 高级感修身长款晚宴连衣裙 薄纱披肩设计",
+    "search_keywords": [
+      "丝绒礼服",
+      "黑色连衣裙",
+      "晚宴裙",
+      "修身长裙",
+      "披肩礼服",
+      "高级感",
+      "正式场合",
+      "优雅",
+      "秋冬新款",
+      "派对裙"
+    ],
+    "hashtags": [
+      "#丝绒礼服",
+      "#黑色连衣裙",
+      "#晚宴穿搭",
+      "#高级感",
+      "#优雅气质",
+      "#派对季",
+      "#修身长裙"
+    ],
+    "description": "这款黑色丝绒礼服裙，采用奢华丝绒面料，触感柔软亲肤，光泽感十足。修身剪裁完美勾勒女性曲线，搭配独特的薄纱披肩设计，行走间尽显飘逸与神秘。经典圆领与长款设计，适合出席各类正式晚宴、派对或重要场合，助您成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_003.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1188
+  }
+}

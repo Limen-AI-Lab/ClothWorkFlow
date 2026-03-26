@@ -1,0 +1,155 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "连帽卫衣套装",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "水洗做旧效果和宽松版型是近年街头休闲风格的流行元素，具有较高的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "深灰",
+    "secondary_colors": [
+      "黑色",
+      "墨绿",
+      "酒红",
+      "藏青"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "null",
+    "fabric_weight": "厚实>350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "中腰",
+    "hem": "收口",
+    "back_design": "null",
+    "closure": "前拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "加绒"
+    ],
+    "functional_features": [
+      "保暖"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "慵懒随性的复古街头感，兼具保暖舒适。",
+    "design_highlight": "460G加绒重磅妙雪花面料和水洗做旧工艺。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，水洗做旧效果增加时尚感。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、时尚和街头复古风格的年轻消费者。",
+    "selling_points": [
+      "460G重磅加绒，保暖性强",
+      "复古水洗做旧工艺，独特有型",
+      "宽松版型，不挑身材，穿着舒适",
+      "连帽拉链设计，方便穿脱",
+      "中性款式，男女皆宜"
+    ],
+    "similar_brands_style": "类似Urban Revivo、太平鸟等品牌中偏街头休闲的款式。",
+    "coordination_suggestions": [
+      "内搭白色T恤，搭配老爹鞋，打造休闲街头风。",
+      "搭配棒球帽和运动鞋，增加运动活力感。",
+      "搭配简约项链或手链，提升整体造型的精致度。"
+    ]
+  },
+  "ecommerce": {
+    "title": "秋冬复古水洗拉链连帽卫衣套装男女同款460G加绒重磅妙雪花休闲运动服",
+    "search_keywords": [
+      "复古卫衣套装",
+      "水洗做旧",
+      "加绒卫衣",
+      "重磅卫衣",
+      "连帽拉链卫衣",
+      "男女同款",
+      "休闲运动服",
+      "秋冬套装",
+      "街头风",
+      "oversize卫衣",
+      "妙雪花面料",
+      "保暖套装"
+    ],
+    "hashtags": [
+      "#复古卫衣",
+      "#水洗做旧",
+      "#加绒套装",
+      "#街头穿搭",
+      "#男女同款",
+      "#秋冬必备",
+      "#oversize",
+      "#休闲时尚"
+    ],
+    "description": "这款秋冬复古水洗拉链连帽卫衣套装，采用460G重磅加绒妙雪花面料，带来极致保暖体验。独特的复古水洗做旧工艺，赋予服装独特的街头感和时尚气息。宽松版型设计，不挑身材，穿着舒适自在。连帽拉链款式，方便穿脱，是日常休闲、街头出行的理想选择。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "藏青",
+      "黑色",
+      "墨绿",
+      "酒红",
+      "深灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_172.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1304
+  }
+}

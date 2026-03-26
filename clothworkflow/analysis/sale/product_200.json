@@ -1,0 +1,155 @@
+{
+  "basic_info": {
+    "category": "卫衣",
+    "subcategory": "圆领卫衣",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，但oversized版型符合当下休闲趋势"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "米白"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "毛圈布",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "肌理感",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": [
+      "保暖"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的休闲街头感，简约百搭。",
+    "design_highlight": "400G重磅毛圈面料，提供优异的保暖性和质感。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、休闲风格的年轻男女。",
+    "selling_points": [
+      "400G重磅毛圈面料，保暖舒适",
+      "Oversized宽松版型，不挑身材",
+      "多色可选，满足不同搭配需求",
+      "经典圆领设计，百搭耐穿",
+      "中性款式，情侣可穿"
+    ],
+    "similar_brands_style": "类似优衣库基础款风格，偏向日系休闲。",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+运动鞋，打造街头休闲风。",
+      "内搭白色T恤露出下摆，增加层次感，搭配休闲裤+帆布鞋。",
+      "搭配束脚裤+老爹鞋，营造舒适运动感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI秋冬新款400G重磅毛圈圆领卫衣男女情侣宽松套头休闲上衣",
+    "search_keywords": [
+      "卫衣",
+      "圆领卫衣",
+      "毛圈卫衣",
+      "重磅卫衣",
+      "宽松卫衣",
+      "情侣卫衣",
+      "秋冬卫衣",
+      "纯色卫衣",
+      "套头卫衣",
+      "休闲上衣",
+      "中性卫衣",
+      "百搭卫衣"
+    ],
+    "hashtags": [
+      "#重磅卫衣",
+      "#毛圈卫衣",
+      "#oversize",
+      "#情侣穿搭",
+      "#秋冬必备",
+      "#休闲风",
+      "#百搭单品",
+      "#圆领卫衣"
+    ],
+    "description": "TILANI秋冬新款圆领卫衣，精选400G重磅毛圈面料，手感厚实柔软，保暖性极佳。Oversized宽松版型设计，不挑身材，穿着舒适自在。经典圆领款式，简约百搭，无论是日常通勤、休闲逛街还是居家穿着都非常适合。多达18种颜色可选，满足您的个性搭配需求，轻松打造时尚休闲造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色",
+      "米白",
+      "浅绿",
+      "浅灰",
+      "军绿",
+      "白色",
+      "卡其",
+      "深灰",
+      "深绿",
+      "深棕",
+      "亮绿",
+      "橘红"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_200.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1308
+  }
+}

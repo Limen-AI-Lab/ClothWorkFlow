@@ -1,0 +1,139 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "鱼尾连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "复古",
+      "奢华"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典款式，通过面料和细节体现高级感，不受短期潮流影响"
+  },
+  "colors": {
+    "primary_color": "酒红",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "真丝",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "圆领",
+    "sleeve_type": "长袖",
+    "waistline": "高腰",
+    "hem": "鱼尾",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "褶皱"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅高贵的晚宴礼服感，展现女性曲线美。",
+    "design_highlight": "肩部和袖子的褶皱设计以及飘逸的袖口。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "修身剪裁凸显腰身，鱼尾下摆拉长腿部线条，褶皱设计修饰肩部。",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅、注重品质和场合感的都市女性。",
+    "selling_points": [
+      "高级酒红色，衬托肤色",
+      "修身鱼尾版型，展现曼妙身姿",
+      "独特褶皱和飘逸袖口设计，增添设计感",
+      "垂坠感面料，穿着舒适有质感",
+      "适合多种正式场合穿着"
+    ],
+    "similar_brands_style": "类似Max Mara、Theory等品牌的高级感礼服或晚装系列。",
+    "coordination_suggestions": [
+      "搭配金色手镯和高跟鞋，打造晚宴造型。",
+      "搭配精致手拿包和简约耳饰，出席正式活动。",
+      "搭配披肩或小外套，应对微凉天气。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款酒红色鱼尾连衣裙女气质优雅褶皱飘逸袖长款晚礼服",
+    "search_keywords": [
+      "酒红色连衣裙",
+      "鱼尾裙",
+      "晚礼服",
+      "优雅连衣裙",
+      "褶皱设计",
+      "飘逸袖",
+      "长款连衣裙",
+      "修身礼服",
+      "气质连衣裙",
+      "宴会裙"
+    ],
+    "hashtags": [
+      "#酒红色连衣裙",
+      "#鱼尾裙",
+      "#晚礼服",
+      "#优雅穿搭",
+      "#气质女神",
+      "#宴会造型",
+      "#高级感",
+      "#静奢风"
+    ],
+    "description": "这款酒红色鱼尾连衣裙，采用垂坠感面料，触感顺滑亲肤。独特的肩部褶皱和飘逸袖口设计，增添优雅与灵动。修身鱼尾版型完美勾勒女性曲线，拉长身形比例。无论是出席晚宴、派对还是重要场合，都能让您成为焦点，展现高贵气质。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "酒红"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_019.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1202
+  }
+}

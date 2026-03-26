@@ -1,0 +1,5498 @@
+{
+  "total": 40,
+  "success": 40,
+  "fail": 0,
+  "model": "google/gemini-2.5-flash",
+  "items": [
+    {
+      "basic_info": {
+        "category": "连衣裙",
+        "subcategory": "吊带连衣裙",
+        "gender": "女装",
+        "age_range": "25-45",
+        "season": [
+          "夏"
+        ],
+        "occasion": [
+          "海滩度假",
+          "休闲逛街",
+          "约会"
+        ]
+      },
+      "style": {
+        "primary_style": "波西米亚",
+        "secondary_styles": [
+          "甜美",
+          "休闲"
+        ],
+        "aesthetic": "多巴胺",
+        "trend_relevance": "亮色系和度假风是夏季的经典流行元素，花朵装饰增加了时尚感。"
+      },
+      "colors": {
+        "primary_color": "亮黄色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "高饱和鲜艳",
+        "color_season": "春暖"
+      },
+      "material": {
+        "primary_fabric": "棉",
+        "fabric_blend": null,
+        "fabric_weight": "轻薄<150g",
+        "texture": "肌理感",
+        "drape": "柔软垂坠",
+        "elasticity": "无弹",
+        "transparency": "微透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "A型",
+        "fit": "宽松",
+        "length": "超长及踝",
+        "neckline": "吊带",
+        "sleeve_type": "无袖",
+        "waistline": "无腰线",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "套头"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [
+          "立体花朵"
+        ],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [
+          "褶皱"
+        ],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "充满活力和夏日风情的度假感，甜美而飘逸。",
+        "design_highlight": "胸前立体花朵装饰和亮眼的黄色。",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型"
+        ],
+        "flattering_features": "宽松版型遮盖腰腹和臀部，长裙拉长整体线条。",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "25-45岁追求时尚、热爱度假和休闲风格的女性。",
+        "selling_points": [
+          "亮眼多巴胺黄色，吸睛度高",
+          "胸前立体花朵设计，甜美独特",
+          "宽松A字版型，舒适遮肉不挑身材",
+          "轻薄面料，适合夏季穿着",
+          "超长裙摆，飘逸度假风"
+        ],
+        "similar_brands_style": "类似Zara度假系列、H&M夏季休闲款风格",
+        "coordination_suggestions": [
+          "搭配草编帽和凉鞋，打造完美的沙滩度假造型。",
+          "搭配简约项链和手链，增加精致感。",
+          "搭配白色或裸色系小包，平衡亮色，更显优雅。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款多巴胺亮黄色吊带连衣裙女海边度假风立体花朵宽松长裙",
+        "search_keywords": [
+          "亮黄色连衣裙",
+          "吊带长裙",
+          "度假风连衣裙",
+          "立体花朵",
+          "宽松连衣裙",
+          "沙滩裙",
+          "夏季连衣裙",
+          "多巴胺穿搭",
+          "波西米亚风",
+          "显瘦长裙"
+        ],
+        "hashtags": [
+          "#多巴胺穿搭",
+          "#度假风",
+          "#亮黄色",
+          "#吊带裙",
+          "#夏日穿搭",
+          "#海边度假",
+          "#花朵连衣裙",
+          "#显瘦长裙"
+        ],
+        "description": "这款2024夏季新款亮黄色吊带连衣裙，采用轻薄舒适面料，带来清凉穿着体验。胸前精致的立体花朵设计，增添甜美与浪漫气息。宽松A字版型，完美遮肉显瘦，超长裙摆随风飘逸，尽显度假风情。无论是海边沙滩还是日常休闲，都能让你成为人群焦点。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "亮黄色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_001.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1215
+      }
+    },
+    {
+      "basic_info": {
+        "category": "连衣裙",
+        "subcategory": "度假风连衣裙",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "夏"
+        ],
+        "occasion": [
+          "约会",
+          "派对",
+          "海滩度假"
+        ]
+      },
+      "style": {
+        "primary_style": "欧美",
+        "secondary_styles": [
+          "甜美",
+          "性感"
+        ],
+        "aesthetic": "辣妹风",
+        "trend_relevance": "夏季度假风和露肤设计是近年来的流行趋势"
+      },
+      "colors": {
+        "primary_color": "玫红",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "高饱和鲜艳",
+        "color_season": "春暖"
+      },
+      "material": {
+        "primary_fabric": "纯棉",
+        "fabric_blend": null,
+        "fabric_weight": "中等150-250g",
+        "texture": "哑光",
+        "drape": "适中",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "X型",
+        "fit": "修身",
+        "length": "长款",
+        "neckline": "V领",
+        "sleeve_type": "短袖",
+        "waistline": "高腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "无"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "充满活力和性感的度假风情",
+        "design_highlight": "腰部镂空和扭结设计",
+        "visual_weight": "适中"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "沙漏形",
+          "直筒型"
+        ],
+        "flattering_features": "V领修饰颈部线条，高腰线拉长腿部比例，腰部镂空展现腰部曲线",
+        "size_range_guess": "S-L"
+      },
+      "commercial": {
+        "price_tier": "中端150-500",
+        "target_audience": "25-35岁追求时尚、热爱度假和展现身材的女性",
+        "selling_points": [
+          "时尚V领设计，修饰颈部线条",
+          "独特腰部镂空和扭结，展现性感腰线",
+          "高饱和玫红色，吸睛亮眼",
+          "长款设计，优雅飘逸",
+          "适合度假和派对穿着"
+        ],
+        "similar_brands_style": "类似Zara、H&M的夏季时尚款",
+        "coordination_suggestions": [
+          "搭配同色系高跟凉鞋和手提包，打造精致度假风。",
+          "搭配草编帽和墨镜，增添海滩度假氛围。",
+          "搭配简约金色饰品，提升整体造型的时尚感。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款V领镂空扭结高腰长款连衣裙女 度假风性感玫红沙滩裙",
+        "search_keywords": [
+          "连衣裙",
+          "度假风",
+          "V领",
+          "镂空",
+          "扭结",
+          "高腰",
+          "长款",
+          "玫红",
+          "沙滩裙",
+          "性感",
+          "夏季"
+        ],
+        "hashtags": [
+          "#度假风",
+          "#连衣裙",
+          "#辣妹穿搭",
+          "#夏季穿搭",
+          "#玫红"
+        ],
+        "description": "这款夏季新款V领镂空扭结高腰长款连衣裙，采用舒适面料，带来清爽穿着体验。独特的V领设计修饰颈部，腰部镂空和扭结细节巧妙展现性感腰线。高饱和玫红色吸睛亮眼，长款裙摆优雅飘逸，是您度假、约会或派对的理想选择，轻松打造时尚吸睛造型。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "玫红"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_002.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1152
+      }
+    },
+    {
+      "basic_info": {
+        "category": "连衣裙",
+        "subcategory": "深V露腰连衣裙",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "夏"
+        ],
+        "occasion": [
+          "约会",
+          "派对",
+          "海滩度假",
+          "休闲逛街"
+        ]
+      },
+      "style": {
+        "primary_style": "欧美",
+        "secondary_styles": [
+          "性感",
+          "度假风"
+        ],
+        "aesthetic": "辣妹风",
+        "trend_relevance": "夏季流行款式，露肤设计符合当下时尚趋势"
+      },
+      "colors": {
+        "primary_color": "玫红",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "高饱和鲜艳",
+        "color_season": "春暖"
+      },
+      "material": {
+        "primary_fabric": "纯棉",
+        "fabric_blend": null,
+        "fabric_weight": "中等150-250g",
+        "texture": "哑光",
+        "drape": "适中",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "X型",
+        "fit": "修身",
+        "length": "长款",
+        "neckline": "V领",
+        "sleeve_type": "短袖",
+        "waistline": "高腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "侧拉链"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [
+          "褶皱"
+        ],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "充满活力和性感的度假风情，展现女性魅力。",
+        "design_highlight": "深V领和腰部镂空扭结设计，大胆而时尚。",
+        "visual_weight": "适中"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "沙漏形",
+          "直筒型"
+        ],
+        "flattering_features": "深V领修饰颈部线条，高腰线拉长腿部比例，腰部镂空展现纤细腰肢。",
+        "size_range_guess": "S-L"
+      },
+      "commercial": {
+        "price_tier": "中端150-500",
+        "target_audience": "25-35岁追求时尚、自信展现身材的都市女性。",
+        "selling_points": [
+          "大胆深V露腰设计，性感吸睛",
+          "高饱和玫红色，活力十足",
+          "高腰长款版型，显高显瘦",
+          "棉质面料，穿着舒适透气",
+          "适合度假、派对等多种场合"
+        ],
+        "similar_brands_style": "类似Zara、H&M等快时尚品牌夏季度假系列",
+        "coordination_suggestions": [
+          "搭配金色配饰和高跟凉鞋，打造派对女王范。",
+          "搭配草编包和平底凉鞋，营造海滩度假风情。",
+          "搭配简约手拿包和裸色高跟鞋，适合约会或休闲聚会。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款性感深V露腰连衣裙女 高腰长款度假风玫红沙滩裙",
+        "search_keywords": [
+          "深V连衣裙",
+          "露腰连衣裙",
+          "玫红连衣裙",
+          "度假风连衣裙",
+          "沙滩裙",
+          "长款连衣裙",
+          "性感连衣裙",
+          "夏季连衣裙",
+          "高腰连衣裙",
+          "扭结设计"
+        ],
+        "hashtags": [
+          "#深V连衣裙",
+          "#露腰设计",
+          "#玫红穿搭",
+          "#度假风",
+          "#辣妹风",
+          "#夏季必备",
+          "#显高显瘦"
+        ],
+        "description": "这款夏季新款深V露腰连衣裙，采用高饱和玫红色，活力四射。大胆的深V领和腰部镂空扭结设计，尽显女性性感魅力。高腰长款版型，拉长腿部比例，显高显瘦。棉质面料舒适透气，是您度假、派对、约会等场合的理想选择，轻松打造时尚吸睛造型。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "玫红"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_003.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1201
+      }
+    },
+    {
+      "basic_info": {
+        "category": "连衣裙",
+        "subcategory": "单肩连衣裙",
+        "gender": "女装",
+        "age_range": "25-45",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "约会",
+          "派对",
+          "正式商务",
+          "日常通勤"
+        ]
+      },
+      "style": {
+        "primary_style": "优雅",
+        "secondary_styles": [
+          "通勤",
+          "轻奢"
+        ],
+        "aesthetic": null,
+        "trend_relevance": "经典优雅款，不受潮流影响，紫色是近年流行色之一"
+      },
+      "colors": {
+        "primary_color": "紫色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "冷色调",
+        "color_saturation": "中等",
+        "color_season": "冬冷"
+      },
+      "material": {
+        "primary_fabric": "雪纺",
+        "fabric_blend": null,
+        "fabric_weight": "轻薄<150g",
+        "texture": "光滑",
+        "drape": "柔软垂坠",
+        "elasticity": "微弹",
+        "transparency": "不透",
+        "hand_feel_guess": "顺滑冰凉"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "修身",
+        "length": "中长",
+        "neckline": "一字肩",
+        "sleeve_type": "无袖",
+        "waistline": "高腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "侧拉链"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [
+          "褶皱"
+        ],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "优雅大气的都市女性形象，充满自信与魅力。",
+        "design_highlight": "独特的单肩设计和腰部褶皱收腰。",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "沙漏形",
+          "直筒型"
+        ],
+        "flattering_features": "单肩设计修饰肩颈线条，高腰线拉长腿部比例，腰部褶皱修饰腰腹。",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "中高端500-1500",
+        "target_audience": "25-45岁追求优雅、时尚的都市女性，注重品质和设计感。",
+        "selling_points": [
+          "优雅单肩设计，展现女性魅力",
+          "高腰修身剪裁，显瘦显高",
+          "垂坠感面料，穿着舒适有质感",
+          "经典紫色，时尚百搭"
+        ],
+        "similar_brands_style": "类似Max Mara、Theory等轻奢品牌风格",
+        "coordination_suggestions": [
+          "搭配同色系高跟鞋和精致手拿包，出席晚宴或派对。",
+          "搭配简约耳饰和手链，打造优雅通勤造型。",
+          "搭配披肩或小外套，应对春秋季节的温差。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024新款优雅单肩连衣裙女夏高腰修身显瘦中长款紫色礼服裙",
+        "search_keywords": [
+          "单肩连衣裙",
+          "紫色连衣裙",
+          "修身连衣裙",
+          "高腰连衣裙",
+          "中长款连衣裙",
+          "礼服裙",
+          "通勤连衣裙",
+          "优雅连衣裙",
+          "派对裙",
+          "雪纺连衣裙"
+        ],
+        "hashtags": [
+          "#单肩连衣裙",
+          "#紫色穿搭",
+          "#优雅气质",
+          "#通勤穿搭",
+          "#派对礼服",
+          "#显瘦穿搭",
+          "#时尚女性"
+        ],
+        "description": "这款优雅单肩连衣裙采用垂坠感面料，触感顺滑，穿着舒适。独特的单肩设计搭配腰部褶皱收腰，巧妙修饰身形，展现女性优美曲线。高腰中长款剪裁，拉长腿部比例，显瘦显高。经典紫色调，无论是日常通勤、约会还是出席派对，都能轻松打造高级感造型。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "紫色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_004.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1171
+      }
+    },
+    {
+      "basic_info": {
+        "category": "连衣裙",
+        "subcategory": "吊带连衣裙",
+        "gender": "女装",
+        "age_range": "25-45",
+        "season": [
+          "夏"
+        ],
+        "occasion": [
+          "海滩度假",
+          "休闲逛街",
+          "约会"
+        ]
+      },
+      "style": {
+        "primary_style": "波西米亚",
+        "secondary_styles": [
+          "甜美",
+          "度假风"
+        ],
+        "aesthetic": "多巴胺",
+        "trend_relevance": "亮色系和度假风是夏季的经典流行元素，花朵装饰增加了时尚感。"
+      },
+      "colors": {
+        "primary_color": "亮黄色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "高饱和鲜艳",
+        "color_season": "春暖"
+      },
+      "material": {
+        "primary_fabric": "棉",
+        "fabric_blend": null,
+        "fabric_weight": "轻薄<150g",
+        "texture": "肌理感",
+        "drape": "柔软垂坠",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "A型",
+        "fit": "宽松",
+        "length": "超长及踝",
+        "neckline": "吊带",
+        "sleeve_type": "无袖",
+        "waistline": "无腰线",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "套头"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [
+          "立体花朵"
+        ],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [
+          "褶皱"
+        ],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "充满活力和夏日风情的度假感，甜美而飘逸。",
+        "design_highlight": "胸前的立体花朵装饰和亮眼的黄色。",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型"
+        ],
+        "flattering_features": "宽松版型遮盖腰腹和臀部，高腰线设计拉长腿部比例。",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "25-40岁追求时尚、热爱度假和休闲风格的女性。",
+        "selling_points": [
+          "亮眼多巴胺黄色，吸睛度高",
+          "胸前立体花朵设计，甜美独特",
+          "宽松A字版型，舒适遮肉不挑身材",
+          "轻薄面料，适合夏季穿着",
+          "超长裙摆，飘逸有度假感"
+        ],
+        "similar_brands_style": "类似Zara度假系列、H&M夏季系列风格",
+        "coordination_suggestions": [
+          "搭配草编包和凉鞋，打造完美的沙滩度假造型。",
+          "搭配白色平底凉鞋和简约耳饰，适合日常休闲逛街。",
+          "搭配墨镜和宽檐帽，增加时尚感和防晒功能。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款多巴胺亮黄色吊带连衣裙女海边度假风立体花朵宽松长裙",
+        "search_keywords": [
+          "亮黄色连衣裙",
+          "吊带长裙",
+          "度假风连衣裙",
+          "立体花朵",
+          "沙滩裙",
+          "宽松连衣裙",
+          "夏季新款",
+          "波西米亚风",
+          "多巴胺穿搭",
+          "显瘦长裙"
+        ],
+        "hashtags": [
+          "#多巴胺穿搭",
+          "#度假风",
+          "#亮黄色",
+          "#吊带裙",
+          "#沙滩裙",
+          "#夏日穿搭",
+          "#花朵连衣裙"
+        ],
+        "description": "这款2024夏季新款亮黄色吊带连衣裙，采用轻薄舒适面料，带来清凉穿着体验。胸前精致的立体花朵设计，增添甜美与浪漫气息。宽松A字版型，完美修饰身形，遮肉显瘦。超长裙摆随风飘逸，无论是海边度假还是日常休闲，都能轻松打造吸睛的多巴胺穿搭，尽显夏日活力与时尚。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "亮黄色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_005.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1222
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "挂脖露脐上衣+高开叉半裙套装",
+        "gender": "女装",
+        "age_range": "18-35",
+        "season": [
+          "夏"
+        ],
+        "occasion": [
+          "约会",
+          "派对",
+          "海滩度假"
+        ]
+      },
+      "style": {
+        "primary_style": "甜美",
+        "secondary_styles": [
+          "欧美",
+          "性感"
+        ],
+        "aesthetic": "辣妹风",
+        "trend_relevance": "夏季流行款式，强调身材曲线和清凉感"
+      },
+      "colors": {
+        "primary_color": "玫红",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "高饱和鲜艳",
+        "color_season": "春暖"
+      },
+      "material": {
+        "primary_fabric": "雪纺",
+        "fabric_blend": null,
+        "fabric_weight": "轻薄<150g",
+        "texture": "光滑",
+        "drape": "柔软垂坠",
+        "elasticity": "微弹",
+        "transparency": "不透",
+        "hand_feel_guess": "顺滑冰凉"
+      },
+      "construction": {
+        "silhouette": "X型",
+        "fit": "修身",
+        "length": "超长及踝",
+        "neckline": "挂脖",
+        "sleeve_type": "无袖",
+        "waistline": "高腰",
+        "hem": "高开叉",
+        "back_design": "露背",
+        "closure": "无"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [
+          "金属扣"
+        ],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [
+          "褶皱"
+        ],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "性感张扬的度假风情，充满活力和女性魅力",
+        "design_highlight": "挂脖露脐上衣与高开叉半裙的组合，展现腰部和腿部线条",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "沙漏形",
+          "直筒型"
+        ],
+        "flattering_features": "高腰线拉长腿部比例，高开叉设计修饰腿部线条，露脐设计展现腰部曲线",
+        "size_range_guess": "S-L"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "18-30岁追求时尚、热爱展现身材的年轻女性",
+        "selling_points": [
+          "时尚挂脖露脐设计，展现性感魅力",
+          "高开叉半裙，修饰腿部线条，行走间飘逸",
+          "亮眼玫红色，吸睛度高，适合度假派对",
+          "轻薄雪纺面料，穿着舒适透气"
+        ],
+        "similar_brands_style": "类似Shein、Zaful等快时尚品牌风格",
+        "coordination_suggestions": [
+          "搭配细带高跟凉鞋和迷你手提包，打造派对造型。",
+          "搭配平底凉鞋和草编包，营造海滩度假风情。",
+          "搭配夸张耳饰和墨镜，增加时尚感。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款性感挂脖露脐上衣高开叉半身长裙两件套度假风沙滩裙女",
+        "search_keywords": [
+          "挂脖套装",
+          "露脐上衣",
+          "高开叉半裙",
+          "玫红色套装",
+          "度假风",
+          "沙滩裙",
+          "性感套装",
+          "两件套",
+          "夏季女装",
+          "派对穿搭"
+        ],
+        "hashtags": [
+          "#辣妹风",
+          "#度假穿搭",
+          "#性感套装",
+          "#高开叉",
+          "#玫红色",
+          "#夏季时尚",
+          "#派对穿搭"
+        ],
+        "description": "这款夏季新款挂脖露脐上衣高开叉半身长裙套装，采用轻薄雪纺面料，穿着舒适透气。亮眼的玫红色搭配性感挂脖露脐设计，展现迷人腰线；高开叉半裙则巧妙修饰腿部线条，行走间尽显飘逸。无论是海滩度假、泳池派对还是日常约会，都能让你成为焦点，轻松打造时尚辣妹风。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "玫红"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_007.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1228
+      }
+    },
+    {
+      "basic_info": {
+        "category": "连衣裙",
+        "subcategory": "宽松连衣裙",
+        "gender": "女装",
+        "age_range": "25-45",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "海滩度假"
+        ]
+      },
+      "style": {
+        "primary_style": "休闲",
+        "secondary_styles": [
+          "度假",
+          "极简"
+        ],
+        "aesthetic": null,
+        "trend_relevance": "经典条纹元素，不受潮流影响，常年流行"
+      },
+      "colors": {
+        "primary_color": "天蓝",
+        "secondary_colors": [
+          "白色"
+        ],
+        "color_scheme": "条纹",
+        "color_temperature": "冷色调",
+        "color_saturation": "中等",
+        "color_season": "夏冷"
+      },
+      "material": {
+        "primary_fabric": "纯棉",
+        "fabric_blend": null,
+        "fabric_weight": "轻薄<150g",
+        "texture": "光滑",
+        "drape": "柔软垂坠",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "O型",
+        "fit": "oversized",
+        "length": "长款",
+        "neckline": "V领",
+        "sleeve_type": "五分袖",
+        "waistline": "无腰线",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "套头"
+      },
+      "design_details": {
+        "pattern_type": "条纹",
+        "pattern_description": "蓝白竖条纹",
+        "decorations": [],
+        "pockets": "插袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "宽松舒适的休闲度假感，简约而不失时尚。",
+        "design_highlight": "宽松的Oversized廓形和经典的蓝白条纹。",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型"
+        ],
+        "flattering_features": "宽松版型遮肉显瘦，V领修饰颈部线条。",
+        "size_range_guess": "均码"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "追求舒适休闲风格的都市女性，尤其适合度假穿着。",
+        "selling_points": [
+          "经典蓝白条纹，永不过时",
+          "宽松Oversized版型，不挑身材",
+          "V领设计，修饰脸型和颈部",
+          "轻薄面料，穿着舒适透气",
+          "度假休闲百搭款"
+        ],
+        "similar_brands_style": "类似Zara基础款风格，H&M休闲系列",
+        "coordination_suggestions": [
+          "搭配草编帽和凉鞋，打造海滩度假风。",
+          "搭配小白鞋和帆布包，适合日常休闲逛街。",
+          "内搭白色吊带，外搭牛仔外套，增加层次感。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款蓝白条纹V领宽松连衣裙女中长款度假风休闲大码长裙",
+        "search_keywords": [
+          "条纹连衣裙",
+          "宽松长裙",
+          "V领连衣裙",
+          "度假风",
+          "休闲连衣裙",
+          "大码连衣裙",
+          "夏季连衣裙",
+          "蓝白条纹",
+          "舒适连衣裙",
+          "中长款连衣裙"
+        ],
+        "hashtags": [
+          "#条纹连衣裙",
+          "#度假风",
+          "#oversize",
+          "#V领",
+          "#休闲穿搭",
+          "#夏季必备",
+          "#显瘦穿搭"
+        ],
+        "description": "这款夏季新款蓝白条纹V领连衣裙，采用轻薄舒适面料，带来清爽穿着体验。宽松的Oversized版型，不挑身材，完美遮肉显瘦。经典的蓝白条纹设计，简约时尚，V领修饰颈部线条。无论是海滩度假还是日常休闲，都能轻松打造时尚舒适的造型。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "天蓝+白色条纹"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_008.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1161
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "挂脖露脐上衣+阔腿裤套装",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "夏",
+          "春",
+          "秋"
+        ],
+        "occasion": [
+          "休闲逛街",
+          "约会",
+          "海滩度假",
+          "派对",
+          "日常通勤"
+        ]
+      },
+      "style": {
+        "primary_style": "休闲",
+        "secondary_styles": [
+          "欧美",
+          "辣妹风"
+        ],
+        "aesthetic": "辣妹风",
+        "trend_relevance": "夏季流行款，露脐设计和阔腿裤是近年来的热门元素"
+      },
+      "colors": {
+        "primary_color": "红色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "高饱和鲜艳",
+        "color_season": "冬冷"
+      },
+      "material": {
+        "primary_fabric": "null",
+        "fabric_blend": "null",
+        "fabric_weight": "轻薄<150g",
+        "texture": "光滑",
+        "drape": "柔软垂坠",
+        "elasticity": "微弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "修身",
+        "length": "短款",
+        "neckline": "挂脖",
+        "sleeve_type": "无袖",
+        "waistline": "高腰",
+        "hem": "平摆",
+        "back_design": "露背",
+        "closure": "套头"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": "null",
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "热情活力的休闲度假感，兼具时尚辣妹风。",
+        "design_highlight": "挂脖露脐上衣与高腰阔腿裤的组合，展现身材曲线同时拉长腿部比例。",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "沙漏形",
+          "直筒型"
+        ],
+        "flattering_features": "高腰线拉长腿部比例，阔腿裤修饰腿型，挂脖设计展现肩颈线条。",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "20-35岁追求时尚、热爱展现身材的女性。",
+        "selling_points": [
+          "时尚挂脖露脐设计，展现性感魅力",
+          "高腰阔腿裤，显瘦显高拉长比例",
+          "舒适面料，适合夏季穿着",
+          "纯色设计，百搭易搭配",
+          "套装形式，省去搭配烦恼"
+        ],
+        "similar_brands_style": "类似Shein、Zaful等快时尚品牌风格",
+        "coordination_suggestions": [
+          "搭配草编帽和凉鞋，打造海滩度假风。",
+          "搭配细高跟凉鞋和精致项链，适合约会或派对。",
+          "搭配小白鞋和墨镜，日常休闲时尚。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款欧美风挂脖露脐上衣高腰阔腿裤两件套时尚休闲纯色套装女",
+        "search_keywords": [
+          "挂脖上衣",
+          "露脐套装",
+          "阔腿裤",
+          "高腰裤",
+          "两件套",
+          "夏季女装",
+          "休闲套装",
+          "红色套装",
+          "辣妹风",
+          "度假风"
+        ],
+        "hashtags": [
+          "#挂脖上衣",
+          "#阔腿裤",
+          "#露脐装",
+          "#夏季套装",
+          "#辣妹风",
+          "#度假穿搭",
+          "#时尚女装"
+        ],
+        "description": "这款夏季时尚套装，采用舒适面料，包含一件性感挂脖露脐上衣和一条高腰阔腿裤。独特的挂脖设计展现迷人肩颈线条，高腰阔腿裤有效拉长腿部比例，修饰身形。纯色设计简约百搭，无论是日常休闲、约会还是海滩度假，都能轻松打造时尚吸睛造型。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "红色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_010.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1217
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "挂脖露脐上衣+高开叉半裙套装",
+        "gender": "女装",
+        "age_range": "18-35",
+        "season": [
+          "夏"
+        ],
+        "occasion": [
+          "约会",
+          "派对",
+          "海滩度假"
+        ]
+      },
+      "style": {
+        "primary_style": "甜美",
+        "secondary_styles": [
+          "欧美",
+          "性感"
+        ],
+        "aesthetic": "辣妹风",
+        "trend_relevance": "夏季流行款，符合当下辣妹风和度假风趋势"
+      },
+      "colors": {
+        "primary_color": "玫红",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "高饱和鲜艳",
+        "color_season": "春暖"
+      },
+      "material": {
+        "primary_fabric": "雪纺",
+        "fabric_blend": null,
+        "fabric_weight": "轻薄<150g",
+        "texture": "光滑",
+        "drape": "飘逸",
+        "elasticity": "微弹",
+        "transparency": "不透",
+        "hand_feel_guess": "顺滑冰凉"
+      },
+      "construction": {
+        "silhouette": "X型",
+        "fit": "修身",
+        "length": "超长及踝",
+        "neckline": "挂脖",
+        "sleeve_type": "无袖",
+        "waistline": "高腰",
+        "hem": "高开叉",
+        "back_design": "露背",
+        "closure": "无"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [
+          "金属扣"
+        ],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [
+          "褶皱"
+        ],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "热情洋溢的度假风情，性感而充满活力",
+        "design_highlight": "挂脖露脐上衣与高开叉半裙的组合，展现腰部和腿部线条",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "沙漏形",
+          "直筒型"
+        ],
+        "flattering_features": "高腰线拉长腿部比例，高开叉设计修饰腿部线条，露脐设计展现腰部曲线",
+        "size_range_guess": "S-L"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "18-30岁追求时尚、热爱度假和派对的年轻女性",
+        "selling_points": [
+          "高饱和玫红色，吸睛亮眼",
+          "挂脖露脐设计，性感时尚",
+          "高开叉半裙，修饰腿部线条",
+          "轻薄飘逸面料，适合夏季穿着",
+          "度假、派对多场合适用"
+        ],
+        "similar_brands_style": "类似Shein、Zaful等快时尚品牌风格",
+        "coordination_suggestions": [
+          "搭配金色细带凉鞋和同色系手拿包，打造派对女王范。",
+          "搭配草编帽和沙滩凉鞋，营造海滩度假风情。",
+          "搭配简约耳饰和手链，突出整体造型的精致感。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款玫红色挂脖露脐上衣高开叉半裙两件套性感度假风套装女",
+        "search_keywords": [
+          "玫红色套装",
+          "挂脖上衣",
+          "露脐装",
+          "高开叉半裙",
+          "性感套装",
+          "度假风",
+          "派对穿搭",
+          "沙滩裙",
+          "两件套",
+          "夏季女装"
+        ],
+        "hashtags": [
+          "#辣妹风",
+          "#度假穿搭",
+          "#派对女王",
+          "#玫红色",
+          "#性感套装",
+          "#夏季必备",
+          "#高开叉",
+          "#露脐装"
+        ],
+        "description": "这款2024夏季新款玫红色挂脖露脐上衣高开叉半裙两件套，采用轻薄飘逸面料，触感顺滑冰凉，穿着舒适。独特的挂脖露脐设计搭配高开叉半裙，完美展现女性的性感魅力和修长身姿。高饱和度的玫红色吸睛亮眼，无论是海滩度假、泳池派对还是日常约会，都能让你成为焦点。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "玫红"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_011.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1233
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "衬衫套装",
+        "gender": "女装",
+        "age_range": "25-45",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "约会",
+          "正式商务"
+        ]
+      },
+      "style": {
+        "primary_style": "商务",
+        "secondary_styles": [
+          "极简",
+          "休闲"
+        ],
+        "aesthetic": "静奢",
+        "trend_relevance": "经典百搭款，不受潮流影响，符合当下静奢风潮"
+      },
+      "colors": {
+        "primary_color": "黑色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "中性色调",
+        "color_saturation": "无彩色",
+        "color_season": "百搭"
+      },
+      "material": {
+        "primary_fabric": "醋酸",
+        "fabric_blend": null,
+        "fabric_weight": "中等150-250g",
+        "texture": "哑光",
+        "drape": "柔软垂坠",
+        "elasticity": "微弹",
+        "transparency": "不透",
+        "hand_feel_guess": "顺滑冰凉"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "宽松",
+        "length": "常规",
+        "neckline": "翻领",
+        "sleeve_type": "短袖",
+        "waistline": "中腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "前纽扣"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "简约大气的都市通勤感，透露出低调的奢华。",
+        "design_highlight": "宽松舒适的版型与垂坠感面料的结合，营造出随性而不失精致的风格。",
+        "visual_weight": "适中"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型"
+        ],
+        "flattering_features": "宽松版型遮肉显瘦，H型廓形修饰身形，适合多种体型。",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "中端150-500",
+        "target_audience": "25-45岁追求品质与舒适的都市女性，注重职场与日常穿搭的平衡。",
+        "selling_points": [
+          "醋酸面料，垂坠感好，不易皱",
+          "宽松版型，舒适不挑身材",
+          "经典黑色，百搭显瘦",
+          "可拆分搭配，实用性强",
+          "静奢风格，提升气质"
+        ],
+        "similar_brands_style": "类似Zara、COS的基础款风格，偏向Theory的简约商务风。",
+        "coordination_suggestions": [
+          "搭配尖头高跟鞋和手提包，打造干练职场造型。",
+          "内搭白色T恤，解开衬衫纽扣，搭配小白鞋，营造休闲度假风。",
+          "衬衫单独搭配半裙，裤子单独搭配针织衫，实现多场景穿搭。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款醋酸衬衫套装女 宽松显瘦休闲通勤黑色短袖衬衣阔腿裤两件套",
+        "search_keywords": [
+          "醋酸套装",
+          "黑色衬衫",
+          "阔腿裤",
+          "女装套装",
+          "通勤套装",
+          "宽松衬衫",
+          "休闲套装",
+          "静奢风",
+          "夏季套装",
+          "两件套"
+        ],
+        "hashtags": [
+          "#醋酸套装",
+          "#静奢风",
+          "#通勤穿搭",
+          "#黑色系",
+          "#极简主义",
+          "#夏日穿搭",
+          "#职场穿搭"
+        ],
+        "description": "这款醋酸衬衫套装，采用优质醋酸面料，手感顺滑，垂坠感极佳，不易起皱。宽松版型设计，舒适不挑身材，经典黑色百搭显瘦。短袖衬衫搭配高腰阔腿裤，无论是日常通勤还是休闲约会，都能轻松打造出高级感十足的静奢风格。一套多穿，实用百搭，是您衣橱不可或缺的时尚单品。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "黑色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_013.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1240
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "衬衫半裙套装",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "春",
+          "夏"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "约会",
+          "海滩度假"
+        ]
+      },
+      "style": {
+        "primary_style": "休闲",
+        "secondary_styles": [
+          "甜美",
+          "度假"
+        ],
+        "aesthetic": null,
+        "trend_relevance": "经典休闲套装款式，受潮流影响较小"
+      },
+      "colors": {
+        "primary_color": "粉色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "中等",
+        "color_season": "春暖"
+      },
+      "material": {
+        "primary_fabric": "纯棉",
+        "fabric_blend": null,
+        "fabric_weight": "轻薄<150g",
+        "texture": "光滑",
+        "drape": "柔软垂坠",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "宽松",
+        "length": "常规",
+        "neckline": "翻领",
+        "sleeve_type": "短袖",
+        "waistline": "高腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "前纽扣"
+      },
+      "design_details": {
+        "pattern_type": "条纹",
+        "pattern_description": "细条纹",
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "清新甜美的休闲度假感",
+        "design_highlight": "短款衬衫与高腰半裙的搭配，优化身材比例",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "沙漏形",
+          "直筒型"
+        ],
+        "flattering_features": "高腰线拉长腿部比例，宽松版型遮肉显瘦",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "25-35岁追求舒适休闲风格的女性",
+        "selling_points": [
+          "清新粉色细条纹设计",
+          "短款衬衫搭配高腰半裙，显高显瘦",
+          "柔软亲肤面料，穿着舒适",
+          "适合日常通勤和休闲度假"
+        ],
+        "similar_brands_style": "类似Zara、H&M的休闲套装风格",
+        "coordination_suggestions": [
+          "搭配平底凉鞋和草编包，打造度假风。",
+          "搭配小白鞋和帆布包，适合日常休闲。",
+          "搭配简约项链和耳环，增加精致感。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款粉色细条纹短袖衬衫高腰半身裙两件套女休闲时尚套装",
+        "search_keywords": [
+          "粉色套装",
+          "条纹衬衫",
+          "高腰半裙",
+          "休闲套装",
+          "夏季女装",
+          "度假风",
+          "两件套",
+          "时尚套装",
+          "显瘦套装",
+          "日常通勤"
+        ],
+        "hashtags": [
+          "#粉色套装",
+          "#夏季穿搭",
+          "#休闲时尚",
+          "#度假风",
+          "#显瘦套装",
+          "#条纹控",
+          "#高腰半裙"
+        ],
+        "description": "这款夏季新款粉色细条纹套装，采用柔软亲肤面料，穿着舒适透气。短款衬衫搭配高腰半身裙，巧妙优化身材比例，显高显瘦。清新甜美的粉色细条纹设计，无论是日常通勤、休闲逛街还是海滩度假，都能轻松打造时尚优雅造型，是您衣橱不可或缺的百搭单品。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "粉色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_014.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1143
+      }
+    },
+    {
+      "basic_info": {
+        "category": "连衣裙",
+        "subcategory": "吊带连衣裙",
+        "gender": "女装",
+        "age_range": "25-45",
+        "season": [
+          "夏"
+        ],
+        "occasion": [
+          "海滩度假",
+          "休闲逛街",
+          "约会"
+        ]
+      },
+      "style": {
+        "primary_style": "波西米亚",
+        "secondary_styles": [
+          "甜美",
+          "休闲"
+        ],
+        "aesthetic": "多巴胺",
+        "trend_relevance": "亮色系和度假风是夏季的经典流行元素，花朵装饰增加了时尚感。"
+      },
+      "colors": {
+        "primary_color": "亮黄色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "高饱和鲜艳",
+        "color_season": "春暖"
+      },
+      "material": {
+        "primary_fabric": "棉麻混纺",
+        "fabric_blend": null,
+        "fabric_weight": "轻薄<150g",
+        "texture": "肌理感",
+        "drape": "柔软垂坠",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "A型",
+        "fit": "宽松",
+        "length": "超长及踝",
+        "neckline": "吊带",
+        "sleeve_type": "无袖",
+        "waistline": "无腰线",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "套头"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [
+          "立体花朵"
+        ],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [
+          "褶皱"
+        ],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "充满活力和度假感的甜美飘逸长裙。",
+        "design_highlight": "胸前立体花朵装饰和亮眼的黄色。",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型"
+        ],
+        "flattering_features": "宽松版型遮盖腰腹和臀部，高腰线视觉上拉长身形。",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "25-40岁追求时尚、热爱度假和休闲风格的女性。",
+        "selling_points": [
+          "亮眼多巴胺黄色，吸睛度高",
+          "胸前立体花朵设计，甜美独特",
+          "宽松飘逸版型，舒适遮肉",
+          "轻薄面料，适合夏季穿着",
+          "度假风情浓郁，拍照出片"
+        ],
+        "similar_brands_style": "类似Zara、H&M的度假系列风格。",
+        "coordination_suggestions": [
+          "搭配草编帽和凉鞋，打造完美的沙滩度假造型。",
+          "搭配白色帆布鞋和简约手提包，适合日常休闲逛街。",
+          "搭配精致耳环和高跟凉鞋，出席夏季派对或约会。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款多巴胺亮黄色吊带连衣裙女海边度假风立体花朵宽松长裙",
+        "search_keywords": [
+          "亮黄色连衣裙",
+          "吊带长裙",
+          "度假风连衣裙",
+          "立体花朵",
+          "宽松连衣裙",
+          "沙滩裙",
+          "夏季连衣裙",
+          "多巴胺穿搭",
+          "波西米亚长裙",
+          "显瘦连衣裙"
+        ],
+        "hashtags": [
+          "#多巴胺穿搭",
+          "#度假风",
+          "#亮黄色",
+          "#吊带长裙",
+          "#夏季必备",
+          "#海边穿搭",
+          "#花朵连衣裙"
+        ],
+        "description": "这款亮黄色吊带连衣裙是您夏季衣橱的活力之选。采用轻薄面料，触感柔软亲肤，宽松飘逸的版型舒适遮肉。胸前精致的立体花朵设计，增添甜美与浪漫气息。无论是海边度假、休闲逛街还是日常约会，都能让您成为人群中的焦点，轻松打造多巴胺穿搭风格。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "亮黄色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_015.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1206
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "衬衫套装",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "约会",
+          "海滩度假"
+        ]
+      },
+      "style": {
+        "primary_style": "休闲",
+        "secondary_styles": [
+          "极简",
+          "欧美"
+        ],
+        "aesthetic": "静奢",
+        "trend_relevance": "经典休闲套装，不受潮流影响，但配色符合美拉德趋势"
+      },
+      "colors": {
+        "primary_color": "深棕色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "中等",
+        "color_season": "秋暖"
+      },
+      "material": {
+        "primary_fabric": "亚麻",
+        "fabric_blend": null,
+        "fabric_weight": "轻薄<150g",
+        "texture": "肌理感",
+        "drape": "柔软垂坠",
+        "elasticity": "无弹",
+        "transparency": "微透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "宽松",
+        "length": "常规",
+        "neckline": "翻领",
+        "sleeve_type": "长袖",
+        "waistline": "中腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "前纽扣"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "慵懒随性的都市休闲感，透露出低调的质感。",
+        "design_highlight": "宽松舒适的版型和亚麻面料带来的自然垂坠感。",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型"
+        ],
+        "flattering_features": "宽松版型不挑身材，遮肉显瘦，高腰裤型拉长腿部比例。",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "中端150-500",
+        "target_audience": "25-35岁追求舒适、时尚且注重面料质感的都市女性。",
+        "selling_points": [
+          "舒适透气的亚麻面料",
+          "宽松版型不挑身材",
+          "百搭纯色设计",
+          "可拆分搭配，实用性强",
+          "慵懒随性风格"
+        ],
+        "similar_brands_style": "类似Zara、H&M的休闲套装风格，偏向COS的极简质感。",
+        "coordination_suggestions": [
+          "内搭白色吊带，搭配凉鞋和草编包，打造度假风。",
+          "内搭黑色修身T恤，搭配乐福鞋和简约手提包，适合日常通勤。",
+          "解开衬衫纽扣作为开衫，内搭同色系背心，搭配高跟鞋，更显时尚。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款亚麻衬衫套装女宽松休闲长袖衬衣阔腿裤两件套度假风",
+        "search_keywords": [
+          "亚麻套装",
+          "女装衬衫",
+          "阔腿裤",
+          "休闲套装",
+          "度假风",
+          "宽松版型",
+          "夏季新款",
+          "两件套",
+          "深棕色",
+          "舒适透气"
+        ],
+        "hashtags": [
+          "#亚麻套装",
+          "#休闲穿搭",
+          "#度假风",
+          "#静奢风",
+          "#不挑身材",
+          "#夏季必备"
+        ],
+        "description": "这款亚麻衬衫套装采用舒适透气的亚麻面料，带来轻盈凉爽的穿着体验。宽松的版型设计，不挑身材，完美修饰身形。简约的纯色设计，无论是日常通勤还是海边度假，都能轻松打造慵懒随性的时尚造型。衬衫和阔腿裤可拆分搭配，实用性强，是您衣橱不可或缺的百搭单品。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "深棕色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_017.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1207
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "衬衫套装",
+        "gender": "女装",
+        "age_range": "25-45",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "约会",
+          "正式商务"
+        ]
+      },
+      "style": {
+        "primary_style": "商务",
+        "secondary_styles": [
+          "休闲",
+          "极简"
+        ],
+        "aesthetic": "老钱风",
+        "trend_relevance": "经典款式，结合流行色系，具有较高的潮流相关度"
+      },
+      "colors": {
+        "primary_color": "焦糖色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "中等",
+        "color_season": "秋暖"
+      },
+      "material": {
+        "primary_fabric": "醋酸",
+        "fabric_blend": null,
+        "fabric_weight": "中等150-250g",
+        "texture": "光滑",
+        "drape": "柔软垂坠",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "顺滑冰凉"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "宽松",
+        "length": "常规",
+        "neckline": "西装领",
+        "sleeve_type": "七分袖",
+        "waistline": "中腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "前纽扣"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "优雅知性的都市通勤感，兼具休闲舒适。",
+        "design_highlight": "宽松舒适的版型与垂坠感面料的结合，营造出随性而高级的氛围。",
+        "visual_weight": "适中"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型"
+        ],
+        "flattering_features": "宽松版型不挑身材，遮肉显瘦；垂坠感面料修饰身形。",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "中端150-500",
+        "target_audience": "25-45岁追求舒适与时尚兼具的都市女性，注重品质与设计感。",
+        "selling_points": [
+          "醋酸面料，垂坠顺滑，穿着舒适",
+          "焦糖色系，时尚百搭，提升气质",
+          "宽松版型，不挑身材，遮肉显瘦",
+          "套装设计，省去搭配烦恼，轻松打造高级感"
+        ],
+        "similar_brands_style": "类似Zara、Massimo Dutti的商务休闲风格",
+        "coordination_suggestions": [
+          "搭配金色项链和手镯，提升整体精致度。",
+          "搭配同色系或米白色高跟鞋，拉长腿部线条，更显优雅。",
+          "搭配设计感手提包，增加时尚亮点。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024秋季新款醋酸焦糖色衬衫套装女 宽松垂坠感西装领七分袖上衣阔腿裤两件套",
+        "search_keywords": [
+          "醋酸套装",
+          "焦糖色套装",
+          "衬衫套装女",
+          "宽松套装",
+          "阔腿裤套装",
+          "西装领衬衫",
+          "垂坠感面料",
+          "通勤套装",
+          "休闲套装",
+          "高级感套装"
+        ],
+        "hashtags": [
+          "#醋酸套装",
+          "#焦糖色穿搭",
+          "#通勤穿搭",
+          "#老钱风",
+          "#气质套装",
+          "#宽松显瘦",
+          "#时尚套装"
+        ],
+        "description": "这款焦糖色醋酸衬衫套装，采用优质醋酸面料，手感顺滑，垂坠感极佳，穿着舒适透气。宽松的西装领七分袖衬衫搭配高腰阔腿裤，H型廓形不挑身材，轻松遮肉显瘦。焦糖色调优雅复古，无论是日常通勤还是休闲约会，都能轻松打造出高级感十足的时尚造型。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "焦糖色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_018.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1229
+      }
+    },
+    {
+      "basic_info": {
+        "category": "连衣裙",
+        "subcategory": "宽松连衣裙",
+        "gender": "女装",
+        "age_range": "25-45",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "海滩度假"
+        ]
+      },
+      "style": {
+        "primary_style": "休闲",
+        "secondary_styles": [
+          "度假",
+          "极简"
+        ],
+        "aesthetic": null,
+        "trend_relevance": "经典条纹元素，不受潮流影响，常年流行"
+      },
+      "colors": {
+        "primary_color": "天蓝",
+        "secondary_colors": [
+          "白色"
+        ],
+        "color_scheme": "条纹",
+        "color_temperature": "冷色调",
+        "color_saturation": "中等",
+        "color_season": "夏冷"
+      },
+      "material": {
+        "primary_fabric": "纯棉",
+        "fabric_blend": null,
+        "fabric_weight": "轻薄<150g",
+        "texture": "光滑",
+        "drape": "柔软垂坠",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "O型",
+        "fit": "oversized",
+        "length": "长款",
+        "neckline": "V领",
+        "sleeve_type": "五分袖",
+        "waistline": "无腰线",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "套头"
+      },
+      "design_details": {
+        "pattern_type": "条纹",
+        "pattern_description": "蓝白竖条纹",
+        "decorations": [],
+        "pockets": "插袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "宽松舒适的休闲度假感，简约而不失时尚。",
+        "design_highlight": "宽松的Oversized廓形和经典的蓝白条纹。",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型",
+          "沙漏形"
+        ],
+        "flattering_features": "宽松版型遮肉显瘦，V领修饰颈部线条。",
+        "size_range_guess": "均码/大码友好"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "25-45岁追求舒适休闲风格的女性",
+        "selling_points": [
+          "经典蓝白条纹，永不过时",
+          "宽松Oversized版型，不挑身材",
+          "V领设计，修饰脸型和颈部",
+          "柔软亲肤面料，穿着舒适",
+          "适合多场合穿着，休闲度假通勤皆宜"
+        ],
+        "similar_brands_style": "类似优衣库、H&M等快时尚品牌的基础款风格",
+        "coordination_suggestions": [
+          "搭配草编帽和凉鞋，打造海滩度假风。",
+          "搭配小白鞋和帆布包，适合日常休闲逛街。",
+          "搭配简约项链和手镯，提升精致感。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款蓝白条纹V领宽松连衣裙女中长款休闲度假风大码显瘦长裙",
+        "search_keywords": [
+          "条纹连衣裙",
+          "宽松长裙",
+          "V领连衣裙",
+          "度假风连衣裙",
+          "大码连衣裙",
+          "休闲连衣裙",
+          "夏季连衣裙",
+          "蓝白条纹",
+          "oversize连衣裙",
+          "舒适连衣裙"
+        ],
+        "hashtags": [
+          "#条纹连衣裙",
+          "#度假风",
+          "#宽松长裙",
+          "#V领",
+          "#夏季穿搭",
+          "#休闲时尚",
+          "#不挑身材"
+        ],
+        "description": "这款夏季新款蓝白条纹V领连衣裙，采用柔软亲肤面料，带来极致舒适的穿着体验。宽松的Oversized版型设计，完美遮肉显瘦，不挑身材。经典的蓝白条纹元素，时尚百搭，无论是日常通勤、休闲逛街还是海滩度假，都能轻松打造优雅舒适的造型。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "蓝白条纹"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_019.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1172
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "衬衫半裙套装",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "春",
+          "夏"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "约会",
+          "海滩度假"
+        ]
+      },
+      "style": {
+        "primary_style": "休闲",
+        "secondary_styles": [
+          "简约",
+          "度假"
+        ],
+        "aesthetic": null,
+        "trend_relevance": "经典休闲款，不受潮流影响"
+      },
+      "colors": {
+        "primary_color": "粉色",
+        "secondary_colors": [
+          "白色"
+        ],
+        "color_scheme": "条纹",
+        "color_temperature": "暖色调",
+        "color_saturation": "中等",
+        "color_season": "春暖"
+      },
+      "material": {
+        "primary_fabric": "纯棉",
+        "fabric_blend": null,
+        "fabric_weight": "中等150-250g",
+        "texture": "光滑",
+        "drape": "适中",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "宽松",
+        "length": "常规",
+        "neckline": "翻领",
+        "sleeve_type": "短袖",
+        "waistline": "高腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "前纽扣"
+      },
+      "design_details": {
+        "pattern_type": "条纹",
+        "pattern_description": "细条纹",
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "清新舒适的休闲度假感",
+        "design_highlight": "短款衬衫与高腰半裙的搭配，优化身材比例",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "沙漏形",
+          "直筒型"
+        ],
+        "flattering_features": "高腰线拉长腿部比例，宽松版型遮肉显瘦",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "25-35岁追求舒适休闲风格的女性",
+        "selling_points": [
+          "清新条纹设计",
+          "舒适透气面料",
+          "短款上衣搭配高腰半裙，显高显瘦",
+          "适合多种休闲场合"
+        ],
+        "similar_brands_style": "类似Zara基础款风格",
+        "coordination_suggestions": [
+          "搭配平底凉鞋和草编包，打造度假风。",
+          "搭配小白鞋和帆布包，适合日常休闲。",
+          "搭配精致项链和手链，增加时尚感。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款粉色条纹短袖衬衫高腰半身裙两件套女休闲时尚套装",
+        "search_keywords": [
+          "粉色套装",
+          "条纹衬衫",
+          "高腰半裙",
+          "休闲套装",
+          "夏季女装",
+          "两件套",
+          "时尚通勤",
+          "度假风"
+        ],
+        "hashtags": [
+          "#粉色套装",
+          "#条纹控",
+          "#夏季穿搭",
+          "#休闲时尚",
+          "#显高显瘦",
+          "#度假风"
+        ],
+        "description": "这款夏季新款粉色条纹套装，采用舒适透气的面料，短袖衬衫搭配高腰半身裙，巧妙优化身材比例，显高显瘦。清新条纹设计，无论是日常通勤、休闲逛街还是海边度假，都能轻松打造时尚舒适的造型，是您衣橱不可或缺的百搭单品。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "粉色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_020.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1094
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "西装马甲套装",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "约会",
+          "派对"
+        ]
+      },
+      "style": {
+        "primary_style": "商务",
+        "secondary_styles": [
+          "休闲",
+          "甜美"
+        ],
+        "aesthetic": "null",
+        "trend_relevance": "经典款与流行元素结合，具有一定的潮流感"
+      },
+      "colors": {
+        "primary_color": "白色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "中性色调",
+        "color_saturation": "无彩色",
+        "color_season": "百搭"
+      },
+      "material": {
+        "primary_fabric": "null",
+        "fabric_blend": "null",
+        "fabric_weight": "中等150-250g",
+        "texture": "光滑",
+        "drape": "适中",
+        "elasticity": "微弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "X型",
+        "fit": "修身",
+        "length": "短款",
+        "neckline": "V领",
+        "sleeve_type": "无袖",
+        "waistline": "高腰",
+        "hem": "平摆",
+        "back_design": "null",
+        "closure": "前纽扣"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": "null",
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "干净利落的都市时尚感，兼具甜美与干练",
+        "design_highlight": "西装马甲与百褶短裙的组合，既有正式感又不失活泼",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "沙漏形",
+          "直筒型"
+        ],
+        "flattering_features": "高腰线拉长腿部比例，V领修饰颈部线条",
+        "size_range_guess": "S-L"
+      },
+      "commercial": {
+        "price_tier": "中端150-500",
+        "target_audience": "25-35岁追求时尚、注重品质的都市女性",
+        "selling_points": [
+          "时尚西装马甲与百褶裙套装",
+          "修身显瘦版型，拉长身材比例",
+          "经典白色，百搭易穿",
+          "适合多种场合穿着"
+        ],
+        "similar_brands_style": "类似Zara、H&M等快时尚品牌风格",
+        "coordination_suggestions": [
+          "搭配高跟鞋和精致手提包，打造通勤OL风。",
+          "搭配小白鞋和帆布包，营造休闲度假感。",
+          "内搭一件亮色吊带，增加层次感和时尚度。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款白色西装马甲百褶短裙套装女时尚修身显瘦两件套",
+        "search_keywords": [
+          "西装马甲套装",
+          "百褶裙",
+          "白色套装",
+          "女装",
+          "夏季新款",
+          "修身显瘦",
+          "时尚通勤",
+          "两件套",
+          "无袖马甲",
+          "高腰短裙"
+        ],
+        "hashtags": [
+          "#西装马甲",
+          "#百褶裙",
+          "#白色套装",
+          "#通勤穿搭",
+          "#夏日时尚",
+          "#显瘦穿搭",
+          "#气质穿搭"
+        ],
+        "description": "这款夏季新款白色西装马甲百褶短裙套装，采用优质面料，穿着舒适透气。修身版型设计，V领马甲搭配高腰百褶短裙，完美修饰身材比例，展现女性干练与甜美。无论是日常通勤、约会还是休闲逛街，都能轻松打造时尚造型。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "白色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_021.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1151
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "衬衫套装",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "约会",
+          "海滩度假"
+        ]
+      },
+      "style": {
+        "primary_style": "休闲",
+        "secondary_styles": [
+          "极简",
+          "欧美"
+        ],
+        "aesthetic": "静奢",
+        "trend_relevance": "经典休闲套装，不受潮流影响，但配色符合美拉德趋势"
+      },
+      "colors": {
+        "primary_color": "深棕色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "中等",
+        "color_season": "秋暖"
+      },
+      "material": {
+        "primary_fabric": "亚麻",
+        "fabric_blend": null,
+        "fabric_weight": "轻薄<150g",
+        "texture": "肌理感",
+        "drape": "柔软垂坠",
+        "elasticity": "无弹",
+        "transparency": "微透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "宽松",
+        "length": "常规",
+        "neckline": "翻领",
+        "sleeve_type": "长袖",
+        "waistline": "中腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "前纽扣"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "慵懒随性的都市休闲感，透露出低调的质感。",
+        "design_highlight": "宽松舒适的版型和天然面料的肌理感。",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型"
+        ],
+        "flattering_features": "宽松版型遮肉显瘦，适合多种体型。",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "中端150-500",
+        "target_audience": "25-35岁追求舒适与时尚兼具的都市女性",
+        "selling_points": [
+          "天然亚麻面料，透气舒适",
+          "宽松版型，不挑身材",
+          "经典衬衫+阔腿裤套装，多种穿搭可能",
+          "深棕色系，高级感十足"
+        ],
+        "similar_brands_style": "类似Zara、H&M的休闲套装风格",
+        "coordination_suggestions": [
+          "内搭白色吊带，搭配凉鞋和草编包，打造度假风。",
+          "内搭黑色背心，搭配乐福鞋和简约手提包，适合通勤。",
+          "解开衬衫纽扣作为开衫，搭配牛仔短裤和T恤，休闲随性。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款亚麻衬衫阔腿裤两件套女 宽松休闲度假风高级感套装",
+        "search_keywords": [
+          "亚麻套装",
+          "衬衫阔腿裤",
+          "休闲套装",
+          "度假风",
+          "宽松显瘦",
+          "夏季女装",
+          "高级感",
+          "深棕色",
+          "两件套",
+          "通勤套装"
+        ],
+        "hashtags": [
+          "#亚麻套装",
+          "#度假风穿搭",
+          "#休闲时尚",
+          "#高级感穿搭",
+          "#衬衫阔腿裤",
+          "#夏季必备"
+        ],
+        "description": "这款夏季新款亚麻衬衫阔腿裤套装，精选天然亚麻面料，轻薄透气，穿着舒适。宽松版型设计，不挑身材，轻松遮肉显瘦。经典衬衫搭配高腰阔腿裤，可休闲可通勤，打造慵懒随性的时尚风格。深棕色系更显高级质感，是您度假或日常穿搭的理想选择。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "深棕色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_022.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1172
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "休闲套装",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "海滩度假",
+          "居家"
+        ]
+      },
+      "style": {
+        "primary_style": "波西米亚",
+        "secondary_styles": [
+          "民族风",
+          "休闲"
+        ],
+        "aesthetic": null,
+        "trend_relevance": "民族风印花是经典元素，在度假和休闲场景中持续流行"
+      },
+      "colors": {
+        "primary_color": "酒红",
+        "secondary_colors": [
+          "米白"
+        ],
+        "color_scheme": "印花",
+        "color_temperature": "暖色调",
+        "color_saturation": "中等",
+        "color_season": "秋暖"
+      },
+      "material": {
+        "primary_fabric": "纯棉",
+        "fabric_blend": null,
+        "fabric_weight": "中等150-250g",
+        "texture": "肌理感",
+        "drape": "柔软垂坠",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "宽松",
+        "length": "长款",
+        "neckline": "V领",
+        "sleeve_type": "短袖",
+        "waistline": "中腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "套头"
+      },
+      "design_details": {
+        "pattern_type": "民族风",
+        "pattern_description": "酒红色底，米白色几何与抽象民族图腾印花",
+        "decorations": [
+          "系带"
+        ],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [
+          "印花"
+        ],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "充满异域风情的休闲度假感",
+        "design_highlight": "独特的民族风印花和宽松舒适的版型",
+        "visual_weight": "适中"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型"
+        ],
+        "flattering_features": "宽松版型遮肉显瘦，V领修饰颈部线条",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "25-35岁追求舒适与个性的女性，喜爱民族风和度假风格",
+        "selling_points": [
+          "民族风印花设计独特",
+          "宽松版型舒适不挑身材",
+          "纯棉面料亲肤透气",
+          "适合度假和日常休闲穿着"
+        ],
+        "similar_brands_style": "类似Zara度假系列、H&M民族风系列",
+        "coordination_suggestions": [
+          "搭配草编包和凉鞋，打造海滩度假风",
+          "搭配简约小白鞋和帆布包，适合日常休闲",
+          "搭配金色配饰，提升整体精致感"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款民族风印花V领短袖上衣阔腿裤两件套女休闲度假套装",
+        "search_keywords": [
+          "民族风套装",
+          "印花套装",
+          "V领短袖",
+          "阔腿裤",
+          "休闲套装",
+          "度假风",
+          "宽松显瘦",
+          "纯棉套装",
+          "夏季女装",
+          "波西米亚"
+        ],
+        "hashtags": [
+          "#民族风",
+          "#度假穿搭",
+          "#休闲套装",
+          "#印花时尚",
+          "#波西米亚风",
+          "#夏日穿搭",
+          "#舒适穿搭"
+        ],
+        "description": "这款民族风印花休闲套装，采用舒适透气的纯棉面料，酒红色底搭配米白色几何图腾，充满异域风情。V领短袖上衣与宽松阔腿裤的组合，不仅修饰身形，更带来极致的穿着体验。无论是海边度假还是日常休闲，都能轻松打造时尚舒适的造型。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "酒红"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_023.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1101
+      }
+    },
+    {
+      "basic_info": {
+        "category": "连衣裙",
+        "subcategory": "单肩连衣裙",
+        "gender": "女装",
+        "age_range": "25-45",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "约会",
+          "派对",
+          "正式商务",
+          "日常通勤"
+        ]
+      },
+      "style": {
+        "primary_style": "优雅",
+        "secondary_styles": [
+          "通勤",
+          "轻奢"
+        ],
+        "aesthetic": null,
+        "trend_relevance": "经典优雅款，不受潮流影响，紫色是近年流行色之一"
+      },
+      "colors": {
+        "primary_color": "紫色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "冷色调",
+        "color_saturation": "中等",
+        "color_season": "冬冷"
+      },
+      "material": {
+        "primary_fabric": "雪纺",
+        "fabric_blend": null,
+        "fabric_weight": "轻薄<150g",
+        "texture": "光滑",
+        "drape": "柔软垂坠",
+        "elasticity": "微弹",
+        "transparency": "不透",
+        "hand_feel_guess": "顺滑冰凉"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "修身",
+        "length": "中长",
+        "neckline": "一字肩",
+        "sleeve_type": "无袖",
+        "waistline": "高腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "侧拉链"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [
+          "褶皱"
+        ],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "优雅大气的都市女性形象，充满自信与魅力。",
+        "design_highlight": "独特的单肩设计和腰部褶皱收腰。",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "沙漏形",
+          "直筒型"
+        ],
+        "flattering_features": "单肩设计修饰肩颈线条，高腰线拉长腿部比例，腰部褶皱修饰腰腹。",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "中端150-500",
+        "target_audience": "25-45岁追求优雅、时尚的都市女性",
+        "selling_points": [
+          "优雅单肩设计，展现肩颈线条",
+          "高腰收褶，修饰身形，拉长比例",
+          "垂坠感面料，穿着舒适显气质",
+          "经典紫色，时尚百搭"
+        ],
+        "similar_brands_style": "类似Zara、Massimo Dutti的通勤优雅风格",
+        "coordination_suggestions": [
+          "搭配同色系高跟鞋和精致手拿包，出席晚宴或派对。",
+          "搭配简约耳饰和手链，打造精致约会造型。",
+          "搭配一件修身西装外套，适合商务休闲场合。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024新款优雅单肩连衣裙女夏高腰修身显瘦中长款紫色气质通勤礼服裙",
+        "search_keywords": [
+          "单肩连衣裙",
+          "紫色连衣裙",
+          "修身连衣裙",
+          "高腰连衣裙",
+          "中长款连衣裙",
+          "气质连衣裙",
+          "通勤连衣裙",
+          "礼服裙",
+          "优雅连衣裙",
+          "褶皱连衣裙"
+        ],
+        "hashtags": [
+          "#单肩连衣裙",
+          "#紫色穿搭",
+          "#优雅气质",
+          "#通勤时尚",
+          "#约会穿搭",
+          "#显瘦连衣裙",
+          "#中长裙"
+        ],
+        "description": "这款优雅单肩连衣裙，采用垂坠感面料，触感顺滑亲肤。独特的单肩设计搭配腰部精致褶皱，巧妙修饰身形，拉长腿部比例。经典紫色调，无论是日常通勤、约会还是出席派对，都能轻松展现您的自信与魅力，是您衣橱不可或缺的时尚单品。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "紫色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_024.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1160
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "衬衫套装",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "约会"
+        ]
+      },
+      "style": {
+        "primary_style": "休闲",
+        "secondary_styles": [
+          "极简",
+          "欧美"
+        ],
+        "aesthetic": "null",
+        "trend_relevance": "经典条纹元素，属于经典百搭款，不受潮流影响，但宽松版型符合当下舒适穿搭趋势。"
+      },
+      "colors": {
+        "primary_color": "牛仔蓝",
+        "secondary_colors": [
+          "白色"
+        ],
+        "color_scheme": "条纹",
+        "color_temperature": "冷色调",
+        "color_saturation": "中等",
+        "color_season": "百搭"
+      },
+      "material": {
+        "primary_fabric": "牛仔",
+        "fabric_blend": "null",
+        "fabric_weight": "中等150-250g",
+        "texture": "水洗做旧",
+        "drape": "适中",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "宽松",
+        "length": "常规",
+        "neckline": "翻领",
+        "sleeve_type": "长袖",
+        "waistline": "中腰",
+        "hem": "平摆",
+        "back_design": "null",
+        "closure": "前纽扣"
+      },
+      "design_details": {
+        "pattern_type": "条纹",
+        "pattern_description": "细条纹",
+        "decorations": [],
+        "pockets": "胸袋",
+        "stitching": "常规",
+        "craft_techniques": [
+          "水洗"
+        ],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "随性舒适的都市休闲感，不失时尚度。",
+        "design_highlight": "经典的细条纹与宽松版型结合，打造慵懒随性的时尚感。",
+        "visual_weight": "适中"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型"
+        ],
+        "flattering_features": "宽松版型遮肉显瘦，直筒裤型修饰腿部线条。",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "中端150-500",
+        "target_audience": "25-35岁追求舒适与时尚兼具的都市女性",
+        "selling_points": [
+          "经典条纹设计，永不过时",
+          "宽松版型，舒适不挑身材",
+          "水洗牛仔面料，柔软亲肤",
+          "套装搭配，省心时尚"
+        ],
+        "similar_brands_style": "类似Zara、H&M等快时尚品牌的基础款风格",
+        "coordination_suggestions": [
+          "搭配白色T恤内搭，解开衬衫纽扣，打造层次感。",
+          "搭配小白鞋或乐福鞋，更显休闲舒适。",
+          "搭配简约手提包或斜挎包，提升整体造型感。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024春夏季新款女装时尚休闲条纹衬衫阔腿裤两件套宽松水洗牛仔套装",
+        "search_keywords": [
+          "条纹衬衫",
+          "阔腿裤套装",
+          "牛仔套装",
+          "女装休闲套装",
+          "宽松衬衫",
+          "水洗牛仔",
+          "时尚两件套",
+          "春夏季女装",
+          "通勤套装",
+          "慵懒风"
+        ],
+        "hashtags": [
+          "#条纹套装",
+          "#牛仔穿搭",
+          "#休闲时尚",
+          "#春季新款",
+          "#慵懒风穿搭",
+          "#通勤套装",
+          "#OOTD"
+        ],
+        "description": "这款2024春夏季新款女装条纹衬衫阔腿裤套装，采用舒适的水洗牛仔面料，柔软亲肤。经典的细条纹设计搭配宽松版型，时尚百搭不挑身材。无论是日常通勤还是休闲逛街，都能轻松打造随性舒适的都市时尚感。一套解决穿搭烦恼，是您衣橱不可或缺的时尚单品。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "牛仔蓝"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_026.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1184
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "休闲西装套装",
+        "gender": "女装",
+        "age_range": "25-45",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "约会",
+          "派对"
+        ]
+      },
+      "style": {
+        "primary_style": "休闲",
+        "secondary_styles": [
+          "商务",
+          "极简",
+          "欧美"
+        ],
+        "aesthetic": "静奢",
+        "trend_relevance": "经典款与流行色结合，具有一定的潮流感，同时兼具百搭性。"
+      },
+      "colors": {
+        "primary_color": "焦糖色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "中等",
+        "color_season": "秋暖"
+      },
+      "material": {
+        "primary_fabric": "醋酸",
+        "fabric_blend": null,
+        "fabric_weight": "中等150-250g",
+        "texture": "光滑",
+        "drape": "柔软垂坠",
+        "elasticity": "微弹",
+        "transparency": "不透",
+        "hand_feel_guess": "顺滑冰凉"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "宽松",
+        "length": "常规",
+        "neckline": "西装领",
+        "sleeve_type": "七分袖",
+        "waistline": "中腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "前纽扣"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [],
+        "pockets": "插袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "慵懒随性的都市时尚感，兼具舒适与优雅。",
+        "design_highlight": "宽松舒适的版型和垂坠感极佳的面料，营造出高级的休闲感。",
+        "visual_weight": "适中"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型"
+        ],
+        "flattering_features": "宽松版型不挑身材，遮肉显瘦；垂坠感面料修饰身形。",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "中端150-500",
+        "target_audience": "25-45岁追求舒适、时尚和品质的都市女性",
+        "selling_points": [
+          "高级感焦糖色，衬肤显白",
+          "宽松版型，舒适不挑身材",
+          "垂坠感面料，显瘦有质感",
+          "可拆分搭配，多种穿搭可能"
+        ],
+        "similar_brands_style": "类似Zara、Massimo Dutti的休闲商务风格",
+        "coordination_suggestions": [
+          "搭配白色内搭和高跟鞋，打造通勤干练造型。",
+          "搭配黑色吊带和运动鞋，营造休闲街头感。",
+          "上衣可单独搭配牛仔裤，下装可搭配T恤，实现多场景穿搭。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024春夏季新款焦糖色休闲西装套装女 宽松垂坠感七分袖衬衫阔腿裤两件套",
+        "search_keywords": [
+          "焦糖色套装",
+          "休闲西装",
+          "阔腿裤套装",
+          "七分袖衬衫",
+          "垂坠感面料",
+          "宽松套装",
+          "通勤套装",
+          "时尚两件套",
+          "春夏季女装",
+          "高级感套装"
+        ],
+        "hashtags": [
+          "#焦糖色",
+          "#休闲套装",
+          "#阔腿裤",
+          "#静奢风",
+          "#通勤穿搭",
+          "#高级感",
+          "#春夏季",
+          "#不挑身材"
+        ],
+        "description": "这款焦糖色休闲西装套装，精选垂坠感面料，触感顺滑，穿着舒适。宽松的七分袖衬衫搭配高腰阔腿裤，H型廓形不挑身材，轻松遮肉显瘦。焦糖色调高级百搭，无论是日常通勤还是休闲约会，都能轻松打造慵懒随性的都市时尚感。一套两穿，可拆分搭配，是您衣橱不可或缺的时尚单品。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "焦糖色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_028.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1232
+      }
+    },
+    {
+      "basic_info": {
+        "category": "连体裤",
+        "subcategory": "休闲连体裤",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "春",
+          "夏"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "约会",
+          "海滩度假"
+        ]
+      },
+      "style": {
+        "primary_style": "休闲",
+        "secondary_styles": [
+          "极简",
+          "度假"
+        ],
+        "aesthetic": null,
+        "trend_relevance": "经典百搭款，不受潮流影响"
+      },
+      "colors": {
+        "primary_color": "白色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "中性色调",
+        "color_saturation": "无彩色",
+        "color_season": "百搭"
+      },
+      "material": {
+        "primary_fabric": "棉麻混纺",
+        "fabric_blend": null,
+        "fabric_weight": "轻薄<150g",
+        "texture": "肌理感",
+        "drape": "柔软垂坠",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "宽松",
+        "length": "长款",
+        "neckline": "V领",
+        "sleeve_type": "无袖",
+        "waistline": "系带收腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "套头"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [],
+        "pockets": "插袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "简约舒适的休闲度假感",
+        "design_highlight": "V领无袖设计与腰部抽绳收腰，兼顾舒适与修身",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型"
+        ],
+        "flattering_features": "V领修饰颈部线条，宽松版型遮肉显瘦，腰部抽绳可调节腰线",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "25-35岁追求舒适简约风格的女性",
+        "selling_points": [
+          "V领无袖设计，清爽舒适",
+          "腰部抽绳可调节，修饰身形",
+          "宽松版型，不挑身材",
+          "棉麻混纺面料，透气亲肤",
+          "简约纯色，百搭易穿"
+        ],
+        "similar_brands_style": "类似优衣库、H&M的休闲基础款风格",
+        "coordination_suggestions": [
+          "搭配草编帽和凉鞋，打造海滩度假风。",
+          "搭配小白鞋和帆布包，适合日常休闲逛街。",
+          "搭配精致项链和手提包，提升通勤感。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款V领无袖连体裤女宽松休闲纯色棉麻抽绳收腰阔腿裤",
+        "search_keywords": [
+          "连体裤",
+          "无袖",
+          "V领",
+          "棉麻",
+          "宽松",
+          "休闲",
+          "抽绳",
+          "收腰",
+          "阔腿裤",
+          "白色",
+          "夏季",
+          "度假"
+        ],
+        "hashtags": [
+          "#连体裤",
+          "#夏季穿搭",
+          "#休闲风",
+          "#棉麻",
+          "#度假穿搭",
+          "#简约时尚",
+          "#显瘦穿搭"
+        ],
+        "description": "这款夏季新款V领无袖连体裤，采用舒适透气的棉麻混纺面料，带来清爽亲肤的穿着体验。V领设计修饰颈部线条，无袖剪裁更显清凉。腰部抽绳可自由调节，轻松打造显瘦高腰线。宽松阔腿裤版型不挑身材，纯色简约百搭，无论是日常休闲还是度假出行，都能轻松穿出时尚感。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "白色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_029.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1191
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "衬衫半裙套装",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "约会",
+          "海滩度假"
+        ]
+      },
+      "style": {
+        "primary_style": "休闲",
+        "secondary_styles": [
+          "简约",
+          "度假"
+        ],
+        "aesthetic": null,
+        "trend_relevance": "经典简约款，不受潮流影响，但粉色系在春夏有一定流行度"
+      },
+      "colors": {
+        "primary_color": "粉色",
+        "secondary_colors": [
+          "白色"
+        ],
+        "color_scheme": "条纹",
+        "color_temperature": "暖色调",
+        "color_saturation": "中等",
+        "color_season": "春暖"
+      },
+      "material": {
+        "primary_fabric": "纯棉",
+        "fabric_blend": null,
+        "fabric_weight": "中等150-250g",
+        "texture": "光滑",
+        "drape": "适中",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "宽松",
+        "length": "常规",
+        "neckline": "翻领",
+        "sleeve_type": "短袖",
+        "waistline": "高腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "前纽扣"
+      },
+      "design_details": {
+        "pattern_type": "条纹",
+        "pattern_description": "细条纹",
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "清新舒适的休闲度假感",
+        "design_highlight": "短款衬衫与高腰半裙的搭配，拉长身材比例",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "沙漏形",
+          "直筒型"
+        ],
+        "flattering_features": "高腰线拉长腿部比例，宽松版型遮盖腰腹部赘肉",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "25-35岁追求舒适休闲风格的女性",
+        "selling_points": [
+          "舒适透气纯棉面料",
+          "高腰设计显高显瘦",
+          "简约条纹经典百搭",
+          "两件套可分开搭配",
+          "适合多种休闲场合"
+        ],
+        "similar_brands_style": "类似Zara基础款风格",
+        "coordination_suggestions": [
+          "搭配平底凉鞋和草编包，打造度假风情。",
+          "搭配小白鞋和帆布包，适合日常休闲。",
+          "搭配精致项链和手提包，提升通勤感。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款粉色条纹短袖衬衫高腰半身裙两件套女休闲时尚套装",
+        "search_keywords": [
+          "粉色套装",
+          "条纹衬衫",
+          "高腰半裙",
+          "休闲套装",
+          "夏季女装",
+          "两件套",
+          "时尚通勤",
+          "度假风",
+          "纯棉套装",
+          "显瘦套装"
+        ],
+        "hashtags": [
+          "#粉色套装",
+          "#夏季穿搭",
+          "#休闲时尚",
+          "#高腰显瘦",
+          "#度假风",
+          "#条纹控",
+          "#两件套穿搭"
+        ],
+        "description": "这款粉色条纹短袖衬衫高腰半身裙套装，采用舒适透气的纯棉面料，带来清爽穿着体验。短款衬衫搭配高腰半裙，巧妙拉长身材比例，显高显瘦。简约条纹设计经典百搭，无论是日常通勤、休闲逛街还是度假出游，都能轻松打造时尚造型。两件套设计，可分开搭配，实用性强。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "粉色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_030.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1166
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "西装马甲套装",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "约会",
+          "派对",
+          "校园"
+        ]
+      },
+      "style": {
+        "primary_style": "商务",
+        "secondary_styles": [
+          "休闲",
+          "学院",
+          "甜美"
+        ],
+        "aesthetic": "null",
+        "trend_relevance": "经典款式与流行元素结合，具有一定的时尚度，不易过时。"
+      },
+      "colors": {
+        "primary_color": "白色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "中性色调",
+        "color_saturation": "无彩色",
+        "color_season": "百搭"
+      },
+      "material": {
+        "primary_fabric": "null",
+        "fabric_blend": "null",
+        "fabric_weight": "中等150-250g",
+        "texture": "光滑",
+        "drape": "适中",
+        "elasticity": "微弹",
+        "transparency": "不透",
+        "hand_feel_guess": "顺滑"
+      },
+      "construction": {
+        "silhouette": "X型",
+        "fit": "修身",
+        "length": "短款",
+        "neckline": "V领",
+        "sleeve_type": "无袖",
+        "waistline": "高腰",
+        "hem": "平摆",
+        "back_design": "null",
+        "closure": "前纽扣"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": "null",
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "干净利落的都市时尚感，兼具甜美与干练。",
+        "design_highlight": "西装马甲与百褶短裙的组合，既有正式感又不失活泼。",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "沙漏形",
+          "直筒型"
+        ],
+        "flattering_features": "高腰线拉长腿部比例，V领修饰颈部线条，百褶裙摆增加甜美感。",
+        "size_range_guess": "S-L"
+      },
+      "commercial": {
+        "price_tier": "中端150-500",
+        "target_audience": "25-35岁追求时尚、干练且不失甜美的都市女性。",
+        "selling_points": [
+          "时尚西装马甲与百褶裙套装",
+          "修身显瘦，拉长身材比例",
+          "V领设计，修饰颈部线条",
+          "百搭白色，适合多种场合"
+        ],
+        "similar_brands_style": "类似Zara、H&M等快时尚品牌风格",
+        "coordination_suggestions": [
+          "搭配小白鞋和帆布包，打造休闲学院风。",
+          "搭配高跟鞋和精致手提包，适合通勤或约会。",
+          "内搭一件简约T恤，增加层次感。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款白色西装马甲百褶短裙套装女时尚V领无袖修身显瘦两件套",
+        "search_keywords": [
+          "西装马甲套装",
+          "百褶裙",
+          "白色套装",
+          "女装",
+          "夏季新款",
+          "修身显瘦",
+          "V领",
+          "无袖",
+          "时尚套装",
+          "通勤"
+        ],
+        "hashtags": [
+          "#西装马甲",
+          "#百褶裙",
+          "#白色套装",
+          "#通勤穿搭",
+          "#夏日时尚",
+          "#显瘦穿搭",
+          "#学院风"
+        ],
+        "description": "这款2024夏季新款白色西装马甲百褶短裙套装，采用优质面料，手感顺滑，穿着舒适。V领无袖马甲设计，干练修身，搭配高腰百褶短裙，拉长腿部比例，尽显青春活力。无论是日常通勤、休闲逛街还是约会，都能轻松打造时尚造型。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "白色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_031.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1183
+      }
+    },
+    {
+      "basic_info": {
+        "category": "连衣裙",
+        "subcategory": "深V露腰连衣裙",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "夏"
+        ],
+        "occasion": [
+          "约会",
+          "派对",
+          "海滩度假",
+          "休闲逛街"
+        ]
+      },
+      "style": {
+        "primary_style": "欧美",
+        "secondary_styles": [
+          "甜美",
+          "性感",
+          "度假风"
+        ],
+        "aesthetic": "多巴胺",
+        "trend_relevance": "亮色系和露肤设计是夏季流行趋势"
+      },
+      "colors": {
+        "primary_color": "玫红",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "高饱和鲜艳",
+        "color_season": "春暖"
+      },
+      "material": {
+        "primary_fabric": "纯棉",
+        "fabric_blend": null,
+        "fabric_weight": "中等150-250g",
+        "texture": "哑光",
+        "drape": "适中",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "X型",
+        "fit": "修身",
+        "length": "长款",
+        "neckline": "V领",
+        "sleeve_type": "短袖",
+        "waistline": "高腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "侧拉链"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [],
+        "pockets": "插袋",
+        "stitching": "常规",
+        "craft_techniques": [
+          "褶皱"
+        ],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "充满活力和性感的度假风连衣裙，展现女性魅力。",
+        "design_highlight": "深V领和腰部镂空褶皱设计，凸显腰身和性感。",
+        "visual_weight": "适中"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "沙漏形",
+          "直筒型"
+        ],
+        "flattering_features": "深V领修饰颈部线条，高腰线拉长腿部比例，腰部镂空凸显纤细腰身。",
+        "size_range_guess": "S-L"
+      },
+      "commercial": {
+        "price_tier": "中端150-500",
+        "target_audience": "25-35岁追求时尚、热爱度假和派对的都市女性。",
+        "selling_points": [
+          "亮眼玫红色，吸睛度高",
+          "深V露腰设计，性感时尚",
+          "高腰长款，显高显瘦",
+          "褶皱细节，增加设计感",
+          "适合度假和派对穿着"
+        ],
+        "similar_brands_style": "类似Zara、H&M等快时尚品牌夏季系列",
+        "coordination_suggestions": [
+          "搭配高跟凉鞋和手拿包，适合派对或约会。",
+          "搭配平底凉鞋和草编包，打造海滩度假风。",
+          "搭配简约项链和耳环，提升整体精致感。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款玫红色深V露腰褶皱连衣裙女 度假风性感高腰长裙",
+        "search_keywords": [
+          "玫红色连衣裙",
+          "深V连衣裙",
+          "露腰连衣裙",
+          "褶皱连衣裙",
+          "度假风长裙",
+          "性感连衣裙",
+          "高腰连衣裙",
+          "夏季连衣裙",
+          "派对连衣裙",
+          "时尚女装"
+        ],
+        "hashtags": [
+          "#玫红色连衣裙",
+          "#度假风",
+          "#露腰设计",
+          "#性感穿搭",
+          "#多巴胺穿搭",
+          "#夏季时尚",
+          "#派对穿搭"
+        ],
+        "description": "这款2024夏季新款玫红色深V露腰褶皱连衣裙，采用舒适面料，带来清爽穿着体验。独特的深V领和腰部镂空设计，巧妙展现女性性感魅力。高腰长款版型，拉长身材比例，显高显瘦。褶皱细节增添设计感，无论是海滩度假还是派对约会，都能让你成为焦点。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "玫红"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_033.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1199
+      }
+    },
+    {
+      "basic_info": {
+        "category": "连衣裙",
+        "subcategory": "度假风连衣裙",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "夏"
+        ],
+        "occasion": [
+          "约会",
+          "派对",
+          "海滩度假"
+        ]
+      },
+      "style": {
+        "primary_style": "欧美",
+        "secondary_styles": [
+          "甜美",
+          "性感"
+        ],
+        "aesthetic": "辣妹风",
+        "trend_relevance": "夏季度假风和露肤设计是近年来的流行趋势"
+      },
+      "colors": {
+        "primary_color": "玫红",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "高饱和鲜艳",
+        "color_season": "春暖"
+      },
+      "material": {
+        "primary_fabric": "纯棉",
+        "fabric_blend": null,
+        "fabric_weight": "中等150-250g",
+        "texture": "哑光",
+        "drape": "适中",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "X型",
+        "fit": "修身",
+        "length": "长款",
+        "neckline": "V领",
+        "sleeve_type": "短袖",
+        "waistline": "高腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "无"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "充满活力和性感的度假风情",
+        "design_highlight": "腰部镂空和扭结设计",
+        "visual_weight": "适中"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "沙漏形",
+          "直筒型"
+        ],
+        "flattering_features": "V领修饰颈部线条，高腰线拉长腿部比例，腰部镂空展现腰部曲线",
+        "size_range_guess": "S-L"
+      },
+      "commercial": {
+        "price_tier": "中端150-500",
+        "target_audience": "25-35岁追求时尚、热爱度假和展现身材的女性",
+        "selling_points": [
+          "时尚V领设计，修饰颈部线条",
+          "独特腰部镂空和扭结，展现性感腰线",
+          "高饱和玫红色，吸睛亮眼",
+          "长款设计，优雅显高",
+          "适合度假和派对穿着"
+        ],
+        "similar_brands_style": "类似Zara、H&M的夏季时尚款",
+        "coordination_suggestions": [
+          "搭配草编包和凉鞋，打造海滩度假风。",
+          "搭配精致项链和高跟鞋，适合约会或派对。",
+          "搭配墨镜和宽檐帽，增加时尚感和防晒功能。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款玫红色V领镂空扭结高腰长款连衣裙度假风性感沙滩裙女",
+        "search_keywords": [
+          "玫红连衣裙",
+          "V领连衣裙",
+          "镂空连衣裙",
+          "扭结连衣裙",
+          "高腰连衣裙",
+          "长款连衣裙",
+          "度假风连衣裙",
+          "性感连衣裙",
+          "沙滩裙",
+          "夏季连衣裙",
+          "派对连衣裙",
+          "时尚女装"
+        ],
+        "hashtags": [
+          "#度假风",
+          "#辣妹风",
+          "#玫红",
+          "#V领",
+          "#镂空设计",
+          "#夏季穿搭",
+          "#连衣裙",
+          "#时尚女装"
+        ],
+        "description": "这款2024夏季新款玫红色V领镂空扭结高腰长款连衣裙，采用舒适面料，带来清爽穿着体验。独特的V领设计修饰颈部，腰部镂空和扭结细节巧妙展现性感腰线，高腰设计拉长腿部比例。亮眼的玫红色充满活力，是度假、约会和派对的理想选择，轻松打造时尚吸睛造型。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "玫红"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_035.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1191
+      }
+    },
+    {
+      "basic_info": {
+        "category": "连衣裙",
+        "subcategory": "宽松连衣裙",
+        "gender": "女装",
+        "age_range": "25-45",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "海滩度假"
+        ]
+      },
+      "style": {
+        "primary_style": "休闲",
+        "secondary_styles": [
+          "极简",
+          "度假"
+        ],
+        "aesthetic": null,
+        "trend_relevance": "经典条纹元素，宽松版型，不受潮流影响，常年流行"
+      },
+      "colors": {
+        "primary_color": "天蓝",
+        "secondary_colors": [
+          "白色"
+        ],
+        "color_scheme": "条纹",
+        "color_temperature": "冷色调",
+        "color_saturation": "中等",
+        "color_season": "夏冷"
+      },
+      "material": {
+        "primary_fabric": "纯棉",
+        "fabric_blend": null,
+        "fabric_weight": "轻薄<150g",
+        "texture": "光滑",
+        "drape": "柔软垂坠",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "O型",
+        "fit": "oversized",
+        "length": "长款",
+        "neckline": "V领",
+        "sleeve_type": "五分袖",
+        "waistline": "无腰线",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "套头"
+      },
+      "design_details": {
+        "pattern_type": "条纹",
+        "pattern_description": "蓝白竖条纹",
+        "decorations": [],
+        "pockets": "插袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "慵懒随性的度假休闲感，同时兼具都市的简约时尚。",
+        "design_highlight": "宽松的廓形和经典的蓝白条纹，营造出舒适且不失格调的视觉效果。",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型",
+          "沙漏形"
+        ],
+        "flattering_features": "宽松版型不挑身材，V领修饰颈部线条，长款遮盖腿部不足。",
+        "size_range_guess": "均码/大码友好"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "25-45岁追求舒适、简约和度假风格的女性。",
+        "selling_points": [
+          "经典蓝白条纹，永不过时",
+          "宽松版型，不挑身材，穿着舒适",
+          "V领设计，修饰颈部线条",
+          "轻薄面料，适合春夏穿着",
+          "百搭款式，可通勤可度假"
+        ],
+        "similar_brands_style": "类似优衣库的简约休闲风格、Zara的基础款度假系列。",
+        "coordination_suggestions": [
+          "搭配草编包和凉鞋，打造海滩度假风。",
+          "搭配小白鞋和帆布包，适合日常休闲逛街。",
+          "搭配精致项链和手镯，提升整体时尚感。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024春夏新款蓝白条纹V领宽松连衣裙女 中长款度假风休闲衬衫裙",
+        "search_keywords": [
+          "条纹连衣裙",
+          "宽松连衣裙",
+          "V领连衣裙",
+          "度假风连衣裙",
+          "中长款连衣裙",
+          "休闲连衣裙",
+          "衬衫裙",
+          "蓝白条纹",
+          "大码连衣裙",
+          "春夏连衣裙"
+        ],
+        "hashtags": [
+          "#条纹连衣裙",
+          "#度假风",
+          "#宽松版型",
+          "#V领设计",
+          "#春夏穿搭",
+          "#休闲时尚",
+          "#不挑身材"
+        ],
+        "description": "这款蓝白条纹V领宽松连衣裙，采用轻薄透气的面料，带来舒适亲肤的穿着体验。经典的蓝白竖条纹设计，简约而不失时尚感，V领巧妙修饰颈部线条。宽松的廓形不挑身材，无论是日常通勤、休闲逛街还是海滩度假，都能轻松打造慵懒随性的时尚造型。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "天蓝/白色条纹"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_036.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1200
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "休闲套装",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "休闲逛街",
+          "约会",
+          "海滩度假",
+          "日常通勤"
+        ]
+      },
+      "style": {
+        "primary_style": "波西米亚",
+        "secondary_styles": [
+          "民族风",
+          "休闲"
+        ],
+        "aesthetic": null,
+        "trend_relevance": "民族风元素在度假和休闲场景中持续流行"
+      },
+      "colors": {
+        "primary_color": "酒红",
+        "secondary_colors": [
+          "米白"
+        ],
+        "color_scheme": "印花",
+        "color_temperature": "暖色调",
+        "color_saturation": "中等",
+        "color_season": "秋暖"
+      },
+      "material": {
+        "primary_fabric": "纯棉",
+        "fabric_blend": null,
+        "fabric_weight": "中等150-250g",
+        "texture": "肌理感",
+        "drape": "柔软垂坠",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "宽松",
+        "length": "常规",
+        "neckline": "V领",
+        "sleeve_type": "短袖",
+        "waistline": "中腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "套头"
+      },
+      "design_details": {
+        "pattern_type": "民族风",
+        "pattern_description": "酒红色底上印有米白色几何与抽象民族图腾",
+        "decorations": [
+          "系带"
+        ],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [
+          "印花"
+        ],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "充满异域风情的休闲度假感",
+        "design_highlight": "独特的民族风印花和宽松舒适的版型",
+        "visual_weight": "适中"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型"
+        ],
+        "flattering_features": "宽松版型遮肉显瘦，V领修饰颈部线条",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "25-35岁追求舒适与独特风格的女性",
+        "selling_points": [
+          "独特的民族风印花设计",
+          "宽松舒适的版型，不挑身材",
+          "纯棉面料，亲肤透气",
+          "适合度假和日常休闲穿着"
+        ],
+        "similar_brands_style": "类似Zara或H&M的度假系列",
+        "coordination_suggestions": [
+          "搭配草编包和凉鞋，打造海滩度假风",
+          "搭配简约单肩包和小白鞋，适合日常休闲",
+          "搭配金色配饰，提升整体精致感"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款民族风印花V领短袖上衣+阔腿裤两件套女休闲度假套装",
+        "search_keywords": [
+          "民族风套装",
+          "印花套装",
+          "V领短袖",
+          "阔腿裤",
+          "休闲套装",
+          "度假风",
+          "波西米亚",
+          "宽松显瘦",
+          "纯棉套装",
+          "夏季女装"
+        ],
+        "hashtags": [
+          "#民族风",
+          "#度假穿搭",
+          "#波西米亚风",
+          "#休闲套装",
+          "#印花时尚",
+          "#夏日穿搭",
+          "#显瘦穿搭"
+        ],
+        "description": "这款民族风印花套装采用舒适纯棉面料，亲肤透气，是夏日度假和日常休闲的理想选择。独特的酒红色民族图腾印花，V领短袖上衣搭配宽松阔腿裤，不挑身材，轻松打造异域风情。无论是海边度假还是城市漫步，都能让你成为焦点。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "酒红"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_038.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1155
+      }
+    },
+    {
+      "basic_info": {
+        "category": "连体裤",
+        "subcategory": "休闲连体裤",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "春",
+          "夏"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "约会",
+          "海滩度假"
+        ]
+      },
+      "style": {
+        "primary_style": "休闲",
+        "secondary_styles": [
+          "极简",
+          "度假"
+        ],
+        "aesthetic": null,
+        "trend_relevance": "经典百搭款，不受潮流影响"
+      },
+      "colors": {
+        "primary_color": "白色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "中性色调",
+        "color_saturation": "无彩色",
+        "color_season": "百搭"
+      },
+      "material": {
+        "primary_fabric": "棉麻混纺",
+        "fabric_blend": null,
+        "fabric_weight": "轻薄<150g",
+        "texture": "肌理感",
+        "drape": "柔软垂坠",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "宽松",
+        "length": "长款",
+        "neckline": "V领",
+        "sleeve_type": "无袖",
+        "waistline": "系带收腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "套头"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [],
+        "pockets": "插袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "简约舒适的休闲度假感",
+        "design_highlight": "V领无袖设计与腰部抽绳收腰，兼顾舒适与修身",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型"
+        ],
+        "flattering_features": "V领修饰颈部线条，宽松版型遮肉显瘦，腰部抽绳可调节腰线",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "25-35岁追求舒适简约风格的女性",
+        "selling_points": [
+          "V领无袖设计，清爽舒适",
+          "腰部抽绳可调节，修饰身形",
+          "宽松版型，不挑身材",
+          "棉麻混纺面料，透气亲肤"
+        ],
+        "similar_brands_style": "类似优衣库、H&M等快时尚品牌的休闲款",
+        "coordination_suggestions": [
+          "搭配草编帽和凉鞋，打造度假风情。",
+          "搭配小白鞋和帆布包，适合日常休闲。",
+          "搭配精致项链和手提包，提升通勤感。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款V领无袖连体裤女宽松休闲棉麻抽绳收腰阔腿裤度假风",
+        "search_keywords": [
+          "连体裤",
+          "无袖",
+          "V领",
+          "棉麻",
+          "宽松",
+          "抽绳",
+          "收腰",
+          "阔腿裤",
+          "休闲",
+          "度假",
+          "白色"
+        ],
+        "hashtags": [
+          "#连体裤",
+          "#夏季穿搭",
+          "#休闲风",
+          "#度假穿搭",
+          "#棉麻",
+          "#极简风",
+          "#显瘦穿搭"
+        ],
+        "description": "这款夏季新款V领无袖连体裤，采用舒适透气的棉麻混纺面料，带来清爽亲肤的穿着体验。V领设计修饰颈部线条，无袖剪裁更显轻盈。腰部抽绳可自由调节，轻松打造修身效果，同时宽松的阔腿裤版型不挑身材，遮肉显瘦。无论是日常通勤、休闲逛街还是海边度假，都能轻松穿出时尚舒适感。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "白色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_039.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1182
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "衬衫套装",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "约会",
+          "海滩度假"
+        ]
+      },
+      "style": {
+        "primary_style": "休闲",
+        "secondary_styles": [
+          "波西米亚",
+          "度假风"
+        ],
+        "aesthetic": null,
+        "trend_relevance": "印花套装是春夏经典款，每年都有不同图案流行，此款图案具有一定的时尚度。"
+      },
+      "colors": {
+        "primary_color": "玫红",
+        "secondary_colors": [
+          "绿色",
+          "白色"
+        ],
+        "color_scheme": "拼色",
+        "color_temperature": "暖色调",
+        "color_saturation": "高饱和鲜艳",
+        "color_season": "春暖"
+      },
+      "material": {
+        "primary_fabric": "null",
+        "fabric_blend": "null",
+        "fabric_weight": "轻薄<150g",
+        "texture": "光滑",
+        "drape": "柔软垂坠",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "宽松",
+        "length": "常规",
+        "neckline": "翻领",
+        "sleeve_type": "短袖",
+        "waistline": "中腰",
+        "hem": "平摆",
+        "back_design": "null",
+        "closure": "前纽扣"
+      },
+      "design_details": {
+        "pattern_type": "抽象",
+        "pattern_description": "玫红色与绿色交织的抽象几何印花",
+        "decorations": [],
+        "pockets": "插袋",
+        "stitching": "常规",
+        "craft_techniques": [
+          "数码印花"
+        ],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "充满活力和异域风情的休闲度假感",
+        "design_highlight": "独特的玫红与绿色抽象印花图案",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型"
+        ],
+        "flattering_features": "宽松版型遮肉显瘦，高腰裤型拉长腿部比例",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "25-35岁追求时尚、喜欢度假风和个性印花的女性",
+        "selling_points": [
+          "时尚印花设计，吸睛度高",
+          "宽松版型，舒适不挑身材",
+          "衬衫+阔腿裤套装，可分开搭配，实用性强",
+          "轻薄面料，适合春夏穿着"
+        ],
+        "similar_brands_style": "类似Zara、H&M的度假系列风格",
+        "coordination_suggestions": [
+          "内搭白色短款T恤，搭配凉鞋和草编包，打造度假风。",
+          "衬衫敞开穿，搭配牛仔短裤和运动鞋，休闲随性。",
+          "裤子单独搭配纯色上衣，如白色吊带或黑色T恤，简约时尚。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款时尚印花衬衫阔腿裤两件套女 宽松休闲度假风套装",
+        "search_keywords": [
+          "印花套装",
+          "女装套装",
+          "衬衫阔腿裤",
+          "度假风",
+          "休闲套装",
+          "夏季套装",
+          "宽松套装",
+          "时尚印花",
+          "两件套",
+          "波西米亚风"
+        ],
+        "hashtags": [
+          "#印花套装",
+          "#度假风穿搭",
+          "#夏季时尚",
+          "#宽松套装",
+          "#休闲穿搭",
+          "#波西米亚风"
+        ],
+        "description": "这款夏季时尚印花衬衫阔腿裤两件套，采用独特的玫红与绿色抽象印花设计，充满活力与异域风情。宽松版型舒适不挑身材，轻薄面料透气亲肤，是您度假休闲的理想选择。衬衫与阔腿裤可分开搭配，轻松打造多种时尚造型，无论是海边度假还是日常通勤，都能让您成为焦点。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "玫红/绿色印花"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_040.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1211
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "挂脖露脐上衣+阔腿裤套装",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "夏",
+          "春",
+          "秋"
+        ],
+        "occasion": [
+          "休闲逛街",
+          "约会",
+          "海滩度假",
+          "派对",
+          "日常通勤"
+        ]
+      },
+      "style": {
+        "primary_style": "休闲",
+        "secondary_styles": [
+          "欧美",
+          "辣妹风"
+        ],
+        "aesthetic": "辣妹风",
+        "trend_relevance": "夏季流行款，露脐和阔腿裤元素符合当下潮流"
+      },
+      "colors": {
+        "primary_color": "红色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "高饱和鲜艳",
+        "color_season": "春暖"
+      },
+      "material": {
+        "primary_fabric": "null",
+        "fabric_blend": "null",
+        "fabric_weight": "轻薄<150g",
+        "texture": "光滑",
+        "drape": "柔软垂坠",
+        "elasticity": "微弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "修身",
+        "length": "短款",
+        "neckline": "挂脖",
+        "sleeve_type": "无袖",
+        "waistline": "高腰",
+        "hem": "平摆",
+        "back_design": "null",
+        "closure": "套头"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": "null",
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "热情活力的休闲度假感，兼具时尚辣妹风。",
+        "design_highlight": "挂脖露脐上衣与高腰阔腿裤的组合，展现身材曲线同时拉长比例。",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "沙漏形",
+          "直筒型"
+        ],
+        "flattering_features": "高腰线拉长腿部比例，露脐设计展现腰部线条，阔腿裤修饰腿型。",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "20-35岁追求时尚、热爱展现身材的女性",
+        "selling_points": [
+          "时尚挂脖露脐设计",
+          "高腰阔腿裤显瘦显高",
+          "舒适透气面料",
+          "亮眼红色，吸睛度高",
+          "休闲度假两相宜"
+        ],
+        "similar_brands_style": "类似Shein、Zaful等快时尚品牌风格",
+        "coordination_suggestions": [
+          "搭配草编帽和凉鞋，打造海滩度假风。",
+          "搭配小白鞋和墨镜，适合日常休闲逛街。",
+          "搭配高跟凉鞋和精致配饰，出席派对或约会。"
+        ]
+      },
+      "ecommerce": {
+        "title": "夏季新款挂脖露脐上衣高腰阔腿裤两件套女装时尚休闲度假套装",
+        "search_keywords": [
+          "挂脖上衣",
+          "露脐套装",
+          "阔腿裤",
+          "高腰裤",
+          "休闲套装",
+          "度假风",
+          "辣妹风",
+          "红色套装",
+          "夏季女装",
+          "时尚两件套"
+        ],
+        "hashtags": [
+          "#挂脖上衣",
+          "#阔腿裤套装",
+          "#辣妹穿搭",
+          "#夏季时尚",
+          "#度假风",
+          "#显瘦套装",
+          "#红色穿搭"
+        ],
+        "description": "这款夏季时尚套装，采用舒适透气的面料，包含一件性感挂脖露脐上衣和一条高腰阔腿裤。亮眼的红色设计，无论是日常休闲、约会还是海滩度假，都能让你成为焦点。高腰阔腿裤有效拉长腿部比例，修饰腿型，展现自信迷人的身材曲线。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "红色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_041.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1187
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "衬衫套装",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "约会",
+          "海滩度假"
+        ]
+      },
+      "style": {
+        "primary_style": "休闲",
+        "secondary_styles": [
+          "度假",
+          "波西米亚"
+        ],
+        "aesthetic": null,
+        "trend_relevance": "印花套装是夏季经典款，每年都有不同图案流行，此款图案具有一定的时尚感。"
+      },
+      "colors": {
+        "primary_color": "玫红",
+        "secondary_colors": [
+          "绿色",
+          "白色"
+        ],
+        "color_scheme": "拼色",
+        "color_temperature": "暖色调",
+        "color_saturation": "高饱和鲜艳",
+        "color_season": "春暖"
+      },
+      "material": {
+        "primary_fabric": "null",
+        "fabric_blend": "null",
+        "fabric_weight": "轻薄<150g",
+        "texture": "光滑",
+        "drape": "柔软垂坠",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "宽松",
+        "length": "常规",
+        "neckline": "翻领",
+        "sleeve_type": "短袖",
+        "waistline": "高腰",
+        "hem": "平摆",
+        "back_design": "null",
+        "closure": "前纽扣"
+      },
+      "design_details": {
+        "pattern_type": "抽象",
+        "pattern_description": "玫红色与绿色交织的抽象几何印花",
+        "decorations": [],
+        "pockets": "插袋",
+        "stitching": "常规",
+        "craft_techniques": [
+          "数码印花"
+        ],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "充满活力和异域风情的休闲度假感",
+        "design_highlight": "独特的玫红与绿色抽象印花图案",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型"
+        ],
+        "flattering_features": "宽松版型遮肉显瘦，高腰裤拉长腿部比例",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "25-35岁追求时尚、喜欢度假风格的女性",
+        "selling_points": [
+          "时尚印花设计，吸睛亮眼",
+          "宽松版型，舒适不挑身材",
+          "高腰阔腿裤，显高显瘦",
+          "衬衫与裤子可分开搭配，实用性强"
+        ],
+        "similar_brands_style": "类似Zara、H&M的度假系列",
+        "coordination_suggestions": [
+          "搭配白色吊带或T恤，打造清爽内搭。",
+          "搭配草编包和凉鞋，营造度假风情。",
+          "搭配简约高跟鞋和手提包，适合都市休闲通勤。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款时尚印花衬衫套装女 宽松短袖衬衫高腰阔腿裤两件套",
+        "search_keywords": [
+          "印花套装",
+          "女装套装",
+          "夏季套装",
+          "短袖衬衫",
+          "阔腿裤",
+          "高腰裤",
+          "休闲套装",
+          "度假风",
+          "时尚两件套",
+          "宽松套装"
+        ],
+        "hashtags": [
+          "#印花套装",
+          "#夏季穿搭",
+          "#度假风",
+          "#时尚两件套",
+          "#阔腿裤穿搭",
+          "#休闲时尚"
+        ],
+        "description": "这款夏季时尚印花衬衫套装，采用独特的玫红与绿色抽象印花，色彩鲜艳，充满活力。宽松短袖衬衫搭配高腰阔腿裤，版型舒适不挑身材，同时拉长腿部比例，显高显瘦。无论是日常通勤、休闲逛街还是海滩度假，都能轻松打造时尚吸睛造型，是您衣橱不可或缺的百搭单品。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "玫红/绿色印花"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_043.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1190
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "衬衫套装",
+        "gender": "女装",
+        "age_range": "25-45",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "约会",
+          "正式商务"
+        ]
+      },
+      "style": {
+        "primary_style": "商务",
+        "secondary_styles": [
+          "休闲",
+          "极简"
+        ],
+        "aesthetic": "静奢",
+        "trend_relevance": "经典款与流行色系的结合，具有较强的潮流相关度，尤其符合当下静奢和美拉德风潮。"
+      },
+      "colors": {
+        "primary_color": "焦糖色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "中等",
+        "color_season": "秋暖"
+      },
+      "material": {
+        "primary_fabric": "醋酸",
+        "fabric_blend": null,
+        "fabric_weight": "中等150-250g",
+        "texture": "光滑",
+        "drape": "柔软垂坠",
+        "elasticity": "微弹",
+        "transparency": "不透",
+        "hand_feel_guess": "顺滑冰凉"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "宽松",
+        "length": "常规",
+        "neckline": "西装领",
+        "sleeve_type": "七分袖",
+        "waistline": "中腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "前纽扣"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "优雅知性的都市通勤感，兼具休闲舒适。",
+        "design_highlight": "宽松舒适的版型与垂坠感面料的结合，营造出随性而高级的氛围。",
+        "visual_weight": "适中"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型"
+        ],
+        "flattering_features": "宽松版型遮肉显瘦，垂坠感面料修饰身形，西装领修饰颈部线条。",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "中端150-500",
+        "target_audience": "25-45岁追求舒适与品质，注重职场与日常穿搭平衡的都市女性。",
+        "selling_points": [
+          "高级感焦糖色，衬托肤色",
+          "垂坠感面料，显瘦有型",
+          "宽松版型，舒适不挑身材",
+          "可拆分搭配，多种穿法",
+          "静奢风格，提升气质"
+        ],
+        "similar_brands_style": "类似Zara、Massimo Dutti的商务休闲风格。",
+        "coordination_suggestions": [
+          "搭配金色项链和手镯，提升整体精致度。",
+          "搭配同色系高跟鞋和手提包，打造职场精英范。",
+          "内搭白色吊带，解开衬衫纽扣，营造休闲度假感。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024秋季新款焦糖色醋酸衬衫套装女宽松休闲西装领七分袖上衣阔腿裤两件套",
+        "search_keywords": [
+          "焦糖色套装",
+          "醋酸套装",
+          "衬衫阔腿裤套装",
+          "女装套装",
+          "商务休闲套装",
+          "静奢风",
+          "宽松套装",
+          "七分袖衬衫",
+          "垂坠感面料",
+          "秋季新款"
+        ],
+        "hashtags": [
+          "#焦糖色套装",
+          "#醋酸面料",
+          "#静奢风",
+          "#通勤穿搭",
+          "#气质套装",
+          "#秋季新品",
+          "#高级感穿搭"
+        ],
+        "description": "这款焦糖色醋酸衬衫套装，采用高级垂坠感面料，带来顺滑冰凉的舒适触感。宽松的西装领七分袖衬衫搭配同色系阔腿裤，H型廓形修饰身形，尽显优雅知性。无论是日常通勤还是休闲约会，都能轻松打造出静奢高级感，是您衣橱不可或缺的时尚单品。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "焦糖色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_045.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1240
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "衬衫套装",
+        "gender": "女装",
+        "age_range": "25-45",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "约会",
+          "正式商务"
+        ]
+      },
+      "style": {
+        "primary_style": "商务",
+        "secondary_styles": [
+          "极简",
+          "休闲"
+        ],
+        "aesthetic": "静奢",
+        "trend_relevance": "经典百搭款，不受潮流影响，符合静奢美学趋势"
+      },
+      "colors": {
+        "primary_color": "黑色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "中性色调",
+        "color_saturation": "无彩色",
+        "color_season": "百搭"
+      },
+      "material": {
+        "primary_fabric": "醋酸",
+        "fabric_blend": null,
+        "fabric_weight": "中等150-250g",
+        "texture": "光滑",
+        "drape": "柔软垂坠",
+        "elasticity": "微弹",
+        "transparency": "不透",
+        "hand_feel_guess": "顺滑冰凉"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "宽松",
+        "length": "常规",
+        "neckline": "翻领",
+        "sleeve_type": "短袖",
+        "waistline": "中腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "前纽扣"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "干净利落的都市通勤感，展现成熟优雅气质",
+        "design_highlight": "宽松版型与垂坠面料的结合，营造随性而不失精致的静奢感",
+        "visual_weight": "适中"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型",
+          "沙漏形"
+        ],
+        "flattering_features": "宽松版型不挑身材，遮肉显瘦；垂坠面料修饰身形",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "中端150-500",
+        "target_audience": "25-45岁追求品质与舒适的都市女性",
+        "selling_points": [
+          "醋酸面料，垂坠顺滑，不易皱",
+          "宽松版型，舒适不挑身材",
+          "经典黑色，百搭通勤",
+          "可拆分搭配，实用性强",
+          "静奢风格，提升衣品"
+        ],
+        "similar_brands_style": "类似Zara、Massimo Dutti的商务休闲风格",
+        "coordination_suggestions": [
+          "搭配尖头高跟鞋和手提包，打造干练通勤造型。",
+          "解开衬衫纽扣，内搭白色吊带，搭配小白鞋，营造休闲度假风。",
+          "将衬衫下摆塞入裤子，搭配腰带，强调腰线，更显精神。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款醋酸衬衫套装女 宽松垂坠感短袖衬衣高腰直筒裤两件套",
+        "search_keywords": [
+          "醋酸套装",
+          "女装衬衫",
+          "宽松衬衫",
+          "直筒裤",
+          "通勤套装",
+          "静奢风",
+          "黑色套装",
+          "夏季套装",
+          "垂坠感",
+          "两件套"
+        ],
+        "hashtags": [
+          "#醋酸套装",
+          "#通勤穿搭",
+          "#静奢风",
+          "#黑色系",
+          "#职场穿搭",
+          "#夏日套装",
+          "#高级感"
+        ],
+        "description": "这款醋酸衬衫套装，精选优质醋酸面料，触感顺滑冰凉，垂坠感极佳，不易起皱。宽松版型设计，舒适不挑身材，短袖衬衫搭配高腰直筒裤，经典黑色百搭通勤。无论是日常办公还是休闲出行，都能轻松打造出优雅高级的静奢风格。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "黑色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_046.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1198
+      }
+    },
+    {
+      "basic_info": {
+        "category": "连衣裙",
+        "subcategory": "度假风连衣裙",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "夏"
+        ],
+        "occasion": [
+          "约会",
+          "派对",
+          "海滩度假"
+        ]
+      },
+      "style": {
+        "primary_style": "欧美",
+        "secondary_styles": [
+          "甜美",
+          "性感",
+          "度假"
+        ],
+        "aesthetic": "辣妹风",
+        "trend_relevance": "夏季流行款式，强调腰部和胸部设计，符合当下度假风和辣妹风潮"
+      },
+      "colors": {
+        "primary_color": "玫红",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "高饱和鲜艳",
+        "color_season": "春暖"
+      },
+      "material": {
+        "primary_fabric": "纯棉",
+        "fabric_blend": null,
+        "fabric_weight": "中等150-250g",
+        "texture": "哑光",
+        "drape": "适中",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "X型",
+        "fit": "修身",
+        "length": "长款",
+        "neckline": "V领",
+        "sleeve_type": "短袖",
+        "waistline": "高腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "侧拉链"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [
+          "褶皱"
+        ],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "充满活力和性感的度假风情，展现女性魅力。",
+        "design_highlight": "胸前深V和腰部镂空扭结设计，强调腰线和身材曲线。",
+        "visual_weight": "适中"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "沙漏形",
+          "直筒型"
+        ],
+        "flattering_features": "深V领修饰颈部线条，腰部镂空设计凸显纤细腰身，高腰线拉长腿部比例。",
+        "size_range_guess": "S-L"
+      },
+      "commercial": {
+        "price_tier": "中端150-500",
+        "target_audience": "25-35岁追求时尚、热爱度假和派对的都市女性",
+        "selling_points": [
+          "性感深V领设计",
+          "独特腰部镂空扭结",
+          "高饱和玫红色吸睛",
+          "修身显瘦版型",
+          "适合度假和派对穿着"
+        ],
+        "similar_brands_style": "类似Zara、H&M等快时尚品牌度假系列",
+        "coordination_suggestions": [
+          "搭配金色配饰和高跟凉鞋，打造派对女王范。",
+          "搭配草编包和平底凉鞋，营造海滩度假风情。",
+          "搭配简约手拿包和精致耳环，适合约会穿着。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款性感深V镂空扭结连衣裙女 度假风高腰显瘦玫红长裙",
+        "search_keywords": [
+          "连衣裙",
+          "深V",
+          "镂空",
+          "扭结",
+          "玫红",
+          "度假风",
+          "长裙",
+          "高腰",
+          "显瘦",
+          "性感",
+          "派对",
+          "夏季"
+        ],
+        "hashtags": [
+          "#度假风",
+          "#辣妹风",
+          "#深V连衣裙",
+          "#镂空设计",
+          "#玫红长裙",
+          "#夏季穿搭",
+          "#派对穿搭"
+        ],
+        "description": "这款夏季新款连衣裙，采用吸睛的玫红色，深V领口与腰部镂空扭结设计大胆性感，完美展现女性魅力。高腰线剪裁拉长腿部比例，修身版型显瘦。无论是海滩度假、时尚派对还是浪漫约会，都能让你成为焦点。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "玫红"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_049.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1172
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "衬衫套装",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "约会",
+          "海滩度假"
+        ]
+      },
+      "style": {
+        "primary_style": "休闲",
+        "secondary_styles": [
+          "极简",
+          "欧美"
+        ],
+        "aesthetic": "静奢",
+        "trend_relevance": "经典休闲套装，不受潮流影响，但配色符合美拉德趋势"
+      },
+      "colors": {
+        "primary_color": "深棕色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "中等",
+        "color_season": "秋暖"
+      },
+      "material": {
+        "primary_fabric": "亚麻",
+        "fabric_blend": null,
+        "fabric_weight": "轻薄<150g",
+        "texture": "肌理感",
+        "drape": "柔软垂坠",
+        "elasticity": "无弹",
+        "transparency": "微透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "宽松",
+        "length": "常规",
+        "neckline": "翻领",
+        "sleeve_type": "长袖",
+        "waistline": "中腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "前纽扣"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "慵懒随性的都市休闲感，透露出低调的质感。",
+        "design_highlight": "宽松舒适的版型和亚麻材质带来的自然垂坠感。",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型"
+        ],
+        "flattering_features": "宽松版型不挑身材，遮肉显瘦；垂坠感面料修饰腿部线条。",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "中端150-500",
+        "target_audience": "25-35岁追求舒适、时尚且注重面料质感的都市女性。",
+        "selling_points": [
+          "亚麻材质，透气舒适",
+          "宽松版型，不挑身材",
+          "经典套装，多种穿搭可能",
+          "深棕色系，高级感十足"
+        ],
+        "similar_brands_style": "类似Zara、H&M的休闲套装风格，偏向COS的极简质感。",
+        "coordination_suggestions": [
+          "内搭白色吊带，搭配凉鞋和草编包，打造度假风。",
+          "内搭黑色修身T恤，搭配乐福鞋和简约手提包，适合日常通勤。",
+          "解开衬衫纽扣作为开衫，搭配牛仔短裤和运动鞋，更显休闲随性。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款亚麻衬衫套装女宽松休闲长袖衬衣阔腿裤两件套度假风",
+        "search_keywords": [
+          "亚麻套装",
+          "女装衬衫",
+          "阔腿裤",
+          "休闲套装",
+          "度假风",
+          "宽松版型",
+          "深棕色",
+          "夏季新款",
+          "两件套",
+          "舒适透气"
+        ],
+        "hashtags": [
+          "#亚麻套装",
+          "#休闲穿搭",
+          "#度假风",
+          "#静奢风",
+          "#不挑身材",
+          "#深棕色系",
+          "#夏季必备"
+        ],
+        "description": "这款亚麻衬衫套装采用优质亚麻面料，轻薄透气，触感柔软亲肤。宽松的衬衫搭配垂坠感十足的阔腿裤，完美修饰身形，不挑身材。深棕色调尽显高级感，无论是日常通勤、休闲度假，都能轻松打造慵懒随性的时尚造型。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "深棕色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_051.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1187
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "衬衫套装",
+        "gender": "女装",
+        "age_range": "25-45",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "约会",
+          "正式商务"
+        ]
+      },
+      "style": {
+        "primary_style": "商务",
+        "secondary_styles": [
+          "极简",
+          "休闲"
+        ],
+        "aesthetic": "静奢",
+        "trend_relevance": "经典百搭款，不受潮流影响，符合当下静奢风潮"
+      },
+      "colors": {
+        "primary_color": "黑色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "中性色调",
+        "color_saturation": "无彩色",
+        "color_season": "百搭"
+      },
+      "material": {
+        "primary_fabric": "醋酸",
+        "fabric_blend": null,
+        "fabric_weight": "中等150-250g",
+        "texture": "哑光",
+        "drape": "柔软垂坠",
+        "elasticity": "微弹",
+        "transparency": "不透",
+        "hand_feel_guess": "顺滑冰凉"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "宽松",
+        "length": "常规",
+        "neckline": "翻领",
+        "sleeve_type": "短袖",
+        "waistline": "中腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "前纽扣"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "简约大气的都市通勤感，透露出低调的奢华。",
+        "design_highlight": "宽松舒适的版型与垂坠感面料的结合，营造出随性而不失精致的风格。",
+        "visual_weight": "适中"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型"
+        ],
+        "flattering_features": "宽松版型遮肉显瘦，H型廓形修饰身形。",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "中端150-500",
+        "target_audience": "25-45岁追求品质与舒适的都市女性",
+        "selling_points": [
+          "醋酸面料，垂坠感好，不易皱",
+          "宽松版型，舒适不挑身材",
+          "经典黑色，百搭通勤",
+          "简约设计，提升气质",
+          "可拆分搭配，实用性强"
+        ],
+        "similar_brands_style": "类似Zara、COS等快时尚品牌的高级感基础款",
+        "coordination_suggestions": [
+          "搭配尖头高跟鞋和手提包，打造干练通勤造型。",
+          "内搭白色吊带，解开衬衫纽扣，搭配小白鞋，营造休闲度假风。",
+          "将衬衫下摆塞入裤子，搭配腰带，提升腰线，更显精神。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款醋酸衬衫套装女 宽松显瘦休闲通勤黑色短袖衬衣阔腿裤两件套",
+        "search_keywords": [
+          "醋酸套装",
+          "黑色衬衫",
+          "阔腿裤",
+          "女装套装",
+          "通勤套装",
+          "宽松衬衫",
+          "休闲套装",
+          "高级感",
+          "静奢风",
+          "夏季套装",
+          "短袖衬衫",
+          "两件套"
+        ],
+        "hashtags": [
+          "#醋酸套装",
+          "#通勤穿搭",
+          "#静奢风",
+          "#黑色系",
+          "#职场穿搭",
+          "#夏日套装",
+          "#高级感穿搭",
+          "#简约时尚"
+        ],
+        "description": "这款醋酸衬衫套装，精选垂坠感极佳的醋酸面料，触感顺滑冰凉，不易起皱。宽松的短袖衬衫搭配同色系阔腿裤，H型廓形修饰身形，穿着舒适不挑身材。经典黑色简约大气，轻松打造高级感通勤或休闲造型，是您衣橱不可或缺的百搭单品。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "黑色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_052.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1229
+      }
+    },
+    {
+      "basic_info": {
+        "category": "连衣裙",
+        "subcategory": "深V露腰连衣裙",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "夏"
+        ],
+        "occasion": [
+          "休闲逛街",
+          "约会",
+          "海滩度假"
+        ]
+      },
+      "style": {
+        "primary_style": "甜美",
+        "secondary_styles": [
+          "度假风",
+          "性感"
+        ],
+        "aesthetic": "辣妹风",
+        "trend_relevance": "夏季流行款式，露肤设计符合当下时尚趋势"
+      },
+      "colors": {
+        "primary_color": "粉色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "中等",
+        "color_season": "春暖"
+      },
+      "material": {
+        "primary_fabric": "棉",
+        "fabric_blend": null,
+        "fabric_weight": "中等150-250g",
+        "texture": "哑光",
+        "drape": "适中",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "X型",
+        "fit": "合身",
+        "length": "长款",
+        "neckline": "V领",
+        "sleeve_type": "短袖",
+        "waistline": "高腰",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "无"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "甜美中带着一丝性感的度假风情",
+        "design_highlight": "深V领和腰部镂空扭结设计",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "沙漏形",
+          "直筒型"
+        ],
+        "flattering_features": "深V领修饰颈部线条，腰部镂空展现腰身，高腰线拉长腿部比例",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "中端150-500",
+        "target_audience": "25-35岁追求时尚、喜欢展现身材的女性",
+        "selling_points": [
+          "深V领设计，修饰颈部线条",
+          "腰部镂空扭结，展现纤细腰身",
+          "高腰长裙，拉长身材比例",
+          "甜美粉色，衬托肤色"
+        ],
+        "similar_brands_style": "类似Zara、H&M的夏季度假系列",
+        "coordination_suggestions": [
+          "搭配草编包和凉鞋，打造海滩度假风",
+          "搭配精致项链和高跟鞋，适合约会或派对",
+          "搭配墨镜和宽檐帽，增加时尚感"
+        ]
+      },
+      "ecommerce": {
+        "title": "夏季新款深V领露腰扭结连衣裙女甜美度假风高腰长裙",
+        "search_keywords": [
+          "连衣裙",
+          "深V领",
+          "露腰",
+          "扭结",
+          "高腰",
+          "长裙",
+          "度假风",
+          "甜美",
+          "粉色"
+        ],
+        "hashtags": [
+          "#连衣裙",
+          "#露腰裙",
+          "#度假风",
+          "#甜美穿搭",
+          "#夏季必备"
+        ],
+        "description": "这款夏季新款连衣裙采用甜美粉色，深V领设计修饰颈部线条，腰部独特的镂空扭结设计巧妙展现纤细腰身。高腰长裙版型拉长身材比例，打造优雅度假风。适合海边度假、约会或日常休闲穿着，轻松成为人群焦点。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "粉色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_053.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2795,
+        "completion_tokens": 1158
+      }
+    },
+    {
+      "basic_info": {
+        "category": "套装",
+        "subcategory": "衬衫套装",
+        "gender": "女装",
+        "age_range": "25-35",
+        "season": [
+          "春",
+          "夏",
+          "秋"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "约会"
+        ]
+      },
+      "style": {
+        "primary_style": "休闲",
+        "secondary_styles": [
+          "极简",
+          "欧美"
+        ],
+        "aesthetic": "null",
+        "trend_relevance": "经典条纹元素，宽松版型符合当下休闲舒适潮流"
+      },
+      "colors": {
+        "primary_color": "牛仔蓝",
+        "secondary_colors": [
+          "白色"
+        ],
+        "color_scheme": "条纹",
+        "color_temperature": "冷色调",
+        "color_saturation": "中等",
+        "color_season": "夏冷"
+      },
+      "material": {
+        "primary_fabric": "牛仔",
+        "fabric_blend": "null",
+        "fabric_weight": "中等150-250g",
+        "texture": "水洗做旧",
+        "drape": "适中",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "宽松",
+        "length": "常规",
+        "neckline": "翻领",
+        "sleeve_type": "长袖",
+        "waistline": "中腰",
+        "hem": "平摆",
+        "back_design": "null",
+        "closure": "前纽扣"
+      },
+      "design_details": {
+        "pattern_type": "条纹",
+        "pattern_description": "细条纹",
+        "decorations": [],
+        "pockets": "胸袋",
+        "stitching": "常规",
+        "craft_techniques": [
+          "水洗"
+        ],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "随性舒适的都市休闲感",
+        "design_highlight": "经典的细条纹与宽松版型结合，打造慵懒时尚感",
+        "visual_weight": "适中"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型"
+        ],
+        "flattering_features": "宽松版型不挑身材，条纹有视觉拉伸效果",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "中端150-500",
+        "target_audience": "25-35岁追求舒适与时尚的都市女性",
+        "selling_points": [
+          "经典条纹设计，永不过时",
+          "宽松版型，舒适不挑身材",
+          "牛仔面料，耐穿易打理",
+          "套装搭配，省心时尚"
+        ],
+        "similar_brands_style": "类似Zara、H&M的休闲时尚风格",
+        "coordination_suggestions": [
+          "搭配白色内搭和小白鞋，打造清新休闲风",
+          "解开衬衫纽扣，内搭吊带，搭配凉鞋，适合度假风",
+          "搭配精致小包和墨镜，提升整体时尚度"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024春夏季新款时尚休闲条纹牛仔衬衫套装女 宽松显瘦两件套",
+        "search_keywords": [
+          "条纹套装",
+          "牛仔套装",
+          "休闲套装",
+          "宽松衬衫",
+          "阔腿裤",
+          "时尚两件套",
+          "春夏季女装",
+          "通勤套装",
+          "显瘦套装",
+          "欧美风"
+        ],
+        "hashtags": [
+          "#条纹套装",
+          "#牛仔时尚",
+          "#休闲穿搭",
+          "#春季新款",
+          "#显瘦套装",
+          "#ootd",
+          "#时尚穿搭"
+        ],
+        "description": "这款春夏季新款条纹牛仔衬衫套装，采用舒适柔软的牛仔面料，经典细条纹设计，时尚百搭。宽松版型不挑身材，上身显瘦，带来慵懒随性的时尚感。无论是日常通勤还是休闲逛街，都能轻松打造出时髦造型，是衣橱不可或缺的时尚单品。"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "牛仔蓝"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "downloaded_images/qizhou888/product_054.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1143
+      }
+    }
+  ]
+}

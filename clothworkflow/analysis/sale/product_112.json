@@ -1,0 +1,159 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "连帽卫衣套装",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "极简"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "经典百搭款，宽松版型符合当下休闲潮流"
+  },
+  "colors": {
+    "primary_color": "米白",
+    "secondary_colors": [
+      "棕色",
+      "黄色",
+      "灰色",
+      "黑色",
+      "军绿",
+      "深蓝",
+      "白色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "毛圈布",
+    "fabric_blend": "null",
+    "fabric_weight": "厚实>350g",
+    "texture": "肌理感",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": [
+      "保暖"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的休闲运动感，简约百搭。",
+    "design_highlight": "420G重磅毛圈面料，提供优异的保暖性和舒适度。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，连帽设计修饰颈部线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适休闲穿搭的都市青年男女",
+    "selling_points": [
+      "420G重磅毛圈面料，保暖舒适",
+      "宽松版型，不挑身材，穿着舒适",
+      "纯色设计，简约百搭，多种颜色可选",
+      "连帽设计，时尚休闲",
+      "中性款式，男女同款"
+    ],
+    "similar_brands_style": "类似优衣库、H&M等快时尚品牌的基础款休闲风格",
+    "coordination_suggestions": [
+      "搭配运动鞋和棒球帽，打造活力运动风。",
+      "内搭白色T恤，露出下摆，增加层次感。",
+      "搭配休闲帆布包，适合日常通勤和逛街。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI重磅420G毛圈纯色连帽卫衣套装男女同款宽松休闲运动服秋冬",
+    "search_keywords": [
+      "重磅卫衣",
+      "毛圈卫衣",
+      "连帽卫衣",
+      "纯色卫衣",
+      "卫衣套装",
+      "男女同款",
+      "宽松卫衣",
+      "休闲运动服",
+      "秋冬卫衣",
+      "情侣卫衣",
+      "百搭卫衣"
+    ],
+    "hashtags": [
+      "#重磅卫衣",
+      "#毛圈卫衣",
+      "#连帽卫衣",
+      "#卫衣套装",
+      "#男女同款",
+      "#休闲穿搭",
+      "#秋冬必备",
+      "#情侣穿搭"
+    ],
+    "description": "TILANI重磅420G毛圈纯色连帽卫衣套装，精选优质毛圈面料，厚实保暖，触感柔软亲肤。宽松版型设计，不挑身材，穿着舒适自在。简约纯色，百搭时尚，无论是日常通勤、休闲逛街还是居家运动，都能轻松驾驭。多色可选，男女同款，打造你的专属休闲风格。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "米白",
+      "棕色",
+      "黄色",
+      "灰色",
+      "黑色",
+      "军绿",
+      "深蓝",
+      "白色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_112.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1284
+  }
+}

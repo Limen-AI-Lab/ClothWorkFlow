@@ -1,0 +1,140 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "流苏连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "晚宴",
+      "度假"
+    ]
+  },
+  "style": {
+    "primary_style": "复古",
+    "secondary_styles": [
+      "优雅",
+      "性感"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "流苏元素是经典设计，在特定场合和复古风格中常有体现，不受短期潮流影响。"
+  },
+  "colors": {
+    "primary_color": "藏青",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "冬冷"
+  },
+  "material": {
+    "primary_fabric": "涤纶",
+    "fabric_blend": "null",
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "合身",
+    "length": "中长",
+    "neckline": "一字肩",
+    "sleeve_type": "无袖",
+    "waistline": "无腰线",
+    "hem": "不规则",
+    "back_design": "常规",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [
+      "流苏"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "null"
+    ],
+    "functional_features": [
+      "null"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "充满动感和复古魅力的派对晚宴裙。",
+    "design_highlight": "全身多层流苏设计，随步履摇曳生姿。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "流苏的垂直线条有拉长身形的效果，一字肩设计展现肩颈线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-45岁，追求时尚、喜欢在派对或特殊场合展现个性的女性。",
+    "selling_points": [
+      "独特的一字肩设计，展现优雅肩颈线。",
+      "全身多层流苏，随步摇曳，充满动感和复古魅力。",
+      "藏青色沉稳大气，适合多种正式场合。",
+      "中长款设计，优雅得体，不失性感。"
+    ],
+    "similar_brands_style": "类似Zara或H&M的派对系列，或一些轻奢设计师品牌。",
+    "coordination_suggestions": [
+      "搭配银色或裸色细高跟鞋，增加整体的精致感。",
+      "选择简约的耳环和手拿包，避免抢夺流苏裙的风采。",
+      "搭配精致的妆容和发型，如复古卷发或盘发，提升整体造型感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款复古优雅藏青色流苏连衣裙女 一字肩中长款派对晚宴裙",
+    "search_keywords": [
+      "流苏连衣裙",
+      "一字肩连衣裙",
+      "藏青色连衣裙",
+      "派对礼服",
+      "晚宴裙",
+      "复古连衣裙",
+      "中长款连衣裙",
+      "性感连衣裙",
+      "度假裙"
+    ],
+    "hashtags": [
+      "#流苏裙",
+      "#派对穿搭",
+      "#一字肩",
+      "#复古风",
+      "#晚宴礼服",
+      "#藏青色",
+      "#时尚穿搭"
+    ],
+    "description": "这款藏青色流苏连衣裙，以其独特的一字肩设计和全身多层流苏，为您打造复古优雅的派对造型。流苏随步摇曳，充满动感魅力，中长款设计得体大方。无论是约会、派对还是晚宴，都能让您成为焦点。面料舒适垂坠，展现女性柔美曲线。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "藏青"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_072.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1221
+  }
+}

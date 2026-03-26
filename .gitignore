@@ -3,14 +3,10 @@
 __pycache__/
 *.pyc
 
-# Data (large files, user-specific)
-downloaded_images/
+# Data outputs
 outputs/
 *.npz
 *.zip
-
-# Analysis results (generated, can be large)
-clothworkflow/analysis/
 
 # Secrets
 .env

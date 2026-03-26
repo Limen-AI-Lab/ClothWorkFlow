@@ -1,0 +1,141 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "礼服裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "海滩度假"
+    ]
+  },
+  "style": {
+    "primary_style": "甜美",
+    "secondary_styles": [
+      "复古",
+      "优雅"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典礼服款式，受潮流影响较小"
+  },
+  "colors": {
+    "primary_color": "粉色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "春暖"
+  },
+  "material": {
+    "primary_fabric": "欧根纱",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "半透明",
+    "drape": "飘逸",
+    "elasticity": "无弹",
+    "transparency": "半透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "A型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "一字肩",
+    "sleeve_type": "灯笼袖",
+    "waistline": "高腰",
+    "hem": "荷叶边",
+    "back_design": null,
+    "closure": "拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "蕾丝花边",
+      "刺绣"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "褶皱"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "浪漫优雅的仙女感",
+    "design_highlight": "一字肩和灯笼袖设计，搭配多层荷叶边裙摆，营造出飘逸的仙女气质",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "沙漏形"
+    ],
+    "flattering_features": "一字肩设计展现肩颈线条，高腰线拉长腿部比例，A字裙遮胯显瘦",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求浪漫优雅风格的女性",
+    "selling_points": [
+      "浪漫一字肩设计，展现优美肩颈线",
+      "飘逸多层欧根纱裙摆，仙气十足",
+      "高腰修身版型，显瘦显高",
+      "甜美粉色，衬托肤色",
+      "适合多种正式场合穿着"
+    ],
+    "similar_brands_style": "类似Marchesa Notte、Jenny Packham等轻奢礼服品牌风格",
+    "coordination_suggestions": [
+      "搭配精致项链和耳环，提升整体华丽感。",
+      "选择裸色或银色高跟鞋，拉长腿部线条。",
+      "搭配手拿包，增添优雅气质。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款法式浪漫一字肩粉色礼服裙 仙女气质灯笼袖高腰长款连衣裙",
+    "search_keywords": [
+      "礼服裙",
+      "一字肩",
+      "粉色连衣裙",
+      "灯笼袖",
+      "仙女裙",
+      "长款礼服",
+      "宴会裙",
+      "约会穿搭",
+      "欧根纱",
+      "高腰显瘦"
+    ],
+    "hashtags": [
+      "#仙女裙",
+      "#一字肩礼服",
+      "#粉色连衣裙",
+      "#浪漫穿搭",
+      "#宴会礼服",
+      "#气质女神",
+      "#约会穿搭"
+    ],
+    "description": "这款法式浪漫一字肩礼服裙，采用轻盈飘逸的欧根纱面料，带来仙气十足的穿着体验。一字肩设计巧妙展现优美肩颈线条，搭配复古灯笼袖，增添甜美气息。高腰修身版型，完美修饰身材比例，多层荷叶边裙摆随风摇曳，尽显优雅魅力。无论是约会、派对还是正式场合，都能让您成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "粉色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_045.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1238
+  }
+}

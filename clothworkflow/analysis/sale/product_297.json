@@ -1,0 +1,157 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "连帽卫衣套装",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "居家",
+      "校园",
+      "运动"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "运动"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，但颜色选择上贴合当下流行趋势"
+  },
+  "colors": {
+    "primary_color": "多色（图片展示了多种颜色，无单一主色）",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "摇粒绒",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "绒面",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤, 蓬松保暖"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "加绒"
+    ],
+    "functional_features": [
+      "保暖"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "舒适保暖的休闲运动感，活力十足。",
+    "design_highlight": "370G重磅摇粒绒面料带来的厚实保暖感和多样的色彩选择。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型不挑身材，连帽设计修饰颈部线条，松紧腰裤子穿着舒适。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适保暖、休闲时尚的年轻消费者。",
+    "selling_points": [
+      "370G重磅摇粒绒面料，保暖性强",
+      "宽松版型，不挑身材，穿着舒适",
+      "多色可选，满足不同搭配需求",
+      "加绒设计，适合秋冬穿着",
+      "套装设计，省去搭配烦恼"
+    ],
+    "similar_brands_style": "类似优衣库基础款休闲风格，但颜色更丰富。",
+    "coordination_suggestions": [
+      "搭配运动鞋和棒球帽，打造活力运动风。",
+      "内搭白色T恤，增加层次感，适合日常休闲。",
+      "搭配休闲帆布鞋，营造轻松自在的居家或校园风格。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024秋冬新款加绒加厚连帽卫衣套装男女同款370G重磅摇粒绒休闲运动服",
+    "search_keywords": [
+      "连帽卫衣套装",
+      "加绒卫衣",
+      "摇粒绒套装",
+      "秋冬卫衣",
+      "男女同款",
+      "休闲运动服",
+      "重磅卫衣",
+      "保暖套装",
+      "宽松卫衣",
+      "情侣卫衣"
+    ],
+    "hashtags": [
+      "#连帽卫衣",
+      "#摇粒绒",
+      "#秋冬穿搭",
+      "#情侣装",
+      "#休闲运动风",
+      "#保暖套装",
+      "#多巴胺穿搭",
+      "#中性风"
+    ],
+    "description": "这款秋冬新款连帽卫衣套装，采用370G重磅摇粒绒面料，内里加绒加厚，带来极致的保暖体验。宽松版型设计，不挑身材，穿着舒适自在。多达十余种时尚色彩可选，满足您的个性搭配需求。无论是日常通勤、休闲逛街还是居家运动，都能轻松驾驭，是您秋冬衣橱的必备单品。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "绿色",
+      "深灰",
+      "米白",
+      "深绿",
+      "白色",
+      "黑色",
+      "蓝色",
+      "深棕",
+      "浅灰",
+      "砖红",
+      "浅绿",
+      "浅米灰",
+      "玫红",
+      "紫色",
+      "卡其",
+      "藏青"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TLAN"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_297.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1334
+  }
+}

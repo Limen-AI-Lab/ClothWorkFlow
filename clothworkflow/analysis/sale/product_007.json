@@ -1,0 +1,145 @@
+{
+  "basic_info": {
+    "category": "卫衣",
+    "subcategory": "连帽卫衣",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "暗黑",
+      "休闲"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "街头暗黑风格的印花卫衣，具有一定的潮流属性，尤其在年轻群体中流行。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "浅灰色"
+    ],
+    "color_scheme": "撞色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "摇粒绒",
+    "fabric_blend": "null",
+    "fabric_weight": "厚实>350g",
+    "texture": "绒面",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤, 蓬松保暖"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "收口",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "胸前“KAIZEN”字母印花，袖子和背部有抽象的浅灰色图腾印花",
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "印花"
+    ],
+    "functional_features": [
+      "保暖"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "张扬个性的街头暗黑风，兼具保暖舒适性。",
+    "design_highlight": "胸前和背部的抽象图腾印花，以及袖子的火焰状印花，营造出独特的街头暗黑美学。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，落肩设计修饰肩部线条，加绒加厚保暖性好。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求个性、注重舒适保暖的街头潮流爱好者",
+    "selling_points": [
+      "370G重磅摇粒绒面料，加绒加厚保暖",
+      "落肩oversized版型，宽松舒适不挑身材",
+      "独特街头暗黑风格印花，个性十足",
+      "连帽设计，实用百搭"
+    ],
+    "similar_brands_style": "偏向国潮街头品牌风格，如：FMACM、Randomevent",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+高帮帆布鞋，打造休闲街头look。",
+      "内搭白色T恤，露出下摆，增加层次感。",
+      "搭配工装裤+马丁靴，强化暗黑工装风格。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 2024秋冬新款街头暗黑风印花连帽卫衣男潮牌宽松加绒加厚摇粒绒套头衫",
+    "search_keywords": [
+      "卫衣",
+      "连帽卫衣",
+      "街头风",
+      "暗黑风",
+      "印花卫衣",
+      "oversize",
+      "宽松卫衣",
+      "加绒卫衣",
+      "摇粒绒",
+      "保暖卫衣",
+      "潮牌卫衣",
+      "秋冬卫衣"
+    ],
+    "hashtags": [
+      "#街头风",
+      "#暗黑系",
+      "#oversize",
+      "#加绒卫衣",
+      "#摇粒绒",
+      "#潮牌",
+      "#秋冬穿搭",
+      "#个性卫衣"
+    ],
+    "description": "TILANI 2024秋冬新款连帽卫衣，采用370G重磅摇粒绒面料，加绒加厚，带来极致保暖体验。宽松落肩oversized版型，不挑身材，穿着舒适。胸前、袖子及背部独特的街头暗黑风印花设计，彰显个性潮流态度。无论是日常通勤还是休闲出街，都能轻松打造时尚造型。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "Tilani"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_007.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1305
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "basic_info": {
+    "category": "裤子",
+    "subcategory": "休闲短裤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "运动",
+      "居家",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "运动"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典休闲款式，不受潮流影响，但水洗做旧工艺符合当下复古趋势"
+  },
+  "colors": {
+    "primary_color": "多色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "100% COTTON",
+    "fabric_weight": "厚实>350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "短款",
+    "neckline": null,
+    "sleeve_type": null,
+    "waistline": "松紧腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "系带"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "毛圈"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的日常休闲感，兼具街头潮流气息。",
+    "design_highlight": "450G重磅水洗毛圈面料，带来独特的质感和舒适度。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，松紧腰设计舒适包容。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、休闲和潮流感的年轻消费者。",
+    "selling_points": [
+      "450G重磅纯棉毛圈面料，厚实有质感",
+      "水洗工艺，呈现自然做旧效果",
+      "宽松版型，舒适不挑身材",
+      "多色可选，满足不同搭配需求",
+      "经典百搭款，四季皆宜"
+    ],
+    "similar_brands_style": "类似优衣库UT系列休闲款、日系潮牌基础款风格",
+    "coordination_suggestions": [
+      "搭配纯色T恤+运动鞋，打造简约运动风。",
+      "搭配宽松衬衫+帆布鞋，营造休闲日系感。",
+      "搭配卫衣+棒球帽，展现街头潮流范。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILAN 450G重磅纯棉水洗毛圈休闲短裤男夏季宽松运动五分裤女潮牌",
+    "search_keywords": [
+      "短裤",
+      "休闲短裤",
+      "运动短裤",
+      "纯棉短裤",
+      "重磅短裤",
+      "水洗短裤",
+      "毛圈短裤",
+      "五分裤",
+      "宽松短裤",
+      "夏季短裤",
+      "潮牌短裤",
+      "中性短裤"
+    ],
+    "hashtags": [
+      "#重磅短裤",
+      "#水洗做旧",
+      "#纯棉舒适",
+      "#休闲穿搭",
+      "#夏季必备",
+      "#潮牌短裤",
+      "#宽松短裤",
+      "#运动风"
+    ],
+    "description": "这款TILAN重磅水洗毛圈休闲短裤，精选450G纯棉面料，触感柔软亲肤，厚实有型。独特的水洗工艺赋予其自然做旧的复古质感。宽松版型设计，不挑身材，穿着舒适自在。松紧腰搭配抽绳，方便调节。多色可选，轻松搭配T恤、卫衣，打造日常休闲、运动街头等多种风格，是春夏秋三季的百搭单品。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "绿色",
+      "深绿色",
+      "卡其色",
+      "米白色",
+      "灰色",
+      "藏青色",
+      "雾蓝色",
+      "军绿色",
+      "棕色",
+      "深灰色",
+      "蓝色",
+      "白色",
+      "酒红色",
+      "炭灰色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILAN"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_174.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1355
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "吊带连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "夏",
+      "春"
+    ],
+    "occasion": [
+      "海滩度假",
+      "休闲逛街",
+      "约会"
+    ]
+  },
+  "style": {
+    "primary_style": "波西米亚",
+    "secondary_styles": [
+      "度假风",
+      "民族风",
+      "甜美"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典度假款式，不受潮流影响，每年夏季都有市场"
+  },
+  "colors": {
+    "primary_color": "米白",
+    "secondary_colors": [
+      "红色",
+      "绿色",
+      "深蓝"
+    ],
+    "color_scheme": "纯色底色+刺绣图案",
+    "color_temperature": "暖色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "春暖"
+  },
+  "material": {
+    "primary_fabric": "棉",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "肌理感",
+    "drape": "飘逸",
+    "elasticity": "无弹",
+    "transparency": "微透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "A型",
+    "fit": "宽松",
+    "length": "超长及踝",
+    "neckline": "吊带",
+    "sleeve_type": "无袖",
+    "waistline": "无腰线",
+    "hem": "不规则",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "碎花",
+    "pattern_description": "红色和绿色花朵刺绣，边缘有深色几何图案刺绣",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": null,
+    "craft_techniques": [
+      "刺绣"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "充满异域风情的浪漫度假感，飘逸而富有层次",
+    "design_highlight": "精致的刺绣花朵图案和飘逸的多层不规则下摆",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松廓形遮盖腰腹和臀部，飘逸下摆修饰腿部线条",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-45岁追求浪漫、喜爱度假风格的女性",
+    "selling_points": [
+      "波西米亚度假风情",
+      "精致手工刺绣",
+      "轻薄透气面料",
+      "宽松飘逸，舒适不挑身材",
+      "多层不规则下摆设计感强"
+    ],
+    "similar_brands_style": "类似Free People、Anthropologie的度假系列",
+    "coordination_suggestions": [
+      "搭配草编帽和凉鞋，打造完美的沙滩度假造型。",
+      "内搭比基尼或抹胸，适合海边穿着。",
+      "搭配民族风配饰和流苏包，增强整体波西米亚风格。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款波西米亚风刺绣吊带连衣裙女海边度假沙滩裙长裙",
+    "search_keywords": [
+      "波西米亚连衣裙",
+      "度假长裙",
+      "刺绣连衣裙",
+      "沙滩裙",
+      "吊带裙",
+      "民族风",
+      "飘逸长裙",
+      "夏季连衣裙",
+      "宽松连衣裙",
+      "海边度假"
+    ],
+    "hashtags": [
+      "#波西米亚风",
+      "#度假穿搭",
+      "#刺绣连衣裙",
+      "#沙滩裙",
+      "#夏日必备",
+      "#飘逸长裙"
+    ],
+    "description": "这款波西米亚风刺绣吊带连衣裙，采用轻薄透气的棉质面料，触感柔软亲肤。精致的花朵刺绣点缀裙身，搭配飘逸的多层不规则下摆，尽显浪漫度假风情。宽松版型不挑身材，是您海边度假、休闲出游的理想选择，轻松打造优雅迷人的夏日造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "米白"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_076.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1202
+  }
+}

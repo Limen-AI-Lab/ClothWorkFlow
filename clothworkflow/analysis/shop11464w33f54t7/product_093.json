@@ -1,0 +1,140 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "流苏连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "海滩度假",
+      "晚宴"
+    ]
+  },
+  "style": {
+    "primary_style": "欧美",
+    "secondary_styles": [
+      "性感",
+      "优雅",
+      "波西米亚"
+    ],
+    "aesthetic": "辣妹风",
+    "trend_relevance": "流苏元素是时尚界经久不衰的流行元素，尤其在派对和度假场景中备受欢迎。"
+  },
+  "colors": {
+    "primary_color": "藏青",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "冬冷"
+  },
+  "material": {
+    "primary_fabric": "涤纶",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "流苏质感，整体呈哑光",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "中长",
+    "neckline": "一字肩",
+    "sleeve_type": "无袖",
+    "waistline": "无腰线",
+    "hem": "流苏下摆",
+    "back_design": "常规",
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "流苏"
+    ],
+    "pockets": "无口袋",
+    "stitching": null,
+    "craft_techniques": [
+      "流苏拼接"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "充满动感和异域风情的性感优雅连衣裙。",
+    "design_highlight": "层叠的流苏设计，随着身体摆动而摇曳生姿。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "一字肩设计展现肩颈线条，流苏增加动感和修饰性。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-45岁追求时尚、喜欢在特殊场合展现个性的女性。",
+    "selling_points": [
+      "性感一字肩设计",
+      "多层流苏，行走间摇曳生姿",
+      "藏青色显瘦且高级",
+      "适合派对、度假等多种场合"
+    ],
+    "similar_brands_style": "类似Zara、H&M等快时尚品牌中的派对系列。",
+    "coordination_suggestions": [
+      "搭配银色高跟鞋和精致手拿包，出席晚宴或派对。",
+      "搭配平底凉鞋和草编包，打造海滩度假风情。",
+      "搭配简约耳饰和手链，突出连衣裙的华丽感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款藏青色一字肩流苏连衣裙女 气质修身中长款派对度假裙",
+    "search_keywords": [
+      "流苏连衣裙",
+      "一字肩",
+      "藏青色",
+      "派对裙",
+      "度假裙",
+      "性感连衣裙",
+      "中长款连衣裙",
+      "修身连衣裙",
+      "夏季连衣裙",
+      "晚宴裙"
+    ],
+    "hashtags": [
+      "#流苏裙",
+      "#一字肩",
+      "#派对穿搭",
+      "#度假风",
+      "#藏青色",
+      "#性感连衣裙",
+      "#时尚穿搭"
+    ],
+    "description": "这款藏青色一字肩流苏连衣裙，采用柔软垂坠的面料，多层流苏设计随步履摇曳，尽显女性的优雅与性感。修身中长款版型，完美展现身材曲线。无论是参加派对、晚宴，还是海边度假，都能让您成为焦点。时尚百搭，轻松打造吸睛造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "藏青"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_093.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1207
+  }
+}

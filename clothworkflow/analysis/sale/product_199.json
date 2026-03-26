@@ -1,0 +1,148 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，宽松版型符合当下休闲潮流"
+  },
+  "colors": {
+    "primary_color": "白色",
+    "secondary_colors": [
+      "米白",
+      "黑色",
+      "炭灰"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "简约舒适的街头休闲感，宽松版型带来随性自由。",
+    "design_highlight": "305G重磅纯棉面料，提供优异的质感和穿着体验。",
+    "visual_weight": "量感强"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦，适合多种体型。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、简约和街头风格的年轻群体",
+    "selling_points": [
+      "305G重磅纯棉，厚实有质感",
+      "宽松oversized版型，不挑身材",
+      "经典圆领短袖，百搭易穿",
+      "水洗工艺，带来复古做旧感",
+      "多色可选，满足不同搭配需求"
+    ],
+    "similar_brands_style": "类似优衣库UT系列的基础款，但更偏向街头潮流品牌如Stussy的宽松版型和面料质感。",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+运动鞋，打造经典街头休闲风。",
+      "搭配工装短裤+帆布鞋，营造清爽夏日工装感。",
+      "内搭长袖T恤，叠穿出层次感，适合春秋穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 305G重磅纯棉短袖T恤男潮牌夏季宽松oversize圆领纯色情侣款",
+    "search_keywords": [
+      "重磅T恤",
+      "纯棉短袖",
+      "oversize",
+      "宽松T恤",
+      "圆领短袖",
+      "街头潮牌",
+      "情侣T恤",
+      "夏季T恤",
+      "百搭T恤",
+      "水洗做旧"
+    ],
+    "hashtags": [
+      "#重磅T恤",
+      "#oversize",
+      "#纯棉短袖",
+      "#街头穿搭",
+      "#情侣款",
+      "#夏季必备",
+      "#百搭单品",
+      "#水洗做旧"
+    ],
+    "description": "TILANI 305G重磅纯棉短袖T恤，精选优质纯棉面料，厚实有型，带来舒适亲肤的穿着体验。宽松oversized版型设计，不挑身材，轻松打造随性街头感。经典圆领搭配简约纯色，经过水洗工艺处理，呈现自然复古的做旧效果。无论是日常通勤、休闲逛街还是情侣穿搭，都是不可或缺的时尚单品。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "白色",
+      "米白",
+      "黑色",
+      "炭灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_199.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1281
+  }
+}

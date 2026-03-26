@@ -1,0 +1,157 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "短袖T恤套装",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "居家",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "极简"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "经典休闲款式，水洗工艺赋予复古感，不受潮流影响，百搭耐穿。"
+  },
+  "colors": {
+    "primary_color": "多色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "100% COTTON",
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "松紧腰",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的休闲运动感，带有复古做旧的质感。",
+    "design_highlight": "水洗做旧工艺和重磅纯棉面料带来的独特质感。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，松紧腰短裤舒适包容。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适休闲、注重面料质感的年轻消费者。",
+    "selling_points": [
+      "水洗做旧工艺，复古时尚",
+      "250G平纹棉T恤，450G毛圈棉短裤，重磅纯棉面料，舒适耐穿",
+      "宽松版型，不挑身材，穿着舒适",
+      "多色可选，满足不同搭配需求",
+      "百搭休闲套装，省心搭配"
+    ],
+    "similar_brands_style": "类似优衣库基础款的舒适度，结合一些街头潮牌的做旧风格。",
+    "coordination_suggestions": [
+      "搭配小白鞋或帆布鞋，打造日常休闲look。",
+      "搭配棒球帽和斜挎包，增加街头潮流感。",
+      "T恤可单独搭配牛仔裤，短裤可搭配其他T恤，实现多场景穿搭。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILAN水洗短袖套装男夏季重磅纯棉T恤短裤两件套休闲运动情侣装",
+    "search_keywords": [
+      "水洗短袖套装",
+      "重磅纯棉T恤",
+      "休闲运动套装",
+      "情侣短袖套装",
+      "夏季男装",
+      "宽松短裤",
+      "圆领T恤",
+      "复古做旧",
+      "纯棉套装",
+      "潮流街头"
+    ],
+    "hashtags": [
+      "#水洗套装",
+      "#重磅纯棉",
+      "#休闲穿搭",
+      "#情侣款",
+      "#夏季必备",
+      "#复古风",
+      "#不挑身材",
+      "#舒适百搭"
+    ],
+    "description": "TILAN水洗短袖套装，精选250G平纹棉T恤与450G毛圈棉短裤，重磅纯棉面料带来卓越的舒适度和质感。独特的做旧水洗工艺，赋予服装复古潮流感。宽松版型设计，不挑身材，穿着自在。多色可选，轻松打造日常休闲、街头运动等多种风格，是夏季衣橱的百搭之选。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "灰色",
+      "军绿",
+      "米白",
+      "卡其",
+      "深绿",
+      "墨绿",
+      "深灰",
+      "棕色",
+      "雾蓝",
+      "藏青",
+      "黑色",
+      "酒红",
+      "蓝色",
+      "白色",
+      "炭灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILAN"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_033.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1364
+  }
+}

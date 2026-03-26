@@ -1,0 +1,141 @@
+{
+  "basic_info": {
+    "category": "连体裤",
+    "subcategory": "阔腿连体裤",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "轻奢",
+      "复古"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典款式融合流行元素，如羽毛装饰，具有一定的潮流感但整体偏向经典优雅。"
+  },
+  "colors": {
+    "primary_color": "淡紫色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "冷色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "夏冷"
+  },
+  "material": {
+    "primary_fabric": "醋酸",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "一字肩",
+    "sleeve_type": "七分袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "羽毛"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "褶皱"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅高贵的晚宴礼服感，兼具时尚与复古韵味。",
+    "design_highlight": "一字肩的褶皱设计和袖口处的羽毛装饰。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "一字肩设计展现肩颈线条，高腰线拉长腿部比例，阔腿裤型修饰腿部线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅、注重品质和细节的都市女性，适合出席正式场合。",
+    "selling_points": [
+      "优雅一字肩褶皱设计，凸显颈部线条。",
+      "袖口羽毛装饰，增添轻奢复古感。",
+      "高腰阔腿连体裤，修饰身形显腿长。",
+      "垂坠感面料，穿着舒适且有质感。",
+      "淡紫色调，衬托肤色，彰显温柔气质。"
+    ],
+    "similar_brands_style": "类似Max Mara、Theory的优雅通勤风格，融合了晚礼服的精致感。",
+    "coordination_suggestions": [
+      "搭配银色高跟鞋和手拿包，打造精致晚宴造型。",
+      "佩戴简约钻石项链和耳环，提升整体华丽感。",
+      "搭配同色系或裸色系披肩，应对室内外温差。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款优雅一字肩褶皱羽毛袖连体裤女 高腰阔腿裤晚宴礼服",
+    "search_keywords": [
+      "连体裤",
+      "一字肩",
+      "羽毛袖",
+      "阔腿裤",
+      "晚宴礼服",
+      "淡紫色",
+      "高腰",
+      "优雅",
+      "褶皱",
+      "派对穿搭"
+    ],
+    "hashtags": [
+      "#连体裤",
+      "#一字肩",
+      "#羽毛袖",
+      "#晚宴穿搭",
+      "#优雅气质",
+      "#高腰显瘦",
+      "#派对礼服",
+      "#淡紫色"
+    ],
+    "description": "这款优雅淡紫色连体裤，采用垂坠感面料，穿着舒适且富有质感。独特的一字肩褶皱设计，巧妙展现肩颈线条，七分袖口点缀轻盈羽毛，增添复古轻奢韵味。高腰阔腿裤型完美修饰身形，拉长腿部比例。无论是出席晚宴、派对还是正式场合，都能让您成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "淡紫色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_081.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1270
+  }
+}

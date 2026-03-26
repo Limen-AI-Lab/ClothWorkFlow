@@ -1,0 +1,138 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "挂脖露脐上衣+高开叉半裙套装",
+    "gender": "女装",
+    "age_range": "18-35",
+    "season": [
+      "夏"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "海滩度假"
+    ]
+  },
+  "style": {
+    "primary_style": "甜美",
+    "secondary_styles": [
+      "欧美",
+      "性感"
+    ],
+    "aesthetic": "辣妹风",
+    "trend_relevance": "夏季流行款，符合当下辣妹风和度假风趋势"
+  },
+  "colors": {
+    "primary_color": "玫红",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "高饱和鲜艳",
+    "color_season": "春暖"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "光滑",
+    "drape": "飘逸",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "挂脖",
+    "sleeve_type": "无袖",
+    "waistline": "高腰",
+    "hem": "高开叉",
+    "back_design": "露背",
+    "closure": "无"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "金属扣"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "褶皱"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "热情洋溢的度假风情，性感而充满活力",
+    "design_highlight": "挂脖露脐上衣与高开叉半裙的组合，展现腰部和腿部线条",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，高开叉设计修饰腿部线条，露脐设计展现腰部曲线",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求时尚、热爱度假和派对的年轻女性",
+    "selling_points": [
+      "高饱和玫红色，吸睛亮眼",
+      "挂脖露脐设计，性感时尚",
+      "高开叉半裙，修饰腿部线条",
+      "轻薄飘逸面料，适合夏季穿着",
+      "度假、派对多场合适用"
+    ],
+    "similar_brands_style": "类似Shein、Zaful等快时尚品牌风格",
+    "coordination_suggestions": [
+      "搭配金色细带凉鞋和同色系手拿包，打造派对女王范。",
+      "搭配草编帽和沙滩凉鞋，营造海滩度假风情。",
+      "搭配简约耳饰和手链，突出整体造型的精致感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款玫红色挂脖露脐上衣高开叉半裙两件套性感度假风套装女",
+    "search_keywords": [
+      "玫红色套装",
+      "挂脖上衣",
+      "露脐装",
+      "高开叉半裙",
+      "性感套装",
+      "度假风",
+      "派对穿搭",
+      "沙滩裙",
+      "两件套",
+      "夏季女装"
+    ],
+    "hashtags": [
+      "#辣妹风",
+      "#度假穿搭",
+      "#派对女王",
+      "#玫红色",
+      "#性感套装",
+      "#夏季必备",
+      "#高开叉",
+      "#露脐装"
+    ],
+    "description": "这款2024夏季新款玫红色挂脖露脐上衣高开叉半裙两件套，采用轻薄飘逸面料，触感顺滑冰凉，穿着舒适。独特的挂脖露脐设计搭配高开叉半裙，完美展现女性的性感魅力和修长身姿。高饱和度的玫红色吸睛亮眼，无论是海滩度假、泳池派对还是日常约会，都能让你成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "玫红"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/qizhou888/product_011.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1233
+  }
+}

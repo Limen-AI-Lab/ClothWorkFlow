@@ -1,0 +1,143 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "礼服裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "海滩度假"
+    ]
+  },
+  "style": {
+    "primary_style": "甜美",
+    "secondary_styles": [
+      "优雅",
+      "度假风"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典优雅款，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "粉色",
+    "secondary_colors": [
+      "金色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "春暖"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "光滑",
+    "drape": "飘逸",
+    "elasticity": "无弹",
+    "transparency": "微透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "抹胸",
+    "sleeve_type": "无袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "腰部金色棕榈树图案印花",
+    "decorations": [
+      "珠饰"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "刺绣"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅浪漫的度假风情，带有异域风情的甜美感",
+    "design_highlight": "腰部金色棕榈树图案刺绣和披肩设计",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，抹胸设计展现肩颈线条",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅浪漫风格的女性",
+    "selling_points": [
+      "轻盈飘逸雪纺面料",
+      "独特金色棕榈树刺绣",
+      "优雅披肩设计",
+      "高腰修身显瘦版型",
+      "浪漫粉色调"
+    ],
+    "similar_brands_style": "偏向轻奢礼服品牌风格",
+    "coordination_suggestions": [
+      "搭配金色高跟鞋和手拿包，出席晚宴。",
+      "搭配精致耳环和项链，提升整体华丽感。",
+      "搭配同色系丝巾或披肩，增加层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款粉色抹胸礼服裙女夏高腰显瘦度假风长裙优雅派对晚宴裙",
+    "search_keywords": [
+      "粉色礼服裙",
+      "抹胸长裙",
+      "度假风连衣裙",
+      "高腰显瘦",
+      "派对晚宴裙",
+      "雪纺连衣裙",
+      "优雅长裙",
+      "棕榈树刺绣",
+      "披肩设计",
+      "夏日礼服"
+    ],
+    "hashtags": [
+      "#粉色礼服",
+      "#度假风",
+      "#抹胸长裙",
+      "#优雅穿搭",
+      "#派对季",
+      "#夏日时尚",
+      "#高腰显瘦",
+      "#雪纺连衣裙"
+    ],
+    "description": "这款粉色抹胸礼服裙采用轻盈飘逸的雪纺面料，触感柔软亲肤，带来舒适穿着体验。高腰修身版型巧妙拉长腿部比例，搭配独特的金色棕榈树刺绣，尽显异域风情。优雅的披肩设计增添层次感，无论是度假、约会还是出席派对晚宴，都能让你成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "粉色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_078.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1192
+  }
+}

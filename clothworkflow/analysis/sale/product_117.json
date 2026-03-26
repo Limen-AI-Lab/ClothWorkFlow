@@ -1,0 +1,152 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "连帽拉链卫衣套装",
+    "gender": "中性",
+    "age_range": "1-12岁（儿童）",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "运动"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，但颜色选择紧跟流行趋势"
+  },
+  "colors": {
+    "primary_color": "多色（图片展示多种颜色）",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "棉95%",
+    "fabric_weight": "中厚320g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "前拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "舒适活力的休闲运动感，色彩选择丰富。",
+    "design_highlight": "320g重磅纯棉面料带来的柔软舒适感和多达18种的颜色选择。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "全年龄段儿童"
+    ],
+    "flattering_features": "宽松版型不挑身材，适合各种体型的儿童。",
+    "size_range_guess": "S-XL（儿童尺码）"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "注重舒适度和时尚感的儿童家长，追求高性价比的儿童服装。",
+    "selling_points": [
+      "95%纯棉面料，柔软亲肤",
+      "320g重磅克重，保暖舒适",
+      "宽松版型，活动自如不束缚",
+      "多达18种颜色可选，满足不同喜好",
+      "拉链设计，方便穿脱"
+    ],
+    "similar_brands_style": "类似优衣库（Uniqlo）儿童基础款，但颜色更丰富，偏向街头休闲。",
+    "coordination_suggestions": [
+      "内搭白色T恤，打造简约休闲风。",
+      "搭配运动鞋，适合日常玩耍和户外活动。",
+      "选择亮色系套装，增加儿童活泼可爱感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI儿童拉链连帽卫衣套装2024秋冬新款95%纯棉320g重磅柔软运动服",
+    "search_keywords": [
+      "儿童卫衣套装",
+      "拉链连帽卫衣",
+      "纯棉运动服",
+      "秋冬童装",
+      "中性童装",
+      "重磅卫衣",
+      "柔软亲肤",
+      "休闲套装",
+      "儿童运动套装",
+      "多色可选"
+    ],
+    "hashtags": [
+      "#儿童卫衣",
+      "#亲子装",
+      "#纯棉童装",
+      "#运动套装",
+      "#秋冬新款",
+      "#舒适童装",
+      "#多巴胺穿搭",
+      "#儿童时尚"
+    ],
+    "description": "TILANI儿童拉链连帽卫衣套装，精选95%纯棉面料，320g重磅克重，带来柔软亲肤的穿着体验。宽松版型设计，让孩子活动自如，无拘无束。多达18种时尚色彩可选，满足不同孩子的个性需求。无论是日常休闲、校园生活还是户外运动，都能轻松搭配，是孩子秋冬衣橱的理想选择。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "白色",
+      "卡其灰",
+      "薄荷绿",
+      "灰色",
+      "军绿",
+      "黄色",
+      "棕色",
+      "粉色",
+      "浅绿色",
+      "紫色",
+      "米色",
+      "深棕色",
+      "深灰色",
+      "玫红色",
+      "黑色",
+      "蓝色",
+      "墨绿色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_117.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1332
+  }
+}

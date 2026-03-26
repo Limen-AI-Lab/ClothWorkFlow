@@ -1,0 +1,155 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古"
+    ],
+    "aesthetic": "Y2K",
+    "trend_relevance": "融合了Y2K美学和复古街头元素，具有一定的潮流感，同时宽松版型和纯棉面料使其成为经典百搭款。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "玫红",
+      "紫色",
+      "天蓝"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "胸前大幅卡通与文字结合的印花，图案风格偏向暗黑复古，带有“PARADISE”字样。",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗"
+    ],
+    "functional_features": [
+      "环保",
+      "柔软",
+      "透气",
+      "吸汗"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "张扬个性的街头复古感，带有独特的艺术气息。",
+    "design_highlight": "胸前大面积的暗黑卡通印花和水洗做旧效果。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求个性、喜爱街头潮流文化的年轻群体。",
+    "selling_points": [
+      "300G重磅纯棉面料，舒适耐穿",
+      "水洗做旧工艺，复古潮流感",
+      "oversized宽松版型，不挑身材",
+      "独特暗黑卡通印花，彰显个性",
+      "环保透气吸汗，穿着体验佳"
+    ],
+    "similar_brands_style": "类似潮牌如Stussy、Carhartt WIP的街头休闲风格，或国内一些独立设计师品牌。",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+运动鞋，打造休闲街头风。",
+      "搭配工装裤+马丁靴，营造硬朗工装感。",
+      "搭配短裤+帆布鞋，适合夏季清爽出街。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TLANI 300G重磅纯棉短袖T恤男潮牌水洗做旧暗黑卡通印花oversize宽松情侣装",
+    "search_keywords": [
+      "TLANI",
+      "短袖T恤",
+      "纯棉T恤",
+      "300G重磅",
+      "水洗做旧",
+      "卡通印花",
+      "oversize",
+      "宽松T恤",
+      "街头潮牌",
+      "情侣装",
+      "复古T恤",
+      "夏季新款"
+    ],
+    "hashtags": [
+      "#街头潮牌",
+      "#oversizeT恤",
+      "#水洗做旧",
+      "#纯棉短袖",
+      "#个性印花",
+      "#情侣穿搭",
+      "#Y2K风格",
+      "#夏季必备"
+    ],
+    "description": "TLANI 300G重磅纯棉短袖T恤，采用高品质纯棉面料，手感柔软亲肤，吸湿透气。独特的做旧水洗工艺，赋予服装复古街头感。胸前大面积暗黑卡通印花，彰显不羁个性。oversize宽松版型，不挑身材，男女同款，轻松打造潮流情侣穿搭。无论是日常休闲还是街头出游，都能让你成为焦点。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "玫红",
+      "紫色",
+      "天蓝",
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_214.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1350
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "礼服裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴",
+      "婚礼"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "性感",
+      "奢华"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典礼服款式，不受潮流影响，但细节设计融入现代感"
+  },
+  "colors": {
+    "primary_color": "酒红",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "null",
+    "fabric_blend": "null",
+    "fabric_weight": "中厚250-350g",
+    "texture": "哑光",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "修身直筒",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "方领",
+    "sleeve_type": "长袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅大气的晚宴礼服，展现女性的成熟魅力和性感气质。",
+    "design_highlight": "不对称的领口设计和单侧披肩式长袖，兼具设计感与飘逸感。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "修身剪裁凸显身材曲线，高腰线拉长腿部比例，不对称领口和披肩设计增加上半身亮点。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅、性感和独特设计的都市女性，注重在正式场合展现个人魅力。",
+    "selling_points": [
+      "独特不对称领口设计，时尚吸睛",
+      "单侧披肩式长袖，飘逸灵动，增添气场",
+      "修身剪裁，完美展现女性曲线",
+      "酒红色调，衬托肤色，彰托高贵气质",
+      "适合多种正式场合，提升个人魅力"
+    ],
+    "similar_brands_style": "类似Self-Portrait、Needle & Thread等轻奢礼服品牌风格",
+    "coordination_suggestions": [
+      "搭配精致的银色或金色手拿包和高跟鞋，打造完整晚宴造型。",
+      "佩戴简约的钻石或珍珠项链和耳环，提升整体精致度。",
+      "选择与礼服颜色相近或裸色的唇膏，保持妆容的优雅感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款酒红色不对称领口披肩长袖礼服裙 女士优雅修身显瘦晚宴连衣裙",
+    "search_keywords": [
+      "礼服裙",
+      "晚宴裙",
+      "酒红色连衣裙",
+      "不对称领口",
+      "披肩设计",
+      "长袖礼服",
+      "修身显瘦",
+      "优雅气质",
+      "派对礼服",
+      "正式场合"
+    ],
+    "hashtags": [
+      "#礼服裙",
+      "#晚宴穿搭",
+      "#酒红色",
+      "#优雅气质",
+      "#设计感",
+      "#派对季",
+      "#女神范"
+    ],
+    "description": "这款酒红色礼服裙以其独特的不对称领口和飘逸的单侧披肩长袖设计，完美诠释了优雅与性感。修身剪裁勾勒曼妙身姿，高腰线拉长腿部比例，无论是出席晚宴、派对还是重要活动，都能让您成为全场焦点。精选面料带来舒适穿着体验，助您轻松驾驭各种正式场合，展现自信魅力。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "酒红"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_013.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1276
+  }
+}

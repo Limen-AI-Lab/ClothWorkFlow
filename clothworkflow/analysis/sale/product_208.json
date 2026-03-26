@@ -1,0 +1,159 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "运动连帽衫套装",
+    "gender": "中性",
+    "age_range": "1-12岁（儿童）",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "运动",
+      "居家",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "运动",
+      "街头",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，但多巴胺配色符合当下流行趋势"
+  },
+  "colors": {
+    "primary_color": "多色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "毛圈棉",
+    "fabric_blend": "棉95%",
+    "fabric_weight": "中厚250-350g",
+    "texture": "绒面",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": [
+      "舒适透气"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "活泼舒适的儿童运动休闲套装，色彩选择丰富。",
+    "design_highlight": "320G重磅毛圈棉面料，提供舒适保暖的穿着体验。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "全年龄段儿童"
+    ],
+    "flattering_features": "宽松版型不挑身材，适合儿童日常活动。",
+    "size_range_guess": "S-XL（儿童尺码）"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "注重舒适度和性价比的儿童服装消费者，以及追求多巴胺配色的年轻父母。",
+    "selling_points": [
+      "95%毛圈棉，320G重磅面料，舒适保暖",
+      "宽松版型，适合儿童日常活动",
+      "多色可选，满足不同喜好",
+      "运动连帽衫套装，方便搭配"
+    ],
+    "similar_brands_style": "类似优衣库、H&M等品牌的儿童基础款运动休闲系列。",
+    "coordination_suggestions": [
+      "搭配运动鞋，打造活力运动风。",
+      "内搭T恤，增加层次感。",
+      "搭配棒球帽，增添街头时尚感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI儿童运动连帽衫套装2024秋冬新款95%毛圈棉320G重磅纯色宽松卫衣长裤两件套",
+    "search_keywords": [
+      "儿童运动套装",
+      "连帽卫衣套装",
+      "毛圈棉",
+      "320G重磅",
+      "儿童休闲服",
+      "秋冬童装",
+      "纯色套装",
+      "宽松卫衣",
+      "儿童长裤",
+      "TILANI"
+    ],
+    "hashtags": [
+      "#儿童运动套装",
+      "#童装",
+      "#连帽卫衣",
+      "#毛圈棉",
+      "#秋冬新款",
+      "#舒适童装",
+      "#多巴胺穿搭",
+      "#亲子装"
+    ],
+    "description": "TILANI儿童运动连帽衫套装，精选95%毛圈棉，320G重磅面料，柔软亲肤，保暖舒适。宽松版型设计，不束缚孩子活动，是日常休闲、运动、校园穿着的理想选择。提供多种时尚色彩，满足不同孩子的个性需求，轻松打造活力穿搭。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色",
+      "浅卡其",
+      "薄荷绿",
+      "米白",
+      "红色",
+      "黄色",
+      "紫色",
+      "灰色",
+      "深卡其",
+      "白色",
+      "浅棕色",
+      "蓝色",
+      "深灰色",
+      "湖蓝色",
+      "绿色",
+      "军绿色",
+      "玫红色",
+      "深棕色",
+      "粉色",
+      "青绿色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_208.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1324
+  }
+}

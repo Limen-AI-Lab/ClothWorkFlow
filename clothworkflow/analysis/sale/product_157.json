@@ -1,0 +1,153 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "圆领短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，但印花设计具有一定的潮流感"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "米白",
+      "卡其",
+      "黄色",
+      "蓝色",
+      "深棕"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "100% COTTON",
+    "fabric_weight": "中厚250-350g",
+    "texture": "光滑",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "字母logo",
+    "pattern_description": "背部印有“WITH NATURE AURORA PROJECT”、“Arctic and Antarctic”、“SEARCH METHOD”等字母和图形印花",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "丝网印"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "简约而不失设计感的休闲街头风格，舒适百搭。",
+    "design_highlight": "背部具有探索自然主题的字母和图形印花，以及280G重磅纯棉面料。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、简约和个性化设计的年轻消费者。",
+    "selling_points": [
+      "280G重磅纯棉面料，舒适耐穿",
+      "多色可选，满足不同搭配需求",
+      "宽松版型，不挑身材，穿着舒适",
+      "背部印花设计，增添时尚感和个性"
+    ],
+    "similar_brands_style": "类似优衣库基础款与潮流品牌印花T恤的结合风格",
+    "coordination_suggestions": [
+      "搭配牛仔裤+运动鞋，打造日常休闲街头风。",
+      "搭配工装裤+帆布鞋，展现随性工装感。",
+      "内搭衬衫，叠穿出层次感，适合春秋季节。"
+    ]
+  },
+  "ecommerce": {
+    "title": "280G重磅纯棉短袖T恤男潮牌夏季宽松圆领印花半袖情侣款多色",
+    "search_keywords": [
+      "短袖T恤",
+      "纯棉",
+      "重磅",
+      "圆领",
+      "印花",
+      "宽松",
+      "情侣款",
+      "夏季",
+      "潮牌",
+      "男士T恤",
+      "百搭",
+      "休闲"
+    ],
+    "hashtags": [
+      "#重磅T恤",
+      "#纯棉短袖",
+      "#潮牌T恤",
+      "#情侣穿搭",
+      "#夏季必备",
+      "#宽松版型",
+      "#印花T恤",
+      "#日常休闲"
+    ],
+    "description": "这款280G重磅纯棉短袖T恤，精选优质纯棉面料，手感柔软亲肤，穿着舒适透气。宽松版型设计，不挑身材，轻松遮肉显瘦。背部独特的字母印花，彰显个性与潮流态度。多色可选，无论是日常通勤、休闲逛街还是户外活动，都能轻松搭配，打造时尚舒适的穿搭体验。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "米白",
+      "卡其",
+      "白色",
+      "蓝色",
+      "深棕",
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_157.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1285
+  }
+}

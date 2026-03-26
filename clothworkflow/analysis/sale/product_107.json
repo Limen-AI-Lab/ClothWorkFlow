@@ -1,0 +1,145 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "插肩袖T恤",
+    "gender": "中性",
+    "age_range": "6-12岁（儿童）",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "美式"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典美式休闲款式，不受潮流影响，百搭耐穿"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "米白",
+      "白色",
+      "卡其"
+    ],
+    "color_scheme": "撞色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "肌理感",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "插肩袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": [
+      "透气",
+      "亲肤"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "活力十足的美式休闲感，简约舒适。",
+    "design_highlight": "复古撞色插肩袖设计，增加运动感和时尚度。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "直筒型",
+      "苹果形",
+      "梨形"
+    ],
+    "flattering_features": "宽松版型不挑身材，插肩袖设计修饰肩部线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "6-12岁追求舒适、时尚的儿童及其家长",
+    "selling_points": [
+      "200G纯棉面料，舒适透气",
+      "美式复古撞色插肩袖设计，时尚百搭",
+      "宽松版型，不挑身材，活动自如",
+      "亲肤安全，适合儿童穿着"
+    ],
+    "similar_brands_style": "类似Gap Kids、优衣库童装的基础休闲风格",
+    "coordination_suggestions": [
+      "搭配运动短裤+小白鞋，打造活力运动风。",
+      "搭配牛仔裤+帆布鞋，营造日常休闲感。",
+      "搭配休闲长裤+棒球帽，展现街头潮流范。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI儿童纯棉插肩袖T恤200G重磅美式复古撞色短袖男女童宽松上衣",
+    "search_keywords": [
+      "儿童T恤",
+      "纯棉短袖",
+      "插肩袖",
+      "撞色T恤",
+      "美式复古",
+      "男女童上衣",
+      "宽松T恤",
+      "透气亲肤",
+      "200G纯棉",
+      "休闲童装"
+    ],
+    "hashtags": [
+      "#儿童T恤",
+      "#纯棉短袖",
+      "#美式休闲",
+      "#撞色设计",
+      "#童装新品",
+      "#舒适透气",
+      "#插肩袖"
+    ],
+    "description": "这款TILANI儿童纯棉插肩袖T恤，采用200G重磅纯棉面料，柔软亲肤，透气舒适，呵护儿童娇嫩肌肤。经典美式复古撞色设计，时尚百搭，宽松版型不挑身材，让孩子活动自如。无论是日常穿着、校园生活还是户外活动，都能轻松搭配，展现活力童真。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "黑白撞色",
+      "黑米白撞色",
+      "卡其黑撞色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_107.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1218
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "拼接连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "约会",
+      "派对",
+      "正式商务"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "商务",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典黑白配色，不对称设计具有一定的时尚感，但整体风格偏向经典优雅，不易过时。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "米白"
+    ],
+    "color_scheme": "撞色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "涤纶",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "长款",
+    "neckline": "立领",
+    "sleeve_type": "长袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "压褶"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅大气的都市女性风格，兼具时尚感与正式感。",
+    "design_highlight": "黑白不对称拼接设计，以及胸部和裙摆的褶皱细节。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，修身剪裁凸显身材曲线，不对称设计增加视觉趣味。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-45岁追求优雅、时尚且注重品质的都市女性。",
+    "selling_points": [
+      "独特的黑白撞色不对称设计",
+      "修身显瘦的版型",
+      "高腰线拉长身材比例",
+      "适合多种场合穿着",
+      "褶皱细节增加设计感"
+    ],
+    "similar_brands_style": "类似Zara、Massimo Dutti的都市通勤风格，或一些设计师品牌的基础款。",
+    "coordination_suggestions": [
+      "搭配尖头高跟鞋和手拿包，适合正式场合。",
+      "搭配简约款项链和耳环，提升整体精致度。",
+      "外搭一件修身西装外套，增加商务感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024秋季新款黑白撞色拼接连衣裙女装优雅修身长款高腰褶皱气质长裙",
+    "search_keywords": [
+      "黑白拼接连衣裙",
+      "撞色长裙",
+      "不对称连衣裙",
+      "修身连衣裙",
+      "高腰连衣裙",
+      "优雅长裙",
+      "气质连衣裙",
+      "通勤连衣裙",
+      "褶皱连衣裙",
+      "秋季连衣裙"
+    ],
+    "hashtags": [
+      "#黑白配",
+      "#拼接连衣裙",
+      "#优雅穿搭",
+      "#通勤风",
+      "#气质长裙",
+      "#时尚单品",
+      "#高腰显瘦",
+      "#秋季新款"
+    ],
+    "description": "这款2024秋季新款黑白撞色拼接连衣裙，采用独特的几何不对称设计，将经典黑白完美融合。修身版型搭配高腰线，巧妙拉长身材比例，展现优雅曲线。胸部和裙摆的精致褶皱细节，增添层次感与时尚度。无论是日常通勤、约会还是商务场合，都能轻松驾驭，彰显都市女性的独特魅力与品味。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色/米白"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_146.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1200
+  }
+}

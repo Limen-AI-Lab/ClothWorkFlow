@@ -1,0 +1,141 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "百褶连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "约会",
+      "休闲逛街",
+      "派对"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "通勤",
+      "度假",
+      "轻熟"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百褶元素与不对称设计结合，兼具时尚感与实用性，不易过时。"
+  },
+  "colors": {
+    "primary_color": "橄榄绿",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "涤纶",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "合身",
+    "length": "中长",
+    "neckline": "一字肩",
+    "sleeve_type": "灯笼袖",
+    "waistline": "系带收腰",
+    "hem": "不规则",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "压褶"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅知性的都市女性气质，兼具时尚与舒适。",
+    "design_highlight": "不对称一字肩设计与百褶裙摆的结合，以及腰部系带的收腰效果。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型",
+      "梨形"
+    ],
+    "flattering_features": "一字肩展现肩颈线条，收腰设计凸显腰身，百褶裙摆遮盖腿部线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-45岁追求时尚优雅、注重穿着舒适度的都市女性。",
+    "selling_points": [
+      "优雅一字肩设计，展现迷人锁骨",
+      "经典百褶裙摆，飘逸灵动",
+      "系带收腰，修饰身形显瘦",
+      "舒适垂坠面料，穿着体验佳",
+      "橄榄绿色调，时尚百搭"
+    ],
+    "similar_brands_style": "类似Zara、H&M等快时尚品牌中偏优雅通勤的款式。",
+    "coordination_suggestions": [
+      "搭配尖头高跟鞋和精致手拿包，适合约会或派对。",
+      "搭配简约凉鞋和草编包，打造度假休闲风。",
+      "搭配细项链和耳环，提升整体精致感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款法式优雅一字肩连衣裙女夏收腰显瘦百褶中长裙气质度假风",
+    "search_keywords": [
+      "一字肩连衣裙",
+      "百褶裙",
+      "收腰连衣裙",
+      "中长裙",
+      "优雅连衣裙",
+      "度假风",
+      "气质连衣裙",
+      "橄榄绿",
+      "通勤连衣裙",
+      "显瘦连衣裙"
+    ],
+    "hashtags": [
+      "#一字肩",
+      "#百褶裙",
+      "#优雅穿搭",
+      "#度假风",
+      "#气质连衣裙",
+      "#显瘦",
+      "#时尚穿搭",
+      "#橄榄绿"
+    ],
+    "description": "这款法式优雅一字肩连衣裙，采用舒适垂坠面料，带来顺滑亲肤的穿着体验。独特的一字肩设计，巧妙展现肩颈线条，搭配经典百褶裙摆，飘逸灵动。腰部系带设计可自由调节，轻松勾勒曼妙身姿，修饰显瘦。无论是日常通勤、约会还是度假，都能轻松打造优雅气质。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "橄榄绿"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_056.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1229
+  }
+}

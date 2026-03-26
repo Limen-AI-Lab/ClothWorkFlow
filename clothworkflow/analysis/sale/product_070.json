@@ -1,0 +1,161 @@
+{
+  "basic_info": {
+    "category": "背心",
+    "subcategory": "无袖T恤/背心套装",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "夏"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "运动",
+      "居家",
+      "校园"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古",
+      "极简"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "水洗做旧工艺和宽松版型是近年街头休闲风格的流行元素，具有较高的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "null",
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "无袖",
+    "waistline": "松紧腰",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "随性不羁的街头复古感，兼具舒适与时尚。",
+    "design_highlight": "250G重磅复古水洗工艺，带来独特的肌理感和色彩效果。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，无袖设计展现手臂线条，水洗做旧效果能修饰身形。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求潮流、注重舒适度的年轻男女",
+    "selling_points": [
+      "250G重磅纯棉面料，舒适有质感",
+      "复古水洗做旧工艺，独特潮流",
+      "宽松版型，不挑身材，穿着舒适",
+      "18种颜色可选，满足个性化需求",
+      "无袖设计，适合夏季穿着，清爽透气"
+    ],
+    "similar_brands_style": "类似优衣库的舒适基础款与街头潮牌的结合，如：Urban Revivo、太平鸟男装的休闲系列。",
+    "coordination_suggestions": [
+      "搭配同色系水洗短裤+运动鞋，打造休闲运动套装。",
+      "搭配宽松牛仔裤+帆布鞋，营造街头复古风。",
+      "内搭白色T恤，叠穿背心，增加层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 250G重磅复古水洗背心男潮牌夏季宽松无袖T恤情侣套装",
+    "search_keywords": [
+      "TILANI",
+      "背心",
+      "无袖T恤",
+      "重磅",
+      "水洗",
+      "做旧",
+      "复古",
+      "街头",
+      "潮牌",
+      "宽松",
+      "夏季",
+      "情侣款",
+      "纯棉"
+    ],
+    "hashtags": [
+      "#街头潮牌",
+      "#复古水洗",
+      "#无袖T恤",
+      "#情侣穿搭",
+      "#夏季必备",
+      "#重磅纯棉",
+      "#宽松版型",
+      "#多巴胺穿搭"
+    ],
+    "description": "TILANI夏季新款250G重磅复古水洗背心，精选优质纯棉面料，手感柔软亲肤，穿着舒适透气。独特的做旧水洗工艺，赋予服装复古街头感，每一件都独一无二。宽松版型设计，不挑身材，男女同款，轻松打造情侣穿搭。18种潮流色彩可选，满足你的个性化需求，无论是日常休闲、运动健身还是街头出游，都能轻松驾驭，彰显时尚态度。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "炭灰",
+      "军绿",
+      "深绿",
+      "浅灰",
+      "黑色",
+      "粉色",
+      "蓝色",
+      "棕色",
+      "卡其",
+      "裸粉",
+      "米白",
+      "酒红",
+      "浅灰",
+      "紫色",
+      "天蓝",
+      "橘色",
+      "藏青"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_070.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1426
+  }
+}

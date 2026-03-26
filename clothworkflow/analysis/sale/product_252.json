@@ -1,0 +1,140 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "圆领短袖T恤",
+    "gender": "中性",
+    "age_range": "全年龄",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "运动",
+      "团队活动"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "简约",
+      "定制"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，主要强调定制服务"
+  },
+  "colors": {
+    "primary_color": "深卡其",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "肌理感",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "常规",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "简约百搭，适合作为定制基础款的T恤。",
+    "design_highlight": "提供个性化定制服务，面料和图案可自选。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "沙漏形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "常规版型不挑身材，适合大多数体型。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "需要定制团队服、班服、活动服的年轻群体和企业客户。",
+    "selling_points": [
+      "来图定制，个性化强",
+      "自选面料，品质可控",
+      "快速出版，效率高",
+      "经典圆领短袖，百搭实用",
+      "柔性定制，满足多样需求"
+    ],
+    "similar_brands_style": "类似优衣库基础款T恤，但更侧重定制服务。",
+    "coordination_suggestions": [
+      "搭配牛仔裤+运动鞋，打造休闲日常look。",
+      "搭配工装裤+帆布鞋，展现街头潮流感。",
+      "作为团队服，搭配统一的下装和配饰，增强团队凝聚力。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI柔性定制短袖T恤 来图定制班服团服工作服纯棉圆领文化衫",
+    "search_keywords": [
+      "短袖定制",
+      "T恤定制",
+      "班服定制",
+      "团服定制",
+      "工作服定制",
+      "文化衫定制",
+      "来图定制",
+      "自选面料",
+      "快速出版",
+      "纯棉T恤"
+    ],
+    "hashtags": [
+      "#短袖定制",
+      "#班服",
+      "#团服",
+      "#工作服",
+      "#文化衫",
+      "#个性定制",
+      "#TILANI"
+    ],
+    "description": "TILANI提供高品质短袖T恤柔性定制服务，支持来图定制，面料自选，快速出版。采用舒适纯棉面料，经典圆领设计，版型百搭不挑人。无论是班服、团服、工作服还是活动文化衫，都能满足您的个性化需求，打造专属团队形象。"
+  },
+  "image_info": {
+    "image_type": "产品概念图/宣传图",
+    "available_colors_shown": [
+      "深卡其"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_252.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1172
+  }
+}

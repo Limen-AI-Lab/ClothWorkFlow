@@ -1,0 +1,147 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "印花T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典街头风格，印花设计具有一定的复古潮流感，整体不受季节潮流影响，属于百搭款。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "深灰",
+      "棕色",
+      "白色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "光滑",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "字母logo",
+    "pattern_description": "胸前大幅“ENERGY Legend Travel happily”字母与地球图案印花，采用渐变色设计。",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "数码印花"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "宽松舒适的街头休闲感，带有复古潮流的印花设计。",
+    "design_highlight": "胸前大面积的渐变色字母与地球图案印花，具有视觉冲击力。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求潮流、注重舒适度的年轻消费者，偏爱街头休闲风格。",
+    "selling_points": [
+      "280G重磅平纹棉，舒适有质感",
+      "oversized宽松版型，不挑身材",
+      "潮流印花设计，彰显个性",
+      "多色可选，易于搭配"
+    ],
+    "similar_brands_style": "类似优衣库UT系列、H&M基础款街头风格。",
+    "coordination_suggestions": [
+      "搭配同色系短裤+运动鞋，打造休闲运动套装。",
+      "搭配牛仔裤+帆布鞋，营造日常街头休闲风。",
+      "内搭白色长袖T恤，叠穿增加层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 2024夏季新款280G重磅平纹棉印花T恤男潮牌宽松短袖情侣装",
+    "search_keywords": [
+      "T恤",
+      "短袖",
+      "男士T恤",
+      "女士T恤",
+      "情侣T恤",
+      "印花T恤",
+      "街头潮牌",
+      "oversize",
+      "宽松T恤",
+      "纯棉T恤",
+      "夏季T恤",
+      "休闲T恤"
+    ],
+    "hashtags": [
+      "#街头潮牌",
+      "#oversize",
+      "#印花T恤",
+      "#情侣装",
+      "#夏季穿搭",
+      "#纯棉T恤",
+      "#休闲风"
+    ],
+    "description": "TILANI 2024夏季新款印花T恤，精选280G重磅平纹棉，手感舒适，不易变形。oversized宽松版型，不挑身材，轻松穿出慵懒时尚感。胸前潮流字母与地球印花，采用渐变色工艺，彰显独特个性。多色可选，无论是日常通勤、休闲逛街还是情侣出游，都能轻松搭配，打造时尚街头造型。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "黑色",
+      "深灰",
+      "棕色",
+      "白色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_292.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1272
+  }
+}

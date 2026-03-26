@@ -1,0 +1,179 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "全年龄",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，Oversize版型符合当下休闲潮流"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "白色",
+      "米白",
+      "黄色",
+      "亮黄",
+      "玫红",
+      "红色",
+      "深棕",
+      "卡其",
+      "藏青",
+      "深灰",
+      "军绿",
+      "浅棕",
+      "浅粉",
+      "粉色",
+      "橘红",
+      "橄榄绿",
+      "深绿"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "100% COTTON",
+    "fabric_weight": "中厚250-350g",
+    "texture": "肌理感",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": [
+      "吸湿排汗"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "简约舒适的休闲街头感，宽松版型带来随性自由。",
+    "design_highlight": "230G重磅纯棉面料和Oversize落肩版型。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "追求舒适、简约和街头休闲风格的青少年及年轻消费者。",
+    "selling_points": [
+      "230G重磅纯棉面料，亲肤舒适",
+      "Oversize落肩版型，宽松不挑身材",
+      "吸湿排汗，透气舒适",
+      "多色可选，百搭实用",
+      "经典圆领短袖，不易过时"
+    ],
+    "similar_brands_style": "类似优衣库UT系列的基础款，但版型更偏向Fear of God Essentials的宽松街头风格。",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+运动鞋，打造休闲街头风。",
+      "搭配短裤+凉鞋，适合夏季清爽穿搭。",
+      "内搭长袖T恤，叠穿增加层次感，适合春秋。",
+      "搭配工装裤+帆布鞋，展现工装休闲风格。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 230G重磅纯棉短袖T恤男潮牌Oversize落肩宽松圆领半袖夏季",
+    "search_keywords": [
+      "短袖T恤",
+      "纯棉T恤",
+      "Oversize",
+      "落肩T恤",
+      "重磅T恤",
+      "男士T恤",
+      "夏季T恤",
+      "休闲T恤",
+      "街头潮牌",
+      "宽松短袖",
+      "圆领T恤",
+      "FOG大地色"
+    ],
+    "hashtags": [
+      "#OversizeT恤",
+      "#纯棉短袖",
+      "#重磅T恤",
+      "#街头潮牌",
+      "#夏季穿搭",
+      "#宽松版型",
+      "#百搭单品",
+      "#FOG风格"
+    ],
+    "description": "TILANI 230G重磅纯棉短袖T恤，精选100%纯棉面料，亲肤安全，吸湿排汗，透气舒适。采用Oversize落肩版型设计，宽松不挑身材，轻松打造休闲街头风格。多款FOG大地色系及亮色可选，满足不同搭配需求，是日常通勤、休闲逛街、校园穿搭的理想选择。"
+  },
+  "image_info": {
+    "image_type": "模特上身图, 多色展示, 细节图",
+    "available_colors_shown": [
+      "黑色",
+      "白色",
+      "米白",
+      "黄色",
+      "亮黄",
+      "玫红",
+      "红色",
+      "深棕",
+      "卡其",
+      "藏青",
+      "深灰",
+      "军绿",
+      "浅棕",
+      "浅粉",
+      "粉色",
+      "橘红",
+      "橄榄绿",
+      "深绿"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_275.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1460
+  }
+}

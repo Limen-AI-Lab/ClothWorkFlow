@@ -1,0 +1,137 @@
+{
+  "basic_info": {
+    "category": "衬衫",
+    "subcategory": "休闲衬衫",
+    "gender": "男装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "商务休闲"
+    ]
+  },
+  "style": {
+    "primary_style": "商务",
+    "secondary_styles": [
+      "休闲",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "雾蓝",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "夏冷"
+  },
+  "material": {
+    "primary_fabric": "亚麻",
+    "fabric_blend": "亚麻混纺",
+    "fabric_weight": "中等150-250g",
+    "texture": "肌理感",
+    "drape": "适中",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "合身",
+    "length": "常规",
+    "neckline": "翻领",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "弧形摆",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": [
+      "吸湿排汗",
+      "透气"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "干净利落的商务休闲感，舒适透气。",
+    "design_highlight": "天然亚麻混纺面料，强调舒适透气性。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "直筒型",
+      "沙漏形"
+    ],
+    "flattering_features": "合身版型修饰身形，纽扣领设计显得精神。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "25-45岁追求舒适、简约风格的都市男性",
+    "selling_points": [
+      "天然亚麻混纺，舒适透气",
+      "天猫品牌同款，品质保证",
+      "经典纽扣领设计，商务休闲两相宜",
+      "多季节可穿，实用性强"
+    ],
+    "similar_brands_style": "类似优衣库、海澜之家等基础款商务休闲风格",
+    "coordination_suggestions": [
+      "搭配卡其裤+乐福鞋，打造休闲商务风。",
+      "搭配牛仔裤+小白鞋，适合日常休闲。",
+      "内搭白色T恤，解开纽扣作为开衫穿着，增加层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "天猫品牌同款男士亚麻混纺衬衫长袖夏季薄款商务休闲透气衬衣",
+    "search_keywords": [
+      "男士衬衫",
+      "亚麻衬衫",
+      "长袖衬衫",
+      "商务休闲衬衫",
+      "透气衬衫",
+      "夏季衬衫",
+      "薄款衬衫",
+      "男装衬衣",
+      "纽扣领衬衫",
+      "纯色衬衫"
+    ],
+    "hashtags": [
+      "#男士衬衫",
+      "#亚麻衬衫",
+      "#商务休闲",
+      "#透气舒适",
+      "#天猫同款",
+      "#夏季穿搭",
+      "#简约风格"
+    ],
+    "description": "精选天然亚麻混纺面料，带来卓越的透气性和吸湿排汗性能，穿着柔软亲肤，告别闷热。经典纽扣领设计，版型合身，无论是日常通勤还是休闲聚会，都能轻松驾驭。天猫品牌同款品质，让您享受高性价比的舒适体验。"
+  },
+  "image_info": {
+    "image_type": "平铺图",
+    "available_colors_shown": [
+      "雾蓝"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "超级工厂"
+  },
+  "_meta": {
+    "image": "downloaded_images/shop2922242874804/product_022.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1177
+  }
+}

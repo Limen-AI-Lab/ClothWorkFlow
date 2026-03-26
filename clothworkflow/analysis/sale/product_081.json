@@ -1,0 +1,157 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "复古",
+      "暗黑"
+    ],
+    "aesthetic": "Y2K",
+    "trend_relevance": "水洗做旧工艺和复古印花是近年街头潮流的流行元素，具有较高的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [
+      "深灰",
+      "浅灰",
+      "黑"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "胸前大幅复古人像与“REVENGE”字母印花，具有做旧效果",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧",
+      "丝网印"
+    ],
+    "functional_features": [
+      "环保",
+      "柔软",
+      "透气",
+      "吸汗"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "复古且带有叛逆感的街头潮流T恤，彰显个性。",
+    "design_highlight": "独特的做旧水洗工艺和复古暗黑风格印花。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求个性、喜爱街头潮流文化的年轻消费者。",
+    "selling_points": [
+      "250g重磅纯棉面料，舒适有质感",
+      "复古水洗做旧工艺，独特潮流",
+      "oversized宽松版型，不挑身材",
+      "暗黑风格印花，彰显个性",
+      "环保柔软透气吸汗，穿着舒适"
+    ],
+    "similar_brands_style": "类似Fear of God Essentials、Supreme等街头潮牌的复古做旧风格。",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+高帮帆布鞋，打造休闲街头风。",
+      "搭配工装裤+运动鞋，营造硬朗工装感。",
+      "内搭长袖打底衫，叠穿出层次感，适合春秋穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "250g重磅纯棉水洗做旧短袖T恤男潮牌复古暗黑印花oversize宽松圆领半袖女",
+    "search_keywords": [
+      "水洗T恤",
+      "做旧T恤",
+      "重磅T恤",
+      "纯棉短袖",
+      "oversize T恤",
+      "街头潮牌",
+      "复古印花",
+      "暗黑风",
+      "男女同款",
+      "夏季T恤",
+      "圆领短袖",
+      "宽松短袖"
+    ],
+    "hashtags": [
+      "#水洗做旧",
+      "#重磅纯棉",
+      "#街头潮牌",
+      "#oversize",
+      "#复古印花",
+      "#暗黑风",
+      "#男女同款",
+      "#夏季穿搭"
+    ],
+    "description": "这款250g重磅纯棉短袖T恤，采用独特的复古水洗做旧工艺，呈现出自然的磨损感和独特的色泽。胸前暗黑风格的印花设计，彰显个性与潮流态度。oversize宽松版型，不挑身材，穿着舒适自在。面料柔软透气吸汗，环保亲肤，是日常休闲、街头穿搭的理想选择。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "PLUM PURPLE",
+      "LIGHT GRAY",
+      "DARK GRAY",
+      "BLACK"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TTLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_081.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1342
+  }
+}

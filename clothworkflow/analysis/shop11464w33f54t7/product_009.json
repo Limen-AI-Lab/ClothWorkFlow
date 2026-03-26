@@ -1,0 +1,138 @@
+{
+  "basic_info": {
+    "category": "连体裤",
+    "subcategory": "抹胸连体裤",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "性感",
+      "奢华"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典款式与流行元素（羽毛）结合，具有一定的潮流感"
+  },
+  "colors": {
+    "primary_color": "白色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "涤纶",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "抹胸",
+    "sleeve_type": "无袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "羽毛",
+      "金属扣"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅奢华，充满高级感的晚宴或派对穿搭。",
+    "design_highlight": "胸部立体羽毛装饰和高腰收腰设计。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，抹胸设计展现肩颈线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求时尚、注重场合着装的都市女性。",
+    "selling_points": [
+      "奢华羽毛抹胸设计，吸睛度高",
+      "高腰阔腿裤版型，显高显瘦",
+      "纯白色调，优雅高级",
+      "适合多种正式场合穿着"
+    ],
+    "similar_brands_style": "类似Self-Portrait、Needle & Thread等轻奢礼服品牌风格",
+    "coordination_suggestions": [
+      "搭配精致项链和高跟鞋，打造晚宴造型。",
+      "搭配手拿包和简约耳饰，适合约会或派对。",
+      "外搭一件短款西装外套，增加正式感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款白色羽毛抹胸连体裤女夏高腰显瘦阔腿裤晚宴派对礼服",
+    "search_keywords": [
+      "羽毛连体裤",
+      "抹胸连体裤",
+      "白色连体裤",
+      "高腰阔腿裤",
+      "晚宴礼服",
+      "派对穿搭",
+      "优雅连体裤",
+      "时尚女装",
+      "显瘦连体裤",
+      "轻奢礼服"
+    ],
+    "hashtags": [
+      "#羽毛连体裤",
+      "#抹胸设计",
+      "#晚宴穿搭",
+      "#派对礼服",
+      "#高腰显瘦",
+      "#白色时尚",
+      "#轻奢风"
+    ],
+    "description": "这款白色羽毛抹胸连体裤，以其独特的羽毛装饰和高腰阔腿裤版型，完美诠释了优雅与时尚。精选面料，穿着舒适，修身剪裁凸显曼妙身姿。无论是出席晚宴、派对还是重要约会，都能让您成为焦点，展现自信魅力。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "白色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_009.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1184
+  }
+}

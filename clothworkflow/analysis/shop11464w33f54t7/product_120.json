@@ -1,0 +1,146 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "抹胸礼服裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴",
+      "红毯"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "奢华",
+      "性感",
+      "复古"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "经典礼服款式，结合羽毛元素，具有一定的时尚感，不受短期潮流影响"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "欧根纱",
+    "fabric_blend": "null",
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "飘逸",
+    "elasticity": "无弹",
+    "transparency": "半透",
+    "hand_feel_guess": "轻盈飘逸"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "修身",
+    "length": "中长",
+    "neckline": "抹胸",
+    "sleeve_type": "无袖",
+    "waistline": "高腰",
+    "hem": "不规则",
+    "back_design": "null",
+    "closure": "null"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [
+      "羽毛"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "null"
+    ],
+    "functional_features": [
+      "null"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "优雅奢华，充满神秘感的晚宴礼服。",
+    "design_highlight": "胸部蓬松的羽毛装饰和半透明的欧根纱裙摆。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，抹胸设计展现肩颈线条，蓬松裙摆修饰臀部。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求时尚与优雅，注重场合着装的都市女性。",
+    "selling_points": [
+      "奢华羽毛抹胸设计，吸睛度高",
+      "高腰A字裙摆，修饰身形显腿长",
+      "轻盈欧根纱面料，飘逸灵动",
+      "经典黑色，百搭且显瘦",
+      "适合多种正式场合穿着"
+    ],
+    "similar_brands_style": "类似Marchesa Notte、Self-Portrait等轻奢礼服品牌风格",
+    "coordination_suggestions": [
+      "搭配精致高跟鞋和手拿包，打造完整晚宴造型。",
+      "佩戴简约的钻石项链或耳环，提升整体精致感。",
+      "搭配同色系或裸色系丝袜，增加保暖性和优雅度。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款黑色羽毛抹胸礼服裙女 高腰欧根纱蓬蓬裙中长款晚宴派对连衣裙",
+    "search_keywords": [
+      "羽毛礼服",
+      "抹胸连衣裙",
+      "黑色晚礼服",
+      "欧根纱裙",
+      "派对裙",
+      "高腰礼服",
+      "蓬蓬裙",
+      "中长款礼服",
+      "年会礼服",
+      "宴会裙"
+    ],
+    "hashtags": [
+      "#羽毛礼服",
+      "#抹胸裙",
+      "#黑色礼服",
+      "#晚宴穿搭",
+      "#派对女王",
+      "#优雅气质",
+      "#小黑裙",
+      "#时尚礼服"
+    ],
+    "description": "这款黑色羽毛抹胸礼服裙，以其独特的羽毛装饰和轻盈的欧根纱面料，为您打造优雅奢华的晚宴造型。高腰A字裙摆设计，巧妙修饰身形，拉长腿部比例。半透明的裙摆增添一丝性感与神秘。无论是出席派对、晚宴还是重要场合，都能让您成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_120.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1251
+  }
+}

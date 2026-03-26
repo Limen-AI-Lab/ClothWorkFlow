@@ -1,0 +1,161 @@
+{
+  "basic_info": {
+    "category": "裤子",
+    "subcategory": "短裤",
+    "gender": "中性",
+    "age_range": "全年龄",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "运动",
+      "居家",
+      "校园"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "运动",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，但宽松版型符合当下休闲趋势"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "米白",
+      "浅卡其",
+      "浅绿",
+      "深绿",
+      "军绿",
+      "灰色",
+      "橘红",
+      "白色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "肌理感",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "中长",
+    "neckline": null,
+    "sleeve_type": null,
+    "waistline": "中腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "系带"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": [
+      "吸湿排汗"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "简约舒适的休闲运动感，百搭实用。",
+    "design_highlight": "340G重磅毛圈面料，强调舒适度和质感。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型不挑身材，中长款可修饰大腿线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适休闲穿搭的年轻群体",
+    "selling_points": [
+      "340G重磅毛圈面料，舒适透气",
+      "宽松版型，不挑身材",
+      "多色可选，百搭实用",
+      "FOG系列设计，简约时尚",
+      "亲肤吸汗，适合日常及运动"
+    ],
+    "similar_brands_style": "类似优衣库基础款、Zara休闲系列风格",
+    "coordination_suggestions": [
+      "搭配宽松T恤+运动鞋，打造日常休闲运动风。",
+      "搭配连帽卫衣+帆布鞋，营造街头潮流感。",
+      "搭配衬衫+小白鞋，呈现简约日系风格。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI FOG系列340G重磅毛圈短裤男夏季宽松休闲运动五分裤女纯棉中裤",
+    "search_keywords": [
+      "短裤",
+      "五分裤",
+      "毛圈短裤",
+      "纯棉短裤",
+      "运动短裤",
+      "休闲短裤",
+      "宽松短裤",
+      "中性短裤",
+      "夏季短裤",
+      "重磅短裤",
+      "FOG系列",
+      "百搭短裤"
+    ],
+    "hashtags": [
+      "#毛圈短裤",
+      "#夏季穿搭",
+      "#休闲运动风",
+      "#宽松短裤",
+      "#纯棉舒适",
+      "#百搭单品",
+      "#中性风"
+    ],
+    "description": "TILANI FOG系列重磅毛圈短裤，精选340G纯棉面料，触感柔软亲肤，吸湿透气。宽松版型设计，不挑身材，穿着舒适自在。简约纯色，多色可选，轻松搭配各种上衣，无论是日常休闲、运动健身还是居家穿着，都能轻松驾驭，是您夏季衣橱的百搭之选。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "米白",
+      "浅卡其",
+      "浅绿",
+      "深绿",
+      "黑色",
+      "军绿",
+      "灰色",
+      "绿色",
+      "橘红",
+      "白色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_206.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1301
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "basic_info": {
+    "category": "卫衣",
+    "subcategory": "连帽开衫卫衣",
+    "gender": "女装",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "复古",
+      "休闲",
+      "美式"
+    ],
+    "aesthetic": "Y2K",
+    "trend_relevance": "复古美式街头风是近年来的流行趋势，水洗做旧工艺也符合Y2K美学，具有较高的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "砖红",
+    "secondary_colors": [
+      "炭灰",
+      "藏青"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "前拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "明线装饰",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "复古随性的美式街头感，兼具舒适与时尚。",
+    "design_highlight": "独特的做旧水洗工艺和明线装饰，营造复古街头氛围。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型不挑身材，连帽设计修饰肩颈线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求复古街头风格的年轻女性",
+    "selling_points": [
+      "复古水洗做旧工艺，独特有型",
+      "宽松版型，舒适不挑身材",
+      "连帽开衫设计，方便穿脱",
+      "纯棉面料，柔软亲肤",
+      "百搭款式，轻松打造街头休闲风"
+    ],
+    "similar_brands_style": "类似Urban Revivo、太平鸟等快时尚品牌的街头休闲系列",
+    "coordination_suggestions": [
+      "搭配黑色阔腿运动裤+帆布鞋，打造休闲运动风。",
+      "内搭白色T恤+牛仔短裙+马丁靴，展现甜酷少女感。",
+      "搭配工装裤+棒球帽，营造帅气中性风。"
+    ]
+  },
+  "ecommerce": {
+    "title": "复古美式水洗做旧连帽开衫卫衣女春秋宽松休闲街头拉链外套潮",
+    "search_keywords": [
+      "复古卫衣",
+      "美式街头",
+      "水洗做旧",
+      "连帽开衫",
+      "宽松卫衣",
+      "拉链外套",
+      "休闲卫衣",
+      "春秋外套",
+      "女装卫衣",
+      "Y2K风格"
+    ],
+    "hashtags": [
+      "#复古卫衣",
+      "#美式街头",
+      "#水洗做旧",
+      "#连帽开衫",
+      "#Oversize卫衣",
+      "#Y2K穿搭",
+      "#休闲外套",
+      "#春秋穿搭"
+    ],
+    "description": "这款复古美式水洗做旧连帽开衫卫衣，采用舒适纯棉面料，经过特殊水洗工艺呈现独特的做旧感，彰显个性街头风格。宽松版型不挑身材，拉链开合方便穿脱，是春秋季节日常休闲、逛街出游的理想选择，轻松打造时尚潮流范。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "砖红",
+      "炭灰",
+      "藏青"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_202.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1254
+  }
+}

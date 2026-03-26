@@ -1,0 +1,135 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "吊带连衣裙",
+    "gender": "女装",
+    "age_range": "25-35",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "日常通勤",
+      "海滩度假"
+    ]
+  },
+  "style": {
+    "primary_style": "甜美",
+    "secondary_styles": [
+      "优雅",
+      "简约"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "经典款式，不受潮流影响，常年流行"
+  },
+  "colors": {
+    "primary_color": "白色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "null",
+    "fabric_blend": "null",
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "A型",
+    "fit": "修身",
+    "length": "中长",
+    "neckline": "V领",
+    "sleeve_type": "无袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅甜美的约会或派对连衣裙，展现女性柔美气质。",
+    "design_highlight": "高腰A字裙摆设计，修饰身材比例。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，A字裙摆遮胯显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "20-35岁追求甜美优雅风格的女性",
+    "selling_points": [
+      "经典A字版型，修饰身材",
+      "V领设计，展现锁骨线条",
+      "高腰设计，拉长腿部比例",
+      "纯色百搭，适合多种场合"
+    ],
+    "similar_brands_style": "类似Zara、H&M等快时尚品牌的基础款连衣裙风格",
+    "coordination_suggestions": [
+      "搭配细高跟凉鞋和精致手拿包，适合约会或派对。",
+      "搭配平底凉鞋和草编包，打造度假休闲风。",
+      "外搭一件薄款开衫或牛仔外套，增加日常感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款法式优雅V领吊带连衣裙女高腰A字中长款白色小礼服裙",
+    "search_keywords": [
+      "吊带连衣裙",
+      "V领",
+      "A字裙",
+      "高腰",
+      "中长款",
+      "白色连衣裙",
+      "小礼服",
+      "约会裙",
+      "甜美",
+      "优雅"
+    ],
+    "hashtags": [
+      "#吊带连衣裙",
+      "#V领",
+      "#A字裙",
+      "#白色连衣裙",
+      "#约会穿搭",
+      "#甜美风",
+      "#优雅气质"
+    ],
+    "description": "这款法式优雅V领吊带连衣裙，采用修身A字版型，高腰设计巧妙拉长腿部线条，展现曼妙身姿。V领设计微露锁骨，增添一丝性感魅力。纯白色调经典百搭，无论是约会、派对还是日常通勤，都能轻松驾驭，尽显女性柔美气质。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "白色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_107.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1156
+  }
+}

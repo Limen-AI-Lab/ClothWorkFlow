@@ -1,0 +1,160 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "短袖T恤短裤套装",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "复古"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "复古水洗做旧效果是近年流行的街头休闲风格元素，具有一定的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "卡其",
+    "secondary_colors": [
+      "棕色",
+      "灰色",
+      "黑色",
+      "墨绿",
+      "青色",
+      "橘红",
+      "粉色",
+      "蓝色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "null",
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "松紧腰",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的复古休闲感，带有街头潮流气息。",
+    "design_highlight": "独特的复古炒色水洗做旧工艺，营造出自然的褪色效果。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，松紧腰设计舒适包容。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、时尚和个性化的年轻消费者，偏爱街头休闲风格。",
+    "selling_points": [
+      "280G重磅平纹棉T恤，430G毛圈棉短裤，面料厚实有质感",
+      "复古炒色水洗做旧工艺，颜色独特有腔调",
+      "宽松版型，舒适不挑身材",
+      "多色可选，满足不同搭配需求",
+      "T恤短裤套装，省心搭配"
+    ],
+    "similar_brands_style": "类似优衣库的舒适基础款与潮流品牌如Stussy的街头复古风格结合。",
+    "coordination_suggestions": [
+      "搭配白色运动鞋和棒球帽，打造活力街头风。",
+      "搭配帆布鞋和单肩包，适合日常休闲逛街。",
+      "搭配凉鞋和渔夫帽，营造轻松度假氛围。"
+    ]
+  },
+  "ecommerce": {
+    "title": "复古炒色短袖套装男夏季潮牌水洗做旧重磅纯棉T恤短裤两件套女",
+    "search_keywords": [
+      "复古炒色",
+      "短袖套装",
+      "水洗做旧",
+      "重磅纯棉",
+      "T恤短裤",
+      "潮牌",
+      "夏季",
+      "宽松",
+      "情侣装",
+      "休闲"
+    ],
+    "hashtags": [
+      "#复古炒色",
+      "#水洗做旧",
+      "#短袖套装",
+      "#重磅纯棉",
+      "#街头潮牌",
+      "#夏季穿搭",
+      "#情侣款",
+      "#OOTD"
+    ],
+    "description": "这款复古炒色短袖套装，采用280G重磅平纹棉T恤搭配430G毛圈棉短裤，面料厚实舒适。独特的炒色水洗做旧工艺，呈现出自然的复古褪色效果，彰显个性潮流。宽松版型不挑身材，多色可选，无论是日常休闲、街头穿搭还是情侣出街，都能轻松打造时尚舒适的造型。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "卡其",
+      "棕色",
+      "灰色",
+      "黑色",
+      "墨绿",
+      "青色",
+      "橘红",
+      "粉色",
+      "蓝色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "ITLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_050.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1354
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古"
+    ],
+    "aesthetic": "Y2K",
+    "trend_relevance": "融合了Y2K和复古街头元素，具有一定的潮流感，同时宽松版型和印花设计也符合当下年轻人的审美。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "天蓝",
+      "宝蓝",
+      "钢灰"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "胸前大幅人物与文字结合的喷绘效果印花，文字部分有模糊和做旧感，图案整体呈现复古街头风格。",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "数码印花"
+    ],
+    "functional_features": [
+      "吸湿排汗",
+      "柔软",
+      "透气",
+      "环保"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "宽松舒适的街头潮流感，带有复古做旧的艺术气息。",
+    "design_highlight": "胸前独特的喷绘效果人物与文字印花，结合水洗做旧工艺，营造出强烈的视觉冲击力。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，能有效遮盖腰腹部和手臂的赘肉。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求个性、热爱街头潮流文化的年轻消费者。",
+    "selling_points": [
+      "300g重磅纯棉面料，舒适有质感",
+      "独特喷绘效果印花，潮流个性",
+      "宽松oversized版型，不挑身材",
+      "水洗做旧工艺，复古街头感",
+      "吸湿透气，穿着舒适"
+    ],
+    "similar_brands_style": "类似国潮品牌、快时尚品牌中的街头系列（如：太平鸟、GXG、Zara部分款式）",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+运动鞋，打造休闲街头风。",
+      "搭配工装裤+马丁靴，展现硬朗工装感。",
+      "搭配短裤+帆布鞋，适合夏季清爽出街。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TLANI 300g重磅纯棉短袖T恤男潮牌夏季宽松oversize街头复古水洗做旧印花半袖",
+    "search_keywords": [
+      "短袖T恤",
+      "男士T恤",
+      "纯棉T恤",
+      "重磅T恤",
+      "oversize",
+      "街头潮牌",
+      "复古印花",
+      "水洗做旧",
+      "宽松短袖",
+      "夏季新款",
+      "中性T恤",
+      "情侣装"
+    ],
+    "hashtags": [
+      "#街头潮牌",
+      "#oversize",
+      "#复古印花",
+      "#水洗做旧",
+      "#纯棉T恤",
+      "#夏季穿搭",
+      "#情侣款",
+      "#Y2K风格"
+    ],
+    "description": "TLANI夏季新款300g重磅纯棉短袖T恤，精选优质棉料，柔软亲肤，吸湿透气。采用独特水洗做旧工艺，结合潮流喷绘印花设计，呈现复古街头美学。宽松oversized版型，不挑身材，轻松打造个性穿搭。无论是日常休闲还是街头出游，都能让你成为焦点。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "SKY BLUE",
+      "ROYAL BLUE",
+      "STEEL GRAY",
+      "BLACK"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_269.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1369
+  }
+}

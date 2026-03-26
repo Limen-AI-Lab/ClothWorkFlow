@@ -1,0 +1,138 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "休闲西装套装",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "约会",
+      "派对"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "商务",
+      "极简",
+      "欧美"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典款与流行色结合，具有一定的潮流感，同时兼具百搭性。"
+  },
+  "colors": {
+    "primary_color": "焦糖色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "醋酸",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "西装领",
+    "sleeve_type": "七分袖",
+    "waistline": "中腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "慵懒随性的都市时尚感，兼具舒适与优雅。",
+    "design_highlight": "宽松舒适的版型和垂坠感极佳的面料，营造出高级的休闲感。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦；垂坠感面料修饰身形。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-45岁追求舒适、时尚和品质的都市女性",
+    "selling_points": [
+      "高级感焦糖色，衬肤显白",
+      "宽松版型，舒适不挑身材",
+      "垂坠感面料，显瘦有质感",
+      "可拆分搭配，多种穿搭可能"
+    ],
+    "similar_brands_style": "类似Zara、Massimo Dutti的休闲商务风格",
+    "coordination_suggestions": [
+      "搭配白色内搭和高跟鞋，打造通勤干练造型。",
+      "搭配黑色吊带和运动鞋，营造休闲街头感。",
+      "上衣可单独搭配牛仔裤，下装可搭配T恤，实现多场景穿搭。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024春夏季新款焦糖色休闲西装套装女 宽松垂坠感七分袖衬衫阔腿裤两件套",
+    "search_keywords": [
+      "焦糖色套装",
+      "休闲西装",
+      "阔腿裤套装",
+      "七分袖衬衫",
+      "垂坠感面料",
+      "宽松套装",
+      "通勤套装",
+      "时尚两件套",
+      "春夏季女装",
+      "高级感套装"
+    ],
+    "hashtags": [
+      "#焦糖色",
+      "#休闲套装",
+      "#阔腿裤",
+      "#静奢风",
+      "#通勤穿搭",
+      "#高级感",
+      "#春夏季",
+      "#不挑身材"
+    ],
+    "description": "这款焦糖色休闲西装套装，精选垂坠感面料，触感顺滑，穿着舒适。宽松的七分袖衬衫搭配高腰阔腿裤，H型廓形不挑身材，轻松遮肉显瘦。焦糖色调高级百搭，无论是日常通勤还是休闲约会，都能轻松打造慵懒随性的都市时尚感。一套两穿，可拆分搭配，是您衣橱不可或缺的时尚单品。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "焦糖色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/qizhou888/product_028.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1232
+  }
+}

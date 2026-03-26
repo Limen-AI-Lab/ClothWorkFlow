@@ -1,0 +1,143 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "T恤短裤套装",
+    "gender": "中性",
+    "age_range": "3-12岁（儿童）",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "复古"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典撞色插肩袖设计，复古潮流，不受短期潮流影响，百搭耐穿。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "米白",
+      "卡其",
+      "深灰"
+    ],
+    "color_scheme": "撞色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "100% COTTON",
+    "fabric_weight": "中等150-250g",
+    "texture": "肌理感",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "松紧腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "明线装饰",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "活泼舒适的休闲运动感，带有复古潮流气息。",
+    "design_highlight": "撞色插肩袖设计和短裤的包边设计。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "全年龄"
+    ],
+    "flattering_features": "宽松版型不挑身材，插肩袖设计修饰肩部线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "3-12岁追求舒适、时尚的儿童及其家长。",
+    "selling_points": [
+      "100%纯棉面料，亲肤透气",
+      "撞色插肩袖设计，复古潮流",
+      "宽松版型，穿着舒适不束缚",
+      "T恤200g/短裤220g，面料克重适中",
+      "4色可选，满足不同喜好"
+    ],
+    "similar_brands_style": "类似Zara Kids、H&M Kids的休闲童装风格。",
+    "coordination_suggestions": [
+      "搭配白色运动鞋和棒球帽，打造活力运动风。",
+      "搭配凉鞋和渔夫帽，适合夏日出游。",
+      "单穿T恤搭配牛仔裤，或短裤搭配其他上衣，实现多场景穿搭。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI儿童撞色插肩袖T恤短裤套装2024夏季新款纯棉中大童休闲运动两件套",
+    "search_keywords": [
+      "儿童套装",
+      "T恤短裤",
+      "纯棉",
+      "撞色",
+      "插肩袖",
+      "中大童",
+      "夏季",
+      "休闲",
+      "运动",
+      "TILANI",
+      "童装",
+      "两件套"
+    ],
+    "hashtags": [
+      "#儿童套装",
+      "#纯棉童装",
+      "#撞色设计",
+      "#夏季穿搭",
+      "#休闲运动风",
+      "#中大童时尚",
+      "#TILANI"
+    ],
+    "description": "TILANI儿童撞色插肩袖T恤短裤套装，精选100%纯棉面料，T恤200g、短裤220g，柔软亲肤，透气吸汗。经典的撞色插肩袖设计，结合宽松版型，穿着舒适无束缚，尽显复古潮流范。四色可选，满足不同搭配需求，是孩子日常休闲、运动、校园生活的理想选择。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "卡其/黑色",
+      "黑色/米白",
+      "白色/黑色",
+      "卡其/黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_012.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1255
+  }
+}

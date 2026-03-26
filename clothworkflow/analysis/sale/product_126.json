@@ -1,0 +1,147 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "复古",
+      "休闲"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "水洗做旧效果是近年街头潮流的经典元素，图案设计也符合当下年轻人的审美，具有较高的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [
+      "深紫",
+      "亮蓝",
+      "亮粉"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "null",
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "胸前“OVERCOME”字母与双手合十缠绕蛇形闪电图案印花",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧",
+      "数码印花"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "复古街头感十足，彰显个性与不羁。",
+    "design_highlight": "独特的做旧水洗工艺和胸前潮流印花图案。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求潮流、个性化的年轻男女。",
+    "selling_points": [
+      "复古水洗做旧工艺，独特有型",
+      "潮流印花设计，彰显个性",
+      "宽松oversized版型，不挑身材",
+      "纯棉面料，舒适透气",
+      "中性款式，男女同款"
+    ],
+    "similar_brands_style": "类似潮牌如Stussy、Supreme的基础款T恤风格，或国内一些街头潮牌。",
+    "coordination_suggestions": [
+      "搭配同色系水洗做旧短裤+运动鞋，打造休闲街头套装。",
+      "搭配宽松牛仔裤+帆布鞋，营造随性日常感。",
+      "内搭长袖打底衫，叠穿出层次感，适合春秋穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TLN 2024夏季新款美式复古水洗做旧T恤男女潮牌宽松oversize短袖上衣",
+    "search_keywords": [
+      "水洗T恤",
+      "做旧短袖",
+      "潮牌T恤",
+      "oversize短袖",
+      "街头风T恤",
+      "男女同款T恤",
+      "复古印花T恤",
+      "纯棉短袖",
+      "宽松上衣",
+      "夏季T恤"
+    ],
+    "hashtags": [
+      "#水洗做旧",
+      "#街头潮牌",
+      "#oversize",
+      "#复古T恤",
+      "#男女同款",
+      "#个性穿搭",
+      "#夏季必备",
+      "#潮流印花"
+    ],
+    "description": "TLN 2024夏季新款美式复古水洗做旧T恤，采用独特水洗工艺，呈现自然复古的肌理感。胸前潮流印花设计，彰显个性态度。宽松oversized版型，不挑身材，舒适百搭。精选纯棉面料，柔软亲肤，透气吸汗。无论是日常休闲、街头穿搭，都能轻松打造时尚造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "炭灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": "TLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_126.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1284
+  }
+}

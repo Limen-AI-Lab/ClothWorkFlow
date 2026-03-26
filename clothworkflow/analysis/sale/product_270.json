@@ -1,0 +1,156 @@
+{
+  "basic_info": {
+    "category": "卫衣",
+    "subcategory": "连帽拉链卫衣套装",
+    "gender": "中性",
+    "age_range": "儿童",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外",
+      "居家"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "运动",
+      "简约"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "墨绿",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "摇粒绒",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "绒面",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "前拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "抓绒"
+    ],
+    "functional_features": [
+      "保暖"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "舒适保暖的儿童休闲运动套装",
+    "design_highlight": "抓绒面料带来的保暖舒适感",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "全年龄"
+    ],
+    "flattering_features": "宽松版型不挑身材，适合儿童活泼好动",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "3-12岁追求舒适保暖的儿童及其家长",
+    "selling_points": [
+      "抓绒保暖面料",
+      "百搭拉链外套设计",
+      "亲肤舒适",
+      "多色可选",
+      "适合多种场合穿着"
+    ],
+    "similar_brands_style": "类似优衣库童装基础款风格",
+    "coordination_suggestions": [
+      "搭配运动鞋和T恤，适合日常户外活动。",
+      "内搭衬衫，增加层次感，适合校园穿着。",
+      "作为居家服，提供舒适保暖体验。"
+    ]
+  },
+  "ecommerce": {
+    "title": "儿童抓绒连帽拉链卫衣套装秋冬新款中大童加绒加厚保暖外套运动服",
+    "search_keywords": [
+      "儿童卫衣",
+      "抓绒外套",
+      "连帽卫衣",
+      "拉链外套",
+      "儿童运动服",
+      "加绒加厚",
+      "保暖套装",
+      "中大童",
+      "秋冬新款",
+      "百搭"
+    ],
+    "hashtags": [
+      "#儿童卫衣",
+      "#抓绒外套",
+      "#保暖套装",
+      "#儿童时尚",
+      "#秋冬穿搭",
+      "#舒适童装",
+      "#运动休闲"
+    ],
+    "description": "这款儿童抓绒连帽拉链卫衣套装，采用柔软亲肤的抓绒面料，提供卓越的保暖性能。宽松版型设计，穿着舒适无束缚，适合儿童日常活动。多色可选，满足不同喜好，是秋冬季节校园、户外和居家穿着的理想选择，让孩子温暖有型。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "天蓝",
+      "薄荷绿",
+      "深灰",
+      "浅绿",
+      "粉色",
+      "黑色",
+      "浅灰",
+      "棕色",
+      "炭灰",
+      "紫色",
+      "墨绿",
+      "珊瑚红",
+      "浅黄",
+      "卡其",
+      "深棕",
+      "酒红",
+      "深绿"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "ITLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_270.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1221
+  }
+}

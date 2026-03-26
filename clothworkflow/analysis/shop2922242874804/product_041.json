@@ -1,0 +1,151 @@
+{
+  "basic_info": {
+    "category": "衬衫",
+    "subcategory": "商务衬衫",
+    "gender": "男装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "正式商务",
+      "约会"
+    ]
+  },
+  "style": {
+    "primary_style": "商务",
+    "secondary_styles": [
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "天蓝",
+    "secondary_colors": [
+      "白色",
+      "浅灰",
+      "深灰",
+      "藏青",
+      "黑色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "涤纶",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "合身",
+    "length": "常规",
+    "neckline": "翻领",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "弧形摆",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": [
+      "抗菌",
+      "凉感"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "干净利落的都市商务感，专业且舒适。",
+    "design_highlight": "7A抗菌凉感面料，提升穿着舒适度。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "直筒型",
+      "沙漏形"
+    ],
+    "flattering_features": "合身剪裁，修饰身形，显得干练。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "25-45岁注重舒适度和功能性的都市白领男性",
+    "selling_points": [
+      "7A抗菌凉感面料",
+      "舒适亲肤，手感细腻",
+      "易打理，抗皱",
+      "多色可选，经典百搭",
+      "工厂直销，性价比高"
+    ],
+    "similar_brands_style": "类似优衣库基础款商务衬衫风格",
+    "coordination_suggestions": [
+      "搭配西裤和皮鞋，适合商务通勤。",
+      "搭配休闲裤和乐福鞋，打造商务休闲风格。",
+      "内搭T恤，解开纽扣作为外套，适合日常休闲。"
+    ]
+  },
+  "ecommerce": {
+    "title": "超级工厂7A抗菌凉感衬衫男长袖夏季薄款商务休闲免烫易打理天猫品牌同款",
+    "search_keywords": [
+      "男士衬衫",
+      "长袖衬衫",
+      "商务衬衫",
+      "凉感衬衫",
+      "抗菌衬衫",
+      "免烫衬衫",
+      "易打理衬衫",
+      "夏季衬衫",
+      "薄款衬衫",
+      "天猫同款",
+      "工厂直销",
+      "舒适衬衫"
+    ],
+    "hashtags": [
+      "#男士衬衫",
+      "#商务通勤",
+      "#凉感面料",
+      "#抗菌科技",
+      "#免烫衬衫",
+      "#职场穿搭",
+      "#超级工厂",
+      "#高性价比"
+    ],
+    "description": "这款超级工厂男士长袖衬衫，采用创新7A抗菌凉感面料，触感细腻亲肤，穿着舒适透气。经典商务版型，合身剪裁，免烫易打理，是都市精英通勤的理想选择。多色可选，轻松搭配各种场合，无论是商务会议还是日常休闲，都能展现您的专业与品味。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "天蓝",
+      "白色",
+      "浅灰",
+      "深灰",
+      "藏青",
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "超级工厂"
+  },
+  "_meta": {
+    "image": "downloaded_images/shop2922242874804/product_041.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1211
+  }
+}

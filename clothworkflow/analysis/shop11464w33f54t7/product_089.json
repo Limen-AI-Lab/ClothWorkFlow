@@ -1,0 +1,144 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "半裙套装",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "日常通勤",
+      "正式商务"
+    ]
+  },
+  "style": {
+    "primary_style": "复古",
+    "secondary_styles": [
+      "优雅",
+      "华丽"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典华丽风格，不受短期潮流影响，但面料和图案具有一定的复古感"
+  },
+  "colors": {
+    "primary_color": "酒红",
+    "secondary_colors": [
+      "红色",
+      "金色",
+      "米白",
+      "灰色"
+    ],
+    "color_scheme": "拼色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "透明",
+    "drape": "飘逸",
+    "elasticity": "无弹",
+    "transparency": "半透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "A型",
+    "fit": "宽松",
+    "length": "中长",
+    "neckline": "V领",
+    "sleeve_type": "长袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "半裙为透明底色上印有酒红色和金色花卉图案",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "印花"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "华丽优雅的复古风情，充满异域情调",
+    "design_highlight": "半裙上的酒红色和金色花卉印花，以及透明面料的运用",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，A字裙遮胯显瘦，宽松上衣修饰手臂",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅、华丽风格，注重场合感的女性",
+    "selling_points": [
+      "独特的酒红色与金色花卉印花",
+      "飘逸的透明感面料",
+      "高腰A字裙修饰身形",
+      "适合多种正式及半正式场合"
+    ],
+    "similar_brands_style": "偏向中东或印度风格的礼服品牌，或一些注重华丽印花的轻奢品牌",
+    "coordination_suggestions": [
+      "搭配金色配饰和高跟鞋，打造派对或晚宴造型。",
+      "搭配简约手包，适合正式场合。",
+      "搭配同色系或裸色系鞋履，保持整体协调性。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款复古华丽酒红金花印花半透雪纺高腰A字裙套装女",
+    "search_keywords": [
+      "复古套装",
+      "华丽印花裙",
+      "雪纺半裙",
+      "高腰A字裙",
+      "酒红色套装",
+      "派对礼服",
+      "优雅女装",
+      "长袖上衣",
+      "中长裙",
+      "异域风情"
+    ],
+    "hashtags": [
+      "#复古风",
+      "#华丽套装",
+      "#印花半裙",
+      "#高腰显瘦",
+      "#派对穿搭",
+      "#优雅女性",
+      "#雪纺裙",
+      "#中东风情"
+    ],
+    "description": "这款复古华丽套装，上衣采用舒适V领设计，搭配飘逸的酒红色与金色花卉印花雪纺半裙，半透视感增添朦胧美。高腰A字裙型完美修饰身形，拉长腿部比例。无论是约会、派对还是日常通勤，都能轻松打造优雅吸睛造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "红色/酒红"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_089.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1237
+  }
+}

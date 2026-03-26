@@ -1,0 +1,142 @@
+{
+  "basic_info": {
+    "category": "裤子",
+    "subcategory": "长裤",
+    "gender": "中性",
+    "age_range": "全年龄",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "运动",
+      "校园",
+      "居家"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "运动",
+      "工装",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "卡其",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "肌理感",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "修身直筒",
+    "fit": "常规",
+    "length": "长款",
+    "neckline": null,
+    "sleeve_type": null,
+    "waistline": "中腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "无"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "简约实用的定制长裤，注重面料和版型。",
+    "design_highlight": "可定制化，强调面料选择和快速出货。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "直筒型",
+      "梨形",
+      "苹果形"
+    ],
+    "flattering_features": "常规版型，对多种体型有较好的包容性。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "注重品质和定制化需求的年轻团队或个人，对服装面料和版型有一定要求。",
+    "selling_points": [
+      "来图定制，满足个性化需求",
+      "自选面料，品质可控",
+      "快速出版，高效交付",
+      "柔性定制，适应小批量生产",
+      "高品质团队制服定制"
+    ],
+    "similar_brands_style": "类似优衣库基础款定制、工装品牌定制服务",
+    "coordination_suggestions": [
+      "搭配白色T恤+运动鞋，打造休闲运动风。",
+      "搭配连帽卫衣+帆布鞋，适合日常休闲和校园穿着。",
+      "搭配衬衫+休闲皮鞋，可用于日常通勤或团队活动。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI定制长裤 来图自选面料团队制服定制 柔性生产快速出货",
+    "search_keywords": [
+      "定制长裤",
+      "团队制服",
+      "来图定制",
+      "自选面料",
+      "柔性定制",
+      "快速出货",
+      "工装裤定制",
+      "运动裤定制",
+      "休闲裤定制",
+      "TILANI",
+      "高品质定制",
+      "团体服装"
+    ],
+    "hashtags": [
+      "#定制长裤",
+      "#团队制服",
+      "#柔性定制",
+      "#来图定制",
+      "#自选面料",
+      "#快速出货",
+      "#团体服装",
+      "#TILANI"
+    ],
+    "description": "TILANI提供高品质长裤定制服务，支持来图定制和自选面料，满足您的个性化需求。我们拥有自营服装印花工厂，提供多重工艺选择和柔性定制服务，确保快速出货。无论是团队制服、工装还是日常休闲，都能为您打造专属的舒适版型和优质面料体验。"
+  },
+  "image_info": {
+    "image_type": "商品概念图/宣传图",
+    "available_colors_shown": [
+      "卡其"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_138.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1188
+  }
+}

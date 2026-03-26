@@ -1,0 +1,152 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "暗黑"
+    ],
+    "aesthetic": "Y2K",
+    "trend_relevance": "结合了Y2K和暗黑风格，同时通过水洗做旧工艺增加了复古感，符合当下年轻群体的潮流偏好。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "钢灰色",
+      "紫色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "胸前大幅抽象金属边框与发光星体图案印花，边缘有做旧水洗效果",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧",
+      "数码印花"
+    ],
+    "functional_features": [
+      "吸湿排汗"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "张扬个性的街头暗黑风，带有复古做旧感。",
+    "design_highlight": "胸前独特的金属边框与发光星体印花，结合水洗做旧工艺，营造出赛博朋克与复古的混合美学。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求个性、喜爱街头潮流文化的年轻群体。",
+    "selling_points": [
+      "300g重磅纯棉面料，舒适有质感",
+      "独特水洗做旧工艺，复古潮流",
+      "oversized宽松版型，不挑身材",
+      "赛博朋克风格印花，个性十足",
+      "环保、柔软、透气、吸汗功能性"
+    ],
+    "similar_brands_style": "类似潮牌如Stussy、Carhartt WIP的街头风格，融合了暗黑和Y2K元素。",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+高帮帆布鞋，打造休闲街头look。",
+      "搭配工装裤+运动鞋，展现潮流工装风。",
+      "内搭长袖打底衫，叠穿出层次感，适合春秋穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TTLANi 300g重磅纯棉短袖T恤男潮牌水洗做旧印花oversize街头暗黑风情侣装",
+    "search_keywords": [
+      "TTLANi",
+      "短袖T恤",
+      "重磅纯棉",
+      "水洗做旧",
+      "印花T恤",
+      "oversize",
+      "街头潮牌",
+      "暗黑风",
+      "情侣装",
+      "Y2K",
+      "夏季新款",
+      "宽松短袖"
+    ],
+    "hashtags": [
+      "#街头潮牌",
+      "#oversizeT恤",
+      "#水洗做旧",
+      "#Y2K风格",
+      "#情侣穿搭",
+      "#个性印花",
+      "#纯棉T恤",
+      "#暗黑系穿搭"
+    ],
+    "description": "TTLANi 2024夏季新款重磅纯棉短袖T恤，精选300g高品质纯棉面料，柔软亲肤，透气吸汗。采用独特水洗做旧工艺，结合赛博朋克风格的金属边框与发光星体印花，打造出潮流感十足的街头暗黑美学。oversize宽松版型，不挑身材，男女同款，轻松穿出个性潮流范，是日常休闲、街头穿搭的理想选择。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "黑色",
+      "钢灰色",
+      "紫色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TTLANi"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_271.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1379
+  }
+}

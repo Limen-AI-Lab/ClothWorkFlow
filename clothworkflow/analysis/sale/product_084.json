@@ -1,0 +1,172 @@
+{
+  "basic_info": {
+    "category": "卫衣",
+    "subcategory": "连帽拉链卫衣",
+    "gender": "中性",
+    "age_range": "全年龄",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "运动"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，但多色可选符合当下个性化需求"
+  },
+  "colors": {
+    "primary_color": "深灰",
+    "secondary_colors": [
+      "黄色",
+      "天蓝",
+      "墨绿",
+      "紫色",
+      "粉色",
+      "卡其",
+      "灰色",
+      "玫红",
+      "军绿",
+      "咖啡",
+      "黑色",
+      "驼色",
+      "米白",
+      "白色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "棉95%",
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "前拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "毛圈"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "舒适百搭的休闲运动感，多色可选满足个性化需求。",
+    "design_highlight": "320g重磅毛圈面料，提供舒适柔软的穿着体验。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "沙漏形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，连帽设计修饰颈部。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "追求舒适休闲风格的青少年及成人，注重面料质感和多色选择的消费者。",
+    "selling_points": [
+      "320g重磅毛圈面料，柔软舒适",
+      "95%棉含量，亲肤透气",
+      "宽松版型，不挑身材，穿着舒适",
+      "多达20+颜色可选，满足个性化需求",
+      "经典连帽拉链设计，百搭实用"
+    ],
+    "similar_brands_style": "类似优衣库基础款风格、偏向H&M休闲款风格",
+    "coordination_suggestions": [
+      "搭配T恤+牛仔裤+运动鞋，打造日常休闲look。",
+      "搭配同色系运动裤，形成舒适运动套装。",
+      "内搭衬衫，下搭休闲裤，增加层次感，适合春秋通勤。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024春秋新款320g重磅毛圈拉链连帽卫衣男童女童纯棉宽松外套多色定制",
+    "search_keywords": [
+      "毛圈卫衣",
+      "拉链卫衣",
+      "连帽外套",
+      "纯棉卫衣",
+      "重磅卫衣",
+      "宽松卫衣",
+      "中性卫衣",
+      "春秋外套",
+      "多色卫衣",
+      "定制卫衣",
+      "休闲外套",
+      "运动卫衣"
+    ],
+    "hashtags": [
+      "#毛圈卫衣",
+      "#连帽外套",
+      "#纯棉舒适",
+      "#多色可选",
+      "#休闲百搭",
+      "#重磅卫衣",
+      "#中性风"
+    ],
+    "description": "这款毛圈拉链连帽卫衣采用320g重磅毛圈面料，95%纯棉成分，触感柔软亲肤，穿着舒适。宽松版型设计，不挑身材，适合多种体型。经典连帽拉链款式，方便穿脱，是春秋季节日常休闲、运动、居家或校园穿搭的理想选择。提供多种颜色选择，满足您的个性化需求。"
+  },
+  "image_info": {
+    "image_type": "模特上身图, 多色展示, 细节图",
+    "available_colors_shown": [
+      "黄色",
+      "天蓝",
+      "墨绿",
+      "紫色",
+      "粉色",
+      "卡其",
+      "灰色",
+      "玫红",
+      "军绿",
+      "咖啡",
+      "深灰",
+      "黑色",
+      "驼色",
+      "米白",
+      "白色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "MLAN"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_084.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1395
+  }
+}

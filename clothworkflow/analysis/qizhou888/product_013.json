@@ -1,0 +1,137 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "衬衫套装",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "约会",
+      "正式商务"
+    ]
+  },
+  "style": {
+    "primary_style": "商务",
+    "secondary_styles": [
+      "极简",
+      "休闲"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典百搭款，不受潮流影响，符合当下静奢风潮"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "醋酸",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "哑光",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "翻领",
+    "sleeve_type": "短袖",
+    "waistline": "中腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "简约大气的都市通勤感，透露出低调的奢华。",
+    "design_highlight": "宽松舒适的版型与垂坠感面料的结合，营造出随性而不失精致的风格。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型遮肉显瘦，H型廓形修饰身形，适合多种体型。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-45岁追求品质与舒适的都市女性，注重职场与日常穿搭的平衡。",
+    "selling_points": [
+      "醋酸面料，垂坠感好，不易皱",
+      "宽松版型，舒适不挑身材",
+      "经典黑色，百搭显瘦",
+      "可拆分搭配，实用性强",
+      "静奢风格，提升气质"
+    ],
+    "similar_brands_style": "类似Zara、COS的基础款风格，偏向Theory的简约商务风。",
+    "coordination_suggestions": [
+      "搭配尖头高跟鞋和手提包，打造干练职场造型。",
+      "内搭白色T恤，解开衬衫纽扣，搭配小白鞋，营造休闲度假风。",
+      "衬衫单独搭配半裙，裤子单独搭配针织衫，实现多场景穿搭。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款醋酸衬衫套装女 宽松显瘦休闲通勤黑色短袖衬衣阔腿裤两件套",
+    "search_keywords": [
+      "醋酸套装",
+      "黑色衬衫",
+      "阔腿裤",
+      "女装套装",
+      "通勤套装",
+      "宽松衬衫",
+      "休闲套装",
+      "静奢风",
+      "夏季套装",
+      "两件套"
+    ],
+    "hashtags": [
+      "#醋酸套装",
+      "#静奢风",
+      "#通勤穿搭",
+      "#黑色系",
+      "#极简主义",
+      "#夏日穿搭",
+      "#职场穿搭"
+    ],
+    "description": "这款醋酸衬衫套装，采用优质醋酸面料，手感顺滑，垂坠感极佳，不易起皱。宽松版型设计，舒适不挑身材，经典黑色百搭显瘦。短袖衬衫搭配高腰阔腿裤，无论是日常通勤还是休闲约会，都能轻松打造出高级感十足的静奢风格。一套多穿，实用百搭，是您衣橱不可或缺的时尚单品。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/qizhou888/product_013.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1240
+  }
+}

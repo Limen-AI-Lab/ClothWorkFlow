@@ -1,0 +1,146 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "A字连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "夏",
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "休闲逛街",
+      "约会",
+      "海滩度假",
+      "日常通勤"
+    ]
+  },
+  "style": {
+    "primary_style": "波西米亚",
+    "secondary_styles": [
+      "休闲",
+      "度假"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "波西米亚风格经典款，不受短期潮流影响，适合度假场景"
+  },
+  "colors": {
+    "primary_color": "米白",
+    "secondary_colors": [
+      "黄色"
+    ],
+    "color_scheme": "拼色",
+    "color_temperature": "暖色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "春暖"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "半透明",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "微透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "A型",
+    "fit": "宽松",
+    "length": "短款",
+    "neckline": "V领",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "袖子和下摆有白色花卉图案印花",
+    "decorations": [
+      "流苏",
+      "刺绣"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "刺绣"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "充满异域风情的度假休闲感",
+    "design_highlight": "胸前和袖口、下摆的黄色流苏和刺绣装饰",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型不挑身材，V领修饰颈部线条",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "25-45岁追求舒适、喜爱度假风格的女性",
+    "selling_points": [
+      "波西米亚度假风",
+      "宽松舒适不挑身材",
+      "V领设计修饰脸型",
+      "精致流苏和刺绣细节",
+      "轻薄透气面料适合夏季"
+    ],
+    "similar_brands_style": "类似Zara度假系列、H&M波西米亚风格",
+    "coordination_suggestions": [
+      "搭配草编包和凉鞋，打造海滩度假风。",
+      "搭配平底凉鞋和墨镜，适合日常休闲逛街。",
+      "内搭吊带，搭配牛仔短裤，增加层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款波西米亚风连衣裙女 V领流苏刺绣宽松度假沙滩裙",
+    "search_keywords": [
+      "波西米亚连衣裙",
+      "度假风",
+      "沙滩裙",
+      "V领",
+      "流苏",
+      "刺绣",
+      "宽松连衣裙",
+      "夏季连衣裙",
+      "休闲连衣裙",
+      "海边度假",
+      "异域风情",
+      "米白色连衣裙"
+    ],
+    "hashtags": [
+      "#波西米亚风",
+      "#度假穿搭",
+      "#沙滩裙",
+      "#流苏连衣裙",
+      "#夏季必备",
+      "#V领显瘦",
+      "#异域风情"
+    ],
+    "description": "这款波西米亚风连衣裙，采用轻薄透气面料，带来夏日清爽体验。V领设计修饰颈部线条，胸前、袖口及下摆的精致流苏与刺绣细节，彰显独特异域风情。宽松版型不挑身材，是您海边度假、日常休闲的理想选择，轻松打造时尚舒适的夏日造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "米白"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_006.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1200
+  }
+}

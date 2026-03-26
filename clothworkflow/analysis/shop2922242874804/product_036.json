@@ -1,0 +1,143 @@
+{
+  "basic_info": {
+    "category": "衬衫",
+    "subcategory": "格纹衬衫",
+    "gender": "男装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "居家"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "经典",
+      "简约"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "藏青",
+    "secondary_colors": [
+      "红色",
+      "白色",
+      "绿色",
+      "蓝色"
+    ],
+    "color_scheme": "格纹",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "常规",
+    "length": "常规",
+    "neckline": "翻领",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "格纹",
+    "pattern_description": "经典苏格兰格纹，由藏青、红、白、绿等颜色组成",
+    "decorations": [],
+    "pockets": "胸袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "经典舒适的日常休闲感",
+    "design_highlight": "经典格纹图案，全棉面料舒适亲肤",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "直筒型",
+      "梨形",
+      "苹果形"
+    ],
+    "flattering_features": "常规版型不挑身材，格纹图案增加视觉层次感",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "25-45岁追求舒适、经典款式的男性消费者",
+    "selling_points": [
+      "全棉面料，舒适透气",
+      "经典格纹，百搭不过时",
+      "常规版型，不挑身材",
+      "多色可选，满足不同喜好",
+      "工厂直销，性价比高"
+    ],
+    "similar_brands_style": "类似优衣库、海澜之家等基础款风格",
+    "coordination_suggestions": [
+      "搭配牛仔裤+休闲鞋，打造日常休闲look。",
+      "内搭白色T恤，解开衬衫纽扣作为外套穿着。",
+      "搭配卡其裤+皮鞋，适合轻商务或通勤场合。"
+    ]
+  },
+  "ecommerce": {
+    "title": "天猫品牌同款衬衫男长袖纯棉格纹衬衣春秋季休闲百搭全棉磨毛上衣",
+    "search_keywords": [
+      "男士衬衫",
+      "长袖衬衫",
+      "纯棉衬衫",
+      "格纹衬衫",
+      "休闲衬衫",
+      "男装",
+      "春秋衬衫",
+      "百搭衬衫",
+      "全棉衬衣",
+      "磨毛衬衫"
+    ],
+    "hashtags": [
+      "#男士衬衫",
+      "#格纹衬衫",
+      "#纯棉",
+      "#休闲穿搭",
+      "#春秋必备",
+      "#经典款"
+    ],
+    "description": "这款经典格纹长袖衬衫，采用优质全棉面料，触感柔软亲肤，透气舒适。经典的格纹设计，时尚百搭，无论是日常休闲、通勤还是居家穿着都非常合适。常规版型不挑身材，多色可选，满足您的不同搭配需求。工厂直销，品质保证，性价比高，是您衣橱不可或缺的单品。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "藏青红格",
+      "深蓝绿格",
+      "蓝灰格",
+      "深绿格",
+      "蓝黑格"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "超级工厂"
+  },
+  "_meta": {
+    "image": "downloaded_images/shop2922242874804/product_036.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1200
+  }
+}

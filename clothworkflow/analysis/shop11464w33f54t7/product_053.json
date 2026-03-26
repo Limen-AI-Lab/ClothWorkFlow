@@ -1,0 +1,141 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "一字肩上衣+蕾丝半裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "日常通勤",
+      "休闲逛街"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "性感",
+      "都市"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "经典款式与流行元素结合，具有一定的时尚感和经典度"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "蕾丝",
+    "fabric_blend": "null",
+    "fabric_weight": "中等150-250g",
+    "texture": "肌理感",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "半透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "修身",
+    "length": "中长",
+    "neckline": "一字肩",
+    "sleeve_type": "长袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "null"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [
+      "蕾丝花边"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "镂空"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅性感，展现女性魅力和都市时尚感",
+    "design_highlight": "一字肩设计与蕾丝半裙的组合，展现肩颈线条和腿部若隐若现的性感",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "一字肩展现优美肩颈线条，高腰线拉长腿部比例，修身版型凸显身材曲线",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求时尚、优雅和性感的都市女性",
+    "selling_points": [
+      "优雅一字肩设计，展现迷人锁骨",
+      "精致蕾丝半裙，若隐若现的性感",
+      "修身剪裁，凸显女性曼妙身姿",
+      "经典黑色，百搭且不易过时",
+      "适合多种场合穿着，提升气质"
+    ],
+    "similar_brands_style": "类似Zara、Massimo Dutti的优雅时尚风格",
+    "coordination_suggestions": [
+      "搭配高跟鞋和精致手包，出席晚宴或约会",
+      "搭配简约项链和耳饰，提升整体精致度",
+      "外搭一件修身西装外套，适合通勤或商务场合"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款优雅一字肩蕾丝拼接上衣+高腰修身半裙套装 女士性感气质两件套",
+    "search_keywords": [
+      "一字肩上衣",
+      "蕾丝半裙",
+      "黑色套装",
+      "性感套装",
+      "优雅女装",
+      "修身半裙",
+      "派对穿搭",
+      "约会服装",
+      "气质套装",
+      "时尚两件套"
+    ],
+    "hashtags": [
+      "#一字肩",
+      "#蕾丝半裙",
+      "#黑色套装",
+      "#优雅穿搭",
+      "#性感风",
+      "#都市丽人",
+      "#约会穿搭",
+      "#派对必备"
+    ],
+    "description": "这款优雅一字肩蕾丝拼接套装，采用精致蕾丝面料，触感柔软亲肤。一字肩设计巧妙展现迷人锁骨与肩颈线条，搭配高腰修身蕾丝半裙，若隐若现的性感，完美勾勒女性曼妙身姿。经典黑色百搭时尚，无论是约会、派对还是日常通勤，都能轻松驾驭，彰显独特气质与品味。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_053.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1246
+  }
+}

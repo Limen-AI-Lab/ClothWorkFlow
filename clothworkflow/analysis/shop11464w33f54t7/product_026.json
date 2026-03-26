@@ -1,0 +1,138 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "礼服裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "复古",
+      "极简"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典款式，通过面料和剪裁体现高级感，不受短期潮流影响"
+  },
+  "colors": {
+    "primary_color": "橄榄绿",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "醋酸",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "修身直筒",
+    "fit": "修身",
+    "length": "长款",
+    "neckline": "一字肩",
+    "sleeve_type": "无袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "褶皱",
+      "垂坠"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅大气的晚宴礼服，展现女性柔美曲线和高级质感。",
+    "design_highlight": "不对称一字肩和全身的褶皱垂坠设计，营造出雕塑般的立体感。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "修身剪裁凸显身材曲线，褶皱设计能巧妙修饰身形。",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求品质和独特设计的都市女性，注重场合着装。",
+    "selling_points": [
+      "独特的不对称褶皱设计",
+      "高级感醋酸面料",
+      "修身显瘦版型",
+      "优雅橄榄绿，衬托肤色"
+    ],
+    "similar_brands_style": "类似Max Mara、Theory等品牌的高级感礼服风格",
+    "coordination_suggestions": [
+      "搭配精致手拿包和高跟鞋，出席晚宴或派对。",
+      "搭配简约金属饰品，提升整体造型的精致度。",
+      "外搭一件同色系或米白色羊绒披肩，适合春秋季节。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款法式复古优雅橄榄绿褶皱连衣裙女 气质修身一字肩晚宴礼服长裙",
+    "search_keywords": [
+      "褶皱连衣裙",
+      "橄榄绿礼服",
+      "一字肩长裙",
+      "醋酸连衣裙",
+      "晚宴礼服",
+      "修身连衣裙",
+      "法式复古",
+      "高级感",
+      "气质长裙",
+      "派对裙"
+    ],
+    "hashtags": [
+      "#褶皱连衣裙",
+      "#橄榄绿",
+      "#晚宴礼服",
+      "#一字肩",
+      "#高级感穿搭",
+      "#法式优雅",
+      "#静奢风"
+    ],
+    "description": "这款橄榄绿褶皱连衣裙，采用高级醋酸面料，触感顺滑，垂坠感极佳。独特的不对称一字肩设计与全身立体褶皱相得益彰，勾勒出曼妙身姿。修身版型优雅大气，无论是出席晚宴、派对还是重要场合，都能轻松展现您的独特魅力与品味。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "橄榄绿"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_026.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1214
+  }
+}

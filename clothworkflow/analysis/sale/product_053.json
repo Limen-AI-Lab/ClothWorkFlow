@@ -1,0 +1,152 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "复古",
+      "休闲"
+    ],
+    "aesthetic": "Y2K",
+    "trend_relevance": "水洗做旧和扎染工艺是近年街头潮流的经典元素，具有持续的流行度，同时Y2K风格的金属字体印花也符合当下潮流。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [
+      "酒红",
+      "玫红",
+      "墨绿"
+    ],
+    "color_scheme": "扎染",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "毛边",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "字母logo",
+    "pattern_description": "胸前立体金属质感“Eternal”字母印花，下方有“ETERNAL REPRESENTATIVE”字样和钻石图案。",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "明线装饰",
+    "craft_techniques": [
+      "水洗",
+      "扎染",
+      "做旧",
+      "数码印花"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "张扬个性的街头复古感，带有不羁的潮流态度。",
+    "design_highlight": "300G重磅水洗扎染工艺与立体金属质感字母印花的结合。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求个性、热爱街头潮流的年轻男女。",
+    "selling_points": [
+      "300G重磅纯棉，穿着舒适有质感。",
+      "复古水洗扎染工艺，独特潮流。",
+      "立体金属质感印花，提升设计感。",
+      "宽松版型，不挑身材，男女同款。",
+      "毛边下摆设计，增加街头随性。"
+    ],
+    "similar_brands_style": "类似潮牌如Stussy、Supreme的基础款T恤风格，融合了国内街头品牌的特色。",
+    "coordination_suggestions": [
+      "搭配水洗牛仔短裤+高帮帆布鞋，打造休闲街头look。",
+      "搭配工装裤+运动鞋，展现硬朗工装风。",
+      "内搭长袖打底衫，叠穿出层次感，适合春秋穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 300G重磅水洗扎染风格T恤男潮牌复古做旧短袖宽松情侣款",
+    "search_keywords": [
+      "TILANI",
+      "重磅T恤",
+      "水洗T恤",
+      "扎染T恤",
+      "复古T恤",
+      "做旧T恤",
+      "街头潮牌",
+      "宽松短袖",
+      "情侣T恤",
+      "男女同款",
+      "夏季新款",
+      "纯棉T恤"
+    ],
+    "hashtags": [
+      "#街头潮牌",
+      "#复古水洗",
+      "#扎染T恤",
+      "#oversize",
+      "#情侣穿搭",
+      "#夏季必备",
+      "#Y2K风格"
+    ],
+    "description": "TILANI夏季新款300G重磅纯棉T恤，采用独特的复古水洗扎染工艺，呈现出潮流做旧感。胸前立体金属质感字母印花，彰显个性街头态度。宽松版型设计，不挑身材，男女同款，轻松打造时尚情侣穿搭。柔软亲肤面料，穿着舒适透气，是日常休闲、街头出行的理想选择。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "炭灰",
+      "酒红",
+      "玫红",
+      "墨绿"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_053.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1347
+  }
+}

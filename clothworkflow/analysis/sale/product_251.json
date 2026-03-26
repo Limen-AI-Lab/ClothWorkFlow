@@ -1,0 +1,142 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "男装",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "水洗做旧效果是近年街头潮流的经典元素，具有持续的时尚感。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [
+      "青色"
+    ],
+    "color_scheme": "撞色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "字母logo",
+    "pattern_description": "胸前“FEARLESS”字母印花，下方有小段英文和图案，采用白墨数码直喷工艺，并有做旧效果。",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧",
+      "数码印花"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "充满个性和复古感的街头休闲风格，随性不羁。",
+    "design_highlight": "独特的做旧水洗工艺和胸前“FEARLESS”字母印花。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求潮流、注重个性的年轻男性。",
+    "selling_points": [
+      "水洗做旧工艺，复古潮流感强",
+      "宽松oversized版型，舒适不挑身材",
+      "白墨数码直喷印花，图案清晰有质感",
+      "纯棉面料，穿着舒适透气"
+    ],
+    "similar_brands_style": "类似国潮品牌、快时尚品牌的街头系列。",
+    "coordination_suggestions": [
+      "搭配同色系水洗做旧短裤+运动鞋，打造休闲街头套装。",
+      "搭配黑色牛仔裤+高帮帆布鞋，展现酷帅个性。",
+      "内搭白色长袖T恤，叠穿营造层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 潮牌水洗做旧短袖T恤男夏季宽松oversize美式复古街头印花纯棉半袖上衣",
+    "search_keywords": [
+      "水洗T恤",
+      "做旧短袖",
+      "oversize T恤",
+      "美式复古",
+      "街头潮牌",
+      "印花T恤",
+      "纯棉短袖",
+      "男士半袖",
+      "夏季上衣",
+      "宽松T恤"
+    ],
+    "hashtags": [
+      "#水洗做旧",
+      "#街头潮牌",
+      "#oversize",
+      "#复古风",
+      "#男士穿搭",
+      "#夏季T恤",
+      "#FEARLESS"
+    ],
+    "description": "TILANI潮牌夏季新款水洗做旧短袖T恤，采用舒适纯棉面料，手感柔软亲肤。独特的做旧工艺结合白墨数码直喷“FEARLESS”印花，彰显美式复古街头风格。宽松oversize版型，不挑身材，轻松穿出随性潮流感。无论是日常休闲、逛街还是户外活动，都能轻松搭配，成为吸睛焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "炭灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_251.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1275
+  }
+}

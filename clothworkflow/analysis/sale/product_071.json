@@ -1,0 +1,149 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "卫衣套装",
+    "gender": "中性",
+    "age_range": "儿童",
+    "season": [
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "运动",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，但多色选择符合当下个性化需求"
+  },
+  "colors": {
+    "primary_color": "多色（灰色、棕色、米白、黑色、紫色、黄色、红色、粉色、蓝色、绿色、卡其色、浅灰色、米色）",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "毛圈布",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "肌理感",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "长袖",
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "简约舒适，充满活力与童趣的休闲运动感。",
+    "design_highlight": "320G重磅毛圈面料，提供舒适保暖的穿着体验，以及丰富的多色选择。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "全年龄段儿童"
+    ],
+    "flattering_features": "宽松版型不挑身材，提供舒适的活动空间。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "注重舒适度和实用性的儿童家长，以及追求简约多色搭配的儿童。",
+    "selling_points": [
+      "320G重磅毛圈面料，保暖舒适",
+      "透气亲肤，适合儿童穿着",
+      "经典圆领设计，百搭耐穿",
+      "多色可选，满足不同喜好",
+      "宽松版型，不挑身材，活动自如"
+    ],
+    "similar_brands_style": "类似优衣库（Uniqlo）儿童基础款风格，注重舒适和实用性。",
+    "coordination_suggestions": [
+      "搭配运动鞋，打造活泼运动风。",
+      "内搭T恤，增加层次感。",
+      "搭配棒球帽，增添街头休闲感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "秋冬新款儿童圆领卫衣套装320G重磅毛圈透气舒适多色可选男女童休闲运动服",
+    "search_keywords": [
+      "儿童卫衣套装",
+      "秋冬童装",
+      "圆领卫衣",
+      "毛圈卫衣",
+      "儿童运动服",
+      "男女童套装",
+      "宽松卫衣",
+      "多色卫衣",
+      "保暖童装",
+      "休闲童装",
+      "亲肤童装"
+    ],
+    "hashtags": [
+      "#儿童卫衣",
+      "#童装套装",
+      "#秋冬童装",
+      "#休闲运动风",
+      "#多色可选",
+      "#舒适童装",
+      "#毛圈卫衣",
+      "#儿童时尚"
+    ],
+    "description": "这款秋冬儿童圆领卫衣套装，精选320G重磅毛圈面料，柔软亲肤，透气保暖，为孩子带来舒适的穿着体验。经典圆领设计搭配宽松版型，不挑身材，让孩子活动自如。提供多种时尚色彩选择，轻松搭配，无论是日常上学、休闲玩耍还是户外运动，都能轻松应对，是孩子秋冬衣橱的理想之选。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "灰色",
+      "棕色",
+      "米白",
+      "黑色",
+      "紫色",
+      "黄色",
+      "红色",
+      "粉色",
+      "蓝色",
+      "绿色",
+      "卡其色",
+      "浅灰色",
+      "米色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_071.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1311
+  }
+}

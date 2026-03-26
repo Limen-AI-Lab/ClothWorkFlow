@@ -1,0 +1,145 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "长袖连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "休闲逛街",
+      "约会",
+      "海滩度假",
+      "日常通勤"
+    ]
+  },
+  "style": {
+    "primary_style": "波西米亚",
+    "secondary_styles": [
+      "度假风",
+      "甜美",
+      "复古"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典度假风款式，花卉图案经久不衰，不受短期潮流影响"
+  },
+  "colors": {
+    "primary_color": "米白",
+    "secondary_colors": [
+      "粉色",
+      "绿色",
+      "黄色",
+      "蓝色",
+      "橘色"
+    ],
+    "color_scheme": "印花",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "春暖"
+  },
+  "material": {
+    "primary_fabric": "亚麻",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "肌理感",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "微透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "A型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "V领",
+    "sleeve_type": "长袖",
+    "waistline": "高腰",
+    "hem": "开叉",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "碎花",
+    "pattern_description": "满身多色花卉图案印花",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "数码印花"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "浪漫飘逸的度假风情，充满女性魅力。",
+    "design_highlight": "满身繁复的碎花图案和高开叉设计。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型",
+      "梨形"
+    ],
+    "flattering_features": "V领修饰颈部线条，高腰线拉长腿部比例，A字裙摆遮胯显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-45岁追求浪漫、喜爱度假风格的女性。",
+    "selling_points": [
+      "浪漫碎花印花，充满夏日风情",
+      "V领高腰设计，显瘦显高",
+      "轻薄透气面料，穿着舒适",
+      "高开叉裙摆，行走间飘逸灵动"
+    ],
+    "similar_brands_style": "类似Zara、H&M的度假系列，或一些独立设计师品牌。",
+    "coordination_suggestions": [
+      "搭配草编帽和凉鞋，打造完美的沙滩度假造型。",
+      "搭配精致项链和手提包，适合约会或休闲聚会。",
+      "搭配平底鞋和墨镜，轻松应对日常通勤。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款法式复古V领碎花连衣裙女长袖高腰显瘦沙滩度假长裙",
+    "search_keywords": [
+      "碎花连衣裙",
+      "V领长裙",
+      "度假风",
+      "沙滩裙",
+      "高腰显瘦",
+      "法式复古",
+      "长袖连衣裙",
+      "波西米亚",
+      "印花长裙",
+      "飘逸长裙"
+    ],
+    "hashtags": [
+      "#碎花连衣裙",
+      "#度假风",
+      "#沙滩穿搭",
+      "#法式浪漫",
+      "#显瘦长裙",
+      "#夏日穿搭",
+      "#波西米亚风"
+    ],
+    "description": "这款法式复古V领碎花连衣裙，采用轻薄透气的面料，触感柔软亲肤。满身浪漫的花卉印花，搭配高腰修身版型和飘逸的A字裙摆，完美修饰身材比例。V领设计展现优雅颈部线条，高开叉裙摆增添行走间的灵动感。无论是海边度假、约会还是日常通勤，都能轻松打造浪漫迷人的夏日造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "米白底多色碎花"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_175.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1251
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "卫衣套装",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，宽松版型符合当下休闲潮流"
+  },
+  "colors": {
+    "primary_color": "多色可选",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "毛圈布",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "肌理感",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "长袖",
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的街头休闲感",
+    "design_highlight": "重磅毛圈面料带来的厚实质感和宽松版型",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "全年龄"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适休闲风格的青年男女",
+    "selling_points": [
+      "重磅毛圈面料，保暖舒适",
+      "宽松版型，不挑身材",
+      "多色可选，满足不同搭配需求",
+      "经典圆领设计，百搭耐穿",
+      "卫衣套装，省心搭配"
+    ],
+    "similar_brands_style": "类似优衣库、H&M的基础休闲款，但版型更偏街头宽松",
+    "coordination_suggestions": [
+      "搭配运动鞋和棒球帽，打造活力街头风。",
+      "内搭白色T恤露出下摆，增加层次感。",
+      "搭配帆布鞋和简约配饰，适合日常休闲穿搭。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI重磅毛圈卫衣套装男潮牌宽松圆领长袖卫衣女休闲运动裤两件套",
+    "search_keywords": [
+      "重磅卫衣",
+      "毛圈卫衣",
+      "卫衣套装",
+      "宽松卫衣",
+      "圆领卫衣",
+      "休闲运动套装",
+      "情侣卫衣",
+      "秋冬卫衣",
+      "潮牌卫衣",
+      "男女同款"
+    ],
+    "hashtags": [
+      "#重磅卫衣",
+      "#卫衣套装",
+      "#oversize",
+      "#休闲穿搭",
+      "#情侣款",
+      "#秋冬必备",
+      "#街头风"
+    ],
+    "description": "TILANI重磅毛圈卫衣套装，精选优质毛圈面料，手感柔软亲肤，保暖舒适。宽松oversized版型设计，不挑身材，轻松穿出慵懒随性范。经典圆领搭配简约纯色，百搭耐穿，提供14种颜色选择，满足您的个性需求。无论是日常通勤、休闲逛街还是居家穿着，都能轻松驾驭，是您秋冬衣橱的理想之选。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "橘红",
+      "米白",
+      "黑色",
+      "军绿",
+      "米黄",
+      "绿色",
+      "深灰",
+      "浅绿",
+      "深卡其",
+      "浅卡其",
+      "深绿",
+      "浅黄"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_052.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1255
+  }
+}

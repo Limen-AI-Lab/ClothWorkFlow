@@ -1,0 +1,148 @@
+{
+  "basic_info": {
+    "category": "卫衣",
+    "subcategory": "圆领卫衣",
+    "gender": "男装",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古"
+    ],
+    "aesthetic": "Y2K",
+    "trend_relevance": "融合了Y2K风格的蝴蝶元素和复古水洗工艺，符合当下街头潮流趋势。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [
+      "蓝色",
+      "白色",
+      "紫色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "胸前大幅蓝色蝴蝶与闪电图案印花，上方有抽象字母图案",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧",
+      "数码印花"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "复古而富有街头潮流感的个性卫衣，兼具舒适与时尚。",
+    "design_highlight": "水洗做旧的炭灰色面料与Y2K风格的蓝色蝴蝶闪电印花。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求个性、喜爱街头潮流文化的年轻男性。",
+    "selling_points": [
+      "260g重磅纯棉面料，舒适有型",
+      "水洗做旧工艺，复古潮流感",
+      "Y2K风格蝴蝶闪电印花，个性吸睛",
+      "Oversized宽松版型，不挑身材",
+      "百搭圆领长袖，春秋必备"
+    ],
+    "similar_brands_style": "类似国潮品牌、快时尚街头系列（如：URBAN REVIVO、太平鸟男装部分系列）",
+    "coordination_suggestions": [
+      "搭配黑色工装裤+运动鞋，打造街头休闲风。",
+      "搭配水洗牛仔裤+帆布鞋，营造复古学院感。",
+      "内搭白色T恤，露出下摆，增加层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "MLANI 260g重磅纯棉水洗做旧圆领卫衣男 Y2K蝴蝶闪电印花宽松长袖T恤潮牌",
+    "search_keywords": [
+      "卫衣男",
+      "圆领卫衣",
+      "长袖T恤",
+      "水洗做旧",
+      "重磅纯棉",
+      "Y2K",
+      "蝴蝶印花",
+      "街头潮牌",
+      "宽松版型",
+      "复古",
+      "春秋款",
+      "男士卫衣"
+    ],
+    "hashtags": [
+      "#街头潮牌",
+      "#Y2K风格",
+      "#水洗做旧",
+      "#oversize卫衣",
+      "#蝴蝶印花",
+      "#纯棉卫衣",
+      "#男士穿搭",
+      "#复古风"
+    ],
+    "description": "MLANI 260g重磅纯棉水洗做旧圆领卫衣，精选优质纯棉面料，手感柔软舒适，上身有型。独特的做旧工艺搭配Y2K风格的蓝色蝴蝶闪电印花，彰显个性潮流态度。宽松Oversized版型设计，不挑身材，轻松打造街头休闲范。无论是日常通勤、休闲逛街还是校园穿搭，都能让你成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "炭灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "MLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_001.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1323
+  }
+}

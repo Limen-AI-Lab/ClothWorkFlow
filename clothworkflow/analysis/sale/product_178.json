@@ -1,0 +1,154 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "水洗做旧工艺和oversized版型是近年街头潮流的经典元素，具有较强的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "深灰",
+    "secondary_colors": [
+      "藏青",
+      "黑色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "胸前多张卡牌图案印花，带有“CARDS WITHIN US”字样",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧",
+      "数码印花"
+    ],
+    "functional_features": [
+      "吸湿排汗",
+      "透气"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "带有复古街头感的休闲T恤，图案设计独特且富有故事性。",
+    "design_highlight": "水洗做旧的渐变效果和胸前独特的卡牌印花。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，水洗做旧效果增加视觉层次感。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求个性、注重舒适度的年轻消费者，偏爱街头休闲风格。",
+    "selling_points": [
+      "300g重磅纯棉面料，舒适有质感",
+      "水洗做旧工艺，复古潮流感",
+      "原创卡牌印花，彰显个性",
+      "宽松版型，不挑身材，穿着舒适",
+      "环保、柔软、透气、吸汗"
+    ],
+    "similar_brands_style": "类似国潮品牌或快时尚品牌的街头休闲系列。",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+运动鞋，打造街头休闲look。",
+      "搭配工装短裤+帆布鞋，适合夏季户外活动。",
+      "内搭长袖打底衫，外穿T恤，增加层次感，适合春秋。",
+      "搭配休闲长裤+板鞋，日常通勤舒适穿搭。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TLANI 2024夏季新款300g重磅纯棉水洗做旧短袖T恤男潮牌街头宽松印花圆领半袖",
+    "search_keywords": [
+      "TLANI",
+      "短袖T恤",
+      "男士T恤",
+      "纯棉T恤",
+      "重磅T恤",
+      "水洗做旧",
+      "街头潮牌",
+      "宽松版型",
+      "印花T恤",
+      "复古T恤",
+      "夏季新款",
+      "中性T恤"
+    ],
+    "hashtags": [
+      "#街头潮牌",
+      "#水洗做旧",
+      "#重磅纯棉",
+      "#oversizeT恤",
+      "#个性印花",
+      "#夏季穿搭",
+      "#复古风",
+      "#中性风"
+    ],
+    "description": "TLANI 2024夏季新款短袖T恤，精选300g重磅纯棉面料，柔软亲肤，吸湿透气。采用独特水洗做旧工艺，呈现复古潮流感。胸前原创卡牌印花设计，彰显个性品味。宽松oversized版型，不挑身材，穿着舒适自在，轻松打造街头休闲风格，适合日常通勤、休闲逛街等多种场合。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "ROYAL BLUE",
+      "STEEL GRAY",
+      "BLACK"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_178.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1366
+  }
+}

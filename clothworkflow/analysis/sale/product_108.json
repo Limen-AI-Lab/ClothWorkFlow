@@ -1,0 +1,146 @@
+{
+  "basic_info": {
+    "category": "卫衣",
+    "subcategory": "连帽卫衣",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "约会",
+      "派对",
+      "校园"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "潮流"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "重磅绒感和烫钻设计是秋冬街头潮流的常见元素，具有一定的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "绒布",
+    "fabric_blend": "null",
+    "fabric_weight": "厚实>350g",
+    "texture": "绒面",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "O型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "收口",
+    "back_design": "常规",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [
+      "烫钻"
+    ],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "烫钻"
+    ],
+    "functional_features": [
+      "保暖"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "张扬个性的街头潮流感，兼具保暖舒适。",
+    "design_highlight": "满天星渐变烫钻设计，在黑色底色上营造出闪耀的视觉效果。",
+    "visual_weight": "量感强"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型不挑身材，连帽设计修饰肩颈线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求时尚个性的年轻消费者，喜欢街头潮流风格。",
+    "selling_points": [
+      "350g重磅绒感面料，保暖舒适",
+      "满天星渐变烫钻设计，时尚吸睛",
+      "宽松连帽版型，不挑身材",
+      "多色可选，满足不同搭配需求"
+    ],
+    "similar_brands_style": "类似潮牌风格，如：Supreme、Stussy等街头潮流品牌。",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+运动鞋，打造休闲街头风。",
+      "搭配工装裤+马丁靴，展现酷帅个性。",
+      "内搭白色T恤，露出下摆，增加层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024秋冬新款350g重磅绒感连帽卫衣男女同款满天星烫钻宽松套头衫",
+    "search_keywords": [
+      "重磅卫衣",
+      "绒感卫衣",
+      "连帽卫衣",
+      "烫钻卫衣",
+      "满天星",
+      "街头潮流",
+      "宽松卫衣",
+      "男女同款",
+      "秋冬卫衣",
+      "保暖卫衣"
+    ],
+    "hashtags": [
+      "#重磅卫衣",
+      "#烫钻卫衣",
+      "#街头潮流",
+      "#oversize",
+      "#秋冬穿搭",
+      "#情侣卫衣",
+      "#闪耀穿搭"
+    ],
+    "description": "这款2024秋冬新款连帽卫衣，采用350g重磅绒感面料，带来极致温暖与舒适。独特的满天星渐变烫钻设计，在黑色底色上闪耀夺目，轻松成为街头焦点。宽松的版型不挑身材，连帽设计更添休闲感。无论是日常通勤、休闲逛街还是派对聚会，都能让你脱颖而出，展现个性潮流范。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "灰色",
+      "粉色",
+      "墨绿色",
+      "藏青色",
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_108.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1241
+  }
+}

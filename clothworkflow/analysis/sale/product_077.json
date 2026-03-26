@@ -1,0 +1,154 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "卫衣套装",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "居家",
+      "校园",
+      "运动"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "复古"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "经典休闲款式，通过水洗做旧工艺和多色选择赋予潮流感，适合秋冬季节。"
+  },
+  "colors": {
+    "primary_color": "多色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "null",
+    "fabric_weight": "厚实>350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": [
+      "保暖"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的街头休闲感，带有复古做旧的独特韵味。",
+    "design_highlight": "水洗做旧工艺和多样的低饱和色彩选择。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型不挑身材，连帽设计修饰肩颈，束脚裤型显腿长。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、潮流和个性化的学生及年轻都市人群。",
+    "selling_points": [
+      "560g重磅加绒面料，保暖舒适",
+      "水洗做旧工艺，复古潮流",
+      "宽松版型，不挑身材",
+      "多色可选，满足个性需求",
+      "连帽束脚套装，休闲百搭"
+    ],
+    "similar_brands_style": "类似优衣库休闲款与街头潮牌的结合，如：FMACM、Randomevent",
+    "coordination_suggestions": [
+      "搭配老爹鞋和棒球帽，打造街头潮流感。",
+      "内搭白色T恤，增加层次感，适合日常休闲。",
+      "搭配帆布鞋和单肩包，营造学院风穿搭。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024秋冬新款560g重磅加绒卫衣套装男女同款水洗做旧连帽宽松休闲运动服",
+    "search_keywords": [
+      "卫衣套装",
+      "加绒卫衣",
+      "水洗做旧",
+      "重磅卫衣",
+      "连帽卫衣",
+      "运动套装",
+      "休闲套装",
+      "男女同款",
+      "宽松卫衣",
+      "秋冬卫衣",
+      "复古卫衣",
+      "束脚裤"
+    ],
+    "hashtags": [
+      "#卫衣套装",
+      "#加绒卫衣",
+      "#水洗做旧",
+      "#重磅卫衣",
+      "#秋冬穿搭",
+      "#情侣款",
+      "#休闲运动",
+      "#街头潮流"
+    ],
+    "description": "这款秋冬新款卫衣套装采用560g重磅加绒面料，带来极致保暖与舒适。独特的做旧水洗工艺，赋予服装复古潮流感。宽松版型设计，不挑身材，连帽束脚裤型，时尚百搭。多色可选，满足不同个性需求，无论是日常通勤、休闲运动还是居家穿着，都能轻松驾驭，是秋冬衣橱的必备单品。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "浅灰",
+      "棕色",
+      "墨绿",
+      "深灰",
+      "酒红",
+      "紫色",
+      "藏青",
+      "粉色",
+      "黑色",
+      "卡其"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "Tilani"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_077.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1322
+  }
+}

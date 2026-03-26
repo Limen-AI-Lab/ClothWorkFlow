@@ -1,0 +1,159 @@
+{
+  "basic_info": {
+    "category": "裤子",
+    "subcategory": "休闲运动长裤",
+    "gender": "中性",
+    "age_range": "全年龄",
+    "season": [
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "运动",
+      "居家",
+      "校园"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "运动",
+      "街头",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，但宽松版型符合当下休闲趋势"
+  },
+  "colors": {
+    "primary_color": "深棕",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤, 蓬松保暖"
+  },
+  "construction": {
+    "silhouette": "修身直筒",
+    "fit": "宽松",
+    "length": "长款",
+    "neckline": null,
+    "sleeve_type": null,
+    "waistline": "中腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "系带"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "加绒"
+    ],
+    "functional_features": [
+      "保暖"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的休闲运动感，简约百搭。",
+    "design_highlight": "350G加绒面料，提供优异保暖性。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型不挑身材，收口裤脚显腿长。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "追求舒适保暖、日常休闲穿搭的年轻消费者及学生群体。",
+    "selling_points": [
+      "350G重磅加绒，保暖性强",
+      "多色可选，满足不同搭配需求",
+      "宽松版型，舒适不挑身材",
+      "经典百搭款，实用性高"
+    ],
+    "similar_brands_style": "类似优衣库、H&M等快时尚品牌的基础款运动裤风格。",
+    "coordination_suggestions": [
+      "搭配同色系连帽卫衣和运动鞋，打造休闲运动套装。",
+      "搭配白色T恤和夹克，营造简约街头风。",
+      "搭配宽松毛衣和帆布鞋，适合居家或日常休闲。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 350G加绒休闲运动长裤男女同款秋冬保暖束脚卫裤多色可选",
+    "search_keywords": [
+      "休闲裤",
+      "运动裤",
+      "加绒裤",
+      "卫裤",
+      "束脚裤",
+      "男女同款",
+      "秋冬",
+      "保暖",
+      "宽松",
+      "多色"
+    ],
+    "hashtags": [
+      "#休闲裤",
+      "#运动裤",
+      "#加绒卫裤",
+      "#秋冬穿搭",
+      "#男女同款",
+      "#保暖神器",
+      "#多巴胺穿搭",
+      "#基础款"
+    ],
+    "description": "TILANI秋冬新款350G重磅加绒休闲运动长裤，精选优质面料，内里加绒设计，带来卓越保暖体验。宽松束脚版型，舒适不挑身材，适合日常通勤、休闲运动等多种场合。提供丰富多样的色彩选择，轻松搭配出个性风格，是您秋冬衣橱的百搭单品。"
+  },
+  "image_info": {
+    "image_type": "模特上身图, 多色展示",
+    "available_colors_shown": [
+      "浅灰",
+      "黑色",
+      "粉色",
+      "蓝色",
+      "黄色",
+      "玫红",
+      "紫色",
+      "浅绿",
+      "酒红",
+      "橘色",
+      "卡其",
+      "米色",
+      "深灰",
+      "墨绿",
+      "浅卡其",
+      "军绿",
+      "深棕",
+      "橄榄绿"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_064.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1290
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "晚礼服/宴会裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "奢华",
+      "复古"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "丝绒材质是秋冬经典元素，褶皱设计和披肩款式增添了现代感和时尚度。"
+  },
+  "colors": {
+    "primary_color": "紫罗兰色",
+    "secondary_colors": [
+      "淡紫色"
+    ],
+    "color_scheme": "同色系深浅",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "冬冷"
+  },
+  "material": {
+    "primary_fabric": "丝绒",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "绒面",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "修身直筒",
+    "fit": "修身",
+    "length": "长款",
+    "neckline": "V领",
+    "sleeve_type": "无袖",
+    "waistline": "高腰",
+    "hem": "开叉",
+    "back_design": null,
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "褶皱"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "高贵典雅的晚宴礼服，展现女性的柔美与奢华。",
+    "design_highlight": "胸前交叉褶皱设计和侧边高开叉，搭配同色系披肩，营造出层次感和飘逸感。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "V领修饰颈部线条，高腰线拉长腿部比例，修身剪裁凸显身材曲线，侧边开叉增加性感度。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求高品质和优雅风格的都市女性，适合出席正式场合。",
+    "selling_points": [
+      "奢华丝绒面料，触感柔软舒适",
+      "V领交叉褶皱设计，修饰身形",
+      "高开叉裙摆，展现女性魅力",
+      "同色系披肩，增添优雅与层次感",
+      "适合多种正式场合穿着"
+    ],
+    "similar_brands_style": "类似Max Mara、Reiss等品牌的高级感礼服风格",
+    "coordination_suggestions": [
+      "搭配银色或金色细高跟鞋和精致手拿包，打造完整晚宴造型。",
+      "佩戴钻石项链和耳环，提升整体奢华感。",
+      "搭配同色系或裸色系披肩，增加保暖性和造型感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024秋冬新款法式复古丝绒V领褶皱修身长款礼服裙 优雅宴会晚礼服",
+    "search_keywords": [
+      "丝绒礼服",
+      "V领连衣裙",
+      "褶皱长裙",
+      "宴会裙",
+      "晚礼服",
+      "修身显瘦",
+      "高开叉",
+      "优雅气质",
+      "秋冬新款",
+      "紫罗兰色"
+    ],
+    "hashtags": [
+      "#丝绒礼服",
+      "#晚宴穿搭",
+      "#优雅气质",
+      "#法式复古",
+      "#派对礼服",
+      "#高开叉",
+      "#静奢风"
+    ],
+    "description": "这款2024秋冬新款丝绒V领褶皱修身长款礼服裙，精选奢华丝绒面料，触感柔软亲肤，光泽感十足。V领交叉褶皱设计巧妙修饰身形，高腰线拉长腿部比例，侧边高开叉裙摆尽显女性魅力。搭配同色系披肩，更添一份优雅与层次感，是您出席晚宴、派对等正式场合的理想选择，轻松打造高贵典雅的女神范。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "紫罗兰色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_176.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1296
+  }
+}

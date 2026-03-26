@@ -1,0 +1,141 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "豹纹连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "休闲逛街",
+      "海滩度假"
+    ]
+  },
+  "style": {
+    "primary_style": "欧美",
+    "secondary_styles": [
+      "性感",
+      "复古",
+      "度假风"
+    ],
+    "aesthetic": "辣妹风",
+    "trend_relevance": "豹纹作为经典元素，在时尚界一直有其地位，此款结合一字肩和喇叭袖，具有一定的潮流感。"
+  },
+  "colors": {
+    "primary_color": "棕色",
+    "secondary_colors": [
+      "黑色",
+      "米白"
+    ],
+    "color_scheme": "拼色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": "涤纶混纺",
+    "fabric_weight": "轻薄<150g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "微透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "修身",
+    "length": "长款",
+    "neckline": "一字肩",
+    "sleeve_type": "长袖",
+    "waistline": "高腰",
+    "hem": "弧形摆",
+    "back_design": null,
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "豹纹",
+    "pattern_description": "经典豹纹图案，棕色底色搭配黑色斑点",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "性感迷人的复古度假风情，充满野性魅力。",
+    "design_highlight": "经典豹纹图案与一字肩、喇叭袖的结合，展现女性曲线美。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "一字肩展现肩颈线条，高腰线拉长腿部比例，修身剪裁凸显腰身。",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-45岁追求时尚、性感，喜欢展现女性魅力的都市女性。",
+    "selling_points": [
+      "经典豹纹图案，时尚不过时",
+      "一字肩设计，展现迷人锁骨",
+      "修身显瘦版型，凸显身材曲线",
+      "轻薄雪纺面料，舒适飘逸",
+      "喇叭袖设计，增添复古浪漫感"
+    ],
+    "similar_brands_style": "类似Zara、H&M等快时尚品牌中偏成熟性感的款式",
+    "coordination_suggestions": [
+      "搭配黑色细高跟凉鞋和手拿包，适合派对或约会。",
+      "搭配草编帽和坡跟凉鞋，打造海滩度假风。",
+      "搭配简约的金色项链和耳环，提升整体精致感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款豹纹一字肩连衣裙女夏法式复古性感修身显瘦长裙度假风",
+    "search_keywords": [
+      "豹纹连衣裙",
+      "一字肩长裙",
+      "性感连衣裙",
+      "复古连衣裙",
+      "度假风长裙",
+      "修身连衣裙",
+      "雪纺连衣裙",
+      "喇叭袖连衣裙",
+      "派对连衣裙",
+      "时尚女装"
+    ],
+    "hashtags": [
+      "#豹纹连衣裙",
+      "#一字肩",
+      "#性感穿搭",
+      "#度假风",
+      "#复古时尚",
+      "#辣妹风",
+      "#长裙",
+      "#派对穿搭"
+    ],
+    "description": "这款豹纹一字肩连衣裙，采用轻薄雪纺面料，触感顺滑飘逸。经典豹纹图案结合一字肩和喇叭袖设计，尽显法式复古与性感魅力。修身版型凸显曼妙身姿，高腰线拉长腿部比例，无论是约会、派对还是海滩度假，都能让你成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "棕色豹纹"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_141.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1271
+  }
+}

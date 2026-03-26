@@ -1,0 +1,145 @@
+{
+  "basic_info": {
+    "category": "裤子",
+    "subcategory": "休闲裤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "居家",
+      "校园",
+      "运动"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "复古"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典休闲款式，水洗做旧工艺赋予复古潮流感，不受短期潮流影响，百搭耐穿。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "深灰"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "修身直筒",
+    "fit": "常规",
+    "length": "长款",
+    "neckline": null,
+    "sleeve_type": null,
+    "waistline": "中腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "系带"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": [
+      "吸湿排汗"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的街头复古感，兼具实用与时尚。",
+    "design_highlight": "420G重磅水洗毛圈面料，带来独特的做旧质感和舒适穿着体验。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "直筒型"
+    ],
+    "flattering_features": "松紧腰设计包容性强，束脚裤型修饰腿部线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、休闲和街头风格的年轻消费者。",
+    "selling_points": [
+      "420G重磅毛圈面料，保暖舒适",
+      "水洗做旧工艺，复古潮流感",
+      "环保柔软透气吸汗，穿着体验佳",
+      "松紧腰系带设计，穿着方便不挑身材",
+      "经典束脚裤型，百搭显瘦"
+    ],
+    "similar_brands_style": "类似优衣库休闲系列、美式街头品牌基础款风格。",
+    "coordination_suggestions": [
+      "搭配宽松卫衣+运动鞋，打造休闲运动风。",
+      "搭配T恤+夹克+帆布鞋，营造街头潮流感。",
+      "搭配连帽衫+棒球帽，展现随性舒适的日常穿搭。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TLANI 420G重磅水洗毛圈休闲裤男士秋冬束脚运动裤宽松卫裤潮牌",
+    "search_keywords": [
+      "重磅卫裤",
+      "水洗休闲裤",
+      "毛圈运动裤",
+      "男士束脚裤",
+      "宽松卫裤",
+      "潮牌休闲裤",
+      "复古运动裤",
+      "秋冬长裤",
+      "纯棉休闲裤",
+      "街头风裤子"
+    ],
+    "hashtags": [
+      "#重磅卫裤",
+      "#水洗做旧",
+      "#束脚裤",
+      "#休闲运动风",
+      "#秋冬穿搭",
+      "#潮牌",
+      "#舒适百搭"
+    ],
+    "description": "TLANI 420G重磅水洗毛圈休闲裤，精选优质纯棉面料，触感柔软亲肤，厚实保暖。独特的做旧水洗工艺，赋予裤身复古潮流感。宽松束脚版型，舒适不挑身材，松紧腰系带设计，穿着方便。环保透气吸汗，是日常休闲、运动穿搭的理想选择。"
+  },
+  "image_info": {
+    "image_type": "平铺图",
+    "available_colors_shown": [
+      "黑色",
+      "深灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_014.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1319
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "长款连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "约会",
+      "海滩度假",
+      "居家"
+    ]
+  },
+  "style": {
+    "primary_style": "波西米亚",
+    "secondary_styles": [
+      "休闲",
+      "度假"
+    ],
+    "aesthetic": "多巴胺",
+    "trend_relevance": "印花长裙是度假风的经典款式，色彩鲜艳符合当下多巴胺美学趋势。"
+  },
+  "colors": {
+    "primary_color": "墨绿",
+    "secondary_colors": [
+      "玫红",
+      "橙色",
+      "白色"
+    ],
+    "color_scheme": "拼色",
+    "color_temperature": "暖色调",
+    "color_saturation": "高饱和鲜艳",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "微透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "O型",
+    "fit": "宽松",
+    "length": "长款",
+    "neckline": "V领",
+    "sleeve_type": "蝙蝠袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "抽象的羽毛或植物叶片图案，由墨绿、玫红、橙色和白色组成",
+    "decorations": [
+      "系带"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "数码印花"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "充满异域风情的度假感，色彩鲜艳且飘逸。",
+    "design_highlight": "鲜艳的抽象印花图案和宽松飘逸的廓形。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形"
+    ],
+    "flattering_features": "宽松廓形不挑身材，V领修饰颈部线条，长款遮盖腿部。",
+    "size_range_guess": "均码"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "25-45岁追求舒适、时尚和度假感的女性。",
+    "selling_points": [
+      "鲜艳印花，吸睛亮眼",
+      "宽松版型，不挑身材",
+      "轻薄面料，舒适透气",
+      "V领设计，修饰脸型",
+      "度假休闲百搭"
+    ],
+    "similar_brands_style": "类似Zara度假系列、H&M印花系列",
+    "coordination_suggestions": [
+      "搭配平底凉鞋和草编包，打造海滩度假风。",
+      "搭配坡跟凉鞋和精致项链，适合日常休闲。",
+      "搭配简约手镯和耳环，突出服装本身的设计感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款波西米亚风印花V领宽松长款连衣裙女度假沙滩裙",
+    "search_keywords": [
+      "印花连衣裙",
+      "波西米亚长裙",
+      "度假风连衣裙",
+      "宽松大码连衣裙",
+      "V领连衣裙",
+      "沙滩裙",
+      "雪纺连衣裙",
+      "夏季新款"
+    ],
+    "hashtags": [
+      "#度假风",
+      "#波西米亚",
+      "#印花长裙",
+      "#多巴胺穿搭",
+      "#夏季穿搭",
+      "#宽松连衣裙",
+      "#沙滩裙"
+    ],
+    "description": "这款夏季新款波西米亚风印花长裙，采用轻薄雪纺面料，触感顺滑冰凉，带来舒适透气的穿着体验。鲜艳的抽象印花图案，充满异域风情，V领设计修饰颈部线条，宽松廓形不挑身材，是您度假休闲、日常出街的理想选择。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "墨绿拼玫红橙色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_163.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1224
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "礼服裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴",
+      "婚礼"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "奢华",
+      "复古"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典款式，不受潮流影响，但细节设计融入现代感"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "丝绒",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "绒面",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "长款",
+    "neckline": "方领",
+    "sleeve_type": "无袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "无"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "亮片"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅高贵的晚宴礼服，散发着低调的奢华感。",
+    "design_highlight": "方领设计与外搭的亮片披肩，增添了复古与华丽感。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "修身剪裁凸显身材曲线，高腰线拉长腿部比例，方领修饰颈部线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅、高贵气质的都市女性，注重品质和场合着装。",
+    "selling_points": [
+      "经典黑色丝绒面料，尽显高级质感",
+      "方领设计，复古优雅，修饰颈部线条",
+      "修身剪裁，凸显女性曼妙身姿",
+      "搭配亮片披肩，增添华丽与层次感",
+      "适合多种正式场合穿着"
+    ],
+    "similar_brands_style": "类似Max Mara、Theory等品牌的高级感礼服风格",
+    "coordination_suggestions": [
+      "搭配精致的钻石项链和耳环，提升整体奢华感。",
+      "手拿小巧的晚宴包和高跟鞋，打造完整晚宴造型。",
+      "披肩可拆卸，单穿连衣裙搭配简约配饰，适合更低调的场合。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024秋冬新款黑色丝绒方领修身长款礼服裙 优雅高贵亮片披肩晚宴连衣裙女",
+    "search_keywords": [
+      "黑色礼服裙",
+      "丝绒连衣裙",
+      "方领礼服",
+      "修身长裙",
+      "晚宴裙",
+      "亮片披肩",
+      "高贵优雅",
+      "正式场合",
+      "秋冬新款",
+      "气质连衣裙"
+    ],
+    "hashtags": [
+      "#丝绒礼服",
+      "#方领连衣裙",
+      "#黑色经典",
+      "#晚宴穿搭",
+      "#优雅气质",
+      "#静奢风",
+      "#高级感"
+    ],
+    "description": "这款黑色丝绒方领修身长款礼服裙，采用柔软亲肤的丝绒面料，触感顺滑，光泽低调奢华。经典的方领设计，搭配可拆卸的亮片披肩，为整体造型增添华丽与层次感。修身剪裁完美勾勒女性曲线，高腰线设计拉长腿部比例。无论是出席晚宴、派对还是正式商务场合，都能让您成为焦点，尽显高贵优雅气质。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_117.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1269
+  }
+}

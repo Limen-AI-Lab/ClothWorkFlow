@@ -1,0 +1,136 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "晚礼服",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "奢华",
+      "复古"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典礼服款式，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "深紫色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "冬冷"
+  },
+  "material": {
+    "primary_fabric": "缎面",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "一字肩",
+    "sleeve_type": "短袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "高贵典雅的晚宴礼服，展现女性的优雅气质。",
+    "design_highlight": "一字肩设计和腰部褶皱细节",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "一字肩展现肩颈线条，高腰线拉长腿部比例，修身版型凸显腰身。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅和正式感的都市女性",
+    "selling_points": [
+      "高贵典雅的深紫色",
+      "经典一字肩设计，展现优美肩颈线",
+      "缎面材质，光泽感强，提升奢华度",
+      "修身显瘦版型，凸显女性曲线",
+      "适合多种正式场合穿着"
+    ],
+    "similar_brands_style": "类似Pronovias、Tadashi Shoji等礼服品牌风格",
+    "coordination_suggestions": [
+      "搭配精致项链和耳环，增加亮点。",
+      "选择同色系或银色高跟鞋和手拿包，提升整体协调性。",
+      "搭配简约盘发或大波浪卷发，展现优雅气质。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款高贵深紫色一字肩晚礼服长裙 优雅缎面修身显瘦宴会连衣裙",
+    "search_keywords": [
+      "晚礼服",
+      "一字肩",
+      "深紫色",
+      "缎面",
+      "长裙",
+      "宴会",
+      "修身",
+      "优雅",
+      "连衣裙",
+      "正式场合"
+    ],
+    "hashtags": [
+      "#晚礼服",
+      "#一字肩",
+      "#紫色礼服",
+      "#缎面长裙",
+      "#宴会穿搭",
+      "#优雅气质",
+      "#正式场合"
+    ],
+    "description": "这款高贵深紫色一字肩晚礼服，采用奢华缎面材质，光泽感十足，触感顺滑。经典一字肩设计巧妙展现优美肩颈线条，高腰修身版型完美勾勒女性曲线，裙摆自然垂坠，尽显优雅气质。无论是出席宴会、派对还是其他正式场合，都能让您成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "深紫色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_087.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1187
+  }
+}

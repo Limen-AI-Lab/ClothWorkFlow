@@ -1,0 +1,146 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "礼服裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴",
+      "婚礼"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "奢华",
+      "复古"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典款式，通过细节和面料提升时尚感，不受短期潮流影响"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "银色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "A型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "高领",
+    "sleeve_type": "长袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "珠饰"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "珠绣"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "高贵典雅，充满仪式感的晚宴礼服。",
+    "design_highlight": "肩部和袖子上的珠饰披肩设计，以及高领剪裁。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型",
+      "梨形"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，A字裙摆修饰下半身，高领设计凸显颈部线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅和奢华感的都市女性，需要出席正式场合。",
+    "selling_points": [
+      "奢华珠饰披肩设计，提升整体华丽感",
+      "高腰A字裙摆，修饰身形，显高显瘦",
+      "垂坠感面料，穿着舒适且飘逸",
+      "经典黑色，百搭且不易过时",
+      "高领设计，彰显高贵气质"
+    ],
+    "similar_brands_style": "类似Elie Saab或Zuhair Murad的礼服风格，但更偏向日常可穿的轻奢感。",
+    "coordination_suggestions": [
+      "搭配精致手拿包和高跟鞋，出席晚宴。",
+      "佩戴简约耳饰和手链，避免抢夺礼服本身的光芒。",
+      "搭配盘发或优雅卷发，展现整体造型的精致感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款黑色高领珠饰披肩礼服裙 女士优雅长款晚宴年会连衣裙",
+    "search_keywords": [
+      "黑色礼服裙",
+      "高领连衣裙",
+      "珠饰礼服",
+      "披肩设计",
+      "晚宴裙",
+      "年会礼服",
+      "优雅长裙",
+      "修身显瘦",
+      "正式场合",
+      "奢华连衣裙"
+    ],
+    "hashtags": [
+      "#礼服裙",
+      "#晚宴穿搭",
+      "#高领设计",
+      "#珠饰点缀",
+      "#优雅气质",
+      "#黑色经典",
+      "#正式场合",
+      "#女神范"
+    ],
+    "description": "这款黑色高领珠饰披肩礼服裙，采用垂坠感极佳的雪纺面料，穿着舒适飘逸。独特的肩部珠饰披肩设计，增添奢华与高贵感。高腰A字裙摆剪裁，完美修饰身形，拉长腿部比例。无论是出席晚宴、年会还是其他正式场合，都能让您成为焦点，展现优雅迷人的气质。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_047.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1255
+  }
+}

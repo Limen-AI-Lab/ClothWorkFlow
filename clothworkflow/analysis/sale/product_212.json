@@ -1,0 +1,148 @@
+{
+  "basic_info": {
+    "category": "裤子",
+    "subcategory": "直筒裤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "居家",
+      "校园"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "复古",
+      "街头"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "复古水洗工艺和渐变色是近年流行的元素，直筒版型经典百搭。"
+  },
+  "colors": {
+    "primary_color": "卡其",
+    "secondary_colors": [
+      "雾蓝",
+      "墨绿",
+      "深灰",
+      "橄榄绿"
+    ],
+    "color_scheme": "渐变",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "长款",
+    "neckline": null,
+    "sleeve_type": null,
+    "waistline": "松紧腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "系带"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "扎染"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "慵懒随性的复古休闲感，兼具舒适与时尚。",
+    "design_highlight": "独特的渐变水洗工艺和重磅面料带来的质感。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松直筒版型不挑身材，松紧腰设计舒适。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、时尚和个性化的年轻消费者。",
+    "selling_points": [
+      "420G重磅面料，柔软亲肤，舒适透气",
+      "复古渐变水洗工艺，独特时尚",
+      "宽松直筒版型，不挑身材，穿着舒适",
+      "松紧腰设计，方便穿脱，适应不同腰围"
+    ],
+    "similar_brands_style": "类似优衣库的舒适基础款与太平鸟的潮流休闲款结合。",
+    "coordination_suggestions": [
+      "搭配纯色T恤+运动鞋，打造日常休闲look。",
+      "搭配卫衣+帆布鞋，营造街头潮流感。",
+      "搭配衬衫+乐福鞋，增添一丝复古文艺范。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILAN复古妙色休闲直筒裤男士420G重磅水洗渐变色运动裤女春秋冬",
+    "search_keywords": [
+      "复古直筒裤",
+      "休闲裤",
+      "运动裤",
+      "渐变色",
+      "水洗裤",
+      "重磅面料",
+      "宽松裤",
+      "男女同款",
+      "春秋冬",
+      "潮流"
+    ],
+    "hashtags": [
+      "#复古休闲",
+      "#渐变色",
+      "#重磅面料",
+      "#水洗工艺",
+      "#直筒裤",
+      "#男女同款",
+      "#舒适穿搭",
+      "#街头时尚"
+    ],
+    "description": "TILAN复古妙色休闲直筒裤，采用420G重磅面料，柔软亲肤，舒适透气。独特的渐变水洗工艺，打造复古潮流感。宽松直筒版型，不挑身材，松紧腰设计穿着更舒适。无论是日常通勤、休闲逛街还是居家穿着，都能轻松搭配，彰显个性时尚。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "卡其",
+      "雾蓝",
+      "墨绿",
+      "深灰",
+      "橄榄绿"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILAN"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_212.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1239
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "basic_info": {
+    "category": "裤子",
+    "subcategory": "束脚裤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "运动",
+      "校园",
+      "居家"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "运动"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，束脚裤型持续流行，加绒设计符合秋冬保暖需求"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "墨绿",
+      "浅绿",
+      "青绿",
+      "灰色",
+      "粉色",
+      "天蓝",
+      "橘红",
+      "黄色",
+      "紫色",
+      "酒红",
+      "卡其",
+      "深灰",
+      "棕色",
+      "军绿",
+      "深棕"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "涤纶",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "修身直筒",
+    "fit": "宽松",
+    "length": "长款",
+    "neckline": null,
+    "sleeve_type": null,
+    "waistline": "中腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "系带"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": [
+      "保暖"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "舒适休闲的街头运动感，多色选择满足个性需求。",
+    "design_highlight": "加绒保暖的束脚裤型，提供18种颜色选择。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型不挑身材，束脚设计显腿长。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、休闲和时尚的年轻群体，注重保暖和多色选择。",
+    "selling_points": [
+      "18色可选，满足多样化搭配需求",
+      "加绒设计，秋冬保暖舒适",
+      "束脚裤型，修饰腿型显瘦",
+      "宽松版型，不挑身材",
+      "街头休闲风格，百搭易穿"
+    ],
+    "similar_brands_style": "类似优衣库、森马等快时尚品牌的基础款休闲裤风格，但颜色选择更丰富。",
+    "coordination_suggestions": [
+      "搭配宽松卫衣+运动鞋，打造休闲街头风。",
+      "搭配T恤+夹克+板鞋，适合日常通勤和逛街。",
+      "搭配连帽衫+高帮帆布鞋，营造学院运动感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "18色加绒束脚裤男秋冬款宽松休闲运动裤女情侣卫裤潮流百搭长裤",
+    "search_keywords": [
+      "束脚裤",
+      "加绒裤",
+      "运动裤",
+      "休闲裤",
+      "秋冬裤",
+      "情侣款",
+      "卫裤",
+      "宽松",
+      "多色",
+      "街头风",
+      "保暖",
+      "百搭"
+    ],
+    "hashtags": [
+      "#束脚裤",
+      "#加绒卫裤",
+      "#秋冬穿搭",
+      "#情侣款",
+      "#街头休闲",
+      "#多巴胺穿搭",
+      "#保暖必备"
+    ],
+    "description": "这款秋冬加绒束脚裤，精选舒适面料，内里加绒设计，带来温暖亲肤的穿着体验。宽松版型不挑身材，束脚设计修饰腿型，显瘦显高。提供多达18种潮流色彩选择，无论是日常休闲、运动健身还是街头穿搭，都能轻松驾驭，是秋冬衣橱不可或缺的百搭单品。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色",
+      "墨绿",
+      "浅绿",
+      "青绿",
+      "灰色",
+      "粉色",
+      "天蓝",
+      "橘红",
+      "黄色",
+      "紫色",
+      "酒红",
+      "卡其",
+      "深灰",
+      "棕色",
+      "军绿",
+      "深棕"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": "TTLS"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_171.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1399
+  }
+}

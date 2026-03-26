@@ -1,0 +1,165 @@
+{
+  "total": 1,
+  "success": 1,
+  "fail": 0,
+  "model": "google/gemini-2.5-flash",
+  "items": [
+    {
+      "basic_info": {
+        "category": "卫衣",
+        "subcategory": "连帽卫衣",
+        "gender": "中性",
+        "age_range": "18-35",
+        "season": [
+          "秋",
+          "冬"
+        ],
+        "occasion": [
+          "日常通勤",
+          "休闲逛街",
+          "校园",
+          "居家",
+          "户外"
+        ]
+      },
+      "style": {
+        "primary_style": "休闲",
+        "secondary_styles": [
+          "街头",
+          "极简"
+        ],
+        "aesthetic": null,
+        "trend_relevance": "经典百搭款，宽松版型符合当下休闲潮流，加绒加厚适合秋冬季节"
+      },
+      "colors": {
+        "primary_color": "浅灰",
+        "secondary_colors": [
+          "卡其"
+        ],
+        "color_scheme": "纯色",
+        "color_temperature": "中性色调",
+        "color_saturation": "低饱和莫兰迪",
+        "color_season": "百搭"
+      },
+      "material": {
+        "primary_fabric": "纯棉",
+        "fabric_blend": null,
+        "fabric_weight": "厚实>350g",
+        "texture": "绒面",
+        "drape": "适中",
+        "elasticity": "微弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤, 蓬松保暖"
+      },
+      "construction": {
+        "silhouette": "H型",
+        "fit": "oversized",
+        "length": "常规",
+        "neckline": "连帽",
+        "sleeve_type": "长袖",
+        "waistline": "无腰线",
+        "hem": "收口",
+        "back_design": null,
+        "closure": "套头"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [],
+        "pockets": "插袋",
+        "stitching": "常规",
+        "craft_techniques": [
+          "抓绒"
+        ],
+        "functional_features": [
+          "保暖"
+        ]
+      },
+      "visual_impression": {
+        "overall_feel": "舒适随性的休闲街头感，温暖厚实。",
+        "design_highlight": "350G重磅抓绒棉，加绒加厚设计，提供优异保暖性。",
+        "visual_weight": "厚重"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型",
+          "倒三角"
+        ],
+        "flattering_features": "宽松版型不挑身材，遮肉显瘦，连帽设计修饰颈部。",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "18-35岁追求舒适保暖和休闲时尚的年轻群体",
+        "selling_points": [
+          "350G重磅抓绒棉，加绒加厚保暖",
+          "宽松版型，不挑身材",
+          "20色可选，满足多样化需求",
+          "经典连帽设计，百搭实用",
+          "亲肤柔软，穿着舒适"
+        ],
+        "similar_brands_style": "类似优衣库基础款风格，偏向H&M休闲款",
+        "coordination_suggestions": [
+          "搭配同色系运动裤和运动鞋，打造舒适休闲运动套装。",
+          "搭配牛仔裤和帆布鞋，营造日常休闲街头风。",
+          "内搭T恤，外穿羽绒服或大衣，增加层次感和保暖性。"
+        ]
+      },
+      "ecommerce": {
+        "title": "TILANI加绒加厚连帽卫衣男秋冬350G重磅抓绒棉宽松情侣套头衫女",
+        "search_keywords": [
+          "加绒卫衣",
+          "加厚卫衣",
+          "连帽卫衣",
+          "重磅卫衣",
+          "抓绒卫衣",
+          "宽松卫衣",
+          "情侣卫衣",
+          "秋冬卫衣",
+          "纯棉卫衣",
+          "保暖卫衣",
+          "休闲卫衣",
+          "百搭卫衣"
+        ],
+        "hashtags": [
+          "#加绒卫衣",
+          "#重磅卫衣",
+          "#连帽衫",
+          "#情侣款",
+          "#秋冬穿搭",
+          "#oversize",
+          "#休闲风",
+          "#保暖必备"
+        ],
+        "description": "这款TILANI加绒加厚连帽卫衣，采用350G重磅抓绒棉，内里柔软亲肤，保暖性极佳。宽松版型设计，不挑身材，穿着舒适自在。经典连帽款式，简约百搭，提供20种丰富色彩选择。无论是日常通勤、休闲逛街还是居家穿着，都能轻松打造时尚舒适的秋冬造型。"
+      },
+      "image_info": {
+        "image_type": "多角度展示",
+        "available_colors_shown": [
+          "卡其",
+          "深棕",
+          "白色",
+          "深灰",
+          "藏青",
+          "浅灰",
+          "墨绿",
+          "米白",
+          "黑色",
+          "粉色",
+          "玫红"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": true,
+        "brand_visible": "TILANI"
+      },
+      "_meta": {
+        "image": "downloaded_images/sale/product_256.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1327
+      }
+    }
+  ]
+}

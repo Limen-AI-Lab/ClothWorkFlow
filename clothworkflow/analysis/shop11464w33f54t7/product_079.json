@@ -1,0 +1,145 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "宽松连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "日常通勤",
+      "休闲逛街"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "复古",
+      "民族风"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典款式与现代元素的结合，具有一定的复古感，不受短期潮流影响"
+  },
+  "colors": {
+    "primary_color": "墨绿",
+    "secondary_colors": [
+      "黑色",
+      "金色"
+    ],
+    "color_scheme": "拼色",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "冬冷"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "肌理感",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "微透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "中长",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "抽象",
+    "pattern_description": "墨绿色底布有暗纹肌理，肩部和侧边有金色与黑色亮片/珠饰组成的抽象花卉图案",
+    "decorations": [
+      "亮片",
+      "珠饰"
+    ],
+    "pockets": "无口袋",
+    "stitching": null,
+    "craft_techniques": [
+      "刺绣"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "典雅华丽，带有异域风情的派对或晚宴感",
+    "design_highlight": "肩部和侧边精致的亮片/珠饰花卉图案与透视拼接设计",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型遮盖腰腹和臀部，透视肩部增加轻盈感",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "30-45岁追求独特设计和品质感的成熟女性",
+    "selling_points": [
+      "独特透视拼接设计，增添性感魅力",
+      "精致亮片珠饰刺绣，彰显高级感",
+      "宽松H版型，舒适不挑身材",
+      "墨绿色调，典雅复古",
+      "适合多种正式及半正式场合"
+    ],
+    "similar_brands_style": "偏向中东或印度设计师品牌风格，或国内独立设计师品牌",
+    "coordination_suggestions": [
+      "搭配金色高跟鞋和手拿包，出席晚宴或派对。",
+      "搭配简约款凉鞋和精致耳饰，打造度假休闲风。",
+      "搭配黑色丝袜和短靴，增加时尚感，适合春秋穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款墨绿色亮片珠饰刺绣连衣裙女 夏季透视拼接宽松中长款礼服裙",
+    "search_keywords": [
+      "墨绿连衣裙",
+      "亮片刺绣",
+      "珠饰连衣裙",
+      "透视拼接",
+      "宽松连衣裙",
+      "中长款礼服",
+      "派对裙",
+      "度假风",
+      "异域风情",
+      "优雅连衣裙"
+    ],
+    "hashtags": [
+      "#墨绿连衣裙",
+      "#亮片刺绣",
+      "#派对穿搭",
+      "#度假风",
+      "#优雅时尚",
+      "#中长款连衣裙",
+      "#设计师款"
+    ],
+    "description": "这款墨绿色连衣裙采用轻薄面料，肩部与袖子拼接透视设计，并点缀精致的金色与黑色亮片珠饰刺绣，呈现出独特的异域风情。宽松H版型舒适不挑身材，中长款设计优雅大方，无论是出席派对、晚宴，还是日常休闲，都能轻松打造吸睛造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "墨绿"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_079.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1244
+  }
+}

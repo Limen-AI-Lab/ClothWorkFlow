@@ -1,0 +1,164 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，宽松版型符合当下休闲潮流，多色选择适应不同搭配需求。"
+  },
+  "colors": {
+    "primary_color": "藏青",
+    "secondary_colors": [
+      "米白",
+      "卡其",
+      "白色",
+      "深灰",
+      "黑色",
+      "蓝色",
+      "黄色",
+      "浅黄",
+      "墨绿",
+      "棕色",
+      "浅绿"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "光滑",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "简约舒适的街头休闲感，宽松版型带来随性自由的氛围。",
+    "design_highlight": "280g加厚平纹棉面料，提供良好的穿着体验和版型支撑。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，能有效遮盖腰腹部和手臂赘肉。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、简约和街头休闲风格的年轻消费者。",
+    "selling_points": [
+      "280g重磅加厚纯棉面料，舒适耐穿",
+      "宽松oversized版型，不挑身材",
+      "16种颜色可选，满足多样化搭配需求",
+      "经典圆领短袖，百搭实用",
+      "平纹棉工艺，质感良好"
+    ],
+    "similar_brands_style": "类似优衣库UT系列的基础款风格，融合了部分街头潮流元素。",
+    "coordination_suggestions": [
+      "搭配工装裤+运动鞋，打造潮流街头风。",
+      "搭配牛仔短裤+帆布鞋，营造清爽休闲感。",
+      "搭配休闲长裤+小白鞋，适合日常通勤或校园穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 280g加厚平纹棉短袖T恤男夏季宽松oversize纯色圆领半袖女潮牌",
+    "search_keywords": [
+      "短袖T恤",
+      "纯棉T恤",
+      "oversize",
+      "宽松短袖",
+      "圆领T恤",
+      "街头潮牌",
+      "夏季新款",
+      "中性款",
+      "加厚T恤",
+      "百搭半袖",
+      "情侣T恤",
+      "多色可选"
+    ],
+    "hashtags": [
+      "#街头风",
+      "#oversize",
+      "#纯棉T恤",
+      "#夏季穿搭",
+      "#百搭单品",
+      "#情侣款",
+      "#简约时尚",
+      "#舒适穿搭"
+    ],
+    "description": "TILANI夏季新款280g加厚平纹棉短袖T恤，精选优质纯棉面料，手感柔软亲肤，穿着舒适透气。宽松oversized版型设计，不挑身材，轻松遮肉显瘦。经典圆领搭配多达16种潮流配色，无论是日常通勤、休闲逛街还是户外活动，都能轻松搭配，打造时尚街头造型。品质工艺，耐穿不易变形，是您衣橱不可或缺的百搭单品。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "藏青",
+      "米白",
+      "卡其",
+      "白色",
+      "深灰",
+      "黑色",
+      "蓝色",
+      "黄色",
+      "浅黄",
+      "墨绿",
+      "棕色",
+      "浅绿"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_282.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1378
+  }
+}

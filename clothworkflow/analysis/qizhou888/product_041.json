@@ -1,0 +1,137 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "挂脖露脐上衣+阔腿裤套装",
+    "gender": "女装",
+    "age_range": "25-35",
+    "season": [
+      "夏",
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "休闲逛街",
+      "约会",
+      "海滩度假",
+      "派对",
+      "日常通勤"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "欧美",
+      "辣妹风"
+    ],
+    "aesthetic": "辣妹风",
+    "trend_relevance": "夏季流行款，露脐和阔腿裤元素符合当下潮流"
+  },
+  "colors": {
+    "primary_color": "红色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "高饱和鲜艳",
+    "color_season": "春暖"
+  },
+  "material": {
+    "primary_fabric": "null",
+    "fabric_blend": "null",
+    "fabric_weight": "轻薄<150g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "短款",
+    "neckline": "挂脖",
+    "sleeve_type": "无袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "热情活力的休闲度假感，兼具时尚辣妹风。",
+    "design_highlight": "挂脖露脐上衣与高腰阔腿裤的组合，展现身材曲线同时拉长比例。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，露脐设计展现腰部线条，阔腿裤修饰腿型。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "20-35岁追求时尚、热爱展现身材的女性",
+    "selling_points": [
+      "时尚挂脖露脐设计",
+      "高腰阔腿裤显瘦显高",
+      "舒适透气面料",
+      "亮眼红色，吸睛度高",
+      "休闲度假两相宜"
+    ],
+    "similar_brands_style": "类似Shein、Zaful等快时尚品牌风格",
+    "coordination_suggestions": [
+      "搭配草编帽和凉鞋，打造海滩度假风。",
+      "搭配小白鞋和墨镜，适合日常休闲逛街。",
+      "搭配高跟凉鞋和精致配饰，出席派对或约会。"
+    ]
+  },
+  "ecommerce": {
+    "title": "夏季新款挂脖露脐上衣高腰阔腿裤两件套女装时尚休闲度假套装",
+    "search_keywords": [
+      "挂脖上衣",
+      "露脐套装",
+      "阔腿裤",
+      "高腰裤",
+      "休闲套装",
+      "度假风",
+      "辣妹风",
+      "红色套装",
+      "夏季女装",
+      "时尚两件套"
+    ],
+    "hashtags": [
+      "#挂脖上衣",
+      "#阔腿裤套装",
+      "#辣妹穿搭",
+      "#夏季时尚",
+      "#度假风",
+      "#显瘦套装",
+      "#红色穿搭"
+    ],
+    "description": "这款夏季时尚套装，采用舒适透气的面料，包含一件性感挂脖露脐上衣和一条高腰阔腿裤。亮眼的红色设计，无论是日常休闲、约会还是海滩度假，都能让你成为焦点。高腰阔腿裤有效拉长腿部比例，修饰腿型，展现自信迷人的身材曲线。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "红色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/qizhou888/product_041.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1187
+  }
+}

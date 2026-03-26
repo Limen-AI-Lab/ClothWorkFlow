@@ -1,0 +1,139 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "晚礼服/宴会裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "性感",
+      "奢华"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典款，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "裸粉",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "春暖"
+  },
+  "material": {
+    "primary_fabric": "涤纶",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "亮面",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "V领",
+    "sleeve_type": "七分袖",
+    "waistline": "高腰",
+    "hem": "开叉",
+    "back_design": null,
+    "closure": "拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "珠饰"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "刺绣"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅性感的宴会礼服，展现女性魅力。",
+    "design_highlight": "深V领口与高开叉裙摆的结合，以及上半身的珠饰刺绣。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，深V领修饰颈部线条，高开叉展现腿部线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁，追求优雅性感风格，出席正式场合的女性。",
+    "selling_points": [
+      "深V领口设计，展现迷人锁骨",
+      "高开叉裙摆，修饰腿部线条",
+      "上半身精致珠饰刺绣，提升奢华感",
+      "高腰设计，优化身材比例",
+      "垂坠感面料，穿着舒适优雅"
+    ],
+    "similar_brands_style": "类似Pronovias、Jovani等礼服品牌风格",
+    "coordination_suggestions": [
+      "搭配同色系高跟鞋和精致手拿包，打造完整宴会造型。",
+      "佩戴简约的钻石项链和耳环，增加整体亮点。",
+      "搭配披肩或小外套，应对不同场合和气温变化。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款优雅深V领高开叉晚礼服宴会裙七分袖珠饰刺绣长款连衣裙女",
+    "search_keywords": [
+      "晚礼服",
+      "宴会裙",
+      "深V领",
+      "高开叉",
+      "长款连衣裙",
+      "珠饰刺绣",
+      "七分袖",
+      "优雅",
+      "性感",
+      "派对礼服"
+    ],
+    "hashtags": [
+      "#晚礼服",
+      "#宴会裙",
+      "#深V礼服",
+      "#高开叉",
+      "#优雅穿搭",
+      "#派对季",
+      "#珠饰礼服"
+    ],
+    "description": "这款优雅的晚礼服采用垂坠感面料，搭配深V领口和高开叉设计，尽显女性魅力。上半身点缀精致珠饰刺绣，提升整体奢华感。高腰线剪裁有效拉长腿部比例，无论是出席派对、晚宴还是正式商务场合，都能让您成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "裸粉"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_082.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1206
+  }
+}

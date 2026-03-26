@@ -1,0 +1,138 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "垂坠感长款连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "海滩度假"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "度假",
+      "复古"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典优雅款式，结合垂坠感面料和褶皱设计，具有一定的时尚感，不受短期潮流影响。"
+  },
+  "colors": {
+    "primary_color": "焦糖",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": "涤纶混纺",
+    "fabric_weight": "轻薄<150g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "微透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "合身",
+    "length": "长款",
+    "neckline": "圆领",
+    "sleeve_type": "长袖",
+    "waistline": "系带收腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "褶皱"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅大气的度假风情，兼具都市时尚感。",
+    "design_highlight": "腰部独特的褶皱和系带设计，营造出自然的垂坠感和收腰效果。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "腰部褶皱设计修饰腰线，长款裙摆拉长身形。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-45岁追求优雅、时尚的都市女性",
+    "selling_points": [
+      "垂坠感面料，穿着舒适飘逸",
+      "独特腰部褶皱设计，修饰身形",
+      "焦糖色系，衬托肤色，显高级感",
+      "长款设计，拉长身材比例",
+      "适合多种场合，百搭实用"
+    ],
+    "similar_brands_style": "类似Zara、Massimo Dutti的优雅度假系列",
+    "coordination_suggestions": [
+      "搭配金色细高跟鞋和手拿包，出席晚宴或派对。",
+      "搭配平底凉鞋和草编包，打造海滩度假风。",
+      "搭配简约项链和耳环，提升整体精致度。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款优雅焦糖色褶皱系带长款连衣裙女 夏秋度假风垂坠感显瘦长裙",
+    "search_keywords": [
+      "焦糖色连衣裙",
+      "褶皱连衣裙",
+      "系带连衣裙",
+      "长款连衣裙",
+      "度假风连衣裙",
+      "优雅长裙",
+      "垂坠感连衣裙",
+      "显瘦连衣裙",
+      "雪纺连衣裙",
+      "派对礼服"
+    ],
+    "hashtags": [
+      "#焦糖色",
+      "#褶皱设计",
+      "#度假风",
+      "#优雅穿搭",
+      "#长裙",
+      "#静奢风",
+      "#显瘦"
+    ],
+    "description": "这款优雅焦糖色长款连衣裙，采用轻薄垂坠感面料，带来舒适飘逸的穿着体验。独特的腰部褶皱和系带设计，巧妙修饰身形，展现女性柔美曲线。无论是度假、约会还是出席派对，都能轻松打造高级感十足的时尚造型，尽显优雅气质。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "焦糖"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_116.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1200
+  }
+}

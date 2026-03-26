@@ -1,0 +1,146 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "宽松连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "夏",
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "休闲逛街",
+      "海滩度假",
+      "日常通勤",
+      "约会"
+    ]
+  },
+  "style": {
+    "primary_style": "波西米亚",
+    "secondary_styles": [
+      "休闲",
+      "度假风"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典度假款式，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "米白",
+    "secondary_colors": [
+      "金色",
+      "粉色"
+    ],
+    "color_scheme": "拼色",
+    "color_temperature": "暖色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "春暖"
+  },
+  "material": {
+    "primary_fabric": "亚麻",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "肌理感",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "长款",
+    "neckline": "V领",
+    "sleeve_type": "无袖",
+    "waistline": "无腰线",
+    "hem": "开叉",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "流苏",
+      "刺绣",
+      "毛球"
+    ],
+    "pockets": "无口袋",
+    "stitching": null,
+    "craft_techniques": [
+      "刺绣"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "慵懒随性的度假风情，带有异域民族感",
+    "design_highlight": "V领金色刺绣和粉色流苏装饰",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型遮肉显瘦，V领修饰颈部线条",
+    "size_range_guess": "均码"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-45岁追求舒适与异域风情的女性",
+    "selling_points": [
+      "舒适透气的亚麻面料",
+      "V领刺绣流苏设计，民族风情浓郁",
+      "宽松版型不挑身材，穿着舒适",
+      "长款设计，优雅飘逸",
+      "下摆开叉和毛球装饰，增添细节感"
+    ],
+    "similar_brands_style": "偏向Zara度假系列、H&M民族风系列",
+    "coordination_suggestions": [
+      "搭配平底凉鞋和草编包，打造海滩度假风。",
+      "搭配坡跟凉鞋和精致手链，适合日常休闲。",
+      "内搭吊带，外穿此款，增加层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款民族风V领刺绣流苏亚麻连衣裙女宽松度假风长裙",
+    "search_keywords": [
+      "亚麻连衣裙",
+      "民族风",
+      "V领",
+      "刺绣",
+      "流苏",
+      "度假风",
+      "宽松长裙",
+      "夏季连衣裙",
+      "波西米亚",
+      "大码连衣裙"
+    ],
+    "hashtags": [
+      "#民族风",
+      "#度假穿搭",
+      "#亚麻连衣裙",
+      "#波西米亚风",
+      "#夏日穿搭",
+      "#宽松长裙",
+      "#V领设计"
+    ],
+    "description": "这款夏季新款民族风V领刺绣流苏亚麻连衣裙，采用舒适透气的亚麻面料，带来清凉穿着体验。独特的V领金色刺绣与粉色流苏装饰，尽显异域风情。宽松版型不挑身材，长款设计优雅飘逸，下摆开叉与毛球点缀更添细节。无论是海滩度假还是日常休闲，都能轻松打造慵懒随性的时尚造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "米白"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_063.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1208
+  }
+}

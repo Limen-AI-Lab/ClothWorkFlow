@@ -1,0 +1,135 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "系带连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "约会",
+      "派对",
+      "正式商务"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "复古",
+      "度假"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典款式与流行元素结合，如和服式设计，具有一定的潮流感但又不过时。"
+  },
+  "colors": {
+    "primary_color": "酒红",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "醋酸",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "合身",
+    "length": "中长",
+    "neckline": "V领",
+    "sleeve_type": "喇叭袖",
+    "waistline": "系带收腰",
+    "hem": "开叉",
+    "back_design": null,
+    "closure": "系带"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅大气的复古风情，展现女性柔美与力量。",
+    "design_highlight": "和服式V领设计与宽大喇叭袖，搭配系带收腰，勾勒曼妙身姿。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型",
+      "梨形"
+    ],
+    "flattering_features": "V领修饰颈部线条，系带收腰凸显腰身，喇叭袖遮盖手臂赘肉，开叉下摆增加腿部线条感。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "30-45岁追求品质与时尚的都市女性",
+    "selling_points": [
+      "醋酸面料，光泽感好，垂坠顺滑",
+      "和服式设计，复古优雅",
+      "V领与系带收腰，修饰身形",
+      "宽大喇叭袖，遮肉显瘦",
+      "适合多种场合穿着"
+    ],
+    "similar_brands_style": "类似Max Mara、Theory等轻奢品牌风格",
+    "coordination_suggestions": [
+      "搭配裸色高跟鞋和精致手包，出席正式场合。",
+      "搭配简约金色配饰，提升整体造型的精致度。",
+      "内搭白色或米色阔腿裤，打造层次感穿搭。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款法式复古醋酸缎面V领系带收腰连衣裙女优雅气质中长款和服式长裙",
+    "search_keywords": [
+      "醋酸连衣裙",
+      "缎面连衣裙",
+      "V领连衣裙",
+      "系带连衣裙",
+      "收腰连衣裙",
+      "和服式连衣裙",
+      "复古连衣裙",
+      "优雅连衣裙",
+      "气质长裙",
+      "酒红色连衣裙"
+    ],
+    "hashtags": [
+      "#醋酸连衣裙",
+      "#法式复古",
+      "#优雅穿搭",
+      "#气质长裙",
+      "#静奢风"
+    ],
+    "description": "这款法式复古醋酸缎面连衣裙，采用高级醋酸面料，光泽感自然，垂坠顺滑。独特的和服式V领设计，搭配精致系带收腰，完美勾勒女性曼妙身姿。宽大喇叭袖增添复古韵味，中长款开叉下摆行走间摇曳生姿。无论是日常通勤、约会还是出席派对，都能轻松展现您的优雅与气质。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "酒红"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_036.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1233
+  }
+}

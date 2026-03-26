@@ -1,0 +1,142 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "半裙套装",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "日常通勤"
+    ]
+  },
+  "style": {
+    "primary_style": "复古",
+    "secondary_styles": [
+      "优雅",
+      "华丽"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典款式，通过面料和印花展现时尚感"
+  },
+  "colors": {
+    "primary_color": "红色",
+    "secondary_colors": [
+      "米白",
+      "金色"
+    ],
+    "color_scheme": "撞色",
+    "color_temperature": "暖色调",
+    "color_saturation": "高饱和鲜艳",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "透明",
+    "drape": "飘逸",
+    "elasticity": "无弹",
+    "transparency": "半透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "A型",
+    "fit": "宽松",
+    "length": "中长",
+    "neckline": "V领",
+    "sleeve_type": "长袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "半裙上大面积红色和金色花卉印花",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "印花"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "华丽优雅的复古风情，充满节日氛围",
+    "design_highlight": "半裙上的红色和金色花卉印花，以及上衣的宽松灯笼袖设计",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，A字裙遮胯显瘦，宽松上衣修饰手臂",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "30-45岁追求优雅华丽风格的都市女性",
+    "selling_points": [
+      "华丽复古印花设计，吸睛度高",
+      "V领宽松上衣，舒适显瘦",
+      "高腰A字半裙，修饰身材比例",
+      "适合多种正式场合穿着",
+      "轻薄面料，穿着舒适"
+    ],
+    "similar_brands_style": "偏向Max Mara、Valentino等品牌的部分设计风格",
+    "coordination_suggestions": [
+      "搭配金色配饰和高跟鞋，打造派对或晚宴造型。",
+      "搭配简约手包和精致妆容，适合正式商务场合。",
+      "搭配同色系或裸色系高跟鞋，整体造型更协调。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款复古V领宽松灯笼袖上衣搭配高腰花卉印花半裙两件套女",
+    "search_keywords": [
+      "复古套装",
+      "印花半裙",
+      "V领上衣",
+      "高腰裙",
+      "灯笼袖",
+      "派对礼服",
+      "宴会裙",
+      "优雅套装",
+      "红色套装",
+      "花卉印花"
+    ],
+    "hashtags": [
+      "#复古风",
+      "#印花裙",
+      "#优雅穿搭",
+      "#派对穿搭",
+      "#高腰显瘦",
+      "#节日穿搭",
+      "#华丽套装"
+    ],
+    "description": "这款套装以华丽的红色和金色花卉印花半裙为亮点，搭配舒适的V领宽松灯笼袖上衣，展现复古优雅气质。高腰A字裙型有效修饰身材，拉长腿部比例。轻薄面料穿着舒适，无论是约会、派对还是正式场合，都能让您成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "红色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_137.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1214
+  }
+}

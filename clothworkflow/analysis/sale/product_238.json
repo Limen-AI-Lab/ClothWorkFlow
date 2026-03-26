@@ -1,0 +1,159 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "短袖短裤套装",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "水洗做旧工艺是近年流行的复古潮流元素，宽松版型经典百搭，整体风格受潮流影响较小。"
+  },
+  "colors": {
+    "primary_color": "多色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "中腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的休闲街头感，带有复古做旧的独特韵味。",
+    "design_highlight": "250G重磅水洗做旧工艺，带来独特的色彩和质感。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦，中腰短裤修饰腿部线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、时尚和个性化的年轻消费者，注重服装的质感和穿着体验。",
+    "selling_points": [
+      "250G重磅纯棉面料，舒适有质感",
+      "水洗做旧工艺，复古潮流，不易褪色",
+      "宽松版型，不挑身材，穿着舒适",
+      "18种颜色可选，满足不同个性需求",
+      "短袖短裤套装，夏季穿搭省心方便"
+    ],
+    "similar_brands_style": "类似优衣库的舒适基础款与ZARA的潮流休闲款结合，带有国潮品牌的做旧风格。",
+    "coordination_suggestions": [
+      "搭配白色运动鞋和棒球帽，打造活力街头风。",
+      "搭配帆布鞋和简约项链，营造日常休闲感。",
+      "搭配凉鞋和墨镜，适合海边度假或户外休闲。"
+    ]
+  },
+  "ecommerce": {
+    "title": "250G重磅水洗做旧短袖短裤套装男女夏季纯棉宽松休闲运动情侣T恤",
+    "search_keywords": [
+      "水洗短袖套装",
+      "做旧T恤",
+      "纯棉短裤",
+      "情侣套装",
+      "夏季休闲服",
+      "宽松运动套装",
+      "街头潮牌",
+      "复古套装",
+      "男女同款",
+      "重磅纯棉",
+      "多色可选",
+      "日常穿搭"
+    ],
+    "hashtags": [
+      "#水洗做旧",
+      "#情侣套装",
+      "#夏季穿搭",
+      "#宽松T恤",
+      "#休闲运动",
+      "#国潮风",
+      "#多巴胺穿搭",
+      "#纯棉套装"
+    ],
+    "description": "这款250G重磅水洗做旧短袖短裤套装，精选优质纯棉面料，手感柔软亲肤，穿着舒适透气。独特的做旧工艺赋予服装复古潮流感，不易褪色。宽松版型设计，不挑身材，男女同款，是夏季休闲运动、日常出街的理想选择。18种丰富色彩，满足您的个性化需求，轻松打造时尚街头范儿。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "米白",
+      "浅灰",
+      "脏粉",
+      "深灰",
+      "酒红",
+      "墨绿",
+      "浅绿",
+      "深灰绿",
+      "粉色",
+      "卡其",
+      "军绿",
+      "深蓝",
+      "紫色",
+      "天蓝",
+      "橘色",
+      "藏青"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_238.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1395
+  }
+}

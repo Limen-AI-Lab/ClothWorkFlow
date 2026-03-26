@@ -1,0 +1,137 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "单肩连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "日常通勤"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "通勤",
+      "轻奢"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典优雅款，不受潮流影响，紫色是近年流行色之一"
+  },
+  "colors": {
+    "primary_color": "紫色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "冬冷"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "中长",
+    "neckline": "一字肩",
+    "sleeve_type": "无袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "褶皱"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅大气的都市女性形象，充满自信与魅力。",
+    "design_highlight": "独特的单肩设计和腰部褶皱收腰。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "单肩设计修饰肩颈线条，高腰线拉长腿部比例，腰部褶皱修饰腰腹。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-45岁追求优雅、时尚的都市女性",
+    "selling_points": [
+      "优雅单肩设计，展现肩颈线条",
+      "高腰收褶，修饰身形，拉长比例",
+      "垂坠感面料，穿着舒适显气质",
+      "经典紫色，时尚百搭"
+    ],
+    "similar_brands_style": "类似Zara、Massimo Dutti的通勤优雅风格",
+    "coordination_suggestions": [
+      "搭配同色系高跟鞋和精致手拿包，出席晚宴或派对。",
+      "搭配简约耳饰和手链，打造精致约会造型。",
+      "搭配一件修身西装外套，适合商务休闲场合。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款优雅单肩连衣裙女夏高腰修身显瘦中长款紫色气质通勤礼服裙",
+    "search_keywords": [
+      "单肩连衣裙",
+      "紫色连衣裙",
+      "修身连衣裙",
+      "高腰连衣裙",
+      "中长款连衣裙",
+      "气质连衣裙",
+      "通勤连衣裙",
+      "礼服裙",
+      "优雅连衣裙",
+      "褶皱连衣裙"
+    ],
+    "hashtags": [
+      "#单肩连衣裙",
+      "#紫色穿搭",
+      "#优雅气质",
+      "#通勤时尚",
+      "#约会穿搭",
+      "#显瘦连衣裙",
+      "#中长裙"
+    ],
+    "description": "这款优雅单肩连衣裙，采用垂坠感面料，触感顺滑亲肤。独特的单肩设计搭配腰部精致褶皱，巧妙修饰身形，拉长腿部比例。经典紫色调，无论是日常通勤、约会还是出席派对，都能轻松展现您的自信与魅力，是您衣橱不可或缺的时尚单品。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "紫色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/qizhou888/product_024.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1160
+  }
+}

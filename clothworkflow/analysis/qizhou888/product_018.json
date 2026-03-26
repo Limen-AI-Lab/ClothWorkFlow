@@ -1,0 +1,136 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "衬衫套装",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "约会",
+      "正式商务"
+    ]
+  },
+  "style": {
+    "primary_style": "商务",
+    "secondary_styles": [
+      "休闲",
+      "极简"
+    ],
+    "aesthetic": "老钱风",
+    "trend_relevance": "经典款式，结合流行色系，具有较高的潮流相关度"
+  },
+  "colors": {
+    "primary_color": "焦糖色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "醋酸",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "西装领",
+    "sleeve_type": "七分袖",
+    "waistline": "中腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅知性的都市通勤感，兼具休闲舒适。",
+    "design_highlight": "宽松舒适的版型与垂坠感面料的结合，营造出随性而高级的氛围。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦；垂坠感面料修饰身形。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-45岁追求舒适与时尚兼具的都市女性，注重品质与设计感。",
+    "selling_points": [
+      "醋酸面料，垂坠顺滑，穿着舒适",
+      "焦糖色系，时尚百搭，提升气质",
+      "宽松版型，不挑身材，遮肉显瘦",
+      "套装设计，省去搭配烦恼，轻松打造高级感"
+    ],
+    "similar_brands_style": "类似Zara、Massimo Dutti的商务休闲风格",
+    "coordination_suggestions": [
+      "搭配金色项链和手镯，提升整体精致度。",
+      "搭配同色系或米白色高跟鞋，拉长腿部线条，更显优雅。",
+      "搭配设计感手提包，增加时尚亮点。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024秋季新款醋酸焦糖色衬衫套装女 宽松垂坠感西装领七分袖上衣阔腿裤两件套",
+    "search_keywords": [
+      "醋酸套装",
+      "焦糖色套装",
+      "衬衫套装女",
+      "宽松套装",
+      "阔腿裤套装",
+      "西装领衬衫",
+      "垂坠感面料",
+      "通勤套装",
+      "休闲套装",
+      "高级感套装"
+    ],
+    "hashtags": [
+      "#醋酸套装",
+      "#焦糖色穿搭",
+      "#通勤穿搭",
+      "#老钱风",
+      "#气质套装",
+      "#宽松显瘦",
+      "#时尚套装"
+    ],
+    "description": "这款焦糖色醋酸衬衫套装，采用优质醋酸面料，手感顺滑，垂坠感极佳，穿着舒适透气。宽松的西装领七分袖衬衫搭配高腰阔腿裤，H型廓形不挑身材，轻松遮肉显瘦。焦糖色调优雅复古，无论是日常通勤还是休闲约会，都能轻松打造出高级感十足的时尚造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "焦糖色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/qizhou888/product_018.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1229
+  }
+}

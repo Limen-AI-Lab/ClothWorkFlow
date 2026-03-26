@@ -1,0 +1,14 @@
+{
+  "total": 1,
+  "success": 0,
+  "fail": 1,
+  "model": "google/gemini-2.5-flash",
+  "items": [
+    {
+      "_meta": {
+        "image": "downloaded_images/shop11464w33f54t7/product_111.jpg",
+        "error": "Client error '400 Bad Request' for url 'https://openrouter.ai/api/v1/chat/completions'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400"
+      }
+    }
+  ]
+}

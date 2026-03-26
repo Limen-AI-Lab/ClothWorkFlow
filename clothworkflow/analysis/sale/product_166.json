@@ -1,0 +1,152 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "水洗做旧工艺和oversized版型是近年街头潮流的经典元素，具有较强的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "酒红",
+      "深灰"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "null",
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "胸前复古风格的狗狗图案印花，搭配抽象文字和图形元素",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧",
+      "数码印花"
+    ],
+    "functional_features": [
+      "透气",
+      "吸汗"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "复古街头感与休闲舒适并存，彰显个性。",
+    "design_highlight": "独特的做旧水洗工艺和复古狗狗印花图案。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求潮流、注重舒适度的年轻消费者，偏爱街头休闲风格。",
+    "selling_points": [
+      "300g重磅纯棉面料，舒适有质感",
+      "水洗做旧工艺，复古潮流",
+      "oversized版型，不挑身材",
+      "环保透气吸汗，穿着体验佳",
+      "独特狗狗印花，彰显个性"
+    ],
+    "similar_brands_style": "类似国潮品牌、快时尚品牌（如Zara、H&M）的街头休闲系列。",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+运动鞋，打造休闲街头风。",
+      "搭配工装裤+帆布鞋，展现潮流工装感。",
+      "内搭长袖打底衫，叠穿增加层次感，适合春秋。",
+      "搭配短裤+凉鞋，轻松应对夏季休闲穿搭。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款300g重磅纯棉水洗做旧复古狗狗印花圆领短袖T恤男女潮牌宽松情侣装",
+    "search_keywords": [
+      "重磅纯棉T恤",
+      "水洗做旧短袖",
+      "复古印花T恤",
+      "狗狗图案T恤",
+      "oversized短袖",
+      "街头潮牌T恤",
+      "情侣短袖",
+      "男女同款T恤",
+      "夏季新款T恤",
+      "宽松短袖"
+    ],
+    "hashtags": [
+      "#街头潮牌",
+      "#oversizeT恤",
+      "#水洗做旧",
+      "#复古印花",
+      "#纯棉T恤",
+      "#情侣穿搭",
+      "#夏季必备",
+      "#不挑身材"
+    ],
+    "description": "这款300g重磅纯棉T恤，采用独特的做旧水洗工艺，呈现复古潮流感。胸前精致的狗狗印花图案，搭配抽象文字，彰显个性品味。宽松oversized版型，不挑身材，穿着舒适自在。面料环保透气吸汗，是日常休闲、街头穿搭的理想选择，轻松打造时尚潮流范。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "PURPLISH RED",
+      "STEEL GRAY",
+      "BLACK"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TTLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_166.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1324
+  }
+}

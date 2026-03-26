@@ -1,0 +1,138 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "长款连衣裙",
+    "gender": "女装",
+    "age_range": "25-35",
+    "season": [
+      "夏"
+    ],
+    "occasion": [
+      "海滩度假",
+      "约会",
+      "派对"
+    ]
+  },
+  "style": {
+    "primary_style": "波西米亚",
+    "secondary_styles": [
+      "甜美",
+      "度假风"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "经典的度假风款式，不受潮流影响，每年夏季都有市场"
+  },
+  "colors": {
+    "primary_color": "白色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "蕾丝",
+    "fabric_blend": "null",
+    "fabric_weight": "轻薄<150g",
+    "texture": "肌理感",
+    "drape": "飘逸",
+    "elasticity": "微弹",
+    "transparency": "半透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "合身",
+    "length": "超长及踝",
+    "neckline": "V领",
+    "sleeve_type": "长袖",
+    "waistline": "高腰",
+    "hem": "开叉",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "全身花卉刺绣/蕾丝图案",
+    "decorations": [
+      "蕾丝花边",
+      "刺绣"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "刺绣",
+      "镂空"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "浪漫飘逸的波西米亚度假风情",
+    "design_highlight": "全身精致的蕾丝刺绣和高开叉设计",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "V领修饰颈部线条，高腰线拉长腿部比例，高开叉展现腿部线条",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-35岁追求浪漫、喜爱度假风格的女性",
+    "selling_points": [
+      "精致蕾丝刺绣，提升品质感",
+      "V领高开叉设计，性感迷人",
+      "飘逸长款，打造度假氛围",
+      "轻薄透气面料，夏季穿着舒适"
+    ],
+    "similar_brands_style": "类似Free People、Zara度假系列风格",
+    "coordination_suggestions": [
+      "搭配草编帽和凉鞋，打造海滩度假风",
+      "内搭比基尼或吊带裙，增加层次感",
+      "搭配金色配饰，提升整体精致度"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款波西米亚风白色蕾丝刺绣V领高开叉长款连衣裙海边度假沙滩裙",
+    "search_keywords": [
+      "蕾丝连衣裙",
+      "白色长裙",
+      "度假风",
+      "沙滩裙",
+      "波西米亚",
+      "V领",
+      "高开叉",
+      "刺绣",
+      "飘逸",
+      "夏季新款"
+    ],
+    "hashtags": [
+      "#度假风",
+      "#波西米亚",
+      "#蕾丝长裙",
+      "#沙滩裙",
+      "#夏日穿搭",
+      "#仙女裙",
+      "#海边度假"
+    ],
+    "description": "这款白色蕾丝刺绣长款连衣裙，采用精致的镂空蕾丝面料，轻薄飘逸，带来浪漫的波西米亚风情。深V领设计搭配高开叉裙摆，性感迷人。高腰线剪裁修饰身形，拉长腿部比例。无论是海边度假、沙滩漫步还是夏日约会，都能轻松打造吸睛造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "白色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_142.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1185
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "basic_info": {
+    "category": null,
+    "subcategory": null,
+    "gender": null,
+    "age_range": null,
+    "season": [],
+    "occasion": []
+  },
+  "style": {
+    "primary_style": null,
+    "secondary_styles": [],
+    "aesthetic": null,
+    "trend_relevance": null
+  },
+  "colors": {
+    "primary_color": "藏青",
+    "secondary_colors": [
+      "米白"
+    ],
+    "color_scheme": "撞色",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "冬冷"
+  },
+  "material": {
+    "primary_fabric": null,
+    "fabric_blend": null,
+    "fabric_weight": null,
+    "texture": null,
+    "drape": null,
+    "elasticity": null,
+    "transparency": null,
+    "hand_feel_guess": null
+  },
+  "construction": {
+    "silhouette": null,
+    "fit": null,
+    "length": null,
+    "neckline": null,
+    "sleeve_type": null,
+    "waistline": null,
+    "hem": null,
+    "back_design": null,
+    "closure": null
+  },
+  "design_details": {
+    "pattern_type": "字母logo",
+    "pattern_description": "品牌名称“NEWFODO”及中文“虎督”，配以跳跃的老虎线条图案，下方有“尊贵与生俱来”的标语。",
+    "decorations": [],
+    "pockets": null,
+    "stitching": null,
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "尊贵、大气且富有力量感。",
+    "design_highlight": "跳跃的老虎线条图案与品牌名称的结合，以及“尊贵与生俱来”的标语。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [],
+    "flattering_features": null,
+    "size_range_guess": null
+  },
+  "commercial": {
+    "price_tier": null,
+    "target_audience": "追求品质、注重品牌形象和身份认同的消费者，可能偏向商务休闲或轻奢风格。",
+    "selling_points": [
+      "独特的虎形品牌Logo，寓意力量与尊贵",
+      "深蓝色与米白色的经典配色，彰显高级感",
+      "“尊贵与生俱来”的品牌理念，提升产品附加值"
+    ],
+    "similar_brands_style": "偏向轻奢或商务休闲品牌，如Lacoste、Ralph Lauren等，但更强调东方元素和力量感。",
+    "coordination_suggestions": []
+  },
+  "ecommerce": {
+    "title": "NEWFODO虎督品牌Logo设计 尊贵与生俱来 经典藏青米白配色",
+    "search_keywords": [
+      "NEWFODO",
+      "虎督",
+      "品牌Logo",
+      "尊贵",
+      "老虎图案",
+      "藏青色",
+      "米白色",
+      "轻奢品牌",
+      "商务休闲",
+      "高端设计"
+    ],
+    "hashtags": [
+      "#NEWFODO",
+      "#虎督",
+      "#品牌Logo",
+      "#尊贵与生俱来",
+      "#老虎设计",
+      "#轻奢风",
+      "#品牌形象"
+    ],
+    "description": "NEWFODO虎督品牌Logo，以跳跃的老虎线条图案结合品牌名称，寓意力量与尊贵。经典的藏青色背景搭配米白色字体和图案，彰显高级感与沉稳气质。下方“尊贵与生俱来”的标语，进一步强化品牌理念。适用于各类高端服饰、配饰及品牌宣传，提升产品辨识度和品牌价值。"
+  },
+  "image_info": {
+    "image_type": "品牌Logo展示图",
+    "available_colors_shown": [
+      "藏青色背景，米白色图案和文字"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": "NEWFODO 虎督"
+  },
+  "_meta": {
+    "image": "downloaded_images/shop2922242874804/product_031.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1036
+  }
+}

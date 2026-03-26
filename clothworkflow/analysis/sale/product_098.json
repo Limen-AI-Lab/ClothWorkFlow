@@ -1,0 +1,149 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "男装",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "复古",
+      "休闲"
+    ],
+    "aesthetic": "Y2K",
+    "trend_relevance": "复古水洗和oversized版型是近年街头潮流的经典元素，Y2K风格印花也具有较高的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "字母logo",
+    "pattern_description": "胸前多行字母印花，其中“HIDDEN”和“EXTREME”字样较大，并带有渐变和做旧效果，细节图显示为白墨数码印花。",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧",
+      "磨破",
+      "数码印花"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "充满个性和复古街头感的休闲T恤，宽松舒适。",
+    "design_highlight": "复古水洗磨破做旧工艺和胸前多层次的字母印花。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求潮流、注重舒适度的年轻男性。",
+    "selling_points": [
+      "280G重磅纯棉面料，舒适有质感",
+      "复古水洗磨破做旧工艺，独特个性",
+      "宽松oversized版型，不挑身材",
+      "白墨数码印花，图案清晰耐看",
+      "多色可选，满足不同搭配需求"
+    ],
+    "similar_brands_style": "类似国潮品牌、街头潮牌的基础款风格，如：FMACM、Randomevent。",
+    "coordination_suggestions": [
+      "搭配水洗牛仔裤+运动鞋，打造经典街头休闲风。",
+      "搭配工装短裤+帆布鞋，营造随性舒适的夏日造型。",
+      "内搭长袖打底衫，外穿T恤，增加层次感，适合春秋。",
+      "搭配宽松休闲裤+老爹鞋，展现潮流复古感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI复古水洗280G重磅纯棉短袖T恤男潮牌宽松磨破做旧字母印花半袖",
+    "search_keywords": [
+      "复古水洗T恤",
+      "280G纯棉短袖",
+      "潮牌男装",
+      "宽松T恤",
+      "磨破做旧",
+      "字母印花",
+      "oversized",
+      "街头风",
+      "夏季男T",
+      "TILANI"
+    ],
+    "hashtags": [
+      "#复古水洗",
+      "#潮牌T恤",
+      "#oversize",
+      "#街头穿搭",
+      "#纯棉短袖",
+      "#做旧工艺",
+      "#男士T恤",
+      "#Y2K风格"
+    ],
+    "description": "TILANI原创街头品牌，夏季新款发布。这款280G重磅纯棉短袖T恤，采用独特的复古水洗磨破做旧工艺，带来与众不同的质感。胸前多层次字母印花，结合白墨数码印花技术，图案清晰且富有潮流感。宽松oversized版型，舒适不挑身材，轻松打造个性街头风格。多色可选，无论是日常通勤还是休闲出街，都能让你成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图, 多色展示, 细节图",
+    "available_colors_shown": [
+      "炭灰",
+      "雾蓝",
+      "深灰",
+      "卡其",
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_098.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1385
+  }
+}

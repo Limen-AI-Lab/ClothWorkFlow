@@ -1,0 +1,137 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "修身长款连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "性感",
+      "复古"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典款式，通过面料和细节提升质感，不受短期潮流影响"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "丝绒",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "绒面",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "长款",
+    "neckline": "方领",
+    "sleeve_type": "无袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅高贵的晚宴礼服感，兼具复古与现代气息。",
+    "design_highlight": "丝绒面料的奢华质感与方领设计，搭配披肩的闪亮元素。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "修身剪裁展现身材曲线，方领修饰颈部线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅、高贵气质的都市女性，注重服装的质感和场合感。",
+    "selling_points": [
+      "高品质丝绒面料，触感柔软舒适",
+      "经典方领设计，修饰颈部线条",
+      "修身剪裁，展现女性优美身姿",
+      "百搭黑色，适合多种正式场合",
+      "可搭配披肩，增加造型层次感和华丽度"
+    ],
+    "similar_brands_style": "类似Max Mara、Theory等品牌的高级感基础款，或偏向晚礼服的轻奢品牌。",
+    "coordination_suggestions": [
+      "搭配同色系或对比色系的高跟鞋和精致手拿包，出席晚宴。",
+      "搭配简约的珍珠项链和耳环，提升整体的优雅气质。",
+      "外搭一件长款羊绒大衣，增加保暖性和高级感，适合秋冬季节。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024秋冬新款法式复古丝绒方领修身长款连衣裙优雅气质黑色晚礼服",
+    "search_keywords": [
+      "丝绒连衣裙",
+      "方领连衣裙",
+      "修身长裙",
+      "黑色礼服",
+      "晚宴裙",
+      "复古连衣裙",
+      "气质连衣裙",
+      "秋冬连衣裙",
+      "高级感连衣裙",
+      "派对礼服"
+    ],
+    "hashtags": [
+      "#丝绒连衣裙",
+      "#方领",
+      "#黑色礼服",
+      "#晚宴穿搭",
+      "#复古风",
+      "#优雅气质",
+      "#静奢风",
+      "#秋冬穿搭"
+    ],
+    "description": "这款法式复古丝绒方领修身长款连衣裙，精选高品质丝绒面料，触感柔软亲肤，光泽感十足。经典的方领设计优雅大方，修身剪裁完美展现女性曲线。纯黑色调百搭高级，无论是出席晚宴、派对还是正式场合，都能轻松打造出高贵典雅的气质。搭配简约配饰，尽显静奢美学。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_161.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1258
+  }
+}

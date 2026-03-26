@@ -1,0 +1,141 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "礼服裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴",
+      "年会"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "奢华",
+      "经典"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典款式，通过细节提升时尚感，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "圆领",
+    "sleeve_type": "无袖",
+    "waistline": "无腰线",
+    "hem": "开叉",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "珠饰"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "高贵典雅，充满气场的晚宴礼服。",
+    "design_highlight": "肩部及披肩上的闪亮珠饰设计，以及侧边高开叉。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "修身剪裁展现身材曲线，披肩设计遮盖手臂，高开叉增添性感。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅与奢华感的都市女性，出席正式场合。",
+    "selling_points": [
+      "肩部精致珠饰，提升奢华感",
+      "垂坠感面料，穿着舒适显瘦",
+      "侧边高开叉设计，性感迷人",
+      "经典黑色，百搭不易过时",
+      "披肩设计，修饰手臂线条"
+    ],
+    "similar_brands_style": "类似Max Mara的经典优雅风格，或一些轻奢礼服品牌。",
+    "coordination_suggestions": [
+      "搭配精致高跟鞋和手拿包，出席晚宴。",
+      "佩戴简约的钻石项链和耳环，提升整体亮度。",
+      "搭配一件修身西装外套，增加正式感和保暖性。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款黑色珠饰披肩礼服裙女 优雅修身长款晚宴年会连衣裙",
+    "search_keywords": [
+      "黑色礼服裙",
+      "珠饰连衣裙",
+      "披肩礼服",
+      "晚宴裙",
+      "年会礼服",
+      "修身长裙",
+      "高开叉连衣裙",
+      "优雅礼服",
+      "气质长裙",
+      "派对礼服"
+    ],
+    "hashtags": [
+      "#晚宴礼服",
+      "#黑色长裙",
+      "#珠饰设计",
+      "#优雅穿搭",
+      "#年会必备",
+      "#气质女神",
+      "#高开叉",
+      "#静奢风"
+    ],
+    "description": "这款黑色珠饰披肩礼服裙，采用垂坠感面料，修身剪裁勾勒曼妙身姿。肩部及披肩点缀精致珠饰，闪耀迷人光泽，尽显奢华高贵。侧边高开叉设计，行走间若隐若现，增添性感魅力。无论是出席晚宴、年会还是派对，都能让您成为全场焦点，展现优雅自信的女神范。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_119.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1228
+  }
+}

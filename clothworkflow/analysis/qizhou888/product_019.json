@@ -1,0 +1,139 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "宽松连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "海滩度假"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "度假",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典条纹元素，不受潮流影响，常年流行"
+  },
+  "colors": {
+    "primary_color": "天蓝",
+    "secondary_colors": [
+      "白色"
+    ],
+    "color_scheme": "条纹",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "夏冷"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "O型",
+    "fit": "oversized",
+    "length": "长款",
+    "neckline": "V领",
+    "sleeve_type": "五分袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "条纹",
+    "pattern_description": "蓝白竖条纹",
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "宽松舒适的休闲度假感，简约而不失时尚。",
+    "design_highlight": "宽松的Oversized廓形和经典的蓝白条纹。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形"
+    ],
+    "flattering_features": "宽松版型遮肉显瘦，V领修饰颈部线条。",
+    "size_range_guess": "均码/大码友好"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "25-45岁追求舒适休闲风格的女性",
+    "selling_points": [
+      "经典蓝白条纹，永不过时",
+      "宽松Oversized版型，不挑身材",
+      "V领设计，修饰脸型和颈部",
+      "柔软亲肤面料，穿着舒适",
+      "适合多场合穿着，休闲度假通勤皆宜"
+    ],
+    "similar_brands_style": "类似优衣库、H&M等快时尚品牌的基础款风格",
+    "coordination_suggestions": [
+      "搭配草编帽和凉鞋，打造海滩度假风。",
+      "搭配小白鞋和帆布包，适合日常休闲逛街。",
+      "搭配简约项链和手镯，提升精致感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款蓝白条纹V领宽松连衣裙女中长款休闲度假风大码显瘦长裙",
+    "search_keywords": [
+      "条纹连衣裙",
+      "宽松长裙",
+      "V领连衣裙",
+      "度假风连衣裙",
+      "大码连衣裙",
+      "休闲连衣裙",
+      "夏季连衣裙",
+      "蓝白条纹",
+      "oversize连衣裙",
+      "舒适连衣裙"
+    ],
+    "hashtags": [
+      "#条纹连衣裙",
+      "#度假风",
+      "#宽松长裙",
+      "#V领",
+      "#夏季穿搭",
+      "#休闲时尚",
+      "#不挑身材"
+    ],
+    "description": "这款夏季新款蓝白条纹V领连衣裙，采用柔软亲肤面料，带来极致舒适的穿着体验。宽松的Oversized版型设计，完美遮肉显瘦，不挑身材。经典的蓝白条纹元素，时尚百搭，无论是日常通勤、休闲逛街还是海滩度假，都能轻松打造优雅舒适的造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "蓝白条纹"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/qizhou888/product_019.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1172
+  }
+}

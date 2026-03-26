@@ -1,0 +1,144 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "礼服裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴",
+      "婚礼"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "奢华",
+      "性感"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典礼服款式，融合现代设计元素，具有一定的潮流感但整体偏向经典优雅。"
+  },
+  "colors": {
+    "primary_color": "裸粉",
+    "secondary_colors": [
+      "银色"
+    ],
+    "color_scheme": "拼色",
+    "color_temperature": "暖色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "真丝",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "鱼尾型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "立领",
+    "sleeve_type": "长袖",
+    "waistline": "高腰",
+    "hem": "鱼尾摆",
+    "back_design": null,
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "亮片"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "褶皱"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅奢华的晚宴礼服，展现女性柔美曲线。",
+    "design_highlight": "不对称褶皱设计和亮片拼接袖子。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "修身剪裁凸显腰身，鱼尾下摆拉长身形。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅奢华风格的都市女性，注重品质和设计感。",
+    "selling_points": [
+      "真丝质感面料，穿着舒适",
+      "不对称褶皱设计，独特时尚",
+      "亮片拼接袖子，增添奢华感",
+      "修身鱼尾版型，展现曼妙身姿",
+      "适合多种正式场合穿着"
+    ],
+    "similar_brands_style": "类似Max Mara、Theory等品牌的高端礼服系列。",
+    "coordination_suggestions": [
+      "搭配精致高跟鞋和手拿包，打造晚宴造型。",
+      "佩戴简约钻石项链和耳环，提升整体华丽感。",
+      "搭配同色系披肩，增加保暖性和层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款法式优雅真丝裸粉色鱼尾礼服裙不对称褶皱亮片拼接长袖晚宴连衣裙",
+    "search_keywords": [
+      "真丝礼服",
+      "鱼尾裙",
+      "晚宴裙",
+      "裸粉色连衣裙",
+      "亮片拼接",
+      "不对称设计",
+      "优雅礼服",
+      "长袖礼服",
+      "高腰礼服",
+      "派对裙"
+    ],
+    "hashtags": [
+      "#真丝礼服",
+      "#鱼尾裙",
+      "#晚宴穿搭",
+      "#优雅女神",
+      "#静奢风",
+      "#派对季",
+      "#高级定制"
+    ],
+    "description": "这款2024新款法式优雅真丝裸粉色鱼尾礼服裙，采用顺滑真丝面料，带来极致舒适的穿着体验。独特的上半身不对称褶皱设计，结合亮片拼接长袖，细节之处尽显奢华。修身鱼尾版型完美勾勒女性曲线，高腰设计拉长身形。无论是晚宴、派对还是正式场合，都能让您成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "裸粉"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_049.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1237
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "连帽卫衣套装",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家",
+      "运动"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，宽松版型符合当下休闲潮流"
+  },
+  "colors": {
+    "primary_color": "多色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "抓绒棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "绒面",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤, 蓬松保暖"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": [
+      "保暖"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的街头休闲感，简约百搭。",
+    "design_highlight": "350G重磅抓绒棉带来的厚实保暖感和宽松廓形。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，连帽设计修饰颈部和肩部。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适休闲穿搭的青年男女",
+    "selling_points": [
+      "350G重磅抓绒棉，保暖舒适",
+      "宽松oversized版型，不挑身材",
+      "多色可选，满足不同搭配需求",
+      "经典连帽卫衣套装，百搭实用",
+      "中性款式，男女同款"
+    ],
+    "similar_brands_style": "类似优衣库、H&M的基础休闲款，但更偏向街头宽松风格",
+    "coordination_suggestions": [
+      "搭配运动鞋和棒球帽，打造活力运动风。",
+      "内搭白色T恤，露出下摆增加层次感。",
+      "搭配帆布鞋和单肩包，适合日常休闲逛街。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 350G重磅抓绒棉连帽卫衣套装男女同款秋冬加绒宽松休闲运动服",
+    "search_keywords": [
+      "连帽卫衣套装",
+      "抓绒卫衣",
+      "重磅卫衣",
+      "加绒套装",
+      "男女同款",
+      "oversize卫衣",
+      "休闲运动服",
+      "秋冬卫衣",
+      "宽松卫衣",
+      "情侣卫衣"
+    ],
+    "hashtags": [
+      "#连帽卫衣",
+      "#卫衣套装",
+      "#重磅卫衣",
+      "#加绒保暖",
+      "#男女同款",
+      "#oversize",
+      "#休闲穿搭",
+      "#街头风"
+    ],
+    "description": "TILANI 2024秋冬新款连帽卫衣套装，精选350G重磅抓绒棉，内里加绒，带来极致保暖与舒适。宽松oversized版型，不挑身材，轻松穿出慵懒随性范。多款时尚配色可选，满足您的个性需求。无论是日常通勤、休闲运动还是居家穿着，都是您的理想之选。经典百搭，男女同款，情侣穿搭更显默契。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "深棕色",
+      "芥末黄",
+      "玫粉色",
+      "藏青色",
+      "米白色",
+      "橄榄绿",
+      "浅绿色",
+      "深灰色",
+      "卡其色",
+      "炭灰色",
+      "墨绿色",
+      "浅卡其色",
+      "浅灰色",
+      "粉色",
+      "黑色",
+      "白色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_262.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1339
+  }
+}

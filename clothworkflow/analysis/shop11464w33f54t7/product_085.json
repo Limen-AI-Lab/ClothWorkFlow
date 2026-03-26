@@ -1,0 +1,148 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "A字连衣裙",
+    "gender": "女装",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "休闲逛街",
+      "海滩度假"
+    ]
+  },
+  "style": {
+    "primary_style": "甜美",
+    "secondary_styles": [
+      "休闲",
+      "波西米亚"
+    ],
+    "aesthetic": "多巴胺",
+    "trend_relevance": "亮片元素在派对和度假场景中具有一定的流行度，整体款式经典百搭。"
+  },
+  "colors": {
+    "primary_color": "粉色",
+    "secondary_colors": [
+      "银色",
+      "黑色",
+      "紫色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "涤纶",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "亮面",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑"
+  },
+  "construction": {
+    "silhouette": "A型",
+    "fit": "宽松",
+    "length": "短款",
+    "neckline": "圆领",
+    "sleeve_type": "五分袖",
+    "waistline": "无腰线",
+    "hem": "荷叶边",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "亮片"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "亮片装饰"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "闪耀活泼的甜美度假感",
+    "design_highlight": "全身亮片装饰，营造闪耀吸睛效果",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松A字版型遮盖腰腹和臀部赘肉，显瘦",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "追求时尚、喜欢亮眼穿搭的年轻女性",
+    "selling_points": [
+      "全身亮片设计，吸睛闪耀",
+      "宽松A字版型，遮肉显瘦不挑身材",
+      "多种颜色可选，满足不同喜好",
+      "轻薄面料，穿着舒适",
+      "适合派对、度假等多种场合"
+    ],
+    "similar_brands_style": "类似Shein、Zaful等快时尚品牌风格",
+    "coordination_suggestions": [
+      "搭配小白鞋和草编包，打造甜美度假风。",
+      "搭配高跟凉鞋和精致手拿包，出席派对更亮眼。",
+      "搭配牛仔外套和短靴，增加休闲感，适合日常穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款亮片连衣裙女宽松A字裙甜美闪耀派对度假短裙",
+    "search_keywords": [
+      "亮片连衣裙",
+      "A字裙",
+      "宽松连衣裙",
+      "甜美短裙",
+      "派对裙",
+      "度假裙",
+      "闪耀连衣裙",
+      "圆领连衣裙",
+      "五分袖连衣裙",
+      "亮片裙"
+    ],
+    "hashtags": [
+      "#亮片裙",
+      "#派对穿搭",
+      "#度假风",
+      "#甜美系",
+      "#A字连衣裙",
+      "#闪耀单品",
+      "#夏日穿搭"
+    ],
+    "description": "这款亮片连衣裙采用全身闪耀亮片设计，让您在人群中脱颖而出。宽松A字版型，完美遮盖身材不足，穿着舒适不挑人。圆领五分袖设计，简约大方。无论是参加派对、约会还是海滩度假，都能轻松打造甜美吸睛造型，是您衣橱里不可或缺的时尚单品。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "粉色",
+      "银色",
+      "黑色",
+      "紫色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_085.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1206
+  }
+}

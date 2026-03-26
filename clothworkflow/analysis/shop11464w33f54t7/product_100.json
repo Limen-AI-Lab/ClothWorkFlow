@@ -1,0 +1,144 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "礼服裙",
+    "gender": "女装",
+    "age_range": "25-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "婚礼",
+      "晚宴",
+      "海滩度假"
+    ]
+  },
+  "style": {
+    "primary_style": "甜美",
+    "secondary_styles": [
+      "浪漫",
+      "优雅",
+      "仙女风"
+    ],
+    "aesthetic": "仙女风",
+    "trend_relevance": "经典浪漫礼服款式，不受短期潮流影响，但粉色系在特定时期会有流行度提升"
+  },
+  "colors": {
+    "primary_color": "粉色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "春暖"
+  },
+  "material": {
+    "primary_fabric": "欧根纱",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "透明",
+    "drape": "飘逸",
+    "elasticity": "无弹",
+    "transparency": "半透",
+    "hand_feel_guess": "轻盈飘逸"
+  },
+  "construction": {
+    "silhouette": "A型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "一字肩",
+    "sleeve_type": "灯笼袖",
+    "waistline": "高腰",
+    "hem": "荷叶边",
+    "back_design": null,
+    "closure": "拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "褶皱",
+      "荷叶边"
+    ],
+    "pockets": "无口袋",
+    "stitching": null,
+    "craft_techniques": [
+      "压褶"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "浪漫甜美的仙女风礼服，轻盈飘逸，充满梦幻感。",
+    "design_highlight": "一字肩和灯笼袖设计，结合多层欧根纱裙摆，营造出浪漫飘逸的仙女感。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型",
+      "梨形"
+    ],
+    "flattering_features": "一字肩展现优美肩颈线条，高腰线拉长腿部比例，A字裙摆遮胯显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-35岁追求浪漫、甜美风格，注重场合着装的女性。",
+    "selling_points": [
+      "浪漫一字肩设计，展现优雅肩颈",
+      "多层欧根纱裙摆，轻盈飘逸仙气十足",
+      "高腰线设计，优化身材比例",
+      "甜美粉色，衬托肤色更显温柔"
+    ],
+    "similar_brands_style": "类似Pronovias、Vera Wang的轻奢礼服系列，或国内设计师品牌如Grace Chen的甜美系列。",
+    "coordination_suggestions": [
+      "搭配精致项链和耳环，提升整体华丽感。",
+      "选择裸色或银色高跟鞋，保持整体轻盈感。",
+      "搭配手拿包，适合晚宴或派对场合。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款仙女风一字肩粉色礼服裙 浪漫灯笼袖高腰欧根纱长款连衣裙 约会派对晚宴裙",
+    "search_keywords": [
+      "一字肩礼服",
+      "粉色连衣裙",
+      "仙女裙",
+      "欧根纱长裙",
+      "灯笼袖礼服",
+      "高腰礼服",
+      "派对裙",
+      "晚宴裙",
+      "约会连衣裙",
+      "浪漫礼服"
+    ],
+    "hashtags": [
+      "#仙女裙",
+      "#一字肩礼服",
+      "#粉色连衣裙",
+      "#浪漫穿搭",
+      "#晚宴礼服",
+      "#约会穿搭",
+      "#欧根纱",
+      "#甜美风"
+    ],
+    "description": "这款2024新款仙女风一字肩粉色礼服裙，采用轻盈飘逸的欧根纱面料，打造多层浪漫裙摆。独特的一字肩设计搭配甜美灯笼袖，完美展现优雅肩颈线条。高腰剪裁优化身材比例，视觉显瘦。无论是约会、派对还是晚宴，都能让您成为焦点，散发迷人魅力。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "粉色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_100.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1292
+  }
+}

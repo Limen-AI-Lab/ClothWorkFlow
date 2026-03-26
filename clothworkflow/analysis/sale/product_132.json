@@ -1,0 +1,143 @@
+{
+  "basic_info": {
+    "category": "卫衣",
+    "subcategory": "圆领卫衣",
+    "gender": "男装",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古"
+    ],
+    "aesthetic": "Y2K",
+    "trend_relevance": "水洗做旧工艺和oversized版型是近年街头潮流的经典元素，具有较高的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "字母logo",
+    "pattern_description": "胸前大幅英文“CROSSING TRAVELING THROUGH TIME Strainp lan EST. 1982 Live transmission”印花，字体做旧处理",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧",
+      "丝网印"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "复古而随性的街头潮流感，彰显个性。",
+    "design_highlight": "独特的做旧水洗工艺和复古印花图案。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求潮流、注重舒适度的年轻男性。",
+    "selling_points": [
+      "260G重磅纯棉面料，舒适有型",
+      "水洗做旧工艺，复古潮流感强",
+      "Oversized宽松版型，不挑身材",
+      "经典圆领设计，百搭易穿"
+    ],
+    "similar_brands_style": "类似国潮品牌、快时尚品牌（如H&M、Zara的街头系列）",
+    "coordination_suggestions": [
+      "搭配黑色宽松休闲裤+运动鞋，打造随性街头风。",
+      "内搭白色T恤，露出下摆，增加层次感，搭配牛仔裤+帆布鞋。",
+      "搭配工装裤+马丁靴，展现硬朗工装风格。"
+    ]
+  },
+  "ecommerce": {
+    "title": "MLANI 260G重磅水洗做旧圆领卫衣男秋季美式复古宽松印花长袖T恤潮牌上衣",
+    "search_keywords": [
+      "MLANI卫衣",
+      "男士卫衣",
+      "水洗做旧",
+      "复古卫衣",
+      "圆领卫衣",
+      "宽松卫衣",
+      "街头潮牌",
+      "长袖T恤",
+      "秋季新款",
+      "重磅纯棉",
+      "印花卫衣",
+      "oversize"
+    ],
+    "hashtags": [
+      "#街头潮牌",
+      "#水洗做旧",
+      "#复古穿搭",
+      "#oversize卫衣",
+      "#男士卫衣",
+      "#秋季穿搭",
+      "#纯棉卫衣",
+      "#休闲时尚"
+    ],
+    "description": "MLANI秋季新款260G重磅纯棉圆领卫衣，采用独特水洗做旧工艺，呈现复古潮流质感。胸前个性印花设计，彰显街头潮牌态度。宽松Oversized版型，舒适不挑身材，轻松打造随性休闲look。无论是日常通勤、休闲逛街还是校园穿搭，都能轻松驾驭，是衣橱必备的时尚单品。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "炭灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "MLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_132.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1299
+  }
+}

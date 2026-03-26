@@ -1,0 +1,144 @@
+{
+  "basic_info": {
+    "category": "裤子",
+    "subcategory": "短裤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古",
+      "工装"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "复古水洗工艺是近年街头潮流的经典元素，具有较强的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "水洗做旧",
+    "drape": "硬挺",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "粗犷硬朗"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "短款",
+    "neckline": null,
+    "sleeve_type": null,
+    "waistline": "中腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "系带"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "粗犷随性的街头复古感，兼具舒适与潮流。",
+    "design_highlight": "420G重磅面料与复古水洗工艺，营造独特的做旧质感。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮盖腿部赘肉。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求街头潮流、注重舒适度的年轻消费者。",
+    "selling_points": [
+      "420G重磅纯棉面料，厚实有质感",
+      "复古水洗工艺，独特做旧效果",
+      "宽松版型，舒适不挑身材",
+      "抽绳设计，可调节腰围",
+      "百搭中性款，轻松打造街头休闲风"
+    ],
+    "similar_brands_style": "类似国潮品牌、街头潮牌的基础款风格",
+    "coordination_suggestions": [
+      "搭配oversize T恤+运动鞋，打造休闲街头风。",
+      "搭配连帽卫衣+高帮帆布鞋，营造复古运动感。",
+      "搭配衬衫内搭+马甲+老爹鞋，增加层次感和潮流度。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 420G重磅复古水洗短裤男夏季宽松休闲运动五分裤潮牌中性",
+    "search_keywords": [
+      "短裤",
+      "男士短裤",
+      "水洗短裤",
+      "复古短裤",
+      "重磅短裤",
+      "纯棉短裤",
+      "宽松短裤",
+      "街头短裤",
+      "潮牌短裤",
+      "五分裤",
+      "休闲短裤",
+      "运动短裤"
+    ],
+    "hashtags": [
+      "#街头风",
+      "#复古水洗",
+      "#重磅短裤",
+      "#宽松短裤",
+      "#中性穿搭",
+      "#夏季必备",
+      "#潮牌穿搭"
+    ],
+    "description": "TILANI 420G重磅复古水洗短裤，精选厚实纯棉面料，带来舒适穿着体验。独特的喷马骝黑和炒球水洗黑工艺，呈现出自然做旧的复古质感。宽松版型设计，不挑身材，轻松驾驭各种日常休闲、街头潮流穿搭，是您夏季衣橱的百搭单品。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "喷马骝黑",
+      "炒球水洗黑"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_266.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1262
+  }
+}

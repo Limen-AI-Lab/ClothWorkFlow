@@ -1,0 +1,138 @@
+{
+  "basic_info": {
+    "category": "卫衣",
+    "subcategory": "连帽卫衣",
+    "gender": "中性",
+    "age_range": "全年龄",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "运动"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "橄榄绿",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "肌理感",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": null,
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "舒适百搭的休闲运动感",
+    "design_highlight": "连帽设计，提供更好的保暖性和休闲感",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型不挑身材，连帽设计修饰肩颈",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "追求舒适休闲的年轻群体和团队定制客户",
+    "selling_points": [
+      "高品质面料，穿着舒适",
+      "支持来图定制，个性化选择",
+      "自选面料，满足不同需求",
+      "快速出版，高效定制",
+      "经典连帽卫衣版型，百搭实用"
+    ],
+    "similar_brands_style": "类似优衣库基础款风格，兼具定制服务",
+    "coordination_suggestions": [
+      "搭配牛仔裤+运动鞋，打造日常休闲造型。",
+      "搭配工装裤+马丁靴，展现街头潮流感。",
+      "作为团队服或班服，搭配统一的下装，彰显团队凝聚力。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI定制连帽卫衣男女同款纯色套头衫班服团队服来图自选面料快速出版",
+    "search_keywords": [
+      "卫衣定制",
+      "连帽卫衣",
+      "团队服",
+      "班服",
+      "来图定制",
+      "自选面料",
+      "快速出版",
+      "纯色卫衣",
+      "男女同款",
+      "休闲卫衣",
+      "TILANI"
+    ],
+    "hashtags": [
+      "#卫衣定制",
+      "#团队服",
+      "#班服定制",
+      "#连帽卫衣",
+      "#个性定制",
+      "#休闲穿搭",
+      "#TILANI"
+    ],
+    "description": "TILANI定制连帽卫衣，采用高品质面料，提供来图定制、自选面料和快速出版服务。经典连帽设计，宽松版型不挑身材，男女同款，是打造个性团队服、班服或日常休闲穿搭的理想选择。舒适亲肤，耐穿实用，满足您的多样化定制需求。"
+  },
+  "image_info": {
+    "image_type": "产品宣传图",
+    "available_colors_shown": [
+      "橄榄绿"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_216.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1151
+  }
+}

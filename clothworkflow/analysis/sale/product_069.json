@@ -1,0 +1,149 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "卫衣套装",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "运动",
+      "居家"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古",
+      "运动"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "复古水洗工艺是近年潮流趋势，宽松版型经典百搭"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "明线装饰",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "复古休闲的街头运动感，舒适随性。",
+    "design_highlight": "420G重磅毛圈面料与复古水洗工艺，营造独特的做旧质感。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦；松紧收口裤脚修饰腿型。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、潮流和复古风格的年轻消费者",
+    "selling_points": [
+      "420G重磅毛圈面料，保暖舒适",
+      "复古水洗做旧工艺，独特有型",
+      "宽松版型，不挑身材，穿着舒适",
+      "拼缝结构，增加设计感和耐穿性",
+      "中性款式，男女皆宜"
+    ],
+    "similar_brands_style": "类似Champion、Stussy的街头休闲风格",
+    "coordination_suggestions": [
+      "搭配老爹鞋和棒球帽，打造潮流街头风。",
+      "内搭白色T恤，增加层次感，适合日常休闲。",
+      "搭配帆布鞋和单肩包，营造轻松随性的校园风格。"
+    ]
+  },
+  "ecommerce": {
+    "title": "美式复古水洗做旧卫衣套装男女 420G重磅毛圈连帽卫衣休闲运动裤秋冬",
+    "search_keywords": [
+      "美式卫衣",
+      "复古卫衣",
+      "水洗卫衣",
+      "做旧卫衣",
+      "重磅卫衣",
+      "毛圈卫衣",
+      "连帽卫衣",
+      "休闲运动裤",
+      "卫裤",
+      "卫衣套装",
+      "情侣卫衣",
+      "街头风"
+    ],
+    "hashtags": [
+      "#美式复古",
+      "#水洗做旧",
+      "#重磅卫衣",
+      "#卫衣套装",
+      "#街头穿搭",
+      "#情侣款",
+      "#休闲运动",
+      "#秋冬穿搭"
+    ],
+    "description": "这款美式复古水洗做旧卫衣套装，采用420G重磅毛圈面料，手感厚实柔软，保暖舒适。独特的复古水洗工艺，呈现自然做旧感，彰显个性。宽松版型结合拼缝结构设计，不挑身材，穿着随性自在。无论是日常通勤、休闲运动还是居家穿着，都能轻松打造潮流街头范。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "炭灰",
+      "橄榄绿",
+      "紫罗兰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_069.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1279
+  }
+}

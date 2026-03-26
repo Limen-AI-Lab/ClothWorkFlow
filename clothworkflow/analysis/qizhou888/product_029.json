@@ -1,0 +1,138 @@
+{
+  "basic_info": {
+    "category": "连体裤",
+    "subcategory": "休闲连体裤",
+    "gender": "女装",
+    "age_range": "25-35",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "约会",
+      "海滩度假"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "极简",
+      "度假"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "白色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "棉麻混纺",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "肌理感",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "长款",
+    "neckline": "V领",
+    "sleeve_type": "无袖",
+    "waistline": "系带收腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "简约舒适的休闲度假感",
+    "design_highlight": "V领无袖设计与腰部抽绳收腰，兼顾舒适与修身",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "V领修饰颈部线条，宽松版型遮肉显瘦，腰部抽绳可调节腰线",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "25-35岁追求舒适简约风格的女性",
+    "selling_points": [
+      "V领无袖设计，清爽舒适",
+      "腰部抽绳可调节，修饰身形",
+      "宽松版型，不挑身材",
+      "棉麻混纺面料，透气亲肤",
+      "简约纯色，百搭易穿"
+    ],
+    "similar_brands_style": "类似优衣库、H&M的休闲基础款风格",
+    "coordination_suggestions": [
+      "搭配草编帽和凉鞋，打造海滩度假风。",
+      "搭配小白鞋和帆布包，适合日常休闲逛街。",
+      "搭配精致项链和手提包，提升通勤感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款V领无袖连体裤女宽松休闲纯色棉麻抽绳收腰阔腿裤",
+    "search_keywords": [
+      "连体裤",
+      "无袖",
+      "V领",
+      "棉麻",
+      "宽松",
+      "休闲",
+      "抽绳",
+      "收腰",
+      "阔腿裤",
+      "白色",
+      "夏季",
+      "度假"
+    ],
+    "hashtags": [
+      "#连体裤",
+      "#夏季穿搭",
+      "#休闲风",
+      "#棉麻",
+      "#度假穿搭",
+      "#简约时尚",
+      "#显瘦穿搭"
+    ],
+    "description": "这款夏季新款V领无袖连体裤，采用舒适透气的棉麻混纺面料，带来清爽亲肤的穿着体验。V领设计修饰颈部线条，无袖剪裁更显清凉。腰部抽绳可自由调节，轻松打造显瘦高腰线。宽松阔腿裤版型不挑身材，纯色简约百搭，无论是日常休闲还是度假出行，都能轻松穿出时尚感。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "白色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/qizhou888/product_029.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1191
+  }
+}

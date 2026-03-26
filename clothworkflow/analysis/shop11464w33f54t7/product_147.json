@@ -1,0 +1,137 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "A字连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "约会",
+      "派对",
+      "正式商务"
+    ]
+  },
+  "style": {
+    "primary_style": "商务",
+    "secondary_styles": [
+      "极简",
+      "优雅"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典黑白配色，简约设计，不受潮流影响，属于常青款。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "白色"
+    ],
+    "color_scheme": "撞色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "null",
+    "fabric_blend": "null",
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "A型",
+    "fit": "修身",
+    "length": "长款",
+    "neckline": "圆领",
+    "sleeve_type": "长袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅大气的都市通勤感，黑白撞色设计带来视觉冲击力。",
+    "design_highlight": "裙摆的黑白撞色拼接设计，形成独特的视觉效果。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型",
+      "梨形"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，A字裙摆修饰胯部和腿部线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-45岁追求简约、优雅、有设计感的都市女性。",
+    "selling_points": [
+      "经典黑白撞色设计，时尚大气",
+      "高腰A字版型，显瘦显高",
+      "柔软垂坠面料，穿着舒适",
+      "适合多种场合，通勤约会皆宜"
+    ],
+    "similar_brands_style": "类似Zara、Massimo Dutti的商务休闲风格",
+    "coordination_suggestions": [
+      "搭配尖头高跟鞋和手提包，打造干练通勤造型。",
+      "搭配简约项链和耳饰，增加精致感。",
+      "搭配一件修身西装外套，适合正式商务场合。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款黑白撞色拼接连衣裙女高腰显瘦长款A字裙优雅气质通勤长袖裙子",
+    "search_keywords": [
+      "黑白连衣裙",
+      "撞色连衣裙",
+      "A字裙",
+      "高腰连衣裙",
+      "长款连衣裙",
+      "通勤连衣裙",
+      "优雅连衣裙",
+      "气质连衣裙",
+      "长袖连衣裙",
+      "拼接连衣裙"
+    ],
+    "hashtags": [
+      "#黑白配",
+      "#通勤穿搭",
+      "#优雅气质",
+      "#A字裙",
+      "#静奢风",
+      "#显瘦穿搭",
+      "#长款连衣裙"
+    ],
+    "description": "这款黑白撞色拼接连衣裙，采用高腰A字版型，巧妙修饰身形，拉长腿部比例。经典黑白配色，简约而不失设计感，裙摆的独特拼接更添时尚气息。面料柔软垂坠，穿着舒适亲肤，无论是日常通勤、约会还是商务场合，都能轻松展现您的优雅与自信。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色/白色拼接"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_147.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1176
+  }
+}

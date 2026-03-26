@@ -1,0 +1,149 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "长袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "复古"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "经典百搭款，水洗做旧工艺赋予复古感，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "卡其",
+    "secondary_colors": [
+      "墨绿",
+      "深灰",
+      "炭灰"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "null",
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "简约舒适的复古休闲感，带有街头随性气质",
+    "design_highlight": "水洗做旧的妙色工艺和280G重磅面料",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、休闲和复古风格的青年男女",
+    "selling_points": [
+      "280G重磅纯棉面料，舒适有质感",
+      "水洗妙色工艺，呈现独特复古色泽",
+      "宽松版型，不挑身材，穿着舒适",
+      "经典圆领长袖，百搭实用",
+      "多色可选，满足不同搭配需求"
+    ],
+    "similar_brands_style": "类似优衣库UT系列的基础款，但更注重面料和水洗工艺的细节",
+    "coordination_suggestions": [
+      "搭配牛仔裤+帆布鞋，打造日常休闲街头风。",
+      "搭配工装裤+运动鞋，营造随性工装感。",
+      "内搭衬衫，露出领口和下摆，增加层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 280G重磅纯棉水洗妙色打底长袖T恤男潮牌宽松圆领卫衣女春秋",
+    "search_keywords": [
+      "长袖T恤",
+      "重磅纯棉",
+      "水洗做旧",
+      "妙色",
+      "打底衫",
+      "圆领卫衣",
+      "宽松",
+      "潮牌",
+      "复古",
+      "中性风",
+      "春秋款",
+      "百搭"
+    ],
+    "hashtags": [
+      "#重磅T恤",
+      "#水洗做旧",
+      "#复古穿搭",
+      "#中性风",
+      "#日常穿搭",
+      "#打底衫",
+      "#春秋必备",
+      "#潮牌"
+    ],
+    "description": "这款TILANI 280G重磅纯棉水洗妙色打底长袖T恤，精选优质纯棉面料，手感柔软亲肤，厚实有型。独特的妙色水洗做旧工艺，呈现出复古而富有层次感的色彩，每一件都独一无二。宽松版型设计，不挑身材，穿着舒适自在。经典圆领长袖，无论是单穿还是作为内搭，都能轻松打造休闲、街头或复古风格，是您春秋衣橱的百搭单品。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "卡其",
+      "墨绿",
+      "深灰",
+      "炭灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_173.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1369
+  }
+}

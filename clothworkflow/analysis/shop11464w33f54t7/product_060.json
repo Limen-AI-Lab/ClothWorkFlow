@@ -1,0 +1,143 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "吊带连衣裙",
+    "gender": "女装",
+    "age_range": "25-35",
+    "season": [
+      "夏",
+      "春"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "海滩度假",
+      "日常通勤"
+    ]
+  },
+  "style": {
+    "primary_style": "甜美",
+    "secondary_styles": [
+      "优雅",
+      "度假风"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "经典款，不受潮流影响，但荷叶边元素在春夏常有回潮"
+  },
+  "colors": {
+    "primary_color": "白色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": "null",
+    "fabric_weight": "轻薄<150g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "A型",
+    "fit": "修身",
+    "length": "中长",
+    "neckline": "U领",
+    "sleeve_type": "无袖",
+    "waistline": "高腰",
+    "hem": "荷叶边",
+    "back_design": "null",
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [
+      "荷叶边"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "压褶"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "清新甜美，优雅浪漫的度假风情",
+    "design_highlight": "裙摆处多层立体荷叶边设计",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型",
+      "梨形"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，A字裙摆遮胯显瘦，U领修饰颈部线条",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-35岁追求浪漫甜美风格的女性",
+    "selling_points": [
+      "高腰A字版型，显瘦显高",
+      "U领吊带设计，清爽优雅",
+      "裙摆立体荷叶边，增添浪漫气息",
+      "轻薄面料，适合春夏穿着",
+      "纯白色系，百搭经典"
+    ],
+    "similar_brands_style": "类似Zara、H&M的春夏度假系列",
+    "coordination_suggestions": [
+      "搭配草编包和凉鞋，打造海滩度假风。",
+      "搭配精致项链和高跟鞋，适合约会或派对。",
+      "外搭一件薄款开衫或牛仔外套，增加日常通勤感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款法式甜美U领吊带连衣裙女高腰A字裙摆荷叶边中长款白色度假裙",
+    "search_keywords": [
+      "吊带连衣裙",
+      "白色连衣裙",
+      "荷叶边",
+      "A字裙",
+      "高腰",
+      "中长款",
+      "度假风",
+      "甜美",
+      "U领",
+      "春夏新款",
+      "法式",
+      "显瘦"
+    ],
+    "hashtags": [
+      "#吊带连衣裙",
+      "#白色长裙",
+      "#荷叶边",
+      "#度假穿搭",
+      "#法式优雅",
+      "#夏日必备",
+      "#显瘦穿搭",
+      "#甜美风"
+    ],
+    "description": "这款法式甜美U领吊带连衣裙，采用轻薄面料，触感柔软亲肤。高腰A字版型巧妙修饰身形，拉长腿部比例。裙摆处独特的立体荷叶边设计，随风摇曳，尽显浪漫优雅。纯白色系清爽百搭，无论是海边度假还是日常约会，都能轻松打造吸睛造型，是您春夏衣橱的理想之选。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "白色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_060.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1226
+  }
+}

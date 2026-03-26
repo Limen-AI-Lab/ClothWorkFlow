@@ -1,0 +1,148 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典街头风格，印花设计具有一定的复古潮流感，属于常青款。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "米白",
+      "卡其",
+      "姜黄"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "100% COTTON",
+    "fabric_weight": "中厚250-350g",
+    "texture": "光滑",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "字母logo",
+    "pattern_description": "胸前“AURORA”字母印花，字体设计具有金属感和火焰效果，下方有小字“ALL ABOUT YOU”。",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "丝网印"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "简约中带有街头个性的休闲感，适合日常穿着。",
+    "design_highlight": "胸前具有视觉冲击力的“AURORA”字母印花。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，可遮盖腰腹部赘肉。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适与个性的年轻消费者，偏爱街头休闲风格。",
+    "selling_points": [
+      "280G重磅纯棉面料，舒适耐穿",
+      "宽松版型，不挑身材，穿着舒适",
+      "个性化“AURORA”印花，彰显街头潮流",
+      "多色可选，满足不同搭配需求"
+    ],
+    "similar_brands_style": "类似优衣库UT系列的基础款T恤，但印花更具街头潮流感。",
+    "coordination_suggestions": [
+      "搭配牛仔裤+运动鞋，打造经典休闲街头风。",
+      "搭配工装裤+帆布鞋，营造随性工装感。",
+      "内搭长袖打底衫，叠穿出层次感，适合春秋穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 280G重磅纯棉短袖T恤男潮牌宽松圆领印花情侣装夏季新款",
+    "search_keywords": [
+      "短袖T恤",
+      "纯棉T恤",
+      "重磅T恤",
+      "宽松T恤",
+      "圆领T恤",
+      "印花T恤",
+      "街头潮牌",
+      "情侣装",
+      "夏季新款",
+      "AURORA印花",
+      "中性T恤",
+      "休闲短袖"
+    ],
+    "hashtags": [
+      "#重磅T恤",
+      "#街头潮牌",
+      "#纯棉短袖",
+      "#宽松版型",
+      "#情侣T恤",
+      "#夏季穿搭",
+      "#AURORA"
+    ],
+    "description": "这款TILANI短袖T恤采用280G重磅纯棉面料，手感厚实舒适，不易变形。宽松版型设计，不挑身材，穿着自在。胸前独特的“AURORA”字母印花，结合火焰与金属质感，彰显个性街头潮流。经典圆领设计，百搭易穿，是日常休闲、街头穿搭的理想选择，多色可选，轻松打造时尚情侣装。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "姜黄",
+      "米白",
+      "卡其",
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_094.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1304
+  }
+}

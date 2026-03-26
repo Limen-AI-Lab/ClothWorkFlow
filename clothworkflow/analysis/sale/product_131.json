@@ -1,0 +1,154 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "长袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古",
+      "极简"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "水洗做旧效果是近年街头复古风的流行元素，宽松版型经典百搭，不受潮流影响。"
+  },
+  "colors": {
+    "primary_color": "棕色",
+    "secondary_colors": [
+      "米白",
+      "深灰",
+      "炭灰",
+      "藏青",
+      "墨绿",
+      "黑色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "null",
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "明线装饰",
+    "craft_techniques": [
+      "水洗"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "慵懒随性的街头复古感，兼具舒适与时尚。",
+    "design_highlight": "独特的重磅水洗做旧工艺，营造复古质感。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求舒适、个性化和街头复古风格的年轻消费者。",
+    "selling_points": [
+      "300G重磅平纹棉，舒适有型",
+      "水洗做旧工艺，复古潮流",
+      "宽松版型，不挑身材",
+      "领口紧密罗纹，高弹不易变形",
+      "多色可选，百搭易配"
+    ],
+    "similar_brands_style": "类似优衣库U系列的基础款设计，融合了Urban Revivo的街头休闲感。",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+帆布鞋，打造休闲街头风。",
+      "搭配工装裤+运动鞋，展现潮流工装感。",
+      "内搭白色T恤露出下摆，增加层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 300G重磅水洗平纹棉长袖T恤男女同款复古做旧宽松打底衫",
+    "search_keywords": [
+      "水洗长袖T恤",
+      "重磅棉T",
+      "复古打底衫",
+      "宽松长袖",
+      "男女同款T恤",
+      "街头潮牌",
+      "纯棉长袖",
+      "做旧T恤",
+      "圆领长袖",
+      "春秋T恤"
+    ],
+    "hashtags": [
+      "#水洗做旧",
+      "#重磅棉",
+      "#街头风",
+      "#oversize",
+      "#复古穿搭",
+      "#男女同款",
+      "#长袖T恤",
+      "#日常穿搭"
+    ],
+    "description": "TILANI 300G重磅水洗平纹棉长袖T恤，采用独特水洗做旧工艺，呈现复古潮流质感。精选纯棉面料，柔软亲肤，舒适透气。宽松版型设计，不挑身材，轻松打造慵懒随性风格。领口紧密罗纹，高弹不易变形，经久耐穿。多色可选，是日常休闲、街头穿搭的理想选择。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "棕色",
+      "米白",
+      "深灰",
+      "炭灰",
+      "藏青",
+      "墨绿",
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_131.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1307
+  }
+}

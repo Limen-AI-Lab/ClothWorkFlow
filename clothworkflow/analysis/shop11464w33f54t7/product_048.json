@@ -1,0 +1,142 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "长款礼服裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴",
+      "婚礼"
+    ]
+  },
+  "style": {
+    "primary_style": "复古",
+    "secondary_styles": [
+      "优雅",
+      "浪漫",
+      "宫廷"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典优雅款，不受潮流影响，但细节设计融入现代审美"
+  },
+  "colors": {
+    "primary_color": "雾蓝",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "夏冷"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "光滑",
+    "drape": "飘逸",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "立领",
+    "sleeve_type": "灯笼袖",
+    "waistline": "高腰",
+    "hem": "荷叶边",
+    "back_design": null,
+    "closure": "拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "荷叶边",
+      "系带"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "压褶"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅浪漫的宫廷复古感，充满飘逸仙气。",
+    "design_highlight": "层叠的荷叶边裙摆和高领灯笼袖设计。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，X型廓形凸显腰身，灯笼袖修饰手臂。",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅浪漫风格，注重品质和设计感的女性。",
+    "selling_points": [
+      "飘逸雪纺面料，穿着舒适",
+      "复古宫廷风设计，彰显独特品味",
+      "高腰线与层叠荷叶边，修饰身形",
+      "适合多种正式场合，提升气质"
+    ],
+    "similar_brands_style": "类似Self-Portrait、Needle & Thread等轻奢礼服品牌风格",
+    "coordination_suggestions": [
+      "搭配精致高跟鞋和手拿包，出席晚宴或派对。",
+      "搭配简约耳饰和盘发，打造优雅复古造型。",
+      "搭配同色系披肩，增加层次感和保暖性。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款复古宫廷风雪纺连衣裙女 高腰显瘦层叠荷叶边长款礼服裙",
+    "search_keywords": [
+      "雪纺连衣裙",
+      "长款礼服",
+      "复古连衣裙",
+      "宫廷风",
+      "荷叶边",
+      "高腰显瘦",
+      "晚宴裙",
+      "派对裙",
+      "优雅气质",
+      "雾蓝色连衣裙"
+    ],
+    "hashtags": [
+      "#复古连衣裙",
+      "#宫廷风",
+      "#雪纺长裙",
+      "#礼服裙",
+      "#优雅穿搭",
+      "#仙女裙",
+      "#约会穿搭"
+    ],
+    "description": "这款2024新款复古宫廷风雪纺连衣裙，采用轻盈飘逸的雪纺面料，带来极致舒适的穿着体验。高领灯笼袖设计结合层叠荷叶边裙摆，勾勒出优雅浪漫的X型廓形，高腰线巧妙拉长腿部比例，尽显女性柔美气质。无论是出席晚宴、派对还是重要约会，都能让您成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "雾蓝"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_048.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1226
+  }
+}

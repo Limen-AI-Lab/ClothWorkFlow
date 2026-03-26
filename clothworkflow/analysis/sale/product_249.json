@@ -1,0 +1,155 @@
+{
+  "basic_info": {
+    "category": "裤子",
+    "subcategory": "直筒裤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "约会",
+      "派对",
+      "居家",
+      "校园"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "时尚"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典直筒版型，结合烫钻元素，兼具经典与时尚感"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "深灰",
+      "玫红",
+      "浅灰",
+      "藏青"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "摇粒绒",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "绒面",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤, 蓬松保暖"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "常规",
+    "length": "长款",
+    "neckline": null,
+    "sleeve_type": null,
+    "waistline": "松紧腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "烫钻"
+    ],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "烫钻"
+    ],
+    "functional_features": [
+      "保暖",
+      "抗风"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "时尚休闲，兼具保暖与个性。",
+    "design_highlight": "渐变式高温烫钻设计，增添时尚感和亮点。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "直筒版型修饰腿型，松紧腰舒适不勒。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求时尚舒适的年轻群体，注重保暖和个性化设计。",
+    "selling_points": [
+      "350G重磅抓绒面料，极致保暖",
+      "3D立体精工烫钻，时尚吸睛",
+      "经典直筒版型，修饰腿型",
+      "舒适易穿松紧腰，穿着无束缚",
+      "抗风保暖抓绒面料，秋冬必备"
+    ],
+    "similar_brands_style": "类似优衣库的舒适基础款与潮流元素的结合",
+    "coordination_suggestions": [
+      "搭配宽松卫衣+运动鞋，打造休闲街头风。",
+      "搭配短款羽绒服+马丁靴，兼顾保暖与时尚。",
+      "搭配针织衫+休闲板鞋，适合日常通勤和居家。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024秋冬新款350G重磅抓绒裤高温烫钻直筒卫裤男女同款休闲运动裤",
+    "search_keywords": [
+      "烫钻卫裤",
+      "直筒裤",
+      "抓绒裤",
+      "运动裤",
+      "男女同款",
+      "秋冬保暖",
+      "休闲裤",
+      "重磅面料",
+      "街头时尚",
+      "宽松显瘦"
+    ],
+    "hashtags": [
+      "#烫钻卫裤",
+      "#直筒裤",
+      "#抓绒裤",
+      "#秋冬穿搭",
+      "#男女同款",
+      "#保暖神器",
+      "#休闲时尚",
+      "#街头风"
+    ],
+    "description": "这款秋冬新款高温烫钻直筒裤，采用350G重磅抓绒面料，极致保暖抗风。独特的3D立体精工烫钻设计，从腰部渐变至裤脚，时尚吸睛。经典直筒版型，修饰腿型，舒适易穿的松紧腰设计，适合多种体型。男女同款，是您秋冬日常通勤、休闲逛街的理想选择。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "黑色",
+      "深灰",
+      "玫红",
+      "浅灰",
+      "藏青"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_249.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1264
+  }
+}

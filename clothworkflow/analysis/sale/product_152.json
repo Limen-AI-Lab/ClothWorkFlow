@@ -1,0 +1,145 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "印花短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "潮流"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "经典街头潮流款式，印花设计具有一定的时效性，但整体版型和风格受潮流影响较小，属于百搭款。"
+  },
+  "colors": {
+    "primary_color": "宝蓝色",
+    "secondary_colors": [
+      "白色",
+      "黑色"
+    ],
+    "color_scheme": "撞色",
+    "color_temperature": "冷色调",
+    "color_saturation": "高饱和鲜艳",
+    "color_season": "冬冷"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "null",
+    "fabric_weight": "中厚250-350g",
+    "texture": "光滑",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "胸前小面积字母印花，背部大幅人像与字母结合的印花图案",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "数码印花"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "充满活力和个性的街头潮流感，宽松舒适。",
+    "design_highlight": "背部大幅人像与字母结合的印花图案，具有视觉冲击力。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦，适合多种体型。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求潮流、注重舒适度的年轻消费者",
+    "selling_points": [
+      "230G重磅平纹棉，舒适有质感",
+      "oversized宽松版型，不挑身材",
+      "前后印花设计，潮流个性",
+      "纯棉面料，吸湿透气"
+    ],
+    "similar_brands_style": "类似优衣库UT系列、H&M潮流款、国潮品牌风格",
+    "coordination_suggestions": [
+      "搭配水洗做旧牛仔短裤+运动鞋，打造休闲街头风。",
+      "搭配工装裤+帆布鞋，展现随性工装感。",
+      "内搭白色长袖T恤，叠穿营造层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "230G重磅纯棉印花短袖T恤男潮牌夏季宽松oversize圆领情侣半袖",
+    "search_keywords": [
+      "短袖T恤",
+      "纯棉",
+      "印花",
+      "oversize",
+      "街头潮牌",
+      "夏季",
+      "宽松",
+      "圆领",
+      "情侣款",
+      "230G",
+      "男女同款",
+      "潮流"
+    ],
+    "hashtags": [
+      "#街头潮牌",
+      "#oversizeT恤",
+      "#纯棉短袖",
+      "#情侣穿搭",
+      "#夏季必备",
+      "#印花T恤",
+      "#潮流穿搭",
+      "#休闲时尚"
+    ],
+    "description": "这款230G重磅平纹棉印花短袖T恤，采用100%纯棉面料，手感柔软亲肤，吸湿透气。oversize宽松版型设计，不挑身材，穿着舒适自在。胸前精致字母印花，背部大幅人像与字母结合的潮流印花，彰显个性。无论是日常休闲、街头穿搭还是情侣出街，都能轻松打造时尚潮流范。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "宝蓝色",
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_152.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1275
+  }
+}

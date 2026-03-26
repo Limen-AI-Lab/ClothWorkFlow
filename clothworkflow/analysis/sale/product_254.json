@@ -1,0 +1,142 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "复古",
+      "休闲"
+    ],
+    "aesthetic": "Y2K",
+    "trend_relevance": "水洗做旧工艺和oversized版型是近年街头潮流的经典元素，印花图案也符合Y2K复古美学，具有较高的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "胸前和背部有大幅复古风格的图案印花，图案内容包括字母、人物头像和抽象图形，具体图案款式多样。",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "充满个性和复古气息的街头休闲感，宽松舒适。",
+    "design_highlight": "独特的洗水做旧工艺和多样的复古印花图案。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦，水洗做旧效果增加视觉层次感。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求潮流、注重个性的年轻消费者，偏爱街头、复古风格。",
+    "selling_points": [
+      "洗水做旧复古工艺，独特有型",
+      "舒适柔软面料，亲肤透气",
+      "宽松oversized版型，不挑身材",
+      "多种印花图案可选，满足个性需求",
+      "中性款式，男女皆可穿搭"
+    ],
+    "similar_brands_style": "类似国潮品牌、快时尚品牌（如Zara、H&M）的街头系列。",
+    "coordination_suggestions": [
+      "搭配同色系水洗做旧短裤+运动鞋，打造休闲运动套装。",
+      "搭配宽松牛仔裤+帆布鞋，营造经典街头复古风。",
+      "内搭白色长袖T恤，叠穿增加层次感，搭配工装裤+马丁靴，更显个性。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款水洗做旧复古印花短袖T恤男潮牌宽松oversize纯棉情侣装",
+    "search_keywords": [
+      "水洗做旧T恤",
+      "复古印花短袖",
+      "潮牌T恤",
+      "oversize短袖",
+      "纯棉T恤",
+      "街头风短袖",
+      "情侣T恤",
+      "男女同款T恤",
+      "夏季短袖",
+      "宽松T恤"
+    ],
+    "hashtags": [
+      "#水洗做旧",
+      "#复古T恤",
+      "#街头潮牌",
+      "#oversize",
+      "#情侣穿搭",
+      "#夏季必备",
+      "#个性印花",
+      "#纯棉舒适"
+    ],
+    "description": "这款水洗做旧复古印花短袖T恤，采用舒适柔软的纯棉面料，经过特殊洗水工艺处理，呈现独特的做旧质感。宽松oversized版型设计，不挑身材，男女皆可轻松驾驭。胸前和背部多款潮流印花图案可选，彰显个性街头风格。无论是日常休闲、逛街还是校园穿搭，都能轻松打造时尚潮流范儿。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "炭灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_254.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1333
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "晚礼服/鱼尾连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "性感",
+      "复古"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典黑白撞色，优雅款式，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "白色"
+    ],
+    "color_scheme": "撞色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "涤纶",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "鱼尾型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "一字肩",
+    "sleeve_type": "吊带",
+    "waistline": "高腰",
+    "hem": "鱼尾摆",
+    "back_design": null,
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "经典优雅的黑白撞色，展现女性曲线美，适合正式场合。",
+    "design_highlight": "黑白撞色设计和一字肩薄纱披肩。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "修身剪裁凸显身材曲线，高腰线拉长腿部比例，一字肩设计展现肩颈线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅气质、注重场合着装的都市女性。",
+    "selling_points": [
+      "经典黑白撞色设计，时尚大气",
+      "修身鱼尾版型，凸显曼妙身姿",
+      "一字肩薄纱披肩，增添柔美与层次感",
+      "适合多种正式场合，提升个人魅力"
+    ],
+    "similar_brands_style": "类似Max Mara、Theory的优雅晚礼服风格",
+    "coordination_suggestions": [
+      "搭配精致高跟鞋和手拿包，出席晚宴或派对。",
+      "佩戴简约的钻石项链和耳环，提升整体华丽感。",
+      "搭配披肩或小外套，应对不同场合和气温变化。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款黑白撞色一字肩鱼尾连衣裙气质修身显瘦晚礼服长裙女",
+    "search_keywords": [
+      "黑白撞色连衣裙",
+      "一字肩礼服",
+      "鱼尾裙",
+      "修身长裙",
+      "晚宴礼服",
+      "派对裙",
+      "气质连衣裙",
+      "显瘦礼服",
+      "优雅长裙",
+      "正式场合连衣裙"
+    ],
+    "hashtags": [
+      "#黑白撞色",
+      "#一字肩",
+      "#鱼尾裙",
+      "#晚礼服",
+      "#气质穿搭",
+      "#显瘦",
+      "#优雅",
+      "#派对穿搭"
+    ],
+    "description": "这款黑白撞色一字肩鱼尾连衣裙，采用优质面料，触感顺滑，垂坠感极佳。独特的黑白拼接设计，时尚大气，修身鱼尾版型完美勾勒女性曲线。一字肩薄纱披肩设计，增添柔美与层次感，是您出席晚宴、派对等正式场合的理想选择，尽显优雅气质。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色",
+      "白色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_148.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1221
+  }
+}

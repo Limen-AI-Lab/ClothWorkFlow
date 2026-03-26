@@ -1,0 +1,159 @@
+{
+  "basic_info": {
+    "category": "卫衣",
+    "subcategory": "连帽拉链卫衣",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "运动"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "运动"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，宽松版型符合当下休闲潮流"
+  },
+  "colors": {
+    "primary_color": "深绿",
+    "secondary_colors": [
+      "卡其",
+      "军绿",
+      "米白",
+      "浅灰绿",
+      "浅黄",
+      "黑色",
+      "浅灰",
+      "珊瑚红",
+      "亮绿"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "前拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的街头休闲感，宽松版型带来慵懒氛围。",
+    "design_highlight": "多色可选，满足不同个性需求，宽松版型不挑身材。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型遮肉显瘦，不挑身材。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求舒适休闲穿搭的年轻群体",
+    "selling_points": [
+      "多色可选，满足个性化需求",
+      "宽松版型，不挑身材，穿着舒适",
+      "连帽拉链设计，方便穿脱，实用百搭",
+      "纯色简约设计，易于搭配",
+      "适合多种休闲场合"
+    ],
+    "similar_brands_style": "类似优衣库、H&M的基础休闲款，但版型更偏宽松街头",
+    "coordination_suggestions": [
+      "搭配同色系卫裤，打造休闲运动套装。",
+      "内搭白色T恤，下搭牛仔裤和运动鞋，营造日常休闲风。",
+      "内搭短款背心，下搭工装裤，展现街头潮流感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI纯色连帽拉链卫衣外套男女同款宽松休闲运动开衫情侣装",
+    "search_keywords": [
+      "连帽卫衣",
+      "拉链卫衣",
+      "纯色卫衣",
+      "宽松卫衣",
+      "休闲外套",
+      "运动开衫",
+      "男女同款",
+      "情侣卫衣",
+      "街头风",
+      "百搭",
+      "春秋款",
+      "TILANI"
+    ],
+    "hashtags": [
+      "#连帽卫衣",
+      "#宽松卫衣",
+      "#情侣穿搭",
+      "#休闲外套",
+      "#街头风",
+      "#多巴胺穿搭",
+      "#春秋必备"
+    ],
+    "description": "TILANI纯色连帽拉链卫衣外套，精选舒适面料，手感柔软亲肤。宽松oversized版型设计，不挑身材，轻松遮肉显瘦。经典连帽拉链款式，方便穿脱，时尚百搭。多款潮流色彩可选，满足不同个性需求，无论是日常通勤、休闲运动还是情侣穿搭，都能轻松驾驭，打造随性街头范。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "深绿",
+      "卡其",
+      "军绿",
+      "米白",
+      "浅灰绿",
+      "浅黄",
+      "黑色",
+      "浅灰",
+      "珊瑚红",
+      "亮绿"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_184.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1311
+  }
+}

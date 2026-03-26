@@ -1,0 +1,140 @@
+{
+  "basic_info": {
+    "category": "衬衫",
+    "subcategory": "商务衬衫",
+    "gender": "男装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "正式商务",
+      "约会"
+    ]
+  },
+  "style": {
+    "primary_style": "商务",
+    "secondary_styles": [
+      "简约",
+      "经典"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "白色",
+    "secondary_colors": [
+      "粉色",
+      "天蓝"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "棉",
+    "fabric_blend": "棉45%+涤纶混纺（推测）",
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "合身",
+    "length": "常规",
+    "neckline": "翻领",
+    "sleeve_type": "长袖",
+    "waistline": null,
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "胸袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "干净利落的商务通勤感",
+    "design_highlight": "经典版型，多色可选，满足不同场合需求",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "直筒型",
+      "沙漏形"
+    ],
+    "flattering_features": "合身版型修饰身形，经典领型适合多种脸型",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "25-45岁追求性价比和实用性的都市男性",
+    "selling_points": [
+      "45%棉混纺，舒适透气",
+      "经典商务版型，百搭不挑人",
+      "多色可选，满足日常通勤需求",
+      "工厂直销，性价比高"
+    ],
+    "similar_brands_style": "类似优衣库基础款衬衫风格",
+    "coordination_suggestions": [
+      "搭配西裤和皮鞋，打造正式商务造型。",
+      "搭配休闲裤和乐福鞋，适合日常通勤。",
+      "内搭T恤，解开纽扣作为外套，营造休闲感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "超级工厂 天猫品牌同款衬衫 男士商务休闲纯色长袖衬衣 45%棉免烫衬衫",
+    "search_keywords": [
+      "男士衬衫",
+      "商务衬衫",
+      "纯色衬衫",
+      "长袖衬衫",
+      "棉混纺衬衫",
+      "免烫衬衫",
+      "通勤衬衫",
+      "白衬衫",
+      "蓝衬衫",
+      "粉衬衫",
+      "工厂直销"
+    ],
+    "hashtags": [
+      "#男士衬衫",
+      "#商务通勤",
+      "#经典款",
+      "#纯色衬衫",
+      "#高性价比",
+      "#免烫衬衫"
+    ],
+    "description": "这款男士商务休闲衬衫，采用45%棉混纺面料，兼顾舒适透气与抗皱性，日常打理更省心。经典翻领设计，合身版型，修饰身形，提供白色、粉色、天蓝色等多色选择，满足不同场合的搭配需求。无论是商务会议还是日常通勤，都能轻松驾驭，彰显专业与品味。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "粉色",
+      "白色",
+      "天蓝"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "超级工厂"
+  },
+  "_meta": {
+    "image": "downloaded_images/shop2922242874804/product_023.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1177
+  }
+}

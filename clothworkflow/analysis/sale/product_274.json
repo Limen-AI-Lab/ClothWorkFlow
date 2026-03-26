@@ -1,0 +1,156 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "长袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，但oversized版型符合当下休闲潮流"
+  },
+  "colors": {
+    "primary_color": "多色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "光滑",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "简约百搭的休闲街头感，舒适随性。",
+    "design_highlight": "305G紧密平纹棉带来的厚实质感和多达24种的丰富颜色选择。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、简约、百搭穿搭的年轻群体，注重性价比。",
+    "selling_points": [
+      "24色可选，满足多样化搭配需求",
+      "305G重磅纯棉，舒适有质感",
+      "宽松oversized版型，不挑身材",
+      "男女同款，情侣可穿",
+      "经典圆领长袖，四季百搭"
+    ],
+    "similar_brands_style": "类似优衣库UT系列的基础款风格，但版型更偏向街头潮牌的oversized。",
+    "coordination_suggestions": [
+      "搭配牛仔裤+运动鞋，打造休闲日常look。",
+      "内搭高领打底衫，外穿夹克或卫衣，增加层次感。",
+      "搭配工装裤+帆布鞋，营造街头潮流感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "24色全棉纯色长袖T恤男女同款305G重磅宽松圆领打底衫潮牌卫衣",
+    "search_keywords": [
+      "纯棉长袖T恤",
+      "男女同款",
+      "oversized",
+      "重磅棉",
+      "圆领卫衣",
+      "打底衫",
+      "休闲上衣",
+      "街头潮牌",
+      "多色可选",
+      "春秋款",
+      "百搭"
+    ],
+    "hashtags": [
+      "#纯棉长袖",
+      "#男女同款",
+      "#oversize",
+      "#百搭T恤",
+      "#街头风",
+      "#重磅棉",
+      "#多色可选",
+      "#休闲穿搭"
+    ],
+    "description": "这款全棉纯色长袖T恤，采用305G紧密平纹棉，手感厚实舒适，不易变形。宽松oversized版型设计，不挑身材，男女同款，轻松打造休闲街头风。多达24种颜色选择，满足您的个性搭配需求，无论是日常通勤、休闲逛街还是居家穿着，都能轻松驾驭，是衣橱里不可或缺的百搭单品。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "紫色",
+      "深灰",
+      "米白",
+      "军绿",
+      "浅米",
+      "红色",
+      "蓝色",
+      "橄榄绿",
+      "酒红",
+      "浅绿",
+      "藏青",
+      "浅灰",
+      "玫红",
+      "黄色",
+      "橘色",
+      "白色",
+      "黑色",
+      "卡其"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_274.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1358
+  }
+}

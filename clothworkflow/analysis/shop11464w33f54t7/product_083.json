@@ -1,0 +1,142 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "A字连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "约会",
+      "正式商务",
+      "派对"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "复古",
+      "极简"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典款式，结合泡泡袖和缎面材质，具有一定的时尚感，不受短期潮流影响。"
+  },
+  "colors": {
+    "primary_color": "深灰",
+    "secondary_colors": [
+      "白色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "冬冷"
+  },
+  "material": {
+    "primary_fabric": "醋酸",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "A型",
+    "fit": "修身",
+    "length": "长款",
+    "neckline": "立领",
+    "sleeve_type": "泡泡袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "纽扣"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅大气的都市女性通勤或晚宴着装。",
+    "design_highlight": "高领泡泡袖设计与缎面材质的结合，以及袖口精致的纽扣装饰。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型",
+      "梨形"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，A字裙摆修饰胯部和腿部线条，泡泡袖遮盖手臂赘肉。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-45岁追求优雅、品质感和时尚度的都市女性。",
+    "selling_points": [
+      "高品质缎面材质，光泽感强",
+      "优雅高领与复古泡泡袖设计",
+      "修身显瘦A字版型",
+      "适合多种正式及半正式场合",
+      "袖口精致纽扣点缀"
+    ],
+    "similar_brands_style": "类似Zara、Massimo Dutti的优雅通勤款风格",
+    "coordination_suggestions": [
+      "搭配尖头高跟鞋和手拿包，适合晚宴或正式场合。",
+      "搭配简约项链和耳环，提升整体精致度。",
+      "外搭一件修身西装外套，适合职场通勤。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024秋季新款优雅高领缎面连衣裙女 复古泡泡袖修身显瘦长款A字裙",
+    "search_keywords": [
+      "缎面连衣裙",
+      "高领连衣裙",
+      "泡泡袖连衣裙",
+      "长款连衣裙",
+      "A字裙",
+      "优雅连衣裙",
+      "通勤连衣裙",
+      "复古连衣裙",
+      "晚宴裙",
+      "气质连衣裙",
+      "秋冬连衣裙",
+      "静奢风"
+    ],
+    "hashtags": [
+      "#缎面连衣裙",
+      "#优雅穿搭",
+      "#复古风",
+      "#通勤必备",
+      "#气质女神",
+      "#静奢风",
+      "#秋冬新款"
+    ],
+    "description": "这款2024秋季新款优雅高领缎面连衣裙，精选高品质缎面材质，带来顺滑亲肤的穿着体验和高级光泽感。独特的复古泡泡袖设计结合修身A字版型，完美修饰身材，展现女性优雅曲线。袖口精致纽扣点缀，细节之处彰显品质。无论是日常通勤、约会还是正式场合，都能轻松驾驭，尽显都市女性的知性与魅力。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "深灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_083.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1238
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "basic_info": {
+    "category": "裤子",
+    "subcategory": "运动裤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "运动",
+      "居家",
+      "校园"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "运动",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，但重磅毛圈面料符合秋冬舒适保暖趋势"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "修身直筒",
+    "fit": "宽松",
+    "length": "长款",
+    "neckline": null,
+    "sleeve_type": null,
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "系带"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": [
+      "保暖"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的秋冬休闲运动感",
+    "design_highlight": "400G重磅毛圈面料，提供优异的保暖性和舒适度",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型不挑身材，松紧收口裤脚显腿长",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、休闲风格的年轻群体",
+    "selling_points": [
+      "400G重磅毛圈面料，保暖舒适",
+      "宽松版型，不挑身材",
+      "多色可选，满足不同搭配需求",
+      "经典休闲运动风格，百搭实用",
+      "松紧腰设计，穿着方便"
+    ],
+    "similar_brands_style": "类似优衣库、森马等基础款休闲风格",
+    "coordination_suggestions": [
+      "搭配同色系连帽卫衣+运动鞋，打造整体休闲运动套装。",
+      "搭配白色T恤+牛仔外套+帆布鞋，营造街头休闲感。",
+      "搭配宽松毛衣+老爹鞋，适合秋冬日常居家或外出。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI秋冬重磅400G毛圈休闲运动裤男女同款宽松束脚卫裤多色可选",
+    "search_keywords": [
+      "运动裤",
+      "休闲裤",
+      "卫裤",
+      "束脚裤",
+      "重磅",
+      "毛圈",
+      "秋冬",
+      "男女同款",
+      "宽松",
+      "多色",
+      "保暖",
+      "街头"
+    ],
+    "hashtags": [
+      "#休闲运动裤",
+      "#重磅卫裤",
+      "#秋冬穿搭",
+      "#男女同款",
+      "#舒适百搭",
+      "#街头风",
+      "#多色可选"
+    ],
+    "description": "TILANI秋冬新款重磅400G毛圈休闲运动裤，精选优质纯棉面料，内里柔软毛圈，带来卓越的保暖性和亲肤感。宽松版型搭配束脚设计，不挑身材，穿着舒适有型。多达15种颜色可选，满足您的个性搭配需求，无论是日常通勤、休闲运动还是居家穿着，都能轻松驾驭，是您秋冬衣橱的必备单品。"
+  },
+  "image_info": {
+    "image_type": "模特上身图, 多色展示, 细节图",
+    "available_colors_shown": [
+      "卡其",
+      "米白",
+      "白色",
+      "浅灰绿",
+      "浅卡其",
+      "深灰",
+      "墨绿",
+      "深棕",
+      "深灰绿",
+      "黑色",
+      "橘红",
+      "翠绿"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_079.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1292
+  }
+}

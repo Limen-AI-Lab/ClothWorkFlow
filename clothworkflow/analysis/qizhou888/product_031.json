@@ -1,0 +1,137 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "西装马甲套装",
+    "gender": "女装",
+    "age_range": "25-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "约会",
+      "派对",
+      "校园"
+    ]
+  },
+  "style": {
+    "primary_style": "商务",
+    "secondary_styles": [
+      "休闲",
+      "学院",
+      "甜美"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "经典款式与流行元素结合，具有一定的时尚度，不易过时。"
+  },
+  "colors": {
+    "primary_color": "白色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "null",
+    "fabric_blend": "null",
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "修身",
+    "length": "短款",
+    "neckline": "V领",
+    "sleeve_type": "无袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "干净利落的都市时尚感，兼具甜美与干练。",
+    "design_highlight": "西装马甲与百褶短裙的组合，既有正式感又不失活泼。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，V领修饰颈部线条，百褶裙摆增加甜美感。",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-35岁追求时尚、干练且不失甜美的都市女性。",
+    "selling_points": [
+      "时尚西装马甲与百褶裙套装",
+      "修身显瘦，拉长身材比例",
+      "V领设计，修饰颈部线条",
+      "百搭白色，适合多种场合"
+    ],
+    "similar_brands_style": "类似Zara、H&M等快时尚品牌风格",
+    "coordination_suggestions": [
+      "搭配小白鞋和帆布包，打造休闲学院风。",
+      "搭配高跟鞋和精致手提包，适合通勤或约会。",
+      "内搭一件简约T恤，增加层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款白色西装马甲百褶短裙套装女时尚V领无袖修身显瘦两件套",
+    "search_keywords": [
+      "西装马甲套装",
+      "百褶裙",
+      "白色套装",
+      "女装",
+      "夏季新款",
+      "修身显瘦",
+      "V领",
+      "无袖",
+      "时尚套装",
+      "通勤"
+    ],
+    "hashtags": [
+      "#西装马甲",
+      "#百褶裙",
+      "#白色套装",
+      "#通勤穿搭",
+      "#夏日时尚",
+      "#显瘦穿搭",
+      "#学院风"
+    ],
+    "description": "这款2024夏季新款白色西装马甲百褶短裙套装，采用优质面料，手感顺滑，穿着舒适。V领无袖马甲设计，干练修身，搭配高腰百褶短裙，拉长腿部比例，尽显青春活力。无论是日常通勤、休闲逛街还是约会，都能轻松打造时尚造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "白色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/qizhou888/product_031.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1183
+  }
+}

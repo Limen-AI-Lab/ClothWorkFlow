@@ -1,0 +1,143 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "印花T恤",
+    "gender": "男装",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "暗黑"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典街头风格，印花图案具有一定的潮流感，但整体款式百搭，不受特定潮流影响。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "青绿色",
+      "灰色"
+    ],
+    "color_scheme": "撞色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "胸前大幅度哥特式风格印花，图案包含骷髅、恶魔角等元素，并有“HATERMAINS”字样，主色调为青绿色和灰色。",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "数码印花"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "张扬个性的街头暗黑风，兼具休闲舒适感。",
+    "design_highlight": "胸前大面积的哥特式风格印花，图案细节丰富，色彩对比鲜明。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮盖腰腹部和手臂赘肉，适合多种体型。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求个性、喜爱街头潮流文化的年轻男性。",
+    "selling_points": [
+      "280g重磅纯棉面料，舒适有质感",
+      "oversized宽松版型，不挑身材",
+      "独特哥特式印花，彰显个性",
+      "经典圆领短袖，百搭易穿"
+    ],
+    "similar_brands_style": "类似潮牌如Stussy、Supreme的基础款印花T恤风格，但更偏向暗黑系。",
+    "coordination_suggestions": [
+      "搭配黑色短裤+高帮运动鞋，打造休闲街头look。",
+      "搭配宽松牛仔裤+帆布鞋，营造随性日常感。",
+      "内搭长袖T恤，外穿夹克，增加层次感，适合春秋穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "280g重磅纯棉印花短袖男潮牌oversize宽松圆领T恤夏季街头暗黑风",
+    "search_keywords": [
+      "男士T恤",
+      "短袖",
+      "纯棉",
+      "重磅",
+      "印花",
+      "oversize",
+      "宽松",
+      "街头风",
+      "潮牌",
+      "暗黑风",
+      "夏季",
+      "圆领"
+    ],
+    "hashtags": [
+      "#街头风",
+      "#oversize",
+      "#印花T恤",
+      "#纯棉短袖",
+      "#潮牌穿搭",
+      "#暗黑系",
+      "#夏季必备"
+    ],
+    "description": "这款280g重磅纯棉印花短袖，采用舒适亲肤的纯棉面料，带来柔软触感。oversize宽松版型设计，不挑身材，穿着舒适自在。胸前独特的哥特式风格印花，彰显个性潮流态度。经典圆领短袖款式，无论是日常休闲、街头穿搭还是校园生活，都能轻松驾驭，是夏季衣橱的百搭单品。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "MLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_167.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1295
+  }
+}

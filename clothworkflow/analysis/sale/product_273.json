@@ -1,0 +1,148 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "短袖短裤套装",
+    "gender": "中性",
+    "age_range": "儿童",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "运动"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "运动",
+      "美式"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，但插肩袖和撞色条纹设计具有一定的运动复古感。"
+  },
+  "colors": {
+    "primary_color": "米白",
+    "secondary_colors": [
+      "黑色",
+      "墨绿",
+      "焦糖"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "肌理感",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "插肩袖",
+    "waistline": "松紧腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "明线装饰",
+    "craft_techniques": [],
+    "functional_features": [
+      "吸湿排汗",
+      "透气舒适",
+      "亲肤安全"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "简约舒适的运动休闲感，适合活泼好动的儿童。",
+    "design_highlight": "插肩袖与撞色条纹的拼接设计，增加了运动感和视觉层次。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "全年龄"
+    ],
+    "flattering_features": "宽松版型不挑身材，松紧腰设计穿着舒适。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "3-12岁追求舒适、时尚的儿童及其家长",
+    "selling_points": [
+      "200G重磅纯棉面料，吸湿排汗",
+      "插肩袖美式条纹设计，时尚运动",
+      "宽松版型，舒适不束缚",
+      "亲肤安全，适合儿童穿着",
+      "多色可选，满足不同喜好"
+    ],
+    "similar_brands_style": "类似Zara Kids、H&M Kids的基础运动休闲款",
+    "coordination_suggestions": [
+      "搭配白色运动鞋，打造活力运动风。",
+      "搭配棒球帽和双肩包，适合日常上学或出游。",
+      "单穿T恤或短裤，与其他单品自由搭配。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI儿童短袖短裤套装200G纯棉吸湿排汗美式条纹插肩袖运动休闲夏装",
+    "search_keywords": [
+      "儿童套装",
+      "短袖短裤",
+      "纯棉套装",
+      "吸湿排汗",
+      "美式条纹",
+      "插肩袖",
+      "运动套装",
+      "休闲童装",
+      "夏季童装",
+      "亲肤安全",
+      "宽松版型",
+      "中性童装"
+    ],
+    "hashtags": [
+      "#儿童套装",
+      "#夏季童装",
+      "#纯棉舒适",
+      "#运动休闲风",
+      "#美式童装",
+      "#吸湿排汗",
+      "#亲肤安全",
+      "#宽松版型"
+    ],
+    "description": "TILANI儿童短袖短裤套装，精选200G重磅纯棉面料，吸湿排汗，透气舒适，亲肤安全。采用美式插肩袖设计，搭配撞色条纹，时尚运动感十足。宽松版型不挑身材，松紧腰设计穿着无束缚。无论是日常上学、户外活动还是休闲居家，都能为孩子带来舒适自在的穿着体验。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "米白",
+      "黑色",
+      "墨绿",
+      "焦糖"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_273.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1261
+  }
+}

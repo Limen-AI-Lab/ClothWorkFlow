@@ -1,0 +1,156 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "复古",
+      "休闲"
+    ],
+    "aesthetic": "Y2K",
+    "trend_relevance": "水洗做旧工艺和乐队T恤风格是近年街头潮流的经典元素，具有持续的流行度。"
+  },
+  "colors": {
+    "primary_color": "深灰",
+    "secondary_colors": [
+      "米白",
+      "浅灰",
+      "黑色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "胸前“NIRVANA”字母印花及涅槃乐队经典专辑《Nevermind》封面天使图案印花",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": [
+      "环保",
+      "柔软",
+      "透气",
+      "吸汗"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "复古而富有态度的街头休闲感，彰显个性。",
+    "design_highlight": "经典的涅槃乐队专辑封面印花与水洗做旧工艺的结合。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求个性、热爱街头文化和摇滚乐的青年男女。",
+    "selling_points": [
+      "250G重磅纯棉面料，舒适有质感",
+      "经典涅槃乐队印花，彰显潮流态度",
+      "水洗做旧工艺，复古街头风格",
+      "宽松版型，不挑身材，穿着舒适",
+      "环保透气吸汗，穿着体验佳"
+    ],
+    "similar_brands_style": "类似Stussy、Supreme等街头潮牌的复古T恤风格。",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+帆布鞋，打造经典街头休闲风。",
+      "搭配工装裤+马丁靴，增添硬朗工装感。",
+      "内搭长袖打底衫，叠穿出层次感，适合春秋穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TLANI 250G重磅纯棉水洗做旧涅槃乐队印花短袖T恤男女潮牌宽松街头复古圆领上衣",
+    "search_keywords": [
+      "涅槃T恤",
+      "Nirvana短袖",
+      "水洗做旧T恤",
+      "重磅纯棉",
+      "街头潮牌",
+      "复古T恤",
+      "宽松短袖",
+      "乐队T恤",
+      "中性T恤",
+      "夏季上衣",
+      "圆领短袖",
+      "潮牌T恤"
+    ],
+    "hashtags": [
+      "#涅槃乐队",
+      "#街头潮牌",
+      "#水洗做旧",
+      "#OversizeT恤",
+      "#复古穿搭",
+      "#纯棉T恤",
+      "#Nirvana",
+      "#潮T"
+    ],
+    "description": "TLANI 250G重磅纯棉水洗做旧涅槃乐队印花短袖T恤，精选优质纯棉面料，手感柔软亲肤，透气吸汗。采用独特水洗做旧工艺，呈现复古街头质感。胸前经典涅槃乐队《Nevermind》专辑封面印花，彰显个性与潮流态度。宽松版型设计，不挑身材，日常休闲、街头穿搭皆宜，轻松打造时尚造型。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "APRICOT",
+      "LIGHT GRAY",
+      "DARK GRAY",
+      "BLACK"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_255.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1360
+  }
+}

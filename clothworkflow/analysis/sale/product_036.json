@@ -1,0 +1,141 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "复古",
+      "休闲"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "水洗做旧工艺和宽松版型是近年街头复古风的流行元素，具有较高的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧",
+      "磨破"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "随性不羁的街头复古感，带有独特的年代气息。",
+    "design_highlight": "重磅纯棉结合复古水洗做旧和磨破设计，营造出独特的肌理感和街头风格。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦，磨破设计增加个性。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求个性、热爱街头潮流文化的青年男女",
+    "selling_points": [
+      "250G重磅纯棉，舒适有型",
+      "复古水洗做旧工艺，独特潮流",
+      "宽松版型，不挑身材，男女同款",
+      "磨破设计，增加街头感和个性"
+    ],
+    "similar_brands_style": "类似国潮品牌、快时尚品牌中的街头系列",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+高帮帆布鞋，打造经典街头look。",
+      "搭配工装短裤+运动鞋，展现休闲活力。",
+      "内搭白色长款T恤，叠穿增加层次感，下搭束脚裤。"
+    ]
+  },
+  "ecommerce": {
+    "title": "复古水洗短袖T恤男潮牌夏季重磅纯棉做旧磨破宽松情侣款半袖女",
+    "search_keywords": [
+      "复古水洗短袖",
+      "重磅纯棉T恤",
+      "做旧T恤",
+      "磨破设计",
+      "街头潮牌",
+      "宽松短袖",
+      "情侣T恤",
+      "男女同款",
+      "夏季新款",
+      "圆领短袖"
+    ],
+    "hashtags": [
+      "#复古水洗",
+      "#街头潮牌",
+      "#oversizeT恤",
+      "#情侣穿搭",
+      "#重磅纯棉",
+      "#做旧设计",
+      "#不挑身材"
+    ],
+    "description": "这款复古水洗短袖T恤，采用250G重磅纯棉面料，手感舒适有型。独特的复古水洗做旧工艺结合磨破设计，营造出不羁的街头潮流感。宽松版型不挑身材，男女同款，轻松打造个性情侣穿搭。无论是日常休闲、街头出游还是校园穿搭，都能让你成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "炭灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "Tilanl"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_036.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1254
+  }
+}

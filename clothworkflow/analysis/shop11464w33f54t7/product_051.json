@@ -1,0 +1,143 @@
+{
+  "basic_info": {
+    "category": "连体裤",
+    "subcategory": "抹胸阔腿连体裤",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴",
+      "度假"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "性感",
+      "奢华"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典款式与流行元素（羽毛）结合，具有一定的时尚度，但整体风格偏向经典优雅，不易过时。"
+  },
+  "colors": {
+    "primary_color": "白色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "涤纶",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "抹胸",
+    "sleeve_type": "无袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "羽毛",
+      "腰带",
+      "金属扣"
+    ],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅奢华的晚宴或派对造型，充满女性魅力。",
+    "design_highlight": "抹胸处的羽毛装饰，增添了轻盈与奢华感。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型",
+      "梨形"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，阔腿裤型修饰腿部线条，抹胸设计展现肩颈线条。",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅、时尚，注重场合着装的都市女性。",
+    "selling_points": [
+      "抹胸羽毛设计，独特吸睛",
+      "高腰阔腿版型，显高显瘦",
+      "纯白色调，优雅高级",
+      "适合多种正式场合穿着",
+      "面料舒适，垂坠感好"
+    ],
+    "similar_brands_style": "类似Self-Portrait、Needle & Thread等轻奢礼服品牌风格。",
+    "coordination_suggestions": [
+      "搭配精致高跟鞋和手拿包，出席晚宴。",
+      "搭配简约项链和耳环，打造约会造型。",
+      "外搭一件短款西装外套，增加正式感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款白色抹胸羽毛连体裤女夏高腰阔腿裤晚宴派对气质礼服",
+    "search_keywords": [
+      "抹胸连体裤",
+      "羽毛连体裤",
+      "白色连体裤",
+      "阔腿连体裤",
+      "高腰连体裤",
+      "晚宴礼服",
+      "派对穿搭",
+      "气质女装",
+      "度假风",
+      "优雅连体裤"
+    ],
+    "hashtags": [
+      "#抹胸连体裤",
+      "#羽毛设计",
+      "#白色穿搭",
+      "#晚宴礼服",
+      "#派对穿搭",
+      "#高腰显瘦",
+      "#优雅气质",
+      "#时尚单品"
+    ],
+    "description": "这款白色抹胸羽毛连体裤，采用优质面料，触感顺滑，垂坠感极佳。独特的抹胸羽毛设计，轻盈灵动，瞬间提升造型亮点。高腰阔腿版型，巧妙拉长腿部比例，修饰身形，尽显优雅气质。无论是出席晚宴、派对还是重要约会，都能让您成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "白色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_051.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1250
+  }
+}

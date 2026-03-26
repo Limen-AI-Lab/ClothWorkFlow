@@ -1,0 +1,146 @@
+{
+  "basic_info": {
+    "category": "卫衣",
+    "subcategory": "连帽卫衣",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "复古",
+      "美式"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "美式复古街头风格，经典款型结合水洗做旧工艺，具有较强的潮流感和耐穿性，不易过时。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [
+      "荧光绿"
+    ],
+    "color_scheme": "撞色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "null",
+    "fabric_weight": "厚实>350g",
+    "texture": "磨毛",
+    "drape": "硬挺",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "收口",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "字母logo",
+    "pattern_description": "胸前荧光绿哥特字体印花，背部下摆处有同色系十字架图案刺绣",
+    "decorations": [
+      "刺绣"
+    ],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧",
+      "刺绣"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "充满个性的美式复古街头感，兼具舒适与潮流。",
+    "design_highlight": "420G重磅水洗毛圈棉面料和胸前荧光绿哥特字体印花。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦，连帽设计修饰颈部。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求美式复古和街头潮流的青年男女。",
+    "selling_points": [
+      "420G重磅水洗毛圈棉，保暖舒适",
+      "美式复古做旧工艺，独特有型",
+      "宽松oversized版型，不挑身材",
+      "高品质刺绣图案，细节精致"
+    ],
+    "similar_brands_style": "类似Stussy、Carhartt WIP的街头复古风格。",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+高帮帆布鞋，打造休闲街头风。",
+      "内搭白色T恤，下搭工装裤+运动鞋，增加层次感。",
+      "搭配束脚裤+老爹鞋，营造潮流运动感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI美式复古秋冬连帽卫衣男潮牌420G重磅水洗毛圈棉宽松情侣套头衫",
+    "search_keywords": [
+      "美式复古卫衣",
+      "连帽卫衣",
+      "潮牌卫衣",
+      "水洗卫衣",
+      "做旧卫衣",
+      "重磅卫衣",
+      "毛圈棉卫衣",
+      "宽松卫衣",
+      "情侣卫衣",
+      "秋冬卫衣",
+      "街头卫衣",
+      "刺绣卫衣"
+    ],
+    "hashtags": [
+      "#美式复古",
+      "#潮牌卫衣",
+      "#oversize",
+      "#水洗做旧",
+      "#秋冬穿搭",
+      "#街头风",
+      "#情侣款"
+    ],
+    "description": "TILANI美式复古秋冬连帽卫衣，精选420G重磅水洗毛圈棉，手感柔软亲肤，保暖性极佳。独特的做旧工艺搭配胸前荧光绿哥特字体印花和背部精致刺绣，彰显个性潮流。宽松oversized版型，不挑身材，轻松打造美式街头复古穿搭，是秋冬衣橱不可或缺的时尚单品。"
+  },
+  "image_info": {
+    "image_type": "平铺图",
+    "available_colors_shown": [
+      "炭灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_276.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1322
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "长款连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "海滩度假",
+      "居家",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "波西米亚",
+    "secondary_styles": [
+      "休闲",
+      "民族风"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典民族风款式，不受潮流影响，但细节设计可融入当季流行元素"
+  },
+  "colors": {
+    "primary_color": "米白",
+    "secondary_colors": [
+      "金色",
+      "浅粉色"
+    ],
+    "color_scheme": "拼色",
+    "color_temperature": "暖色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "亚麻",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "肌理感",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "长款",
+    "neckline": "V领",
+    "sleeve_type": "无袖",
+    "waistline": "无腰线",
+    "hem": "不规则",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "流苏",
+      "刺绣",
+      "毛球"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "刺绣"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的度假风情，带有异域民族感。",
+    "design_highlight": "V领处的金色刺绣和流苏装饰，以及不规则的下摆设计。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型遮盖腰腹和臀部，V领修饰颈部线条。",
+    "size_range_guess": "均码"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-45岁追求舒适、喜爱民族风和度假风格的女性。",
+    "selling_points": [
+      "舒适透气的亚麻面料",
+      "精致的V领刺绣和流苏设计",
+      "宽松版型不挑身材",
+      "不规则下摆增添设计感",
+      "适合度假和日常休闲穿着"
+    ],
+    "similar_brands_style": "偏向Zara Home或一些度假风独立设计师品牌",
+    "coordination_suggestions": [
+      "搭配草编帽和凉鞋，打造海滩度假风。",
+      "搭配简约项链和手镯，提升精致感。",
+      "搭配平底凉鞋和帆布包，适合日常休闲穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款民族风V领刺绣流苏亚麻连衣裙女宽松度假长裙",
+    "search_keywords": [
+      "亚麻连衣裙",
+      "民族风长裙",
+      "V领连衣裙",
+      "流苏连衣裙",
+      "度假风",
+      "宽松连衣裙",
+      "刺绣连衣裙",
+      "夏季长裙",
+      "休闲连衣裙",
+      "不规则下摆"
+    ],
+    "hashtags": [
+      "#民族风",
+      "#度假穿搭",
+      "#亚麻连衣裙",
+      "#宽松长裙",
+      "#夏日穿搭",
+      "#V领设计",
+      "#流苏元素",
+      "#舒适穿搭"
+    ],
+    "description": "这款夏季新款民族风连衣裙，采用舒适透气的亚麻面料，带来清凉穿着体验。V领处点缀精致的金色刺绣和流苏，彰显异域风情。宽松版型不挑身材，结合不规则下摆设计，行走间更显飘逸。无论是海滩度假还是日常休闲，都能轻松打造优雅随性的时尚造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "米白"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_075.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1208
+  }
+}

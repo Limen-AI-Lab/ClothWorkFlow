@@ -1,0 +1,152 @@
+{
+  "basic_info": {
+    "category": "裤子",
+    "subcategory": "工装短裤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "工装",
+    "secondary_styles": [
+      "街头",
+      "休闲",
+      "复古"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "工装风和水洗做旧效果是近年来的流行趋势，具有较高的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "米白",
+      "炭灰"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "null",
+    "fabric_weight": "厚实>350g",
+    "texture": "水洗做旧",
+    "drape": "硬挺",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "短款",
+    "neckline": "null",
+    "sleeve_type": "null",
+    "waistline": "中腰",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "系带"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [],
+    "pockets": "工装口袋",
+    "stitching": "明线装饰",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": [
+      "吸湿排汗",
+      "透气"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "复古休闲的街头工装感，兼具舒适与时尚。",
+    "design_highlight": "430G重磅水洗做旧面料和两侧立体工装口袋。",
+    "visual_weight": "量感强"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型不挑身材，松紧腰设计舒适度高。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求潮流、注重舒适度的年轻男性和女性。",
+    "selling_points": [
+      "430G重磅毛圈面料，舒适有型",
+      "水洗做旧工艺，复古潮流感强",
+      "宽松版型，不挑身材，穿着舒适",
+      "多口袋设计，实用性强",
+      "环保、柔软、透气、吸汗"
+    ],
+    "similar_brands_style": "类似Carhartt WIP、Dickies的工装休闲风格，或Zara、H&M的潮流基础款。",
+    "coordination_suggestions": [
+      "搭配宽松T恤+帆布鞋，打造休闲街头风。",
+      "搭配衬衫+运动鞋，营造随性工装感。",
+      "搭配卫衣+棒球帽，展现潮流运动范。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TLANI 2024夏季新款430G重磅水洗做旧复古工装短裤男女宽松休闲五分裤",
+    "search_keywords": [
+      "工装短裤",
+      "水洗做旧",
+      "复古短裤",
+      "宽松短裤",
+      "五分裤",
+      "重磅面料",
+      "男女同款",
+      "休闲短裤",
+      "街头风",
+      "多口袋",
+      "夏季短裤",
+      "纯棉短裤"
+    ],
+    "hashtags": [
+      "#工装短裤",
+      "#水洗做旧",
+      "#复古穿搭",
+      "#街头潮流",
+      "#男女同款",
+      "#夏季必备",
+      "#宽松短裤",
+      "#重磅面料"
+    ],
+    "description": "TLANI 2024夏季新款复古工装短裤，精选430G重磅毛圈面料，手感柔软亲肤，吸湿透气。采用独特水洗做旧工艺，呈现自然复古的潮流感。宽松版型搭配松紧腰设计，穿着舒适不挑身材。两侧立体工装口袋，兼具实用与时尚。环保、柔软、透气、吸汗，是日常休闲、街头穿搭的理想选择。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "米白",
+      "黑色",
+      "炭灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_091.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1299
+  }
+}

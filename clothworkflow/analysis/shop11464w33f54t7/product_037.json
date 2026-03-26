@@ -1,0 +1,144 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "抹胸上衣+半裙+披肩套装",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "夏",
+      "春"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "海滩度假",
+      "日常通勤"
+    ]
+  },
+  "style": {
+    "primary_style": "甜美",
+    "secondary_styles": [
+      "度假风",
+      "优雅"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "经典度假风元素，结合流行色系，具有一定的潮流感"
+  },
+  "colors": {
+    "primary_color": "粉色",
+    "secondary_colors": [
+      "金色",
+      "银色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "春暖"
+  },
+  "material": {
+    "primary_fabric": "亚麻",
+    "fabric_blend": "null",
+    "fabric_weight": "中等150-250g",
+    "texture": "肌理感",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "修身",
+    "length": "长款",
+    "neckline": "抹胸",
+    "sleeve_type": "无袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "刺绣",
+    "pattern_description": "腰部棕榈树图案刺绣，点缀亮片和珠饰",
+    "decorations": [
+      "珠饰",
+      "亮片"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "刺绣"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅甜美的度假风情，带有精致的细节感",
+    "design_highlight": "腰部精致的棕榈树刺绣和亮片珠饰",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，修身版型展现腰部曲线",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求精致优雅、喜爱度假风格的女性",
+    "selling_points": [
+      "精致的棕榈树刺绣设计",
+      "优雅的粉色调和垂坠感面料",
+      "修身显瘦的版型设计",
+      "多场合穿着的套装搭配"
+    ],
+    "similar_brands_style": "偏向中东或海湾地区设计师品牌风格，如一些小众高定品牌",
+    "coordination_suggestions": [
+      "搭配金色或银色细高跟鞋和手拿包，出席晚宴或派对。",
+      "搭配平底凉鞋和草编包，打造海滩度假风。",
+      "搭配简约的耳饰和手链，突出服装的精致感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款粉色抹胸刺绣棕榈树套装女 优雅度假风高腰半裙披肩三件套",
+    "search_keywords": [
+      "粉色套装",
+      "抹胸上衣",
+      "刺绣半裙",
+      "度假风",
+      "高腰裙",
+      "披肩",
+      "优雅女装",
+      "夏装",
+      "派对礼服",
+      "海滩穿搭",
+      "精致刺绣",
+      "三件套"
+    ],
+    "hashtags": [
+      "#度假风",
+      "#粉色穿搭",
+      "#刺绣设计",
+      "#优雅套装",
+      "#夏日时尚",
+      "#派对穿搭",
+      "#高腰半裙"
+    ],
+    "description": "这款粉色抹胸刺绣棕榈树套装，采用柔软垂坠的面料，带来舒适亲肤的穿着体验。上衣抹胸设计搭配高腰半裙，修身显瘦，展现优雅身姿。腰部精致的棕榈树刺绣点缀亮片珠饰，细节感十足。搭配同色系披肩，可甜美可优雅，是您度假、约会或派对的理想选择。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "粉色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_037.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1257
+  }
+}

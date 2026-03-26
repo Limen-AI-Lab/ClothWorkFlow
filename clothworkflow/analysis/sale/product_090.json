@@ -1,0 +1,153 @@
+{
+  "basic_info": {
+    "category": "卫衣",
+    "subcategory": "连帽拉链卫衣",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古"
+    ],
+    "aesthetic": "Y2K",
+    "trend_relevance": "复古街头风持续流行，oversized版型和做旧工艺是当下潮流元素。"
+  },
+  "colors": {
+    "primary_color": "米白",
+    "secondary_colors": [
+      "粉色",
+      "卡其",
+      "墨绿",
+      "黑色",
+      "深灰"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "前拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "炒色"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "宽松舒适的复古街头感，带有随性不羁的潮流气息。",
+    "design_highlight": "420G重磅毛圈炒色工艺，营造复古做旧感。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求潮流、注重舒适度的年轻男女。",
+    "selling_points": [
+      "420G重磅毛圈面料，保暖舒适",
+      "复古炒色工艺，独特做旧感",
+      "宽松oversized版型，不挑身材",
+      "中性款式，男女同款",
+      "多色可选，满足不同搭配需求"
+    ],
+    "similar_brands_style": "类似Urban Revivo、太平鸟等潮流品牌的基础款卫衣风格。",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+运动鞋，打造休闲街头风。",
+      "内搭短款T恤或运动内衣，下搭工装裤，展现Y2K辣妹风。",
+      "搭配束脚裤+老爹鞋，营造舒适运动感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI复古拉链卫衣男女同款420G重磅毛圈炒色连帽外套宽松休闲情侣装",
+    "search_keywords": [
+      "复古拉链卫衣",
+      "连帽卫衣",
+      "男女同款",
+      "oversized卫衣",
+      "重磅卫衣",
+      "炒色卫衣",
+      "街头卫衣",
+      "休闲外套",
+      "情侣卫衣",
+      "春秋卫衣",
+      "宽松卫衣",
+      "做旧卫衣"
+    ],
+    "hashtags": [
+      "#复古卫衣",
+      "#街头穿搭",
+      "#oversize",
+      "#男女同款",
+      "#情侣装",
+      "#炒色工艺",
+      "#连帽外套",
+      "#休闲时尚"
+    ],
+    "description": "TILANI复古拉链卫衣，采用420G重磅毛圈面料，手感厚实柔软，保暖舒适。独特的炒色工艺，呈现自然做旧的复古质感。宽松oversized版型，不挑身材，男女同款，轻松打造街头潮流范。连帽设计与前置拉链，方便穿脱，是春秋季节日常休闲、街头穿搭的理想选择。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "卡其",
+      "墨绿",
+      "黑色",
+      "米白",
+      "粉色",
+      "深灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_090.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1295
+  }
+}

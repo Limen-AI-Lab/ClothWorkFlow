@@ -1,0 +1,153 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古"
+    ],
+    "aesthetic": "Y2K",
+    "trend_relevance": "水洗做旧工艺和复古印花是近年街头潮流的常见元素，具有较高的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [
+      "咖啡",
+      "黑色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "胸前大幅复古风格人物与文字“REBIRTH”印花，边缘有做旧和破损效果，并伴有飞鸟图案。",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧",
+      "数码印花"
+    ],
+    "functional_features": [
+      "吸湿排汗",
+      "透气"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "复古而富有故事感的街头休闲T恤，兼具舒适与个性。",
+    "design_highlight": "胸前做旧感的复古印花图案，结合水洗面料的独特质感。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，水洗做旧颜色显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求个性、注重舒适度的年轻消费者，偏爱街头、复古风格。",
+    "selling_points": [
+      "280G重磅纯棉面料，舒适有质感",
+      "水洗做旧工艺，复古潮流感强",
+      "宽松版型，不挑身材，穿着舒适",
+      "环保、柔软、透气、吸汗，穿着体验佳",
+      "百搭款式，轻松打造休闲街头风"
+    ],
+    "similar_brands_style": "类似国潮品牌、快时尚品牌中的街头系列（如：太平鸟、GXG、Zara男装部分款式）",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+帆布鞋，打造经典街头休闲风。",
+      "搭配工装裤+运动鞋，展现潮流工装感。",
+      "内搭长袖打底衫，叠穿出层次感，适合春秋季节。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TLANI 280G重磅纯棉水洗做旧短袖T恤男潮牌复古印花宽松圆领半袖上衣",
+    "search_keywords": [
+      "重磅T恤",
+      "纯棉短袖",
+      "水洗做旧",
+      "复古印花",
+      "潮牌T恤",
+      "宽松T恤",
+      "街头风",
+      "圆领短袖",
+      "中性T恤",
+      "夏季上衣",
+      "男士T恤",
+      "休闲短袖"
+    ],
+    "hashtags": [
+      "#重磅T恤",
+      "#水洗做旧",
+      "#街头潮牌",
+      "#复古印花",
+      "#宽松短袖",
+      "#纯棉T恤",
+      "#中性风"
+    ],
+    "description": "TLANI 280G重磅纯棉短袖T恤，采用独特水洗做旧工艺，呈现复古潮流质感。胸前个性印花图案，彰显街头态度。宽松版型设计，不挑身材，穿着舒适自在。面料环保柔软、透气吸汗，带来极佳穿着体验。无论是日常通勤、休闲逛街，还是校园穿搭，都能轻松打造时尚造型。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "CARBON GRAY",
+      "COFFEE",
+      "BLACK"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_005.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1365
+  }
+}

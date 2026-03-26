@@ -1,0 +1,160 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "卫衣套装",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家",
+      "运动"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "运动"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，宽松版型和摇粒绒面料符合秋冬舒适休闲潮流"
+  },
+  "colors": {
+    "primary_color": "米白",
+    "secondary_colors": [
+      "深棕"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "摇粒绒",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "绒面",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤, 蓬松保暖"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "长袖",
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": [
+      "保暖"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的秋冬休闲运动感",
+    "design_highlight": "370G高品质摇粒绒面料带来的保暖舒适性",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，束脚设计显腿长",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适保暖和休闲时尚的年轻群体",
+    "selling_points": [
+      "370G高品质摇粒绒面料，保暖舒适",
+      "宽松版型，不挑身材，穿着舒适",
+      "束脚设计，修饰腿型，更显利落",
+      "多达18种颜色可选，满足不同搭配需求",
+      "中性款式，男女皆可穿"
+    ],
+    "similar_brands_style": "类似优衣库、Zara等品牌的休闲基础款风格",
+    "coordination_suggestions": [
+      "搭配运动鞋和棒球帽，打造活力运动风。",
+      "内搭白色T恤，露出领口和下摆，增加层次感。",
+      "搭配休闲帆布鞋或板鞋，适合日常逛街和休闲场合。"
+    ]
+  },
+  "ecommerce": {
+    "title": "秋冬摇粒绒束脚运动裤套装男女情侣款370G重磅卫衣休闲裤18色可选",
+    "search_keywords": [
+      "摇粒绒套装",
+      "束脚运动裤",
+      "卫衣套装",
+      "情侣款",
+      "秋冬保暖",
+      "休闲运动",
+      "370G重磅",
+      "宽松版型",
+      "多色可选",
+      "中性风"
+    ],
+    "hashtags": [
+      "#摇粒绒",
+      "#卫衣套装",
+      "#束脚裤",
+      "#情侣穿搭",
+      "#秋冬保暖",
+      "#休闲风",
+      "#多巴胺穿搭",
+      "#中性风"
+    ],
+    "description": "这款秋冬摇粒绒束脚运动裤套装，采用370G高品质摇粒绒面料，触感柔软亲肤，保暖性极佳。宽松版型设计，不挑身材，穿着舒适自在。束脚裤型修饰腿部线条，更显利落。提供多达18种颜色选择，满足您的个性化搭配需求，无论是日常通勤、休闲运动还是居家穿着，都能轻松打造时尚舒适造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "白色",
+      "米白",
+      "绿色",
+      "紫色",
+      "浅卡其",
+      "深卡其",
+      "浅灰绿",
+      "浅灰",
+      "墨绿",
+      "砖红",
+      "蓝色",
+      "灰色",
+      "玫红",
+      "深棕",
+      "藏青",
+      "炭灰",
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_213.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1348
+  }
+}

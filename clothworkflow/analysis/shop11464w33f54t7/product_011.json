@@ -1,0 +1,145 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "长款连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "约会",
+      "派对",
+      "休闲逛街"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "轻奢",
+      "复古"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典款式，通过细节和面料提升质感，不受短期潮流影响"
+  },
+  "colors": {
+    "primary_color": "墨绿",
+    "secondary_colors": [
+      "黑色",
+      "深棕色"
+    ],
+    "color_scheme": "拼色",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "冬冷"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "肌理感",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "长款",
+    "neckline": "圆领",
+    "sleeve_type": "蝙蝠袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "珠饰",
+      "亮片"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "刺绣"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅大气的轻奢感，兼具舒适与时尚。",
+    "design_highlight": "肩部和袖子的网纱拼接以及精致的珠饰刺绣。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型遮盖腰腹和臀部，蝙蝠袖修饰手臂。",
+    "size_range_guess": "均码"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-45岁追求优雅舒适、注重细节和质感的都市女性。",
+    "selling_points": [
+      "独特网纱拼接与珠饰刺绣设计",
+      "宽松舒适的H型版型",
+      "优雅墨绿色调，衬托肤色",
+      "适合多种场合穿着",
+      "垂坠感面料，穿着显瘦"
+    ],
+    "similar_brands_style": "类似国内设计师品牌或轻奢女装品牌风格",
+    "coordination_suggestions": [
+      "搭配高跟鞋和精致手包，出席晚宴或派对。",
+      "搭配平底鞋和简约项链，打造日常通勤造型。",
+      "搭配丝巾和复古耳饰，增添优雅韵味。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款墨绿网纱拼接珠饰刺绣连衣裙女 宽松大码优雅长裙",
+    "search_keywords": [
+      "墨绿连衣裙",
+      "网纱拼接",
+      "珠饰刺绣",
+      "宽松长裙",
+      "优雅连衣裙",
+      "大码女装",
+      "蝙蝠袖连衣裙",
+      "气质长裙",
+      "轻奢连衣裙",
+      "日常通勤连衣裙"
+    ],
+    "hashtags": [
+      "#墨绿连衣裙",
+      "#珠饰刺绣",
+      "#优雅穿搭",
+      "#宽松长裙",
+      "#气质女神",
+      "#轻奢风",
+      "#通勤穿搭"
+    ],
+    "description": "这款墨绿连衣裙采用舒适垂坠的面料，结合独特的网纱拼接和精致珠饰刺绣设计，彰显轻奢优雅。宽松H型版型不挑身材，完美遮肉显瘦。无论是日常通勤、约会还是参加派对，都能轻松打造高级感造型，是您衣橱不可或缺的时尚单品。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "墨绿"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_011.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1192
+  }
+}

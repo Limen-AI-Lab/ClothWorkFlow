@@ -1,0 +1,159 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "卫衣套装",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "居家",
+      "校园",
+      "运动"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "运动"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，宽松版型符合当下休闲潮流"
+  },
+  "colors": {
+    "primary_color": "多色（图片展示多种颜色，无单一主色）",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "摇粒绒",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "绒面",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤, 蓬松保暖"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "长袖",
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": [
+      "保暖"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的休闲运动感，色彩选择丰富。",
+    "design_highlight": "370G高品质摇粒绒面料，提供优异保暖性。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、休闲穿搭的年轻群体",
+    "selling_points": [
+      "370G高品质摇粒绒面料，保暖性强",
+      "宽松版型，不挑身材，穿着舒适",
+      "多色可选，满足不同搭配需求",
+      "经典圆领设计，百搭耐穿",
+      "卫衣套装，省去搭配烦恼"
+    ],
+    "similar_brands_style": "类似优衣库、H&M等快时尚品牌的基础款休闲风格",
+    "coordination_suggestions": [
+      "搭配运动鞋和棒球帽，打造活力运动风。",
+      "内搭白色T恤，露出领口增加层次感。",
+      "单穿卫衣搭配牛仔裤，休闲日常。"
+    ]
+  },
+  "ecommerce": {
+    "title": "加绒卫衣圆领套装男女秋冬新款370G重磅摇粒绒宽松休闲运动情侣款",
+    "search_keywords": [
+      "加绒卫衣",
+      "圆领卫衣",
+      "卫衣套装",
+      "摇粒绒",
+      "情侣卫衣",
+      "秋冬卫衣",
+      "宽松卫衣",
+      "休闲套装",
+      "运动套装",
+      "保暖卫衣",
+      "中性卫衣",
+      "重磅卫衣"
+    ],
+    "hashtags": [
+      "#加绒卫衣",
+      "#摇粒绒",
+      "#卫衣套装",
+      "#情侣款",
+      "#秋冬穿搭",
+      "#休闲风",
+      "#运动时尚",
+      "#保暖必备"
+    ],
+    "description": "这款加绒卫衣圆领套装采用370G高品质摇粒绒面料，触感柔软亲肤，保暖性极佳，是秋冬季节的理想选择。宽松版型设计，不挑身材，穿着舒适自在。经典圆领搭配收口下摆，简约百搭。多色可选，轻松打造休闲、运动或街头风格，无论是日常通勤、居家休闲还是户外活动，都能轻松驾驭。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "灰色",
+      "深绿色",
+      "紫色",
+      "米白",
+      "玫红",
+      "黑色",
+      "白色",
+      "深灰",
+      "浅绿色",
+      "蓝色",
+      "砖红",
+      "绿色",
+      "米色",
+      "藏青",
+      "深棕",
+      "卡其"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TTLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_201.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1334
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "长款连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "日常通勤"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "复古",
+      "轻奢"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典优雅款式，不受短期潮流影响，但其面料和廓形体现了当下对质感和舒适度的追求。"
+  },
+  "colors": {
+    "primary_color": "藏青",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "冬冷"
+  },
+  "material": {
+    "primary_fabric": "醋酸",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "修身",
+    "length": "长款",
+    "neckline": "圆领",
+    "sleeve_type": "喇叭袖",
+    "waistline": "高腰",
+    "hem": "不规则",
+    "back_design": null,
+    "closure": "无"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅大气的都市女性形象，兼具复古与现代感。",
+    "design_highlight": "修身剪裁与飘逸喇叭袖及不规则下摆的结合，营造出独特的流动感和女性魅力。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线和修身剪裁凸显腰身，喇叭袖和不规则下摆修饰手臂和腿部线条。",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "30-45岁追求品质和独特设计的都市女性",
+    "selling_points": [
+      "优雅修身X型廓形，凸显女性曲线",
+      "飘逸喇叭袖设计，增添复古浪漫气息",
+      "高品质垂坠面料，穿着舒适有质感",
+      "藏青色经典百搭，适合多种场合",
+      "不规则下摆设计，行走间更显灵动"
+    ],
+    "similar_brands_style": "类似Max Mara、Theory等品牌，注重剪裁和面料质感",
+    "coordination_suggestions": [
+      "搭配精致高跟鞋和手拿包，出席晚宴或正式场合。",
+      "搭配简约项链和耳环，提升整体造型的精致度。",
+      "搭配一件同色系或对比色的修身大衣，在春秋季节保暖且时尚。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024秋季新款优雅藏青色修身长款连衣裙 女士复古喇叭袖高腰显瘦礼服裙",
+    "search_keywords": [
+      "藏青色连衣裙",
+      "长款连衣裙",
+      "修身连衣裙",
+      "喇叭袖连衣裙",
+      "高腰连衣裙",
+      "优雅连衣裙",
+      "复古连衣裙",
+      "派对礼服",
+      "通勤连衣裙",
+      "醋酸面料连衣裙",
+      "静奢风连衣裙",
+      "X型连衣裙"
+    ],
+    "hashtags": [
+      "#优雅连衣裙",
+      "#藏青色",
+      "#喇叭袖",
+      "#静奢风",
+      "#长裙穿搭",
+      "#气质女神",
+      "#复古时尚",
+      "#通勤穿搭"
+    ],
+    "description": "这款优雅藏青色长款连衣裙，采用高品质垂坠面料，带来顺滑亲肤的穿着体验。修身的X型廓形完美勾勒女性曲线，高腰设计拉长身形比例。独特的喇叭袖和不规则下摆增添复古浪漫气息，无论是日常通勤、约会还是出席正式场合，都能展现您的独特魅力和高级品味。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "藏青"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_010.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1271
+  }
+}

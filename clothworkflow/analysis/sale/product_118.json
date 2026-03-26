@@ -1,0 +1,146 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "潮流"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典街头潮流款式，图案设计具有季节性，但整体风格不受潮流大趋势影响，属于常青款。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "白色",
+      "紫色",
+      "橙色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "正面为“MULTI ANGLE TROPICAL JUNGLE”字母与抽象图案印花，背面为“TROPICAL JUNGLE”字母与热带丛林风格图案印花。",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "数码印花"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "宽松舒适，充满街头潮流感的休闲T恤。",
+    "design_highlight": "前后呼应的热带丛林主题印花设计，特别是背部的大幅图案。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适与潮流感的年轻消费者，喜爱街头休闲风格。",
+    "selling_points": [
+      "宽松oversize版型，不挑身材",
+      "纯棉面料，舒适透气",
+      "独特的热带丛林主题印花设计",
+      "中性款式，男女皆可穿搭"
+    ],
+    "similar_brands_style": "类似优衣库UT系列、H&M街头休闲款。",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+运动鞋，打造休闲街头风。",
+      "搭配工装短裤+帆布鞋，适合夏日出游。",
+      "内搭长袖T恤，叠穿出层次感，适合春秋。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024春夏新款潮牌T恤男宽松oversize纯棉短袖女街头热带丛林印花情侣装",
+    "search_keywords": [
+      "T恤",
+      "短袖",
+      "纯棉",
+      "oversize",
+      "宽松",
+      "街头",
+      "潮牌",
+      "印花",
+      "情侣装",
+      "中性",
+      "夏季",
+      "休闲"
+    ],
+    "hashtags": [
+      "#街头风",
+      "#oversize",
+      "#纯棉T恤",
+      "#情侣穿搭",
+      "#夏日潮T",
+      "#印花T恤",
+      "#休闲穿搭"
+    ],
+    "description": "这款2024春夏新款潮牌T恤，精选优质纯棉面料，触感柔软亲肤，穿着舒适透气。宽松oversize版型设计，不挑身材，轻松打造慵懒随性的街头风格。前后呼应的热带丛林主题印花，图案独特，充满个性。中性款式，无论是日常通勤、休闲逛街还是情侣穿搭，都能轻松驾驭，是您衣橱不可或缺的潮流单品。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "白色",
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_118.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1265
+  }
+}

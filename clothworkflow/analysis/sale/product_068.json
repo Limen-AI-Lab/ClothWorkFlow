@@ -1,0 +1,149 @@
+{
+  "basic_info": {
+    "category": "卫衣",
+    "subcategory": "连帽卫衣",
+    "gender": "中性",
+    "age_range": "3-12岁（儿童）",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "运动"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，常年流行"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "肌理感",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "舒适百搭的儿童休闲运动感",
+    "design_highlight": "340G重磅毛圈棉面料，舒适透气",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型不挑身材，适合多种体型儿童",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "注重舒适度和品质的儿童服装消费者",
+    "selling_points": [
+      "340G重磅毛圈棉，保暖舒适",
+      "14色可选，满足不同喜好",
+      "宽松版型，不挑身材",
+      "经典连帽设计，时尚百搭",
+      "舒适透气，适合儿童日常穿着"
+    ],
+    "similar_brands_style": "类似优衣库（Uniqlo）儿童基础款风格",
+    "coordination_suggestions": [
+      "搭配同色系运动裤和运动鞋，打造休闲运动套装。",
+      "内搭白色T恤，露出领口和下摆，增加层次感。",
+      "搭配牛仔裤和帆布鞋，适合日常出游或校园穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 340G重磅毛圈棉儿童连帽卫衣 14色纯色宽松套头衫 秋冬新款",
+    "search_keywords": [
+      "儿童卫衣",
+      "连帽卫衣",
+      "毛圈棉",
+      "340G卫衣",
+      "纯棉卫衣",
+      "儿童套头衫",
+      "宽松卫衣",
+      "秋冬卫衣",
+      "中性卫衣",
+      "百搭卫衣"
+    ],
+    "hashtags": [
+      "#儿童卫衣",
+      "#连帽衫",
+      "#毛圈棉",
+      "#秋冬穿搭",
+      "#舒适童装",
+      "#纯色卫衣",
+      "#儿童时尚"
+    ],
+    "description": "TILANI 340G重磅毛圈棉儿童连帽卫衣，精选优质纯棉面料，克重高达340G，手感柔软亲肤，保暖舒适。经典宽松版型，不挑身材，为孩子提供自由无束缚的穿着体验。提供14种时尚纯色选择，满足不同搭配需求，是儿童日常休闲、运动、校园穿着的理想选择。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "炭灰",
+      "米白",
+      "黑色",
+      "卡其",
+      "军绿",
+      "浅卡其",
+      "橘红",
+      "深绿",
+      "浅灰",
+      "白色",
+      "棕色",
+      "绿色",
+      "粉色",
+      "藏青"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_068.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1269
+  }
+}

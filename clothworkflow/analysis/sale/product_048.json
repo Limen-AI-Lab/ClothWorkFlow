@@ -1,0 +1,162 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "卫衣套装",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "复古水洗做旧风格，是近年来街头潮流的经典元素，具有较强的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [
+      "黑色",
+      "米白",
+      "酒红",
+      "藏青",
+      "卡其",
+      "深紫",
+      "墨绿",
+      "深棕",
+      "军绿"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "毛圈棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "前拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "明线装饰",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "慵懒随性的复古街头感，兼具舒适与时尚。",
+    "design_highlight": "420G重磅毛圈反底炒色工艺，营造独特的复古做旧效果。",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，连帽设计修饰肩颈线条，松紧腰裤子舒适包容。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、时尚和街头复古风格的年轻男女。",
+    "selling_points": [
+      "420G重磅毛圈棉，保暖舒适",
+      "反底炒色工艺，独特复古做旧感",
+      "宽松版型，不挑身材，男女同款",
+      "连帽拉链设计，方便穿脱，时尚百搭",
+      "多色可选，满足不同搭配需求"
+    ],
+    "similar_brands_style": "类似Urban Revivo、太平鸟等品牌中偏街头休闲的款式。",
+    "coordination_suggestions": [
+      "搭配老爹鞋和棒球帽，打造潮流街头风。",
+      "内搭白色T恤，增加层次感，更显休闲。",
+      "搭配帆布包或双肩包，适合日常通勤和校园穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 420G重磅毛圈反底炒色复古拉链帽衫两件套男女同款宽松卫衣套装",
+    "search_keywords": [
+      "卫衣套装",
+      "男女同款",
+      "复古",
+      "水洗做旧",
+      "连帽卫衣",
+      "运动裤",
+      "街头风",
+      "宽松版型",
+      "重磅毛圈",
+      "休闲套装",
+      "情侣装",
+      "春秋冬"
+    ],
+    "hashtags": [
+      "#复古卫衣",
+      "#街头穿搭",
+      "#情侣套装",
+      "#水洗做旧",
+      "#oversize",
+      "#重磅卫衣",
+      "#休闲时尚"
+    ],
+    "description": "这款TILANI复古拉链帽衫两件套，采用420G重磅毛圈棉，手感柔软亲肤，保暖舒适。独特的反底炒色工艺，呈现出自然的做旧感，彰显街头复古潮流。宽松版型设计，不挑身材，男女同款，是情侣穿搭的理想选择。连帽拉链设计方便穿脱，搭配同色系运动裤，轻松打造慵懒随性的时尚造型，适合日常休闲、校园或居家穿着。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "炭灰",
+      "黑色",
+      "米白",
+      "酒红",
+      "藏青",
+      "卡其",
+      "深紫",
+      "墨绿",
+      "深棕",
+      "军绿"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_048.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1392
+  }
+}

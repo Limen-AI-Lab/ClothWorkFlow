@@ -1,0 +1,162 @@
+{
+  "basic_info": {
+    "category": "裤子",
+    "subcategory": "卫裤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "运动",
+      "居家",
+      "校园"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "运动"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，但宽松版型符合当下休闲趋势"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "浅绿色",
+      "米白",
+      "深绿",
+      "卡其",
+      "深灰",
+      "亮绿",
+      "橘红",
+      "橄榄绿",
+      "浅卡其",
+      "白色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "肌理感",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "长款",
+    "neckline": null,
+    "sleeve_type": null,
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "系带"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的街头休闲感",
+    "design_highlight": "340G重磅毛圈面料，提供舒适保暖的穿着体验",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型不挑身材，松紧腰设计舒适",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "追求舒适、休闲风格的年轻消费者",
+    "selling_points": [
+      "340G重磅毛圈面料，保暖舒适",
+      "FOG系列设计，简约百搭",
+      "宽松版型，不挑身材",
+      "多色可选，满足不同搭配需求",
+      "纯棉材质，亲肤透气"
+    ],
+    "similar_brands_style": "类似优衣库、Zara的基础休闲款，但更偏向街头运动风格",
+    "coordination_suggestions": [
+      "搭配同色系连帽卫衣+运动鞋，打造休闲运动套装。",
+      "搭配白色T恤+牛仔外套+帆布鞋，营造日常休闲感。",
+      "搭配宽松衬衫+老爹鞋，展现随性街头风。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI FOG系列340G重磅毛圈卫裤男士秋冬宽松休闲运动束脚裤多色可选",
+    "search_keywords": [
+      "卫裤",
+      "运动裤",
+      "束脚裤",
+      "重磅卫裤",
+      "毛圈卫裤",
+      "宽松卫裤",
+      "休闲裤",
+      "纯棉卫裤",
+      "秋冬卫裤",
+      "男士卫裤",
+      "FOG系列",
+      "多色卫裤"
+    ],
+    "hashtags": [
+      "#卫裤",
+      "#运动裤",
+      "#束脚裤",
+      "#重磅卫裤",
+      "#FOG系列",
+      "#休闲穿搭",
+      "#秋冬必备",
+      "#多色可选"
+    ],
+    "description": "TILANI FOG系列340G重磅毛圈卫裤，精选优质纯棉面料，触感柔软亲肤，保暖透气。宽松版型搭配束脚设计，舒适不挑身材，轻松打造休闲街头风。多达12种颜色可选，满足您的个性搭配需求，无论是日常通勤、休闲运动还是居家穿着，都是您的理想之选。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "浅绿色",
+      "米白",
+      "深绿",
+      "黑色",
+      "深灰",
+      "亮绿",
+      "橘红",
+      "橄榄绿",
+      "浅卡其",
+      "白色",
+      "卡其"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_280.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1308
+  }
+}

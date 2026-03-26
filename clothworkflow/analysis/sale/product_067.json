@@ -1,0 +1,150 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "长袖T恤",
+    "gender": "中性",
+    "age_range": "儿童",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "白色",
+    "secondary_colors": [
+      "米白",
+      "卡其",
+      "焦糖",
+      "深灰",
+      "浅灰绿",
+      "淡黄",
+      "珊瑚粉",
+      "黑色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "100% cotton",
+    "fabric_weight": "中厚250-350g",
+    "texture": "光滑",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "弧形摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "简约舒适的儿童休闲穿搭",
+    "design_highlight": "宽松oversized版型，提供舒适的穿着体验和百搭性",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型不挑身材，适合各种体型的儿童",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "注重舒适度和百搭性的儿童家长",
+    "selling_points": [
+      "230g重磅纯棉面料，柔软亲肤",
+      "宽松oversized版型，舒适不束缚",
+      "多色可选，易于搭配",
+      "经典百搭款，四季皆宜"
+    ],
+    "similar_brands_style": "类似优衣库UT系列基础款风格",
+    "coordination_suggestions": [
+      "搭配休闲牛仔裤+运动鞋，打造活泼日常look",
+      "搭配工装裤+帆布鞋，展现街头休闲风",
+      "内搭衬衫，增加层次感，适合春秋穿着"
+    ]
+  },
+  "ecommerce": {
+    "title": "儿童纯棉长袖T恤男童女童宽松oversize打底衫230g重磅百搭圆领上衣",
+    "search_keywords": [
+      "儿童长袖T恤",
+      "男童T恤",
+      "女童T恤",
+      "纯棉T恤",
+      "oversize T恤",
+      "儿童打底衫",
+      "百搭上衣",
+      "春秋童装",
+      "圆领T恤",
+      "重磅棉T"
+    ],
+    "hashtags": [
+      "#儿童穿搭",
+      "#童装",
+      "#纯棉T恤",
+      "#oversize",
+      "#百搭款",
+      "#舒适童装",
+      "#长袖T恤",
+      "#亲肤面料"
+    ],
+    "description": "这款儿童长袖T恤采用230g重磅100%纯棉面料，触感柔软亲肤，穿着舒适。宽松oversize版型设计，不挑身材，给孩子带来无拘无束的活动空间。经典圆领搭配弧形下摆，简约百搭，多色可选，轻松搭配各种裤装，是孩子日常、校园、居家穿着的理想选择。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "白色",
+      "浅灰绿",
+      "米白",
+      "卡其",
+      "焦糖",
+      "深灰",
+      "淡黄",
+      "珊瑚粉",
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TLAN"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_067.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1249
+  }
+}

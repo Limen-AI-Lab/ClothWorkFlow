@@ -1,0 +1,149 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "复古"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "水洗做旧效果是近年流行的复古潮流元素，经典廓形T恤百搭不受潮流影响。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "深灰",
+      "橄榄绿",
+      "浅卡其"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": "null",
+    "fabric_weight": "中厚250-350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "复古休闲的街头感，舒适且有质感。",
+    "design_highlight": "250G重磅水洗平纹棉和复古炒雪花做旧工艺。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、复古和街头风格的年轻消费者。",
+    "selling_points": [
+      "250G重磅纯棉，舒适有型",
+      "复古水洗做旧工艺，独特有范",
+      "宽松版型，不挑身材",
+      "多色可选，百搭日常",
+      "经典圆领短袖，四季可穿"
+    ],
+    "similar_brands_style": "类似优衣库UT系列的基础款与潮流结合，或偏向一些街头潮牌的复古T恤。",
+    "coordination_suggestions": [
+      "搭配牛仔裤+帆布鞋，打造休闲街头风。",
+      "搭配工装裤+运动鞋，展现潮流工装感。",
+      "内搭长袖T恤，叠穿出层次感，适合春秋。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI复古炒雪花短袖T恤男250G重磅纯棉水洗做旧宽松圆领情侣装",
+    "search_keywords": [
+      "复古短袖",
+      "炒雪花T恤",
+      "重磅纯棉",
+      "水洗做旧",
+      "宽松T恤",
+      "圆领短袖",
+      "情侣T恤",
+      "街头潮牌",
+      "夏季T恤",
+      "百搭上衣"
+    ],
+    "hashtags": [
+      "#复古T恤",
+      "#水洗做旧",
+      "#重磅纯棉",
+      "#宽松短袖",
+      "#街头潮牌",
+      "#情侣穿搭",
+      "#日常穿搭",
+      "#百搭单品"
+    ],
+    "description": "这款TILANI复古炒雪花短袖T恤，精选250G重磅纯棉面料，手感厚实舒适。独特的炒雪花水洗做旧工艺，赋予衣身自然复古的纹理感，彰显个性。宽松版型设计，不挑身材，轻松打造休闲街头风格。经典圆领短袖，无论是日常通勤、休闲逛街还是户外活动，都能轻松驾驭，是衣橱不可或缺的百搭单品。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "黑色",
+      "深灰",
+      "橄榄绿",
+      "浅卡其"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_300.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1306
+  }
+}

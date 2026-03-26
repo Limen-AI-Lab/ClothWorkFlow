@@ -1,0 +1,149 @@
+{
+  "basic_info": {
+    "category": "背心",
+    "subcategory": "抹胸",
+    "gender": "女装",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "休闲逛街",
+      "海滩度假"
+    ]
+  },
+  "style": {
+    "primary_style": "甜美",
+    "secondary_styles": [
+      "性感",
+      "欧美"
+    ],
+    "aesthetic": "辣妹风",
+    "trend_relevance": "当下流行元素，具有较强的时尚感和吸睛度"
+  },
+  "colors": {
+    "primary_color": "灰色",
+    "secondary_colors": [
+      "白色",
+      "黑色",
+      "藏青",
+      "酒红",
+      "墨绿",
+      "粉色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "羽毛",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "绒面",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软蓬松"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "超短",
+    "neckline": "抹胸",
+    "sleeve_type": "无袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "无"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "羽毛"
+    ],
+    "pockets": "无口袋",
+    "stitching": null,
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "时尚性感，充满个性和吸睛力",
+    "design_highlight": "全身覆盖的蓬松羽毛装饰",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "展现肩颈线条和腰部曲线",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求时尚、个性和性感的年轻女性",
+    "selling_points": [
+      "独特羽毛设计，吸睛力强",
+      "多色可选，满足不同搭配需求",
+      "修身短款，展现好身材",
+      "适合派对、约会等特殊场合"
+    ],
+    "similar_brands_style": "偏向快时尚品牌如SHEIN、Zaful等",
+    "coordination_suggestions": [
+      "搭配高腰皮裤+高跟鞋，打造酷飒性感风",
+      "搭配高腰牛仔裤+运动鞋，营造休闲时尚感",
+      "搭配半身裙+精致配饰，适合约会或派对"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款性感羽毛抹胸上衣女 欧美风时尚派对短款露脐背心",
+    "search_keywords": [
+      "羽毛抹胸",
+      "性感上衣",
+      "派对穿搭",
+      "露脐背心",
+      "欧美风",
+      "时尚短款",
+      "无肩带",
+      "夜店装",
+      "辣妹风"
+    ],
+    "hashtags": [
+      "#羽毛抹胸",
+      "#辣妹穿搭",
+      "#派对必备",
+      "#性感上衣",
+      "#时尚单品",
+      "#露脐装"
+    ],
+    "description": "这款2024夏季新款羽毛抹胸上衣，采用独特的蓬松羽毛设计，触感柔软，视觉吸睛。修身短款版型，完美展现肩颈线条和腰部曲线，性感时尚。多色可选，轻松搭配高腰裤或半身裙，是派对、约会或休闲逛街的理想选择，让你成为人群焦点。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "灰色",
+      "白色",
+      "黑色",
+      "藏青",
+      "酒红",
+      "墨绿",
+      "粉色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_017.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1180
+  }
+}

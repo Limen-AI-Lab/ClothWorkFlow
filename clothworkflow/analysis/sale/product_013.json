@@ -1,0 +1,148 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "卫衣中裤套装",
+    "gender": "中性",
+    "age_range": "3-12岁（儿童）",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外",
+      "居家"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "运动"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，但宽松版型符合当下休闲趋势"
+  },
+  "colors": {
+    "primary_color": "多色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "肌理感",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "松紧腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "舒适百搭的儿童休闲运动套装，色彩柔和，版型宽松。",
+    "design_highlight": "340G毛圈环保面料，提供舒适穿着体验。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "全年龄"
+    ],
+    "flattering_features": "宽松版型不挑身材，适合各种体型的儿童。",
+    "size_range_guess": "S-XL（儿童尺码）"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "3-12岁儿童的家长，注重舒适、环保和时尚的儿童服装。",
+    "selling_points": [
+      "340G重磅毛圈面料，舒适保暖",
+      "环保面料，健康亲肤",
+      "宽松版型，活动自如不束缚",
+      "多色可选，满足不同喜好",
+      "连帽设计，时尚休闲"
+    ],
+    "similar_brands_style": "类似优衣库、H&M等品牌的儿童基础款休闲风格。",
+    "coordination_suggestions": [
+      "搭配运动鞋和棒球帽，打造活力运动风。",
+      "内搭白色T恤，增加层次感。",
+      "搭配休闲帆布鞋，适合日常穿着和玩耍。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI儿童毛圈卫衣中裤套装2024新款340G环保面料连帽宽松休闲运动服",
+    "search_keywords": [
+      "儿童卫衣套装",
+      "儿童中裤套装",
+      "儿童运动服",
+      "儿童休闲服",
+      "儿童连帽卫衣",
+      "340G毛圈",
+      "环保面料",
+      "宽松儿童套装",
+      "春秋儿童套装",
+      "TILANI童装"
+    ],
+    "hashtags": [
+      "#儿童套装",
+      "#童装",
+      "#休闲运动风",
+      "#连帽卫衣",
+      "#环保面料",
+      "#舒适童装",
+      "#儿童时尚",
+      "#春秋童装"
+    ],
+    "description": "TILANI儿童毛圈卫衣中裤套装，精选340G环保面料，柔软亲肤，舒适透气。宽松连帽卫衣搭配休闲中裤，让孩子活动自如，尽享玩乐时光。多款低饱和莫兰迪色系可选，时尚百搭，无论是日常穿着、户外活动还是校园生活，都能轻松驾驭，是孩子衣橱的理想选择。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "浅卡其",
+      "浅灰绿",
+      "绿色",
+      "米白",
+      "橘红",
+      "深绿",
+      "深灰",
+      "卡其",
+      "浅米色",
+      "橄榄绿",
+      "浅灰",
+      "棕色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_013.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1278
+  }
+}

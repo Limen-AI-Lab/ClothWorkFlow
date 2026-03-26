@@ -1,0 +1,133 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "披肩式连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "奢华",
+      "复古"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典款式，不受潮流影响，但红色和披肩设计使其在特定场合具有时尚感"
+  },
+  "colors": {
+    "primary_color": "酒红",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "醋酸",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "圆领",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅大气的奢华感，充满女性魅力。",
+    "design_highlight": "一体式披肩设计，从肩部延伸至裙摆，形成飘逸的视觉效果。",
+    "visual_weight": "量感强"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "修身剪裁展现身材曲线，披肩设计增加气场和遮盖手臂。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "30-45岁追求优雅、注重品质和场合感的都市女性。",
+    "selling_points": [
+      "独特披肩设计，彰显高级感",
+      "酒红色调，衬托肤色，提升气场",
+      "垂坠感面料，穿着舒适且显瘦",
+      "适合多种正式场合，一衣多穿"
+    ],
+    "similar_brands_style": "类似Max Mara、Theory等品牌的高级感连衣裙风格",
+    "coordination_suggestions": [
+      "搭配精致高跟鞋和手拿包，出席晚宴或派对。",
+      "搭配简约耳饰和手链，打造优雅约会造型。",
+      "搭配同色系或裸色系尖头高跟鞋，增加整体协调性。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024秋冬新款酒红色披肩式连衣裙女 优雅长袖修身显瘦长款礼服裙",
+    "search_keywords": [
+      "酒红色连衣裙",
+      "披肩连衣裙",
+      "长袖礼服",
+      "优雅长裙",
+      "修身连衣裙",
+      "晚宴裙",
+      "正式场合连衣裙",
+      "醋酸面料连衣裙",
+      "气质长裙",
+      "秋冬连衣裙"
+    ],
+    "hashtags": [
+      "#酒红色连衣裙",
+      "#披肩设计",
+      "#优雅穿搭",
+      "#晚宴礼服",
+      "#气质女神",
+      "#秋冬新款",
+      "#高级感穿搭"
+    ],
+    "description": "这款酒红色披肩式连衣裙，采用垂坠感极佳的面料，带来顺滑亲肤的穿着体验。独特的披肩设计从肩部自然垂落至裙摆，行走间尽显飘逸与优雅。修身版型完美勾勒女性曲线，酒红色调衬托肤色，无论是出席晚宴、派对还是重要约会，都能让您成为焦点，轻松打造高级感造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "酒红"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_154.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1239
+  }
+}

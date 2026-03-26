@@ -1,0 +1,143 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "印花短袖T恤",
+    "gender": "男装",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典街头印花T恤，风格稳定，不受短期潮流影响，但印花图案具有复古赛车元素，符合当下复古回潮趋势。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "白色",
+      "紫色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "胸前大幅“Savant MOTORSPORT”字母与复古跑车图案印花",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "数码印花"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "宽松舒适的街头休闲感，带有复古赛车文化元素。",
+    "design_highlight": "胸前复古跑车与字母的印花设计。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求潮流、注重舒适度的年轻男性。",
+    "selling_points": [
+      "280g重磅纯棉面料，舒适有质感",
+      "oversized宽松版型，不挑身材",
+      "复古跑车印花，彰显个性",
+      "经典百搭黑色，易于搭配"
+    ],
+    "similar_brands_style": "类似优衣库UT系列、H&M街头系列风格",
+    "coordination_suggestions": [
+      "搭配黑色短裤+运动鞋，打造清爽街头运动风。",
+      "搭配牛仔裤+帆布鞋，营造休闲日常感。",
+      "内搭白色长袖T恤，叠穿增加层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TTLANi 280g重磅纯棉印花短袖T恤男夏季宽松oversize复古跑车街头潮牌半袖",
+    "search_keywords": [
+      "TTLANi",
+      "短袖T恤",
+      "男士T恤",
+      "纯棉T恤",
+      "印花T恤",
+      "oversize",
+      "宽松T恤",
+      "街头潮牌",
+      "复古跑车",
+      "夏季男装",
+      "重磅T恤",
+      "半袖"
+    ],
+    "hashtags": [
+      "#街头潮牌",
+      "#oversizeT恤",
+      "#纯棉短袖",
+      "#复古印花",
+      "#夏季穿搭",
+      "#男士T恤",
+      "#休闲时尚"
+    ],
+    "description": "TTLANi 280g重磅纯棉印花短袖T恤，精选优质纯棉面料，手感柔软亲肤，穿着舒适透气。宽松oversize版型设计，不挑身材，轻松遮肉显瘦。胸前复古跑车与字母印花，彰显独特街头潮流品味。经典黑色百搭，无论是日常休闲、街头穿搭还是校园生活，都能轻松驾驭，是您夏季衣橱的必备单品。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TTLANi"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_075.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1276
+  }
+}

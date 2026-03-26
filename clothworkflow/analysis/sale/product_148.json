@@ -1,0 +1,180 @@
+{
+  "basic_info": {
+    "category": "裤子",
+    "subcategory": "运动短裤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "运动",
+      "居家",
+      "校园"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "运动",
+      "街头",
+      "极简"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，但多色选择符合当下多巴胺穿搭趋势"
+  },
+  "colors": {
+    "primary_color": "卡其",
+    "secondary_colors": [
+      "粉色",
+      "米白",
+      "白色",
+      "藏青",
+      "深灰",
+      "墨绿",
+      "焦糖",
+      "酒红",
+      "黄色",
+      "黑色",
+      "浅绿",
+      "深棕",
+      "浅卡其",
+      "橘红",
+      "玫红",
+      "红色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "短款",
+    "neckline": null,
+    "sleeve_type": null,
+    "waistline": "松紧腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "系带"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗"
+    ],
+    "functional_features": [
+      "吸湿排汗",
+      "透气舒适",
+      "亲肤安全"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "简约舒适的运动休闲感，多色选择带来活力。",
+    "design_highlight": "230G重磅面料带来的垂坠感和质感，以及丰富的色彩选择。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，松紧腰设计舒适度高。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、休闲风格的年轻群体，注重面料质感和多色选择的消费者。",
+    "selling_points": [
+      "230G重磅纯棉面料，舒适有型",
+      "宽松版型，不挑身材，穿着舒适",
+      "吸湿排汗，透气亲肤，适合运动休闲",
+      "多达16种颜色可选，满足个性化需求",
+      "FOG大地色系，百搭时尚"
+    ],
+    "similar_brands_style": "类似优衣库UT系列的基础款风格，偏向Champion的运动休闲感。",
+    "coordination_suggestions": [
+      "搭配同色系宽松T恤+运动鞋，打造简约休闲套装。",
+      "搭配白色短袖衬衫+帆布鞋，营造清爽日系风格。",
+      "搭配撞色卫衣+棒球帽，展现街头活力感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 230G重磅纯棉运动休闲短裤男夏季宽松FOG大地色系多色百搭五分裤",
+    "search_keywords": [
+      "运动短裤",
+      "休闲短裤",
+      "纯棉短裤",
+      "重磅短裤",
+      "宽松短裤",
+      "五分裤",
+      "夏季短裤",
+      "多色短裤",
+      "大地色短裤",
+      "中性短裤",
+      "吸湿排汗",
+      "亲肤透气"
+    ],
+    "hashtags": [
+      "#运动短裤",
+      "#休闲穿搭",
+      "#重磅棉",
+      "#多巴胺穿搭",
+      "#夏季必备",
+      "#不挑身材",
+      "#TILANI"
+    ],
+    "description": "TILANI美式休闲短裤，精选230G重磅纯棉面料，吸湿排汗，透气亲肤，带来极致舒适体验。宽松版型不挑身材，松紧腰系带设计，穿着自由无束缚。FOG大地色系与多种鲜亮色彩可选，轻松搭配各种风格，无论是日常通勤、休闲运动还是居家穿着，都能展现你的时尚态度。"
+  },
+  "image_info": {
+    "image_type": "多角度展示",
+    "available_colors_shown": [
+      "粉色",
+      "米白",
+      "白色",
+      "藏青",
+      "深灰",
+      "浅绿",
+      "深棕",
+      "浅卡其",
+      "墨绿",
+      "橘红",
+      "黄色",
+      "浅黄",
+      "玫红",
+      "红色",
+      "黑色",
+      "卡其"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_148.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1432
+  }
+}

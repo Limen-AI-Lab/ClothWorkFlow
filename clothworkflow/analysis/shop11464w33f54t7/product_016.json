@@ -1,0 +1,143 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "抹胸上衣+阔腿裤+披肩套装",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "夏",
+      "春"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "海滩度假",
+      "日常通勤"
+    ]
+  },
+  "style": {
+    "primary_style": "波西米亚",
+    "secondary_styles": [
+      "度假风",
+      "优雅"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典度假风，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "粉色",
+    "secondary_colors": [
+      "金色",
+      "银色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "春暖"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "光滑",
+    "drape": "飘逸",
+    "elasticity": "无弹",
+    "transparency": "微透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "合身",
+    "length": "常规",
+    "neckline": "抹胸",
+    "sleeve_type": "无袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "无"
+  },
+  "design_details": {
+    "pattern_type": "抽象",
+    "pattern_description": "胸前棕榈树图案珠绣",
+    "decorations": [
+      "珠饰",
+      "刺绣"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "刺绣"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "充满异域风情的优雅度假感",
+    "design_highlight": "胸前精致的棕榈树珠绣图案",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "抹胸设计展现肩颈线条，高腰线拉长腿部比例",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求时尚、热爱度假的都市女性",
+    "selling_points": [
+      "精致珠绣棕榈树图案，充满异域风情",
+      "轻薄雪纺面料，飘逸舒适",
+      "抹胸+阔腿裤+披肩三件套，搭配灵活",
+      "粉色系温柔优雅，适合度假和日常穿着"
+    ],
+    "similar_brands_style": "偏向Zara度假系列或一些设计师品牌",
+    "coordination_suggestions": [
+      "搭配金色凉鞋和草编包，打造海滩度假风。",
+      "搭配精致项链和高跟鞋，出席晚宴或派对。",
+      "披肩可作为头巾或腰带，增加造型层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款粉色抹胸上衣阔腿裤三件套女 度假风珠绣棕榈树雪纺套装",
+    "search_keywords": [
+      "粉色套装",
+      "抹胸上衣",
+      "阔腿裤",
+      "雪纺套装",
+      "度假风",
+      "珠绣",
+      "棕榈树",
+      "三件套",
+      "夏季女装",
+      "沙滩装"
+    ],
+    "hashtags": [
+      "#度假风",
+      "#粉色套装",
+      "#抹胸",
+      "#阔腿裤",
+      "#珠绣",
+      "#夏日穿搭",
+      "#海边度假",
+      "#时尚套装"
+    ],
+    "description": "这款2024夏季新款粉色抹胸上衣阔腿裤三件套，采用轻薄飘逸的雪纺面料，带来极致舒适的穿着体验。胸前精致的珠绣棕榈树图案，充满异域风情，是度假和日常穿搭的理想选择。套装包含抹胸上衣、高腰阔腿裤和同色系披肩，可灵活搭配，轻松打造优雅时尚的度假造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "粉色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_016.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1212
+  }
+}

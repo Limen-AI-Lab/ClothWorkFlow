@@ -1,0 +1,143 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "长款连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴",
+      "度假"
+    ]
+  },
+  "style": {
+    "primary_style": "复古",
+    "secondary_styles": [
+      "甜美",
+      "优雅",
+      "宫廷风"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典复古款式，不受短期潮流影响，但细节设计融入现代审美"
+  },
+  "colors": {
+    "primary_color": "雾蓝",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "夏冷"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": "涤纶混纺",
+    "fabric_weight": "轻薄<150g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "微透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "修身",
+    "length": "长款",
+    "neckline": "高领",
+    "sleeve_type": "长袖",
+    "waistline": "高腰",
+    "hem": "荷叶边",
+    "back_design": "蝴蝶结系带",
+    "closure": "系带"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "蝴蝶结",
+      "荷叶边"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "压褶"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅浪漫的复古宫廷感，充满女性柔美气质",
+    "design_highlight": "背部超大蝴蝶结系带和腰部绑带设计，以及裙摆多层荷叶边",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，修身设计凸显腰身，荷叶边裙摆增加浪漫感",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅浪漫风格、注重细节设计的女性",
+    "selling_points": [
+      "复古宫廷风设计，独特优雅",
+      "背部超大蝴蝶结系带，吸睛亮点",
+      "多层荷叶边裙摆，飘逸浪漫",
+      "修身显瘦版型，凸显女性曲线",
+      "轻薄雪纺面料，穿着舒适透气"
+    ],
+    "similar_brands_style": "偏向轻奢礼服品牌或复古设计师品牌",
+    "coordination_suggestions": [
+      "搭配精致高跟鞋和手拿包，出席晚宴或派对。",
+      "搭配珍珠耳饰和简约项链，增添复古韵味。",
+      "搭配同色系或白色小披肩，应对微凉天气。"
+    ]
+  },
+  "ecommerce": {
+    "title": "法式复古宫廷风连衣裙女2024新款优雅气质高腰显瘦长裙背部蝴蝶结系带雪纺礼服",
+    "search_keywords": [
+      "复古连衣裙",
+      "宫廷风长裙",
+      "蝴蝶结连衣裙",
+      "雪纺连衣裙",
+      "优雅礼服",
+      "高腰显瘦",
+      "荷叶边裙",
+      "派对裙",
+      "约会穿搭",
+      "气质长裙"
+    ],
+    "hashtags": [
+      "#复古连衣裙",
+      "#宫廷风",
+      "#蝴蝶结控",
+      "#优雅穿搭",
+      "#雪纺长裙",
+      "#派对礼服",
+      "#气质女神"
+    ],
+    "description": "这款法式复古宫廷风连衣裙，采用轻薄雪纺面料，触感顺滑，飘逸垂坠。独特的背部超大蝴蝶结系带设计，搭配腰部绑带和多层荷叶边裙摆，尽显优雅浪漫。高腰修身版型，完美勾勒女性曲线，适合出席约会、派对、晚宴等多种场合，轻松打造吸睛造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "雾蓝"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_104.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1256
+  }
+}

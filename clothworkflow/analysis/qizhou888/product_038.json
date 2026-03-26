@@ -1,0 +1,142 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "休闲套装",
+    "gender": "女装",
+    "age_range": "25-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "休闲逛街",
+      "约会",
+      "海滩度假",
+      "日常通勤"
+    ]
+  },
+  "style": {
+    "primary_style": "波西米亚",
+    "secondary_styles": [
+      "民族风",
+      "休闲"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "民族风元素在度假和休闲场景中持续流行"
+  },
+  "colors": {
+    "primary_color": "酒红",
+    "secondary_colors": [
+      "米白"
+    ],
+    "color_scheme": "印花",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "肌理感",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "V领",
+    "sleeve_type": "短袖",
+    "waistline": "中腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "民族风",
+    "pattern_description": "酒红色底上印有米白色几何与抽象民族图腾",
+    "decorations": [
+      "系带"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "印花"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "充满异域风情的休闲度假感",
+    "design_highlight": "独特的民族风印花和宽松舒适的版型",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型"
+    ],
+    "flattering_features": "宽松版型遮肉显瘦，V领修饰颈部线条",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "25-35岁追求舒适与独特风格的女性",
+    "selling_points": [
+      "独特的民族风印花设计",
+      "宽松舒适的版型，不挑身材",
+      "纯棉面料，亲肤透气",
+      "适合度假和日常休闲穿着"
+    ],
+    "similar_brands_style": "类似Zara或H&M的度假系列",
+    "coordination_suggestions": [
+      "搭配草编包和凉鞋，打造海滩度假风",
+      "搭配简约单肩包和小白鞋，适合日常休闲",
+      "搭配金色配饰，提升整体精致感"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款民族风印花V领短袖上衣+阔腿裤两件套女休闲度假套装",
+    "search_keywords": [
+      "民族风套装",
+      "印花套装",
+      "V领短袖",
+      "阔腿裤",
+      "休闲套装",
+      "度假风",
+      "波西米亚",
+      "宽松显瘦",
+      "纯棉套装",
+      "夏季女装"
+    ],
+    "hashtags": [
+      "#民族风",
+      "#度假穿搭",
+      "#波西米亚风",
+      "#休闲套装",
+      "#印花时尚",
+      "#夏日穿搭",
+      "#显瘦穿搭"
+    ],
+    "description": "这款民族风印花套装采用舒适纯棉面料，亲肤透气，是夏日度假和日常休闲的理想选择。独特的酒红色民族图腾印花，V领短袖上衣搭配宽松阔腿裤，不挑身材，轻松打造异域风情。无论是海边度假还是城市漫步，都能让你成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "酒红"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/qizhou888/product_038.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1155
+  }
+}

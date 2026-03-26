@@ -1,0 +1,136 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "晚礼服/宴会裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "复古",
+      "奢华"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典礼服款式，通过面料和细节体现时尚感，不受短期潮流影响"
+  },
+  "colors": {
+    "primary_color": "橄榄绿",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "秋暖"
+  },
+  "material": {
+    "primary_fabric": "醋酸",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "亮面",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "修身直筒",
+    "fit": "修身",
+    "length": "长款",
+    "neckline": "斜肩",
+    "sleeve_type": "无袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": null,
+    "craft_techniques": [
+      "褶皱"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅大气的复古奢华感，适合正式场合。",
+    "design_highlight": "不对称斜肩设计和全身的褶皱肌理，营造出独特的立体感和垂坠美。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "修身剪裁凸显身材曲线，高腰线拉长腿部比例，褶皱设计能一定程度修饰身形。",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅、注重品质和设计感的都市女性，常出席正式场合。",
+    "selling_points": [
+      "独特斜肩褶皱设计，彰显高级感",
+      "垂坠感极佳的面料，修饰身形",
+      "经典橄榄绿，低调奢华",
+      "适合多种正式场合穿着"
+    ],
+    "similar_brands_style": "类似Max Mara、Theory等品牌的高级感礼服，或国内设计师品牌。",
+    "coordination_suggestions": [
+      "搭配金色系细高跟鞋和手拿包，打造晚宴造型。",
+      "佩戴简约的金色耳饰和手链，提升整体精致度。",
+      "搭配一件同色系或米白色羊绒披肩，增加保暖性和层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "法式复古斜肩褶皱连衣裙女 2024新款气质修身显瘦长款宴会礼服裙",
+    "search_keywords": [
+      "斜肩连衣裙",
+      "褶皱礼服",
+      "修身长裙",
+      "宴会裙",
+      "复古连衣裙",
+      "气质连衣裙",
+      "橄榄绿礼服",
+      "高级感连衣裙",
+      "晚礼服",
+      "醋酸面料"
+    ],
+    "hashtags": [
+      "#斜肩连衣裙",
+      "#褶皱礼服",
+      "#宴会穿搭",
+      "#复古风",
+      "#高级感",
+      "#气质穿搭",
+      "#静奢风"
+    ],
+    "description": "这款法式复古斜肩褶皱连衣裙，采用垂坠感极佳的优质面料，全身精妙的褶皱设计，勾勒出优雅修身的廓形。独特的斜肩剪裁，展现迷人锁骨与肩颈线条。经典橄榄绿低调奢华，无论是出席晚宴、派对还是重要约会，都能轻松成为焦点，彰显您的独特品味与气质。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "橄榄绿"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_173.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1238
+  }
+}

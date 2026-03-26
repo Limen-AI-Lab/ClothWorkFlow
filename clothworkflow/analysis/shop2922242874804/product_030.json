@@ -1,0 +1,138 @@
+{
+  "basic_info": {
+    "category": "衬衫",
+    "subcategory": "通勤衬衫",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "正式商务",
+      "约会",
+      "休闲逛街"
+    ]
+  },
+  "style": {
+    "primary_style": "商务",
+    "secondary_styles": [
+      "极简",
+      "通勤"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "白色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "竹纤维",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "常规",
+    "neckline": "翻领",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": [
+      "防走光"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "干净利落的都市通勤感，专业且优雅。",
+    "design_highlight": "防走光三粒暗扣设计，提升穿着安全性。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "修身版型展现腰部曲线，翻领设计修饰颈部线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "25-45岁追求品质与实用性的都市职业女性",
+    "selling_points": [
+      "竹纤维面料舒适透气",
+      "防走光三粒暗扣设计",
+      "修身版型显瘦",
+      "经典百搭款",
+      "天猫品牌同款工厂直销"
+    ],
+    "similar_brands_style": "类似优衣库、Zara的基础款通勤风格",
+    "coordination_suggestions": [
+      "搭配黑色西裤+高跟鞋，打造干练商务造型。",
+      "搭配半身裙+乐福鞋，适合日常通勤。",
+      "搭配牛仔裤+小白鞋，营造休闲时尚感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "天猫品牌同款竹纤维白衬衫女长袖修身职业通勤防走光暗扣衬衣",
+    "search_keywords": [
+      "白衬衫",
+      "女衬衫",
+      "竹纤维",
+      "防走光",
+      "通勤",
+      "职业装",
+      "修身",
+      "长袖",
+      "商务",
+      "打底衬衫"
+    ],
+    "hashtags": [
+      "#白衬衫",
+      "#通勤穿搭",
+      "#职业装",
+      "#竹纤维",
+      "#防走光",
+      "#职场女性",
+      "#经典款"
+    ],
+    "description": "这款天猫品牌同款竹纤维白衬衫，采用优质竹纤维面料，柔软亲肤，透气舒适。修身版型剪裁，展现优雅身姿。特别设计防走光三粒暗扣，让您穿着更安心。经典翻领长袖款式，无论是商务通勤还是日常搭配，都能轻松打造干练优雅的形象。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "白色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "超级工厂"
+  },
+  "_meta": {
+    "image": "downloaded_images/shop2922242874804/product_030.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1078
+  }
+}

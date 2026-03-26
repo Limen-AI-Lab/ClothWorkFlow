@@ -1,0 +1,143 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "修身长款连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "奢华",
+      "性感"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "经典款，通过细节设计提升时尚感"
+  },
+  "colors": {
+    "primary_color": "白色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "null",
+    "fabric_blend": "null",
+    "fabric_weight": "中等150-250g",
+    "texture": "肌理感",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "一字肩",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "null"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [
+      "羽毛",
+      "珠饰"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "null"
+    ],
+    "functional_features": [
+      "null"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "华丽优雅的晚宴礼服感，充满女性魅力。",
+    "design_highlight": "一字肩羽毛装饰和全身珠饰点缀。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "修身剪裁凸显身材曲线，一字肩设计展现肩颈线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求时尚、注重场合着装的都市女性。",
+    "selling_points": [
+      "一字肩羽毛设计，增添华丽感",
+      "全身珠饰点缀，精致闪耀",
+      "修身剪裁，凸显女性曲线",
+      "长款设计，优雅大气",
+      "适合多种正式场合穿着"
+    ],
+    "similar_brands_style": "类似国内设计师品牌或轻奢礼服品牌风格",
+    "coordination_suggestions": [
+      "搭配精致高跟鞋和手拿包，出席晚宴。",
+      "佩戴简约的钻石项链和耳环，提升整体奢华感。",
+      "搭配披肩或小外套，应对室内外温差。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款白色一字肩羽毛珠饰修身长款连衣裙 优雅晚宴礼服裙",
+    "search_keywords": [
+      "白色连衣裙",
+      "一字肩礼服",
+      "羽毛连衣裙",
+      "珠饰长裙",
+      "修身礼服",
+      "晚宴裙",
+      "派对连衣裙",
+      "优雅长裙",
+      "正式场合连衣裙",
+      "女性礼服"
+    ],
+    "hashtags": [
+      "#一字肩连衣裙",
+      "#羽毛礼服",
+      "#珠饰长裙",
+      "#晚宴穿搭",
+      "#优雅时尚",
+      "#派对女王",
+      "#白色礼服"
+    ],
+    "description": "这款白色一字肩修身长款连衣裙，以其独特的羽毛装饰和全身珠饰点缀，尽显奢华与优雅。修身剪裁完美勾勒女性曲线，一字肩设计展现迷人肩颈。无论是出席晚宴、派对还是其他正式场合，都能让您成为焦点。面料舒适，细节精致，是您衣橱中不可或缺的华丽单品。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "白色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_094.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1201
+  }
+}

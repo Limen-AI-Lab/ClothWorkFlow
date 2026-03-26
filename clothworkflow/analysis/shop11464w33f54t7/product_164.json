@@ -1,0 +1,137 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "无袖连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "约会",
+      "派对",
+      "正式商务"
+    ]
+  },
+  "style": {
+    "primary_style": "极简",
+    "secondary_styles": [
+      "商务",
+      "优雅"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典黑白配色，极简设计，不受潮流影响，属于常青款。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "米白"
+    ],
+    "color_scheme": "撞色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "null",
+    "fabric_blend": "null",
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "合身",
+    "length": "中长",
+    "neckline": "圆领",
+    "sleeve_type": "无袖",
+    "waistline": "无腰线",
+    "hem": "开叉",
+    "back_design": "null",
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "null",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "简约大气，优雅知性的都市女性形象。",
+    "design_highlight": "黑白撞色设计，无袖披肩式垂坠感，以及前开叉设计。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "H型廓形修饰身形，前开叉设计增加腿部线条感。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-45岁追求简约、优雅、有质感的都市女性。",
+    "selling_points": [
+      "经典黑白撞色，永不过时",
+      "独特披肩式无袖设计，增添设计感",
+      "中长款H型剪裁，修饰身形",
+      "柔软垂坠面料，穿着舒适"
+    ],
+    "similar_brands_style": "类似Theory、COS等品牌风格",
+    "coordination_suggestions": [
+      "搭配尖头高跟鞋和手拿包，适合正式场合。",
+      "搭配简约凉鞋和精致配饰，适合约会或休闲聚会。",
+      "外搭一件修身西装外套，可作为通勤装。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款黑白撞色无袖连衣裙女 中长款披肩式开叉H型气质通勤裙",
+    "search_keywords": [
+      "黑白连衣裙",
+      "无袖连衣裙",
+      "中长款连衣裙",
+      "披肩连衣裙",
+      "开叉连衣裙",
+      "H型连衣裙",
+      "气质连衣裙",
+      "通勤连衣裙",
+      "极简风",
+      "静奢风"
+    ],
+    "hashtags": [
+      "#黑白配",
+      "#极简主义",
+      "#静奢风",
+      "#通勤穿搭",
+      "#优雅连衣裙",
+      "#夏日穿搭",
+      "#气质穿搭"
+    ],
+    "description": "这款黑白撞色无袖连衣裙，采用柔软垂坠面料，带来舒适亲肤的穿着体验。独特的披肩式无袖设计与前开叉H型剪裁，巧妙修饰身形，展现优雅气质。经典配色与简约设计，无论是日常通勤、约会还是正式场合，都能轻松驾驭，彰显都市女性的时尚品味。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色/米白"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_164.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1182
+  }
+}

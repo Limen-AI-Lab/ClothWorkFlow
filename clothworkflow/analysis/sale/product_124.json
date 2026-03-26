@@ -1,0 +1,155 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "潮流"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "宽松版型和印花设计符合当下街头潮流趋势，水洗做旧效果增加复古感。"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "紫色",
+      "天蓝",
+      "炭灰"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "胸前“DIGITAL GARDEN”字母印花，下方有植物图案，植物叶片上带有表情符号和文字方框，整体呈现赛博朋克风格。",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "数码印花"
+    ],
+    "functional_features": [
+      "环保",
+      "柔软",
+      "透气",
+      "吸汗"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "宽松舒适，带有赛博朋克风格的街头潮流感。",
+    "design_highlight": "胸前独特的“DIGITAL GARDEN”主题印花和水洗做旧效果。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-30岁追求个性、喜爱街头潮流文化的年轻消费者。",
+    "selling_points": [
+      "300G重磅纯棉面料，舒适有质感",
+      "水洗做旧工艺，独特复古风格",
+      "原创“DIGITAL GARDEN”印花设计，彰显个性",
+      "宽松oversized版型，不挑身材，穿着舒适",
+      "环保、柔软、透气、吸汗，穿着体验佳"
+    ],
+    "similar_brands_style": "类似国潮品牌、快时尚品牌的街头潮流款。",
+    "coordination_suggestions": [
+      "搭配宽松牛仔裤+运动鞋，打造休闲街头风。",
+      "搭配工装裤+帆布鞋，展现潮流工装感。",
+      "内搭长袖T恤，叠穿营造层次感，适合春秋穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TLANI 300G重磅纯棉水洗做旧短袖T恤男潮牌宽松oversize街头印花半袖",
+    "search_keywords": [
+      "TLANI",
+      "短袖T恤",
+      "纯棉T恤",
+      "重磅T恤",
+      "水洗做旧",
+      "oversize",
+      "街头潮牌",
+      "印花T恤",
+      "男士T恤",
+      "宽松短袖",
+      "夏季T恤",
+      "情侣T恤"
+    ],
+    "hashtags": [
+      "#街头潮牌",
+      "#oversize",
+      "#水洗做旧",
+      "#纯棉T恤",
+      "#个性印花",
+      "#夏季穿搭",
+      "#情侣款"
+    ],
+    "description": "TLANI 300G重磅纯棉短袖T恤，采用独特水洗做旧工艺，呈现复古潮流感。胸前原创“DIGITAL GARDEN”印花设计，彰显个性与时尚态度。宽松oversized版型，不挑身材，穿着舒适自在。面料柔软透气吸汗，适合日常休闲、街头穿搭，轻松打造潮流造型。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "紫色",
+      "天蓝",
+      "炭灰",
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TLANI"
+  },
+  "_meta": {
+    "image": "downloaded_images/sale/product_124.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1322
+  }
+}

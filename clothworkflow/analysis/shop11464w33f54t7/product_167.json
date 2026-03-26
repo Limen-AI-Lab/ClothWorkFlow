@@ -1,0 +1,161 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "晚礼服连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "婚礼",
+      "晚宴"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "淑女",
+      "浪漫"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典款式，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "宝蓝色",
+    "secondary_colors": [
+      "酒红",
+      "灰色",
+      "黑色",
+      "裸粉",
+      "薄荷绿",
+      "天蓝",
+      "墨绿",
+      "藏青"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "雪纺",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "微透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "A型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "蕾丝花边",
+      "褶皱"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "褶皱"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅大方的晚宴礼服感，适合正式场合。",
+    "design_highlight": "肩部和领口的精致蕾丝花边设计，以及高腰褶皱收腰。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，A字裙摆遮胯显瘦，蕾丝肩部修饰肩线。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "25-45岁，需要参加正式场合或宴会的女性，追求优雅气质。",
+    "selling_points": [
+      "优雅蕾丝拼接设计",
+      "高腰显瘦A字版型",
+      "多色可选，满足不同场合需求",
+      "轻盈雪纺面料，穿着舒适",
+      "经典款式，不易过时"
+    ],
+    "similar_brands_style": "类似Shein、Temu等快时尚电商平台的礼服款式",
+    "coordination_suggestions": [
+      "搭配高跟鞋和精致手拿包，出席晚宴。",
+      "佩戴简约项链和耳环，提升整体造型。",
+      "搭配披肩或小外套，应对春秋季节的温差。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款优雅蕾丝拼接雪纺连衣裙女 高腰显瘦A字长裙晚礼服多色",
+    "search_keywords": [
+      "连衣裙",
+      "晚礼服",
+      "雪纺",
+      "蕾丝",
+      "高腰",
+      "A字裙",
+      "长裙",
+      "宴会",
+      "伴娘服",
+      "优雅"
+    ],
+    "hashtags": [
+      "#晚礼服",
+      "#雪纺连衣裙",
+      "#蕾丝设计",
+      "#高腰显瘦",
+      "#优雅穿搭",
+      "#宴会裙",
+      "#伴娘裙",
+      "#气质女神"
+    ],
+    "description": "这款优雅的雪纺连衣裙，采用轻盈垂坠的雪纺面料，穿着舒适飘逸。领口和肩部精致的蕾丝拼接设计，增添浪漫气息。高腰A字版型巧妙修饰身材，拉长腿部比例，展现女性柔美曲线。多色可选，无论是参加晚宴、婚礼还是其他正式场合，都能轻松打造出众造型。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "宝蓝色",
+      "酒红",
+      "灰色",
+      "黑色",
+      "裸粉",
+      "薄荷绿",
+      "天蓝",
+      "墨绿",
+      "藏青"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_167.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1275
+  }
+}

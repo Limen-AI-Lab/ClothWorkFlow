@@ -1,0 +1,142 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "晚礼服/长款连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "性感",
+      "奢华"
+    ],
+    "aesthetic": "静奢",
+    "trend_relevance": "经典礼服款式，融合了当下流行的网纱和水钻元素，具有一定的潮流感。"
+  },
+  "colors": {
+    "primary_color": "裸粉",
+    "secondary_colors": [
+      "银色（水钻）"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "春暖"
+  },
+  "material": {
+    "primary_fabric": "醋酸",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "修身直筒",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "高领",
+    "sleeve_type": "长袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "侧拉链"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "水钻"
+    ],
+    "pockets": "无口袋",
+    "stitching": null,
+    "craft_techniques": [
+      "褶皱"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅奢华的晚宴礼服，展现女性柔美曲线。",
+    "design_highlight": "胸部不对称褶皱设计与网纱水钻拼接袖子。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，修身剪裁凸显身材曲线。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅与奢华感的都市女性",
+    "selling_points": [
+      "优雅裸粉色，衬托肤色",
+      "不对称褶皱设计，独特吸睛",
+      "网纱水钻拼接袖，增添奢华感",
+      "修身长款版型，展现曼妙身姿",
+      "适合多种正式场合穿着"
+    ],
+    "similar_brands_style": "类似国内设计师品牌或轻奢礼服品牌风格",
+    "coordination_suggestions": [
+      "搭配同色系高跟鞋和精致手拿包，打造完整晚宴造型。",
+      "佩戴简约的钻石耳环或项链，提升整体精致度。",
+      "搭配一件同色系或白色披肩，应对微凉天气。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款裸粉色不对称褶皱高腰修身长款礼服裙 网纱水钻拼接优雅晚宴连衣裙",
+    "search_keywords": [
+      "裸粉色礼服",
+      "晚宴连衣裙",
+      "修身长裙",
+      "不对称褶皱",
+      "水钻拼接",
+      "高腰礼服",
+      "优雅长裙",
+      "派对礼服",
+      "正式场合",
+      "醋酸面料"
+    ],
+    "hashtags": [
+      "#晚礼服",
+      "#裸粉色",
+      "#优雅穿搭",
+      "#派对季",
+      "#水钻设计",
+      "#修身长裙",
+      "#高级感"
+    ],
+    "description": "这款裸粉色长款礼服裙，采用顺滑垂坠的醋酸面料，带来舒适穿着体验。胸部不对称褶皱设计巧妙修饰身形，搭配网纱水钻拼接长袖，尽显奢华与精致。高腰修身版型拉长腿部比例，展现女性曼妙曲线。无论是晚宴、派对还是正式场合，都能让您成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "裸粉"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_139.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1239
+  }
+}

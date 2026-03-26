@@ -1,0 +1,140 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "挂脖露肩印花连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "海滩度假",
+      "日常通勤"
+    ]
+  },
+  "style": {
+    "primary_style": "甜美",
+    "secondary_styles": [
+      "复古",
+      "优雅"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典印花款式，受潮流影响较小，但露肩和挂脖设计符合当下流行趋势"
+  },
+  "colors": {
+    "primary_color": "米白",
+    "secondary_colors": [
+      "酒红",
+      "墨绿",
+      "粉色"
+    ],
+    "color_scheme": "印花",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "春暖"
+  },
+  "material": {
+    "primary_fabric": "棉",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "肌理感",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "修身",
+    "length": "长款",
+    "neckline": "挂脖",
+    "sleeve_type": "露肩",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "碎花",
+    "pattern_description": "米白色底，点缀红色、粉色、绿色系花卉图案",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "印花"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅浪漫的度假风情，兼具甜美与性感。",
+    "design_highlight": "独特的挂脖露肩设计与复古花卉印花。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰线拉长腿部比例，挂脖设计凸显肩颈线条，X型廓形修饰腰身。",
+    "size_range_guess": "S-L"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-40岁追求浪漫优雅风格的女性",
+    "selling_points": [
+      "独特挂脖露肩设计，展现肩颈线条",
+      "复古花卉印花，浪漫优雅",
+      "高腰X型剪裁，修饰身材比例",
+      "轻薄面料，穿着舒适透气"
+    ],
+    "similar_brands_style": "类似Zara、Mango的度假系列风格",
+    "coordination_suggestions": [
+      "搭配草编包和凉鞋，打造海滩度假风。",
+      "搭配精致项链和高跟鞋，适合约会或派对。",
+      "搭配简约手提包和平底鞋，适合日常通勤。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款法式复古挂脖露肩印花连衣裙女 高腰显瘦度假长裙",
+    "search_keywords": [
+      "挂脖连衣裙",
+      "露肩连衣裙",
+      "印花长裙",
+      "法式复古",
+      "度假风",
+      "高腰显瘦",
+      "碎花裙",
+      "优雅连衣裙",
+      "夏季新款",
+      "甜美连衣裙"
+    ],
+    "hashtags": [
+      "#挂脖连衣裙",
+      "#露肩设计",
+      "#印花长裙",
+      "#法式复古",
+      "#度假穿搭",
+      "#高腰显瘦",
+      "#夏日穿搭"
+    ],
+    "description": "这款法式复古挂脖露肩印花连衣裙，采用轻薄舒适面料，触感柔软亲肤。独特的挂脖与露肩设计，巧妙展现肩颈线条，搭配浪漫的花卉印花，尽显优雅甜美。高腰X型剪裁，完美修饰身材比例，无论是度假、约会还是日常通勤，都能轻松打造吸睛造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "米白印花"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "downloaded_images/shop11464w33f54t7/product_109.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1208
+  }
+}
