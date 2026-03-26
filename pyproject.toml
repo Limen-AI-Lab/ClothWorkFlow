@@ -1,0 +1,27 @@
+[project]
+name = "clothworkflow"
+version = "0.3.0"
+description = "服装图片爬取 + Gemini 特征分析 + 混合检索智能推荐"
+readme = "README.md"
+requires-python = ">=3.13"
+
+dependencies = [
+    "httpx>=0.28.1",
+    "jieba>=0.42",
+    "numpy>=2.4.3",
+    "rank-bm25>=0.2",
+    "sentence-transformers>=5.3.0",
+    "huggingface-hub>=0.30.0",
+]
+
+[project.optional-dependencies]
+scrape = [
+    "browser-use[aws]>=0.12.3",
+    "playwright>=1.58.0",
+]
+
+[project.scripts]
+cw-analyze = "clothworkflow.cli.analyze:main"
+cw-recommend = "clothworkflow.cli.recommend:main"
+cw-scrape = "clothworkflow.cli.scrape:main"
+cw-pipeline = "clothworkflow.cli.pipeline:main"

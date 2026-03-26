@@ -1,0 +1,163 @@
+{
+  "basic_info": {
+    "category": "卫衣",
+    "subcategory": "连帽卫衣",
+    "gender": "中性",
+    "age_range": "全年龄",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "居家",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "美式"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，但落肩版型符合当下休闲宽松趋势"
+  },
+  "colors": {
+    "primary_color": "深棕",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "毛圈棉",
+    "fabric_blend": "棉95%",
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的美式休闲感",
+    "design_highlight": "落肩宽松版型，提供舒适穿着体验",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，落肩设计修饰肩部线条",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "追求舒适、休闲风格的年轻消费者",
+    "selling_points": [
+      "95%毛圈棉，320G克重，保暖舒适",
+      "美式高街风格，落肩宽松版型",
+      "多色选择，满足不同搭配需求",
+      "舒适透气，适合日常穿着"
+    ],
+    "similar_brands_style": "类似优衣库、H&M的基础款休闲卫衣风格",
+    "coordination_suggestions": [
+      "搭配牛仔裤和运动鞋，打造日常休闲造型。",
+      "内搭白色T恤，露出下摆，增加层次感。",
+      "搭配工装裤和帆布鞋，营造街头潮流感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "美式高街连帽卫衣男童女童宽松落肩套头衫95%毛圈棉320G克重多色可选",
+    "search_keywords": [
+      "连帽卫衣",
+      "美式高街",
+      "落肩卫衣",
+      "宽松卫衣",
+      "套头卫衣",
+      "毛圈棉卫衣",
+      "320G卫衣",
+      "中性卫衣",
+      "休闲卫衣",
+      "儿童卫衣",
+      "亲子卫衣",
+      "多色卫衣"
+    ],
+    "hashtags": [
+      "#美式高街",
+      "#连帽卫衣",
+      "#宽松版型",
+      "#毛圈棉",
+      "#日常穿搭",
+      "#中性风",
+      "#亲子装"
+    ],
+    "description": "这款美式高街连帽卫衣，采用95%毛圈棉面料，320G克重，手感柔软舒适，保暖性好。经典的落肩宽松版型，不挑身材，穿着舒适自在。多色可选，轻松搭配各种日常造型，无论是休闲逛街还是居家穿着，都能展现随性时尚感。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "黑色",
+      "灰色",
+      "薄荷绿",
+      "军绿",
+      "米白",
+      "深棕",
+      "浅绿",
+      "粉色",
+      "玫红",
+      "白色",
+      "深棕",
+      "墨绿",
+      "卡其",
+      "黄色",
+      "天蓝",
+      "紫色",
+      "红色",
+      "雾蓝",
+      "浅绿",
+      "米白",
+      "绿色",
+      "卡其",
+      "深棕"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILAN"
+  },
+  "_meta": {
+    "image": "clothworkflow/testbed/images/sale_004.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 3827,
+    "completion_tokens": 1398
+  }
+}

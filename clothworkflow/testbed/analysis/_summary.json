@@ -1,0 +1,148 @@
+{
+  "total": 1,
+  "success": 1,
+  "fail": 0,
+  "model": "google/gemini-2.5-flash",
+  "items": [
+    {
+      "basic_info": {
+        "category": "连衣裙",
+        "subcategory": "吊带连衣裙",
+        "gender": "女装",
+        "age_range": "25-45",
+        "season": [
+          "夏"
+        ],
+        "occasion": [
+          "海滩度假",
+          "休闲逛街",
+          "约会"
+        ]
+      },
+      "style": {
+        "primary_style": "波西米亚",
+        "secondary_styles": [
+          "甜美",
+          "休闲"
+        ],
+        "aesthetic": "多巴胺",
+        "trend_relevance": "亮色系和度假风是夏季的经典流行元素，花朵装饰增加了时尚感。"
+      },
+      "colors": {
+        "primary_color": "亮黄色",
+        "secondary_colors": [],
+        "color_scheme": "纯色",
+        "color_temperature": "暖色调",
+        "color_saturation": "高饱和鲜艳",
+        "color_season": "春暖"
+      },
+      "material": {
+        "primary_fabric": "棉",
+        "fabric_blend": null,
+        "fabric_weight": "轻薄<150g",
+        "texture": "肌理感",
+        "drape": "柔软垂坠",
+        "elasticity": "无弹",
+        "transparency": "不透",
+        "hand_feel_guess": "柔软亲肤"
+      },
+      "construction": {
+        "silhouette": "A型",
+        "fit": "宽松",
+        "length": "超长及踝",
+        "neckline": "吊带",
+        "sleeve_type": "无袖",
+        "waistline": "无腰线",
+        "hem": "平摆",
+        "back_design": null,
+        "closure": "套头"
+      },
+      "design_details": {
+        "pattern_type": "纯色",
+        "pattern_description": null,
+        "decorations": [
+          "花朵装饰"
+        ],
+        "pockets": "无口袋",
+        "stitching": "常规",
+        "craft_techniques": [
+          "褶皱"
+        ],
+        "functional_features": []
+      },
+      "visual_impression": {
+        "overall_feel": "充满活力和度假感的甜美飘逸长裙。",
+        "design_highlight": "胸前立体花朵装饰和亮眼的黄色。",
+        "visual_weight": "轻盈"
+      },
+      "body_compatibility": {
+        "suitable_body_types": [
+          "梨形",
+          "苹果形",
+          "直筒型",
+          "沙漏形"
+        ],
+        "flattering_features": "宽松版型遮盖腰腹和臀部，高腰线设计拉长腿部比例。",
+        "size_range_guess": "S-XL"
+      },
+      "commercial": {
+        "price_tier": "平价50-150",
+        "target_audience": "25-40岁追求时尚、热爱度假和休闲风格的女性。",
+        "selling_points": [
+          "亮眼多巴胺黄色，吸睛度高",
+          "胸前立体花朵装饰，甜美独特",
+          "宽松A字版型，遮肉显瘦不挑身材",
+          "轻薄面料，舒适透气，适合夏季",
+          "超长裙摆，飘逸浪漫，度假感十足"
+        ],
+        "similar_brands_style": "类似Shein、Zaful等快时尚品牌的度假系列。",
+        "coordination_suggestions": [
+          "搭配草编帽和凉鞋，打造完美的沙滩度假造型。",
+          "搭配白色帆布鞋和简约手提包，适合日常休闲逛街。",
+          "搭配精致耳饰和高跟凉鞋，出席夏季派对或约会。"
+        ]
+      },
+      "ecommerce": {
+        "title": "2024夏季新款多巴胺亮黄色吊带连衣裙女 度假风沙滩裙胸前花朵宽松长裙",
+        "search_keywords": [
+          "吊带连衣裙",
+          "亮黄色长裙",
+          "度假风连衣裙",
+          "沙滩裙",
+          "花朵连衣裙",
+          "宽松连衣裙",
+          "夏季连衣裙",
+          "波西米亚长裙",
+          "多巴胺穿搭",
+          "显瘦长裙"
+        ],
+        "hashtags": [
+          "#度假风",
+          "#多巴胺穿搭",
+          "#夏季穿搭",
+          "#沙滩裙",
+          "#花朵连衣裙",
+          "#亮黄色",
+          "#显瘦长裙",
+          "#波西米亚"
+        ],
+        "description": "这款亮黄色吊带连衣裙是您夏季衣橱的必备单品！采用轻薄透气的面料，穿着舒适亲肤。胸前独特的立体花朵装饰，增添甜美与浪漫气息。宽松A字版型设计，完美遮肉显瘦，不挑身材。超长裙摆随风飘逸，无论是海边度假还是日常休闲，都能让您成为人群焦点。轻松打造活力四射的多巴胺穿搭！"
+      },
+      "image_info": {
+        "image_type": "模特上身图",
+        "available_colors_shown": [
+          "亮黄色"
+        ],
+        "has_size_info": false,
+        "has_fabric_info": false,
+        "brand_visible": null
+      },
+      "_meta": {
+        "image": "clothworkflow/testbed/images/qizhou_015.jpg",
+        "model": "google/gemini-2.5-flash",
+        "prompt_tokens": 2796,
+        "completion_tokens": 1248
+      }
+    }
+  ]
+}

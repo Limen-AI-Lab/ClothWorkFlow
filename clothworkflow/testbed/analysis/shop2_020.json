@@ -1,0 +1,153 @@
+{
+  "basic_info": {
+    "category": "衬衫",
+    "subcategory": "休闲衬衫",
+    "gender": "男装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "商务休闲",
+      "简约"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "灰色",
+    "secondary_colors": [
+      "白色",
+      "黄色",
+      "粉色",
+      "紫色",
+      "酒红",
+      "蓝色",
+      "藏青",
+      "黑色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "肌理感",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "合身",
+    "length": "常规",
+    "neckline": "翻领",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "简约大方的日常休闲感，兼具商务休闲的实用性。",
+    "design_highlight": "采用新疆长绒棉，强调面料的舒适性和耐磨性。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "直筒型",
+      "沙漏形"
+    ],
+    "flattering_features": "合身版型，修饰身形，适合多种体型。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "25-45岁注重舒适度和性价比的男性消费者",
+    "selling_points": [
+      "新疆长绒棉，柔软耐磨",
+      "多色可选，满足不同搭配需求",
+      "经典版型，百搭不挑人",
+      "工厂直销，性价比高"
+    ],
+    "similar_brands_style": "类似优衣库基础款风格",
+    "coordination_suggestions": [
+      "搭配休闲西裤+皮鞋，打造商务休闲通勤look。",
+      "搭配牛仔裤+小白鞋，营造轻松日常休闲风。",
+      "内搭T恤，解开纽扣作为外套穿着，增加层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "超级工厂 天猫品牌同款衬衫 男士新疆长绒棉纯色长袖衬衣休闲商务",
+    "search_keywords": [
+      "男士衬衫",
+      "长袖衬衣",
+      "纯棉衬衫",
+      "新疆长绒棉",
+      "休闲衬衫",
+      "商务休闲",
+      "百搭",
+      "工厂直销",
+      "多色",
+      "舒适",
+      "耐磨",
+      "春秋冬"
+    ],
+    "hashtags": [
+      "#男士衬衫",
+      "#纯棉衬衣",
+      "#商务休闲",
+      "#百搭单品",
+      "#新疆长绒棉",
+      "#工厂直销",
+      "#日常穿搭"
+    ],
+    "description": "这款男士长袖衬衫精选优质新疆长绒棉，触感柔软亲肤，穿着舒适透气，耐磨耐穿。经典翻领设计，合身版型，简约纯色，无论是日常通勤、休闲聚会还是商务场合都能轻松驾驭。多达八种颜色可选，满足您的个性搭配需求，是衣橱中不可或缺的百搭单品。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "灰色",
+      "白色",
+      "黄色",
+      "粉色",
+      "紫色",
+      "酒红",
+      "蓝色",
+      "藏青",
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "超级工厂"
+  },
+  "_meta": {
+    "image": "clothworkflow/testbed/images/shop2_020.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1230
+  }
+}

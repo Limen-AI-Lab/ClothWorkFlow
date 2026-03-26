@@ -1,0 +1,137 @@
+{
+  "basic_info": {
+    "category": "衬衫",
+    "subcategory": "修身衬衫",
+    "gender": "女装",
+    "age_range": "25-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "正式商务",
+      "校园"
+    ]
+  },
+  "style": {
+    "primary_style": "商务",
+    "secondary_styles": [
+      "极简",
+      "韩系"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响"
+  },
+  "colors": {
+    "primary_color": "白色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "无彩色",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "常规",
+    "neckline": "翻领",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "干净利落的都市通勤感，专业且优雅",
+    "design_highlight": "防走光暗扣设计",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "修身剪裁凸显身材曲线",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "25-35岁追求职业形象的都市女性",
+    "selling_points": [
+      "高棉抗皱面料",
+      "防走光暗扣设计",
+      "修身显瘦版型",
+      "天猫品牌同款，工厂直销",
+      "经典百搭，通勤必备"
+    ],
+    "similar_brands_style": "类似优衣库基础款衬衫风格",
+    "coordination_suggestions": [
+      "搭配西装裤+高跟鞋，打造干练职场造型。",
+      "搭配半身裙+乐福鞋，适合日常通勤或商务休闲。",
+      "内搭在毛衣或西装外套中，增加层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "天猫品牌同款女式衬衫高棉抗皱修身长袖白衬衣防走光通勤职业装",
+    "search_keywords": [
+      "女衬衫",
+      "白衬衫",
+      "修身衬衫",
+      "长袖衬衫",
+      "通勤衬衫",
+      "职业装",
+      "抗皱衬衫",
+      "防走光",
+      "高棉",
+      "商务衬衫",
+      "韩版衬衫",
+      "打底衬衫"
+    ],
+    "hashtags": [
+      "#通勤必备",
+      "#白衬衫",
+      "#职场穿搭",
+      "#修身显瘦",
+      "#抗皱面料",
+      "#防走光设计",
+      "#经典百搭"
+    ],
+    "description": "这款天猫品牌同款女式衬衫，采用高棉抗皱面料，手感柔软亲肤，穿着舒适。修身版型设计，完美勾勒身材曲线，展现女性优雅气质。特别加入防走光暗扣，让您在各种场合都能自信从容。无论是日常通勤、商务会议还是休闲搭配，都是您衣橱里不可或缺的经典单品。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "白色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "超级工厂"
+  },
+  "_meta": {
+    "image": "clothworkflow/testbed/images/shop2_008.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1151
+  }
+}

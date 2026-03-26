@@ -1,0 +1,140 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "修身连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "性感",
+      "复古"
+    ],
+    "aesthetic": "null",
+    "trend_relevance": "经典款式，蕾丝元素经久不衰，修身剪裁凸显女性曲线，不受短期潮流影响。"
+  },
+  "colors": {
+    "primary_color": "酒红",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "冬冷"
+  },
+  "material": {
+    "primary_fabric": "蕾丝",
+    "fabric_blend": "null",
+    "fabric_weight": "中等150-250g",
+    "texture": "肌理感",
+    "drape": "柔软垂坠",
+    "elasticity": "微弹",
+    "transparency": "微透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "修身",
+    "length": "中长",
+    "neckline": "一字肩",
+    "sleeve_type": "长袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": "null",
+    "closure": "null"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": "null",
+    "decorations": [
+      "蕾丝花边"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "null"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅性感的复古名媛风，凸显女性魅力。",
+    "design_highlight": "独特的蕾丝一字肩设计和修身剪裁。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "修身剪裁凸显腰身和臀部曲线，一字肩设计展现锁骨和肩部线条。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅、性感风格的都市女性，注重穿着场合和品质。",
+    "selling_points": [
+      "精致蕾丝面料，凸显高级感",
+      "修身剪裁，完美展现女性曲线",
+      "一字肩设计，优雅性感",
+      "酒红色调，复古且衬肤色"
+    ],
+    "similar_brands_style": "类似Self-Portrait、Needle & Thread等轻奢礼服品牌风格",
+    "coordination_suggestions": [
+      "搭配细高跟鞋和精致手拿包，适合晚宴或派对。",
+      "搭配简约项链和耳饰，提升整体造型的精致度。",
+      "外搭一件同色系或黑色羊绒大衣，增加保暖性和层次感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "法式复古酒红蕾丝连衣裙女 优雅一字肩修身显瘦中长款晚礼服",
+    "search_keywords": [
+      "蕾丝连衣裙",
+      "酒红色礼服",
+      "一字肩连衣裙",
+      "修身连衣裙",
+      "晚礼服",
+      "法式复古",
+      "性感连衣裙",
+      "优雅长裙",
+      "派对礼服",
+      "年会礼服"
+    ],
+    "hashtags": [
+      "#蕾丝连衣裙",
+      "#酒红礼服",
+      "#一字肩",
+      "#修身长裙",
+      "#法式复古",
+      "#晚宴穿搭",
+      "#性感优雅",
+      "#派对必备"
+    ],
+    "description": "这款酒红色蕾丝连衣裙，采用精致蕾丝面料，触感柔软亲肤，微弹修身剪裁完美勾勒女性曼妙曲线。独特的一字肩设计，优雅展现锁骨与肩部线条，搭配复古酒红色，尽显法式浪漫与性感。无论是约会、派对还是正式场合，都能让您成为焦点。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "酒红"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "clothworkflow/testbed/images/shop1_007.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2795,
+    "completion_tokens": 1234
+  }
+}

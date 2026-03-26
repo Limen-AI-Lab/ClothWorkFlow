@@ -1,0 +1,1071 @@
+/* ============================================================================
+   ClothWorkFlow - Fashion E-commerce Style Theme
+   Modern, Clean, and Elegant CSS for Gradio Application
+   ============================================================================ */
+
+/* ============================================================================
+   1. CSS Variables & Color System
+   ============================================================================ */
+:root {
+  /* Primary Colors */
+  --primary-dark: #1a1a2e;
+  --primary-blue: #16213e;
+  --primary-deep: #0f3460;
+  --accent-coral: #e94560;
+  --accent-coral-hover: #d63850;
+
+  /* Background & Surface */
+  --bg-light: #f8f9fa;
+  --bg-white: #ffffff;
+  --bg-gray-50: #fafbfc;
+  --bg-gray-100: #f1f3f5;
+
+  /* Text Colors */
+  --text-primary: #2c3e50;
+  --text-secondary: #6c757d;
+  --text-muted: #adb5bd;
+  --text-light: #ffffff;
+
+  /* Border & Shadow */
+  --border-light: #e9ecef;
+  --border-medium: #dee2e6;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.07);
+  --shadow-lg: 0 10px 24px rgba(0, 0, 0, 0.1);
+  --shadow-xl: 0 20px 40px rgba(0, 0, 0, 0.15);
+
+  /* Tag Colors */
+  --tag-blue: #3498db;
+  --tag-purple: #9b59b6;
+  --tag-green: #2ecc71;
+  --tag-orange: #e67e22;
+  --tag-pink: #e91e63;
+
+  /* Spacing */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+
+  /* Border Radius */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-full: 9999px;
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-base: 250ms ease;
+  --transition-slow: 350ms ease;
+
+  /* Typography */
+  --font-system: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas, monospace;
+}
+
+/* ============================================================================
+   2. Global Styles & Reset
+   ============================================================================ */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-system);
+  color: var(--text-primary);
+  background: var(--bg-light);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ============================================================================
+   3. Header Styles
+   ============================================================================ */
+.main-header {
+  background: linear-gradient(135deg, var(--primary-blue) 0%, var(--primary-deep) 100%);
+  padding: var(--spacing-xl) var(--spacing-lg);
+  margin: calc(-1 * var(--spacing-lg)) calc(-1 * var(--spacing-lg)) var(--spacing-xl);
+  border-bottom: 3px solid transparent;
+  border-image: linear-gradient(90deg, var(--accent-coral), var(--tag-purple), var(--tag-blue)) 1;
+  box-shadow: var(--shadow-md);
+}
+
+.main-title {
+  text-align: center;
+  margin: 0 0 var(--spacing-sm) 0;
+  padding: 0;
+  font-size: 3rem;
+  font-weight: 700;
+  color: var(--text-light);
+  letter-spacing: -0.02em;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.sub-title {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  font-size: 1.125rem;
+  color: rgba(255, 255, 255, 0.85);
+  font-weight: 400;
+  letter-spacing: 0.01em;
+}
+
+/* ============================================================================
+   4. Search Area Styles
+   ============================================================================ */
+.search-box {
+  position: relative;
+}
+
+.search-box textarea {
+  font-size: 16px !important;
+  padding: var(--spacing-md) var(--spacing-md) var(--spacing-md) 48px !important;
+  border: 2px solid var(--border-medium);
+  border-radius: var(--radius-md);
+  background: var(--bg-white);
+  transition: all var(--transition-base);
+  font-family: var(--font-system);
+  line-height: 1.6;
+}
+
+.search-box textarea:focus {
+  border-color: var(--accent-coral);
+  box-shadow: 0 0 0 3px rgba(233, 69, 96, 0.1);
+  outline: none;
+}
+
+/* Search Icon (Pseudo-element) */
+.search-box::before {
+  content: "🔍";
+  position: absolute;
+  left: var(--spacing-md);
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.25rem;
+  pointer-events: none;
+  z-index: 10;
+}
+
+/* Search Button Styles */
+button[variant="primary"],
+.search-button,
+.primary-button {
+  background: linear-gradient(135deg, var(--accent-coral) 0%, #d63850 100%) !important;
+  color: var(--text-light) !important;
+  border: none !important;
+  padding: var(--spacing-md) var(--spacing-xl) !important;
+  border-radius: var(--radius-md) !important;
+  font-weight: 600 !important;
+  font-size: 1rem !important;
+  cursor: pointer;
+  transition: all var(--transition-base) !important;
+  box-shadow: var(--shadow-sm);
+  text-transform: none;
+}
+
+button[variant="primary"]:hover,
+.search-button:hover,
+.primary-button:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+  background: linear-gradient(135deg, #d63850 0%, #c02040 100%) !important;
+}
+
+button[variant="primary"]:active {
+  transform: translateY(0);
+  box-shadow: var(--shadow-sm);
+}
+
+/* Secondary Button */
+button[variant="secondary"] {
+  background: var(--bg-white) !important;
+  color: var(--text-primary) !important;
+  border: 2px solid var(--border-medium) !important;
+  padding: var(--spacing-sm) var(--spacing-lg) !important;
+  border-radius: var(--radius-md) !important;
+  font-weight: 500 !important;
+  transition: all var(--transition-base) !important;
+}
+
+button[variant="secondary"]:hover {
+  border-color: var(--accent-coral) !important;
+  color: var(--accent-coral) !important;
+  background: var(--bg-gray-50) !important;
+}
+
+/* ============================================================================
+   5. Example Queries (Pill Style)
+   ============================================================================ */
+.example-queries {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-sm);
+  margin-top: var(--spacing-md);
+}
+
+.example-query-pill,
+.gr-examples .example {
+  display: inline-block;
+  padding: var(--spacing-sm) var(--spacing-md);
+  background: linear-gradient(135deg, var(--bg-gray-50) 0%, var(--bg-white) 100%);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-full);
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  white-space: nowrap;
+}
+
+.example-query-pill:hover,
+.gr-examples .example:hover {
+  background: linear-gradient(135deg, var(--accent-coral) 0%, var(--accent-coral-hover) 100%);
+  color: var(--text-light);
+  border-color: var(--accent-coral);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
+}
+
+/* ============================================================================
+   6. Result Cards
+   ============================================================================ */
+.result-card {
+  background: var(--bg-white);
+  border-radius: var(--radius-lg);
+  padding: var(--spacing-lg);
+  margin-bottom: var(--spacing-md);
+  box-shadow: var(--shadow-sm);
+  transition: all var(--transition-base);
+  position: relative;
+  overflow: hidden;
+  border: 1px solid var(--border-light);
+}
+
+.result-card:hover {
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-4px);
+  border-color: var(--accent-coral);
+}
+
+/* Ranking Badge */
+.rank-badge {
+  position: absolute;
+  top: var(--spacing-md);
+  left: var(--spacing-md);
+  width: 40px;
+  height: 40px;
+  border-radius: var(--radius-full);
+  background: linear-gradient(135deg, var(--accent-coral) 0%, var(--tag-purple) 100%);
+  color: var(--text-light);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 1.125rem;
+  box-shadow: var(--shadow-md);
+  z-index: 10;
+}
+
+.result-card-image {
+  width: 100%;
+  height: 280px;
+  object-fit: cover;
+  border-radius: var(--radius-md);
+  margin-bottom: var(--spacing-md);
+  transition: transform var(--transition-base);
+}
+
+.result-card:hover .result-card-image {
+  transform: scale(1.03);
+}
+
+.result-card-title {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: var(--spacing-sm);
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.result-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-sm);
+  margin-bottom: var(--spacing-md);
+}
+
+/* ============================================================================
+   7. Score Bar & Progress
+   ============================================================================ */
+.score-bar {
+  width: 100%;
+  height: 8px;
+  background: var(--bg-gray-100);
+  border-radius: var(--radius-full);
+  overflow: hidden;
+  margin: var(--spacing-sm) 0;
+  position: relative;
+}
+
+.score-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--tag-blue) 0%, var(--tag-purple) 50%, var(--accent-coral) 100%);
+  border-radius: var(--radius-full);
+  transition: width 800ms cubic-bezier(0.4, 0, 0.2, 1);
+  animation: scoreBarExpand 1.2s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: inset 0 1px 2px rgba(255, 255, 255, 0.3);
+}
+
+@keyframes scoreBarExpand {
+  0% {
+    width: 0;
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.score-label {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  margin-top: var(--spacing-xs);
+}
+
+.score-value {
+  font-weight: 600;
+  color: var(--accent-coral);
+}
+
+/* ============================================================================
+   8. Tags (Pills)
+   ============================================================================ */
+.tag {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: var(--radius-full);
+  font-size: 0.75rem;
+  font-weight: 500;
+  line-height: 1.4;
+  white-space: nowrap;
+  transition: all var(--transition-fast);
+}
+
+.tag:hover {
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
+}
+
+/* Category Tag - Blue */
+.category-tag,
+.tag-category {
+  background: linear-gradient(135deg, rgba(52, 152, 219, 0.15) 0%, rgba(52, 152, 219, 0.1) 100%);
+  color: var(--tag-blue);
+  border: 1px solid rgba(52, 152, 219, 0.3);
+}
+
+/* Color Tag - Dynamic (will be set via inline styles based on actual color) */
+.color-tag,
+.tag-color {
+  background: linear-gradient(135deg, rgba(230, 126, 34, 0.15) 0%, rgba(230, 126, 34, 0.1) 100%);
+  color: var(--tag-orange);
+  border: 1px solid rgba(230, 126, 34, 0.3);
+}
+
+/* Style Tag - Purple */
+.style-tag,
+.tag-style {
+  background: linear-gradient(135deg, rgba(155, 89, 182, 0.15) 0%, rgba(155, 89, 182, 0.1) 100%);
+  color: var(--tag-purple);
+  border: 1px solid rgba(155, 89, 182, 0.3);
+}
+
+/* Gender Tag - Green */
+.gender-tag,
+.tag-gender {
+  background: linear-gradient(135deg, rgba(46, 204, 113, 0.15) 0%, rgba(46, 204, 113, 0.1) 100%);
+  color: var(--tag-green);
+  border: 1px solid rgba(46, 204, 113, 0.3);
+}
+
+/* Price Tag - Pink */
+.price-tag,
+.tag-price {
+  background: linear-gradient(135deg, rgba(233, 30, 99, 0.15) 0%, rgba(233, 30, 99, 0.1) 100%);
+  color: var(--tag-pink);
+  border: 1px solid rgba(233, 30, 99, 0.3);
+}
+
+/* ============================================================================
+   9. Statistics Cards
+   ============================================================================ */
+.stat-card {
+  background: var(--bg-white);
+  border-radius: var(--radius-lg);
+  padding: var(--spacing-lg);
+  box-shadow: var(--shadow-sm);
+  border-top: 4px solid var(--accent-coral);
+  transition: all var(--transition-base);
+  position: relative;
+  overflow: hidden;
+}
+
+.stat-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, var(--accent-coral) 0%, var(--tag-purple) 50%, var(--tag-blue) 100%);
+  transition: height var(--transition-base);
+}
+
+.stat-card:hover {
+  box-shadow: var(--shadow-md);
+  transform: translateY(-2px);
+}
+
+.stat-card:hover::before {
+  height: 6px;
+}
+
+.stat-number {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--accent-coral);
+  line-height: 1;
+  margin-bottom: var(--spacing-sm);
+  background: linear-gradient(135deg, var(--accent-coral) 0%, var(--tag-purple) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.stat-label {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-weight: 500;
+}
+
+.stat-description {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  margin-top: var(--spacing-sm);
+}
+
+/* ============================================================================
+   10. Bar Chart
+   ============================================================================ */
+.bar-chart {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+  padding: var(--spacing-lg);
+  background: var(--bg-white);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+}
+
+.bar-chart-item {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-md);
+}
+
+.bar-chart-label {
+  min-width: 120px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+}
+
+.bar-chart-track {
+  flex: 1;
+  height: 32px;
+  background: var(--bg-gray-100);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  position: relative;
+}
+
+.bar {
+  height: 100%;
+  background: linear-gradient(90deg, var(--tag-blue) 0%, var(--tag-purple) 100%);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: var(--spacing-sm);
+  color: var(--text-light);
+  font-size: 0.75rem;
+  font-weight: 600;
+  transition: width 1s cubic-bezier(0.4, 0, 0.2, 1);
+  animation: barExpand 1.2s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: inset 0 1px 2px rgba(255, 255, 255, 0.2);
+}
+
+@keyframes barExpand {
+  0% {
+    width: 0;
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.bar-chart-value {
+  min-width: 50px;
+  text-align: right;
+  font-weight: 600;
+  color: var(--text-primary);
+  font-size: 0.875rem;
+}
+
+/* ============================================================================
+   11. Configuration Page
+   ============================================================================ */
+
+/* YAML Editor Dark Theme */
+.config-editor,
+.gr-code {
+  background: var(--primary-dark) !important;
+  border: 1px solid var(--border-medium) !important;
+  border-radius: var(--radius-md) !important;
+  font-family: var(--font-mono) !important;
+  font-size: 0.875rem !important;
+  line-height: 1.6 !important;
+  padding: var(--spacing-md) !important;
+}
+
+.config-editor pre,
+.gr-code pre {
+  color: #e8eaed !important;
+  background: transparent !important;
+}
+
+.config-editor code,
+.gr-code code {
+  color: #e8eaed !important;
+  background: transparent !important;
+}
+
+/* Config Table */
+.config-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--bg-white);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+}
+
+.config-table thead {
+  background: linear-gradient(135deg, var(--primary-blue) 0%, var(--primary-deep) 100%);
+  color: var(--text-light);
+}
+
+.config-table th {
+  padding: var(--spacing-md);
+  text-align: left;
+  font-weight: 600;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.config-table td {
+  padding: var(--spacing-md);
+  border-bottom: 1px solid var(--border-light);
+  font-size: 0.875rem;
+}
+
+.config-table tbody tr:nth-child(even) {
+  background: var(--bg-gray-50);
+}
+
+.config-table tbody tr:hover {
+  background: rgba(233, 69, 96, 0.05);
+}
+
+.config-table code {
+  background: var(--bg-gray-100);
+  padding: 2px 6px;
+  border-radius: var(--radius-sm);
+  font-family: var(--font-mono);
+  font-size: 0.813rem;
+  color: var(--accent-coral);
+}
+
+/* ============================================================================
+   12. Gallery Styles
+   ============================================================================ */
+.gr-gallery {
+  gap: var(--spacing-md) !important;
+}
+
+.gr-gallery-item {
+  border-radius: var(--radius-md) !important;
+  overflow: hidden !important;
+  box-shadow: var(--shadow-sm) !important;
+  transition: all var(--transition-base) !important;
+  border: 1px solid var(--border-light) !important;
+}
+
+.gr-gallery-item:hover {
+  box-shadow: var(--shadow-lg) !important;
+  transform: translateY(-4px) !important;
+  border-color: var(--accent-coral) !important;
+}
+
+.gr-gallery-item img {
+  transition: transform var(--transition-base) !important;
+}
+
+.gr-gallery-item:hover img {
+  transform: scale(1.05) !important;
+}
+
+/* ============================================================================
+   13. Tabs Styles
+   ============================================================================ */
+.gr-tabs {
+  border: none !important;
+}
+
+.gr-tab-button {
+  padding: var(--spacing-md) var(--spacing-lg) !important;
+  font-weight: 500 !important;
+  color: var(--text-secondary) !important;
+  border: none !important;
+  border-bottom: 2px solid transparent !important;
+  transition: all var(--transition-fast) !important;
+  background: transparent !important;
+}
+
+.gr-tab-button:hover {
+  color: var(--accent-coral) !important;
+  background: var(--bg-gray-50) !important;
+}
+
+.gr-tab-button.selected {
+  color: var(--accent-coral) !important;
+  border-bottom-color: var(--accent-coral) !important;
+  font-weight: 600 !important;
+}
+
+/* ============================================================================
+   14. Card Animations
+   ============================================================================ */
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in-up,
+.result-card,
+.stat-card,
+.bar-chart {
+  animation: fadeInUp 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Staggered animation for multiple cards */
+.result-card:nth-child(1) { animation-delay: 0ms; }
+.result-card:nth-child(2) { animation-delay: 100ms; }
+.result-card:nth-child(3) { animation-delay: 200ms; }
+.result-card:nth-child(4) { animation-delay: 300ms; }
+.result-card:nth-child(5) { animation-delay: 400ms; }
+
+/* ============================================================================
+   15. Markdown Content Styles
+   ============================================================================ */
+.markdown-content h1,
+.gr-markdown h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: var(--spacing-md);
+  padding-bottom: var(--spacing-sm);
+  border-bottom: 2px solid var(--border-light);
+}
+
+.markdown-content h2,
+.gr-markdown h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-top: var(--spacing-lg);
+  margin-bottom: var(--spacing-md);
+}
+
+.markdown-content h3,
+.gr-markdown h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-top: var(--spacing-md);
+  margin-bottom: var(--spacing-sm);
+}
+
+.markdown-content code,
+.gr-markdown code {
+  background: var(--bg-gray-100);
+  padding: 2px 6px;
+  border-radius: var(--radius-sm);
+  font-family: var(--font-mono);
+  font-size: 0.875rem;
+  color: var(--accent-coral);
+}
+
+.markdown-content pre,
+.gr-markdown pre {
+  background: var(--primary-dark);
+  color: #e8eaed;
+  padding: var(--spacing-md);
+  border-radius: var(--radius-md);
+  overflow-x: auto;
+  margin: var(--spacing-md) 0;
+}
+
+.markdown-content pre code,
+.gr-markdown pre code {
+  background: transparent;
+  color: inherit;
+  padding: 0;
+}
+
+.markdown-content blockquote,
+.gr-markdown blockquote {
+  border-left: 4px solid var(--accent-coral);
+  padding-left: var(--spacing-md);
+  margin: var(--spacing-md) 0;
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+.markdown-content a,
+.gr-markdown a {
+  color: var(--accent-coral);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all var(--transition-fast);
+}
+
+.markdown-content a:hover,
+.gr-markdown a:hover {
+  border-bottom-color: var(--accent-coral);
+}
+
+.markdown-content ul,
+.gr-markdown ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.markdown-content li,
+.gr-markdown li {
+  padding-left: var(--spacing-lg);
+  position: relative;
+  margin-bottom: var(--spacing-sm);
+}
+
+.markdown-content li::before,
+.gr-markdown li::before {
+  content: "▸";
+  position: absolute;
+  left: 0;
+  color: var(--accent-coral);
+  font-weight: 700;
+}
+
+/* ============================================================================
+   16. Form Elements
+   ============================================================================ */
+.gr-textbox input,
+.gr-textbox textarea {
+  border: 1px solid var(--border-medium) !important;
+  border-radius: var(--radius-md) !important;
+  padding: var(--spacing-sm) var(--spacing-md) !important;
+  transition: all var(--transition-base) !important;
+  font-family: var(--font-system) !important;
+}
+
+.gr-textbox input:focus,
+.gr-textbox textarea:focus {
+  border-color: var(--accent-coral) !important;
+  box-shadow: 0 0 0 3px rgba(233, 69, 96, 0.1) !important;
+  outline: none !important;
+}
+
+.gr-dropdown {
+  border: 1px solid var(--border-medium) !important;
+  border-radius: var(--radius-md) !important;
+  transition: all var(--transition-base) !important;
+}
+
+.gr-dropdown:focus {
+  border-color: var(--accent-coral) !important;
+  box-shadow: 0 0 0 3px rgba(233, 69, 96, 0.1) !important;
+}
+
+/* Slider */
+.gr-slider input[type="range"] {
+  accent-color: var(--accent-coral);
+}
+
+/* ============================================================================
+   17. Loading & Spinner
+   ============================================================================ */
+.loading-spinner {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border: 4px solid var(--bg-gray-100);
+  border-top-color: var(--accent-coral);
+  border-radius: var(--radius-full);
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* ============================================================================
+   18. Responsive Design
+   ============================================================================ */
+
+/* Tablets */
+@media (max-width: 1024px) {
+  .main-title {
+    font-size: 2.5rem;
+  }
+
+  .sub-title {
+    font-size: 1rem;
+  }
+
+  .gr-gallery {
+    grid-template-columns: repeat(3, 1fr) !important;
+  }
+
+  .stat-number {
+    font-size: 2rem;
+  }
+}
+
+/* Mobile Devices */
+@media (max-width: 768px) {
+  :root {
+    --spacing-xs: 3px;
+    --spacing-sm: 6px;
+    --spacing-md: 12px;
+    --spacing-lg: 18px;
+    --spacing-xl: 24px;
+  }
+
+  .main-header {
+    padding: var(--spacing-lg) var(--spacing-md);
+    margin: calc(-1 * var(--spacing-md)) calc(-1 * var(--spacing-md)) var(--spacing-lg);
+  }
+
+  .main-title {
+    font-size: 2rem;
+  }
+
+  .sub-title {
+    font-size: 0.875rem;
+  }
+
+  .search-box textarea {
+    font-size: 14px !important;
+    padding: var(--spacing-sm) var(--spacing-sm) var(--spacing-sm) 40px !important;
+  }
+
+  .search-box::before {
+    left: var(--spacing-sm);
+    font-size: 1rem;
+  }
+
+  /* Gallery switches to 2 columns on mobile */
+  .gr-gallery {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: var(--spacing-sm) !important;
+  }
+
+  .result-card {
+    padding: var(--spacing-md);
+  }
+
+  .rank-badge {
+    width: 32px;
+    height: 32px;
+    font-size: 0.875rem;
+  }
+
+  .stat-number {
+    font-size: 1.75rem;
+  }
+
+  .stat-label {
+    font-size: 0.75rem;
+  }
+
+  .bar-chart-label {
+    min-width: 80px;
+    font-size: 0.75rem;
+  }
+
+  .bar-chart-track {
+    height: 24px;
+  }
+
+  /* Stack search area vertically */
+  .gr-row {
+    flex-direction: column !important;
+  }
+
+  button[variant="primary"],
+  .search-button {
+    width: 100% !important;
+  }
+}
+
+/* Small Mobile */
+@media (max-width: 480px) {
+  .main-title {
+    font-size: 1.5rem;
+  }
+
+  .gr-gallery {
+    grid-template-columns: 1fr !important;
+  }
+
+  .result-card-image {
+    height: 200px;
+  }
+
+  .tag {
+    font-size: 0.688rem;
+    padding: 3px 10px;
+  }
+}
+
+/* ============================================================================
+   19. Utility Classes
+   ============================================================================ */
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.mt-sm { margin-top: var(--spacing-sm); }
+.mt-md { margin-top: var(--spacing-md); }
+.mt-lg { margin-top: var(--spacing-lg); }
+
+.mb-sm { margin-bottom: var(--spacing-sm); }
+.mb-md { margin-bottom: var(--spacing-md); }
+.mb-lg { margin-bottom: var(--spacing-lg); }
+
+.p-sm { padding: var(--spacing-sm); }
+.p-md { padding: var(--spacing-md); }
+.p-lg { padding: var(--spacing-lg); }
+
+.rounded { border-radius: var(--radius-md); }
+.rounded-lg { border-radius: var(--radius-lg); }
+.rounded-full { border-radius: var(--radius-full); }
+
+.shadow-sm { box-shadow: var(--shadow-sm); }
+.shadow-md { box-shadow: var(--shadow-md); }
+.shadow-lg { box-shadow: var(--shadow-lg); }
+
+/* ============================================================================
+   20. Accessibility & Print
+   ============================================================================ */
+
+/* Focus visible for keyboard navigation */
+*:focus-visible {
+  outline: 2px solid var(--accent-coral);
+  outline-offset: 2px;
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Print styles */
+@media print {
+  .main-header {
+    background: none;
+    color: black;
+    border-bottom: 2px solid black;
+  }
+
+  .result-card,
+  .stat-card {
+    box-shadow: none;
+    border: 1px solid black;
+  }
+
+  button {
+    display: none;
+  }
+}
+
+/* ============================================================================
+   21. Dark Mode Support (Optional)
+   ============================================================================ */
+@media (prefers-color-scheme: dark) {
+  /* Uncomment to enable dark mode
+  :root {
+    --bg-light: #1a1a2e;
+    --bg-white: #16213e;
+    --text-primary: #e8eaed;
+    --text-secondary: #adb5bd;
+    --border-light: #2c3e50;
+    --border-medium: #34495e;
+  }
+  */
+}
+
+/* ============================================================================
+   End of Theme
+   ============================================================================ */

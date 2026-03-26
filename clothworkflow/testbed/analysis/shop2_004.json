@@ -1,0 +1,162 @@
+{
+  "basic_info": {
+    "category": "polo衫",
+    "subcategory": "短袖polo衫",
+    "gender": "男装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "运动",
+      "商务休闲",
+      "居家"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "商务",
+      "运动"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，注重功能性"
+  },
+  "colors": {
+    "primary_color": "雾蓝",
+    "secondary_colors": [
+      "白色",
+      "米白",
+      "浅绿",
+      "浅紫",
+      "深灰",
+      "藏青",
+      "黑色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "涤纶",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "高弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "合身",
+    "length": "常规",
+    "neckline": "polo领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": [
+      "防晒",
+      "抑菌",
+      "冰丝",
+      "降温",
+      "弹力抗皱",
+      "吸湿排汗"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "清爽舒适，兼具商务与休闲感的日常功能性服装。",
+    "design_highlight": "冰丝降温与防晒抑菌的功能性面料。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "直筒型",
+      "沙漏形",
+      "苹果形"
+    ],
+    "flattering_features": "合身版型修饰身形，面料垂坠感好。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "25-45岁注重舒适度和功能性的都市男性，追求性价比。",
+    "selling_points": [
+      "冰丝降温，夏季穿着凉爽",
+      "防晒抑菌，提供额外保护",
+      "弹力抗皱，穿着舒适易打理",
+      "天猫品牌同款，品质有保障",
+      "多色可选，满足不同搭配需求"
+    ],
+    "similar_brands_style": "类似优衣库（Uniqlo）功能性基础款、海澜之家（HLA）商务休闲系列。",
+    "coordination_suggestions": [
+      "搭配休闲西裤和乐福鞋，打造商务休闲造型。",
+      "搭配牛仔裤和运动鞋，适合日常休闲。",
+      "搭配短裤和凉鞋，适合夏季度假或居家穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "超级工厂冰丝防晒抑菌POLO衫男夏季短袖弹力抗皱降温天猫品牌同款",
+    "search_keywords": [
+      "冰丝POLO衫",
+      "男士短袖POLO",
+      "防晒POLO",
+      "抑菌POLO",
+      "降温POLO",
+      "弹力抗皱",
+      "夏季男装",
+      "商务休闲",
+      "天猫同款",
+      "工厂直销",
+      "舒适透气",
+      "速干"
+    ],
+    "hashtags": [
+      "#冰丝POLO",
+      "#防晒抑菌",
+      "#夏季男装",
+      "#商务休闲",
+      "#舒适透气",
+      "#天猫同款",
+      "#工厂直销"
+    ],
+    "description": "这款超级工厂冰丝防晒抑菌POLO衫，采用高弹力面料，触感顺滑冰凉，具备卓越的降温效果。防晒抑菌功能为您的夏日出行提供全方位保护，弹力抗皱特性让您穿着舒适，无需频繁打理。天猫品牌同款品质，工厂直销价格更具优势，是您日常通勤、休闲运动的理想选择。"
+  },
+  "image_info": {
+    "image_type": "多色展示",
+    "available_colors_shown": [
+      "雾蓝",
+      "白色",
+      "米白",
+      "浅绿",
+      "浅紫",
+      "深灰",
+      "藏青",
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "超级工厂"
+  },
+  "_meta": {
+    "image": "clothworkflow/testbed/images/shop2_004.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1300
+  }
+}

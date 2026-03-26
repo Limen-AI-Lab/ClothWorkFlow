@@ -1,0 +1,166 @@
+{
+  "basic_info": {
+    "category": "卫衣",
+    "subcategory": "圆领卫衣",
+    "gender": "中性",
+    "age_range": "全年龄",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "居家"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头",
+      "美式"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，Oversize风格符合当下潮流，不受特定潮流影响"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "紫色",
+      "绿色",
+      "蓝色",
+      "黄色",
+      "灰色",
+      "棕色",
+      "红色",
+      "粉色",
+      "橄榄绿",
+      "卡其",
+      "米白"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "oversized",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "长袖",
+    "waistline": "无腰线",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "毛圈"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "宽松舒适的休闲感，简约百搭。",
+    "design_highlight": "320G重磅毛圈面料，提供舒适保暖的穿着体验。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "追求舒适、休闲风格的年轻消费者，学生群体。",
+    "selling_points": [
+      "320G重磅毛圈面料，保暖舒适",
+      "Oversize版型，不挑身材",
+      "14种颜色选择，满足不同搭配需求",
+      "经典圆领设计，万能百搭",
+      "美式潮牌风格，时尚休闲"
+    ],
+    "similar_brands_style": "类似优衣库基础款的舒适度，兼具一些美式街头品牌的宽松版型。",
+    "coordination_suggestions": [
+      "搭配牛仔裤+运动鞋，打造日常休闲街头风。",
+      "内搭衬衫，露出领口和下摆，增加层次感。",
+      "搭配休闲裤+帆布鞋，适合校园或居家穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "万能百搭圆领卫衣男潮牌美式Oversize宽松320G重磅毛圈纯色长袖上衣女",
+    "search_keywords": [
+      "圆领卫衣",
+      "Oversize卫衣",
+      "重磅卫衣",
+      "纯色卫衣",
+      "美式潮牌",
+      "宽松卫衣",
+      "情侣卫衣",
+      "秋冬卫衣",
+      "休闲上衣",
+      "百搭卫衣",
+      "毛圈卫衣",
+      "长袖T恤"
+    ],
+    "hashtags": [
+      "#圆领卫衣",
+      "#Oversize",
+      "#重磅卫衣",
+      "#纯色百搭",
+      "#美式潮牌",
+      "#情侣款",
+      "#秋冬穿搭",
+      "#休闲时尚"
+    ],
+    "description": "这款万能百搭圆领卫衣，采用320G重磅毛圈面料，手感柔软舒适，保暖性好。Oversize宽松版型设计，不挑身材，轻松穿出美式潮牌范。经典圆领，简约大气，提供14种颜色选择，满足您的个性搭配需求。无论是日常通勤、休闲逛街还是居家穿着，都能轻松驾驭，是您衣橱里不可或缺的时尚单品。"
+  },
+  "image_info": {
+    "image_type": "模特上身图, 多色展示, 细节图",
+    "available_colors_shown": [
+      "黑色",
+      "紫色",
+      "绿色",
+      "蓝色",
+      "黄色",
+      "灰色",
+      "棕色",
+      "红色",
+      "粉色",
+      "橄榄绿",
+      "卡其",
+      "米白"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TLANI"
+  },
+  "_meta": {
+    "image": "clothworkflow/testbed/images/sale_150.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2796,
+    "completion_tokens": 1379
+  }
+}

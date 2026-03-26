@@ -1,0 +1,148 @@
+{
+  "basic_info": {
+    "category": "T恤",
+    "subcategory": "短袖T恤",
+    "gender": "中性",
+    "age_range": "18-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "街头",
+    "secondary_styles": [
+      "休闲",
+      "复古"
+    ],
+    "aesthetic": "辣妹风",
+    "trend_relevance": "水洗做旧工艺和蝴蝶印花是近年街头潮流的常见元素，具有一定的潮流相关度。"
+  },
+  "colors": {
+    "primary_color": "粉色",
+    "secondary_colors": [
+      "蓝色",
+      "灰色",
+      "炭灰"
+    ],
+    "color_scheme": "撞色",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中厚250-350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "圆领",
+    "sleeve_type": "短袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "印花",
+    "pattern_description": "胸前大幅蓝色蝴蝶图案印花，带有“Starlight”和“Blossom”字样",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧",
+      "印花"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "充满街头潮流感和复古气息的休闲T恤。",
+    "design_highlight": "水洗做旧工艺和胸前大面积的蓝色蝴蝶印花。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形"
+    ],
+    "flattering_features": "宽松版型不挑身材，可遮盖腰腹部赘肉。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求潮流、个性的年轻男女",
+    "selling_points": [
+      "250G重磅纯棉面料，舒适有型",
+      "水洗做旧工艺，复古潮流感强",
+      "独特蝴蝶印花设计，彰显个性",
+      "宽松版型，不挑身材，穿着舒适"
+    ],
+    "similar_brands_style": "类似国潮街头品牌、美式复古风格品牌",
+    "coordination_suggestions": [
+      "搭配同色系水洗做旧短裤，打造休闲套装look。",
+      "搭配宽松牛仔裤和帆布鞋，营造街头休闲风格。",
+      "内搭白色长袖T恤，叠穿出层次感，搭配工装裤和运动鞋。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI 250G重磅水洗做旧蝴蝶印花短袖T恤男女潮牌街头宽松情侣装",
+    "search_keywords": [
+      "水洗T恤",
+      "做旧短袖",
+      "蝴蝶印花",
+      "街头潮牌",
+      "宽松T恤",
+      "情侣装",
+      "纯棉短袖",
+      "复古T恤",
+      "250G重磅",
+      "夏季新款"
+    ],
+    "hashtags": [
+      "#街头潮牌",
+      "#水洗做旧",
+      "#蝴蝶印花",
+      "#宽松T恤",
+      "#情侣穿搭",
+      "#夏季必备",
+      "#复古风",
+      "#中性风"
+    ],
+    "description": "TILANI原创街头品牌，夏季新款250G重磅纯棉水洗做旧短袖T恤。采用独特水洗工艺，呈现复古质感，胸前大面积蓝色蝴蝶印花，彰显个性潮流。宽松版型设计，舒适不挑身材，男女同款，轻松打造街头情侣穿搭。适合日常休闲、街头出游等多种场景。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "粉色",
+      "灰色",
+      "炭灰"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "clothworkflow/testbed/images/sale_010.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 3827,
+    "completion_tokens": 1362
+  }
+}

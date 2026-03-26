@@ -1,0 +1,139 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "吊带连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "夏"
+    ],
+    "occasion": [
+      "海滩度假",
+      "休闲逛街",
+      "约会"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "波西米亚",
+      "甜美"
+    ],
+    "aesthetic": "多巴胺",
+    "trend_relevance": "亮色系和度假风是夏季流行趋势，花朵装饰也符合甜美风格潮流。"
+  },
+  "colors": {
+    "primary_color": "亮黄色",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "暖色调",
+    "color_saturation": "高饱和鲜艳",
+    "color_season": "春暖"
+  },
+  "material": {
+    "primary_fabric": "棉",
+    "fabric_blend": null,
+    "fabric_weight": "轻薄<150g",
+    "texture": "肌理感",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "A型",
+    "fit": "宽松",
+    "length": "超长及踝",
+    "neckline": "吊带",
+    "sleeve_type": "无袖",
+    "waistline": "无腰线",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "无"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [
+      "花朵"
+    ],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "褶皱"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "充满活力和夏日风情的度假感连衣裙。",
+    "design_highlight": "胸前立体的花朵装饰和亮眼的黄色。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形"
+    ],
+    "flattering_features": "宽松版型不挑身材，遮肉显瘦，高腰线设计拉长身形。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "25-45岁追求时尚、热爱度假和休闲生活的女性。",
+    "selling_points": [
+      "亮眼多巴胺黄色，吸睛度高",
+      "胸前立体花朵装饰，甜美独特",
+      "宽松A字版型，舒适遮肉不挑身材",
+      "轻薄面料，适合夏季穿着",
+      "度假风情浓郁，适合海边出游"
+    ],
+    "similar_brands_style": "类似Zara、H&M的度假系列，或一些独立设计师品牌。",
+    "coordination_suggestions": [
+      "搭配草编包和凉鞋，打造完美的度假造型。",
+      "佩戴夸张耳饰和墨镜，增加时尚感。",
+      "内搭白色T恤，增加层次感，适合日常穿着。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款多巴胺亮黄色吊带连衣裙女 度假风沙滩裙胸前花朵宽松长裙",
+    "search_keywords": [
+      "亮黄色连衣裙",
+      "吊带长裙",
+      "度假风连衣裙",
+      "沙滩裙",
+      "花朵连衣裙",
+      "宽松连衣裙",
+      "夏季连衣裙",
+      "多巴胺穿搭",
+      "海边度假",
+      "显瘦长裙"
+    ],
+    "hashtags": [
+      "#多巴胺穿搭",
+      "#度假风",
+      "#沙滩裙",
+      "#亮黄色",
+      "#花朵连衣裙",
+      "#夏季穿搭",
+      "#显瘦长裙"
+    ],
+    "description": "这款亮黄色吊带连衣裙是您夏日度假的理想选择。胸前精致的立体花朵装饰，增添甜美与浪漫气息。宽松A字版型，不挑身材，舒适遮肉。轻薄透气的面料，让您在炎炎夏日也能保持清爽。无论是海边度假还是日常休闲，都能轻松打造吸睛造型。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "亮黄色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "clothworkflow/testbed/images/qizhou_001.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2795,
+    "completion_tokens": 1272
+  }
+}

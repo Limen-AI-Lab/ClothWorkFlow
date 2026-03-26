@@ -1,0 +1,135 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "衬衫半裙套装",
+    "gender": "女装",
+    "age_range": "25-35",
+    "season": [
+      "春",
+      "夏",
+      "秋"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "约会",
+      "海滩度假"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "甜美",
+      "简约"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典款式，条纹元素经久不衰，套装搭配符合当下简约时尚趋势"
+  },
+  "colors": {
+    "primary_color": "粉色",
+    "secondary_colors": [
+      "白色"
+    ],
+    "color_scheme": "条纹",
+    "color_temperature": "暖色调",
+    "color_saturation": "中等",
+    "color_season": "春暖"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "肌理感",
+    "drape": "适中",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "翻领",
+    "sleeve_type": "短袖",
+    "waistline": "中腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "前纽扣"
+  },
+  "design_details": {
+    "pattern_type": "条纹",
+    "pattern_description": "细条纹",
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "清新甜美的休闲度假感，兼具通勤的简约大方。",
+    "design_highlight": "短款衬衫与中长半裙的套装搭配，拉高腰线，显高显瘦。",
+    "visual_weight": "轻盈"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "高腰设计拉长腿部比例，A字裙摆遮胯显瘦，宽松版型不挑身材。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "25-35岁追求舒适、时尚的都市女性",
+    "selling_points": [
+      "时尚套装，省去搭配烦恼",
+      "清新条纹，甜美减龄",
+      "宽松版型，舒适不挑身材",
+      "纯棉面料，透气亲肤"
+    ],
+    "similar_brands_style": "类似Zara、H&M的休闲时尚风格",
+    "coordination_suggestions": [
+      "搭配平底凉鞋和草编包，打造度假休闲风。",
+      "搭配小白鞋和帆布包，适合日常通勤或逛街。",
+      "搭配精致项链和手提包，提升整体造型的时尚感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024夏季新款粉色条纹衬衫半裙套装女时尚休闲短袖上衣中长裙两件套",
+    "search_keywords": [
+      "粉色条纹套装",
+      "衬衫半裙套装",
+      "夏季女装",
+      "休闲套装",
+      "短袖衬衫",
+      "中长裙",
+      "时尚两件套",
+      "度假风"
+    ],
+    "hashtags": [
+      "#条纹套装",
+      "#夏日穿搭",
+      "#甜美风",
+      "#休闲时尚",
+      "#度假穿搭",
+      "#套装推荐"
+    ],
+    "description": "这款粉色条纹衬衫半裙套装，采用舒适透气的纯棉面料，带来夏日清爽体验。短款衬衫搭配高腰中长裙，巧妙拉长身材比例，显高显瘦。清新甜美的条纹设计，无论是日常通勤、休闲逛街还是海边度假，都能轻松穿出时尚感。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "粉色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "clothworkflow/testbed/images/qizhou_030.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 2795,
+    "completion_tokens": 1235
+  }
+}

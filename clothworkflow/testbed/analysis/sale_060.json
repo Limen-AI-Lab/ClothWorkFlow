@@ -1,0 +1,177 @@
+{
+  "basic_info": {
+    "category": "裤子",
+    "subcategory": "卫裤",
+    "gender": "中性",
+    "age_range": "全年龄",
+    "season": [
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "居家",
+      "校园",
+      "运动"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "美式休闲",
+      "街头",
+      "运动"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典百搭款，不受潮流影响，但多色选择符合当下个性化需求"
+  },
+  "colors": {
+    "primary_color": "黑色",
+    "secondary_colors": [
+      "藏青",
+      "卡其",
+      "米白",
+      "深灰",
+      "墨绿",
+      "白色",
+      "橄榄绿",
+      "玫红",
+      "军绿",
+      "浅卡其",
+      "浅灰绿",
+      "深棕",
+      "咖啡色",
+      "雾蓝",
+      "浅灰",
+      "粉色"
+    ],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "中等",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "磨毛",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤, 蓬松保暖"
+  },
+  "construction": {
+    "silhouette": "修身直筒",
+    "fit": "宽松",
+    "length": "长款",
+    "neckline": null,
+    "sleeve_type": null,
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "系带"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "加绒"
+    ],
+    "functional_features": [
+      "保暖"
+    ]
+  },
+  "visual_impression": {
+    "overall_feel": "舒适保暖，简约百搭的休闲运动风格",
+    "design_highlight": "20色可选，重磅加绒保暖",
+    "visual_weight": "厚重"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形"
+    ],
+    "flattering_features": "直筒版型修饰腿型，松紧腰设计包容性强",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "平价50-150",
+    "target_audience": "18-35岁追求舒适、休闲风格的年轻群体",
+    "selling_points": [
+      "20色可选，满足多样化需求",
+      "重磅加绒，保暖性强",
+      "直筒版型，修饰腿型",
+      "美式休闲风格，百搭易穿",
+      "高克重面料，品质感好"
+    ],
+    "similar_brands_style": "类似优衣库、GU的基础款卫裤风格，但颜色选择更多",
+    "coordination_suggestions": [
+      "搭配连帽卫衣和运动鞋，打造休闲运动风。",
+      "搭配宽松T恤和夹克，营造街头潮流感。",
+      "搭配衬衫和休闲鞋，实现舒适的日常通勤穿搭。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILANI重磅加绒卫裤男秋冬20色直筒休闲运动裤女宽松束脚情侣长裤",
+    "search_keywords": [
+      "卫裤",
+      "加绒卫裤",
+      "直筒卫裤",
+      "运动裤",
+      "休闲裤",
+      "情侣卫裤",
+      "秋冬卫裤",
+      "重磅卫裤",
+      "多色卫裤",
+      "美式休闲"
+    ],
+    "hashtags": [
+      "#卫裤",
+      "#加绒裤",
+      "#直筒裤",
+      "#休闲穿搭",
+      "#情侣款",
+      "#秋冬必备",
+      "#美式休闲",
+      "#多巴胺穿搭"
+    ],
+    "description": "TILANI原创街头品牌，秋冬新款重磅加绒直筒卫裤，精选高克重面料，内里加绒保暖舒适。20种潮流色彩可选，满足个性化穿搭需求。宽松直筒版型，修饰腿型，男女同款，轻松打造美式休闲或街头运动风格，是日常通勤、居家休闲的百搭单品。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "藏青",
+      "卡其",
+      "米白",
+      "深灰",
+      "墨绿",
+      "白色",
+      "橄榄绿",
+      "玫红",
+      "军绿",
+      "浅卡其",
+      "浅灰绿",
+      "深棕",
+      "咖啡色",
+      "雾蓝",
+      "浅灰",
+      "粉色",
+      "黑色"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILANI"
+  },
+  "_meta": {
+    "image": "clothworkflow/testbed/images/sale_060.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 3827,
+    "completion_tokens": 1427
+  }
+}

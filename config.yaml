@@ -1,0 +1,72 @@
+# ============================================================
+# ClothWorkFlow 配置文件
+# 所有配置项均可通过环境变量覆盖（优先级：环境变量 > 本文件 > 默认值）
+# ============================================================
+
+# ============ API 密钥 ============
+api:
+  # OpenRouter（分析服装图片）
+  openrouter_api_key: ""           # 或设置环境变量 OPENROUTER_API_KEY
+  openrouter_api_url: "https://openrouter.ai/api/v1/chat/completions"
+
+  # AWS Bedrock（爬取时驱动 browser-use）
+  aws_bearer_token: ""             # 或设置环境变量 AWS_BEARER_TOKEN_BEDROCK
+  aws_region: "us-east-1"          # 或设置环境变量 AWS_REGION
+
+# ============ 模型配置 ============
+models:
+  # Gemini 多模态分析模型（通过 OpenRouter 调用）
+  analysis_model: "google/gemini-2.5-flash"
+
+  # Bedrock 爬取模型
+  bedrock_model: "bedrock/us.anthropic.claude-sonnet-4-5-20250929-v1:0"
+
+  # BGE-M3 Embedding 模型（本地或自动下载）
+  # 使用 HuggingFace model ID 会自动下载，或设置为本地路径
+  bge_m3_path: "BAAI/bge-m3"
+
+  # BGE Reranker 模型（本地或自动下载）
+  # 使用 HuggingFace model ID 会自动下载，或设置为本地路径
+  bge_reranker_path: "BAAI/bge-reranker-v2-m3"
+
+# ============ 路径配置 ============
+paths:
+  # 目标店铺 URL 列表
+  url_file: "clothworkflow/data/taget_url.txt"
+
+  # 爬取图片保存目录
+  download_dir: "downloaded_images"
+
+  # 分析结果目录
+  analysis_dir: "clothworkflow/analysis"
+
+  # 测试床目录
+  testbed_dir: "clothworkflow/testbed"
+
+# ============ 爬取参数 ============
+scrape:
+  max_steps: 50                    # Agent 最大步数
+  min_image_size: 10240            # 最小图片大小(字节)，过滤 logo/icon
+  headless: false                  # 是否无头模式
+
+# ============ 分析参数 ============
+analyze:
+  timeout: 120                     # API 请求超时秒数
+  delay: 1.0                       # 批量请求间隔秒数（避免限流）
+  max_tokens: 4096                 # LLM 最大输出 token
+  temperature: 0.1                 # LLM 温度（越低越稳定）
+
+# ============ 推荐参数 ============
+recommend:
+  top_n: 5                         # 默认推荐数量
+  bm25_k: 15                       # BM25 召回数量
+  vector_k: 15                     # 向量召回数量
+  rerank_k: 20                     # 送入 Reranker 的候选数量
+  rrf_k: 60                        # RRF 融合常数
+
+# ============ 索引文件名（一般无需修改） ============
+index:
+  vector_file: "_vector_index.npz"
+  meta_file: "_vector_meta.json"
+  bm25_file: "_bm25_corpus.json"
+  version_file: "_index_version.json"

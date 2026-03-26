@@ -1,0 +1,156 @@
+{
+  "basic_info": {
+    "category": "套装",
+    "subcategory": "连帽卫衣套装",
+    "gender": "中性",
+    "age_range": "全年龄",
+    "season": [
+      "春",
+      "秋",
+      "冬"
+    ],
+    "occasion": [
+      "日常通勤",
+      "休闲逛街",
+      "居家",
+      "校园",
+      "户外"
+    ]
+  },
+  "style": {
+    "primary_style": "休闲",
+    "secondary_styles": [
+      "街头"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典休闲款式，水洗做旧工艺赋予其复古街头感，不受潮流影响，经久不衰。"
+  },
+  "colors": {
+    "primary_color": "炭灰",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "中性色调",
+    "color_saturation": "低饱和莫兰迪",
+    "color_season": "百搭"
+  },
+  "material": {
+    "primary_fabric": "纯棉",
+    "fabric_blend": null,
+    "fabric_weight": "厚实>350g",
+    "texture": "水洗做旧",
+    "drape": "适中",
+    "elasticity": "微弹",
+    "transparency": "不透",
+    "hand_feel_guess": "柔软亲肤"
+  },
+  "construction": {
+    "silhouette": "H型",
+    "fit": "宽松",
+    "length": "常规",
+    "neckline": "连帽",
+    "sleeve_type": "长袖",
+    "waistline": "松紧腰",
+    "hem": "收口",
+    "back_design": null,
+    "closure": "套头"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "插袋",
+    "stitching": "常规",
+    "craft_techniques": [
+      "水洗",
+      "做旧"
+    ],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "舒适随性的街头休闲感，带有复古做旧的独特韵味。",
+    "design_highlight": "重磅水洗毛圈棉面料和做旧工艺，赋予服装独特的质感和复古感。",
+    "visual_weight": "量感强"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "梨形",
+      "苹果形",
+      "直筒型",
+      "沙漏形",
+      "倒三角"
+    ],
+    "flattering_features": "宽松版型不挑身材，连帽设计修饰颈部线条，裤子收口设计显腿长。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中端150-500",
+    "target_audience": "追求舒适、时尚和个性的年轻消费者，注重面料质感和设计细节。",
+    "selling_points": [
+      "350G重磅水洗毛圈棉，保暖舒适",
+      "独特水洗做旧工艺，复古街头感",
+      "宽松版型，不挑身材，穿着舒适",
+      "多色可选，满足不同搭配需求",
+      "连帽卫衣+束脚裤套装，省心搭配"
+    ],
+    "similar_brands_style": "类似Champion、Stussy等街头潮牌的休闲卫衣风格。",
+    "coordination_suggestions": [
+      "搭配老爹鞋或帆布鞋，打造休闲街头风。",
+      "内搭白色T恤，露出衣领和下摆，增加层次感。",
+      "搭配棒球帽或冷帽，增强潮流感。"
+    ]
+  },
+  "ecommerce": {
+    "title": "TILAN重磅水洗毛圈棉连帽卫衣套装男女童秋冬新款宽松休闲运动服",
+    "search_keywords": [
+      "重磅卫衣",
+      "水洗卫衣",
+      "毛圈棉卫衣",
+      "连帽卫衣套装",
+      "宽松卫衣",
+      "休闲运动服",
+      "街头潮牌",
+      "秋冬卫衣",
+      "男女同款",
+      "儿童卫衣",
+      "做旧卫衣",
+      "350G卫衣"
+    ],
+    "hashtags": [
+      "#重磅卫衣",
+      "#水洗做旧",
+      "#连帽套装",
+      "#街头潮牌",
+      "#秋冬穿搭",
+      "#亲子装",
+      "#舒适休闲",
+      "#oversize"
+    ],
+    "description": "这款TILAN重磅水洗毛圈棉连帽卫衣套装，采用350G厚实毛圈棉面料，手感柔软亲肤，保暖舒适。独特的重磅水洗做旧工艺，赋予服装复古街头感和独特纹理。宽松版型设计，不挑身材，穿着自在。连帽卫衣搭配束脚裤，轻松打造时尚休闲造型，是秋冬日常、街头、居家穿着的理想选择。"
+  },
+  "image_info": {
+    "image_type": "模特上身图,多色展示",
+    "available_colors_shown": [
+      "黑色",
+      "蓝色",
+      "灰色",
+      "粉色",
+      "紫色",
+      "酒红",
+      "深灰",
+      "棕色",
+      "墨绿",
+      "卡其",
+      "军绿",
+      "藏青"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": true,
+    "brand_visible": "TILAN"
+  },
+  "_meta": {
+    "image": "clothworkflow/testbed/images/sale_080.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 3827,
+    "completion_tokens": 1436
+  }
+}

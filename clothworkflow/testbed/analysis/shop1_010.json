@@ -1,0 +1,131 @@
+{
+  "basic_info": {
+    "category": "连衣裙",
+    "subcategory": "长款连衣裙",
+    "gender": "女装",
+    "age_range": "25-45",
+    "season": [
+      "春",
+      "秋"
+    ],
+    "occasion": [
+      "约会",
+      "派对",
+      "正式商务",
+      "晚宴"
+    ]
+  },
+  "style": {
+    "primary_style": "优雅",
+    "secondary_styles": [
+      "复古",
+      "华丽"
+    ],
+    "aesthetic": null,
+    "trend_relevance": "经典款式，不受潮流影响，但喇叭袖设计带有复古元素"
+  },
+  "colors": {
+    "primary_color": "藏青",
+    "secondary_colors": [],
+    "color_scheme": "纯色",
+    "color_temperature": "冷色调",
+    "color_saturation": "中等",
+    "color_season": "冬冷"
+  },
+  "material": {
+    "primary_fabric": "真丝",
+    "fabric_blend": null,
+    "fabric_weight": "中等150-250g",
+    "texture": "光滑",
+    "drape": "柔软垂坠",
+    "elasticity": "无弹",
+    "transparency": "不透",
+    "hand_feel_guess": "顺滑冰凉"
+  },
+  "construction": {
+    "silhouette": "X型",
+    "fit": "修身",
+    "length": "超长及踝",
+    "neckline": "圆领",
+    "sleeve_type": "喇叭袖",
+    "waistline": "高腰",
+    "hem": "平摆",
+    "back_design": null,
+    "closure": "无"
+  },
+  "design_details": {
+    "pattern_type": "纯色",
+    "pattern_description": null,
+    "decorations": [],
+    "pockets": "无口袋",
+    "stitching": "常规",
+    "craft_techniques": [],
+    "functional_features": []
+  },
+  "visual_impression": {
+    "overall_feel": "优雅高贵的晚宴礼服感，带有复古韵味。",
+    "design_highlight": "修身剪裁与夸张喇叭袖的结合，以及裙摆的垂坠感。",
+    "visual_weight": "适中"
+  },
+  "body_compatibility": {
+    "suitable_body_types": [
+      "沙漏形",
+      "直筒型"
+    ],
+    "flattering_features": "修身设计凸显腰部曲线，长款裙摆拉长身形。",
+    "size_range_guess": "S-XL"
+  },
+  "commercial": {
+    "price_tier": "中高端500-1500",
+    "target_audience": "25-45岁追求优雅、高品质的都市女性",
+    "selling_points": [
+      "优雅修身版型，凸显女性曲线",
+      "复古喇叭袖设计，增添时尚感",
+      "垂坠感面料，穿着舒适有质感",
+      "藏青色经典百搭，适合多种场合"
+    ],
+    "similar_brands_style": "类似Max Mara、Theory的优雅风格",
+    "coordination_suggestions": [
+      "搭配精致手拿包和高跟鞋，出席晚宴或派对。",
+      "搭配简约项链和耳环，提升整体造型的精致度。",
+      "外搭一件同色系或对比色的长款大衣，增加层次感和保暖性。"
+    ]
+  },
+  "ecommerce": {
+    "title": "2024新款藏青色优雅修身长款连衣裙复古喇叭袖晚宴礼服裙女",
+    "search_keywords": [
+      "藏青色连衣裙",
+      "修身长裙",
+      "喇叭袖连衣裙",
+      "晚宴礼服",
+      "优雅连衣裙",
+      "复古长裙",
+      "高腰连衣裙",
+      "气质长裙"
+    ],
+    "hashtags": [
+      "#优雅连衣裙",
+      "#晚宴礼服",
+      "#复古喇叭袖",
+      "#藏青色长裙",
+      "#气质穿搭",
+      "#修身显瘦"
+    ],
+    "description": "这款藏青色长款连衣裙，采用修身剪裁，完美勾勒女性曼妙身姿。独特的复古喇叭袖设计，增添时尚与优雅。垂坠感面料带来舒适穿着体验，无论是出席晚宴、派对还是重要场合，都能展现您的独特魅力与高贵气质。"
+  },
+  "image_info": {
+    "image_type": "模特上身图",
+    "available_colors_shown": [
+      "藏青"
+    ],
+    "has_size_info": false,
+    "has_fabric_info": false,
+    "brand_visible": null
+  },
+  "_meta": {
+    "image": "clothworkflow/testbed/images/shop1_010.jpg",
+    "model": "google/gemini-2.5-flash",
+    "prompt_tokens": 3827,
+    "completion_tokens": 1216
+  }
+}
