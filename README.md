@@ -1,79 +1,132 @@
 # ClothWorkFlow
 
-服装图片爬取 + AI 特征分析 + 混合检索智能推荐
+服装图片爬取 + AI 特征分析 + 混合检索智能推荐 + 可视化 Web 界面
 
 ## 项目结构
 
 ```
 ClothWorkFlow/
-├── clothworkflow/                  # 主包
-│   ├── core/                       # 核心逻辑
-│   │   ├── config.py               #   统一配置（路径/API/模型/默认参数）
-│   │   ├── analyzer.py             #   Gemini 多模态分析（50+维度 Prompt）
-│   │   ├── text_builder.py         #   语义文本生成 + jieba 中文分词
-│   │   ├── indexer.py              #   向量索引 + BM25 语料构建
-│   │   ├── retriever.py            #   混合检索 + Reranker 精排
-│   │   └── llm_bedrock.py          #   AWS Bedrock LLM 适配器
+├── clothworkflow/                     # 主包
+│   ├── core/                          # 核心逻辑
+│   │   ├── config.py                  #   统一配置（环境变量 > YAML > 默认值）
+│   │   ├── analyzer.py                #   Gemini 多模态分析（50+ 维度 Prompt）
+│   │   ├── text_builder.py            #   语义文本生成 + jieba 中文分词
+│   │   ├── indexer.py                 #   向量索引 + BM25 语料构建
+│   │   ├── retriever.py               #   混合检索 + Reranker 精排
+│   │   ├── model_manager.py           #   BGE 模型加载 / 管理
+│   │   └── llm_bedrock.py             #   AWS Bedrock LLM 适配器
 │   │
-│   ├── cli/                        # CLI 入口
-│   │   ├── scrape.py               #   爬取 1688 店铺图片
-│   │   ├── analyze.py              #   批量分析服装特征
-│   │   ├── recommend.py            #   智能推荐检索
-│   │   └── pipeline.py             #   一键全流程
+│   ├── cli/                           # CLI 入口
+│   │   ├── scrape.py                  #   browser-use 爬取 1688 店铺图片
+│   │   ├── analyze.py                 #   批量分析服装特征
+│   │   ├── recommend.py               #   智能推荐检索
+│   │   └── pipeline.py                #   一键全流程
 │   │
-│   ├── data/                       # 输入数据
-│   │   └── taget_url.txt           #   目标店铺 URL 列表
+│   ├── api.py                         # FastAPI 后端（REST API）
+│   ├── app.py                         # Gradio Web UI（备用）
+│   ├── detail_view.py                 # 商品详情 HTML 渲染
+│   ├── stats.py                       # 数据统计 + 可视化
 │   │
-│   └── testbed/                    # 测试材料
-│       ├── images/                 #   12张测试图片（4店铺各3张）
-│       └── analysis/               #   分析结果 + 向量索引
+│   ├── web/                           # React 前端（TypeScript + Vite）
+│   │   ├── src/
+│   │   │   ├── App.tsx                #   主布局 + 侧边栏导航
+│   │   │   ├── api.ts                 #   Axios HTTP 客户端
+│   │   │   └── pages/
+│   │   │       ├── SearchPage.tsx     #   智能搜索 + 图片画廊 + 详情抽屉
+│   │   │       ├── StatsPage.tsx      #   数据概览（饼图 / 柱状图）
+│   │   │       ├── ConfigPage.tsx     #   配置管理（YAML 编辑器）
+│   │   │       └── AboutPage.tsx      #   项目介绍
+│   │   ├── dist/                      #   构建产物（生产环境）
+│   │   └── package.json
+│   │
+│   ├── analysis/                      # 全量分析结果（432 条）
+│   ├── data/                          # 目标店铺 URL 列表
+│   └── testbed/                       # 测试数据（12 张样本图片 + 预置索引）
 │
-├── downloaded_images/              # 爬取的全量图片（gitignore）
+├── downloaded_images/                 # 爬取的全量图片（433 张，gitignore）
+├── config.yaml                        # 项目配置文件
 ├── pyproject.toml
-├── .env / .gitignore / README.md
+└── .env / .env.example
 ```
+
+## 技术栈
+
+| 层级 | 技术 |
+|------|------|
+| **爬取** | browser-use + AWS Bedrock Claude + Playwright |
+| **分析** | Gemini 2.5 Flash（via OpenRouter）— 50+ 维度特征提取 |
+| **检索** | BM25（jieba 分词）+ BGE-M3 语义向量 + RRF 融合 + BGE-Reranker 精排 |
+| **后端** | FastAPI（REST API，端口 8000） |
+| **前端** | React 19 + TypeScript + Ant Design 6 + Vite |
+| **运行时** | Python ≥ 3.13，uv 包管理 |
 
 ## 环境准备
 
 ```bash
 # 1. 安装依赖
-uv sync                                     # 安装核心依赖
-uv sync --extra scrape                       # 如需爬取
-uv run playwright install chromium           # 如需爬取
+uv sync                                     # 核心依赖
+uv sync --extra scrape                       # 如需爬取功能
+uv run playwright install chromium           # 如需爬取功能
 
-# 2. 配置环境变量（复制 .env.example 为 .env 并填写）
+# 2. 配置环境变量
 cp .env.example .env
-
-# 或直接导出环境变量：
-export OPENROUTER_API_KEY="your-key"         # 分析必需
-export AWS_BEARER_TOKEN_BEDROCK="your-token" # 爬取必需
-export AWS_REGION="us-east-1"                # 爬取必需
+# 填写以下密钥：
+#   OPENROUTER_API_KEY   — Gemini 分析必需
+#   AWS_BEARER_TOKEN_BEDROCK — 爬取必需
+#   AWS_REGION           — 爬取必需（默认 us-east-1）
 ```
 
 ## 使用方式
 
-### 方式一：python -m 模块调用
+### Web 界面（推荐）
 
 ```bash
-# 分析
-.venv/bin/python -m clothworkflow.cli.analyze --dir downloaded_images --recursive --outdir analysis_results
+# 启动 FastAPI 后端（自动挂载前端静态资源）
+.venv/bin/python -m clothworkflow.api
 
-# 建索引 + 推荐
-.venv/bin/python -m clothworkflow.cli.recommend --analysis-dir analysis_results --build-index
-.venv/bin/python -m clothworkflow.cli.recommend --analysis-dir analysis_results --query "显瘦的裙子"
-.venv/bin/python -m clothworkflow.cli.recommend --analysis-dir analysis_results  # 交互模式
-
-# 一键全流程
-.venv/bin/python -m clothworkflow.cli.pipeline --images downloaded_images --analysis analysis_results
-
-# 爬取
-.venv/bin/python -m clothworkflow.cli.scrape
+# 访问 http://localhost:8000
 ```
 
-### 方式二：用 testbed 快速体验
+功能页面：
+- **智能搜索** — 输入自然语言查询，展示推荐结果画廊 + 详情抽屉 + 分数可视化
+- **数据概览** — 商品分类 / 性别 / 风格 / 颜色等维度分布图表
+- **配置管理** — 在线编辑 config.yaml
+- **关于项目** — 推荐架构与分析维度说明
+
+如需前端开发模式：
+```bash
+cd clothworkflow/web
+npm install && npm run dev    # http://localhost:5173
+```
+
+### CLI 命令行
 
 ```bash
-# 直接用预置的 testbed 数据测试推荐
+# 爬取 1688 店铺图片
+.venv/bin/python -m clothworkflow.cli.scrape
+
+# 批量分析服装特征
+.venv/bin/python -m clothworkflow.cli.analyze \
+    --dir downloaded_images --recursive --outdir analysis_results
+
+# 构建索引 + 搜索推荐
+.venv/bin/python -m clothworkflow.cli.recommend \
+    --analysis-dir analysis_results --build-index
+.venv/bin/python -m clothworkflow.cli.recommend \
+    --analysis-dir analysis_results --query "显瘦的夏天裙子"
+
+# 交互模式
+.venv/bin/python -m clothworkflow.cli.recommend --analysis-dir analysis_results
+
+# 一键全流程（爬取 → 分析 → 索引 → 搜索）
+.venv/bin/python -m clothworkflow.cli.pipeline \
+    --images downloaded_images --analysis analysis_results
+```
+
+### 快速体验（无需 API 密钥）
+
+```bash
+# 使用预置的 testbed 数据直接测试推荐
 .venv/bin/python -m clothworkflow.cli.recommend \
     --analysis-dir clothworkflow/testbed/analysis \
     --query "参加派对穿的裙子"
@@ -83,22 +136,36 @@ export AWS_REGION="us-east-1"                # 爬取必需
 
 ```
 用户: "显瘦的夏天裙子"
-  ├─ jieba 分词: 显瘦 / 夏天 / 裙子
+  ├─ jieba 分词 → 显瘦 / 夏天 / 裙子
   ├─ BM25 关键词检索 → 精确命中含"显瘦""裙子"的商品
-  ├─ BGE-M3 语义检索 → 理解 显瘦≈修身/A型/高腰/深色
+  ├─ BGE-M3 语义检索 → 理解 显瘦 ≈ 修身 / A型 / 高腰 / 深色
   ├─ RRF 融合排序
   └─ BGE-Reranker 精排 → Top N 推荐
 ```
 
 ## 本地模型
 
-- **BGE-M3** — embedding（1024维）
-- **BGE-Reranker-v2-M3** — 交叉编码器精排
+| 模型 | 用途 |
+|------|------|
+| **BGE-M3** | Embedding（1024 维） |
+| **BGE-Reranker-v2-M3** | 交叉编码器精排 |
 
-**自动下载**：首次运行时，模型会从 HuggingFace 自动下载（需科学上网）。
+首次运行时自动从 HuggingFace 下载。如已有本地模型，可通过环境变量指定路径：
 
-**手动指定**：如已下载模型，可设置环境变量或修改 `config.yaml`：
 ```bash
 export BGE_M3_PATH="/your/path/to/bge-m3"
 export BGE_RERANKER_PATH="/your/path/to/bge-reranker-v2-m3"
 ```
+
+## 配置优先级
+
+环境变量 > `config.yaml` > 代码默认值
+
+详见 `config.yaml` 中的完整配置项说明。
+
+## 数据集
+
+项目包含完整的预置数据集：
+- **433 张**商品图片（4 个 1688 店铺）
+- **432 条**AI 分析结果（JSON 格式，50+ 维度特征）
+- 预构建的 BGE-M3 向量索引 + BM25 语料库
