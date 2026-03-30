@@ -4,6 +4,7 @@ export interface StatusResponse {
   loaded: boolean
   count: number
   analysis_dir: string
+  gemini_configured?: boolean
 }
 
 export interface AnalysisDir {
@@ -28,6 +29,8 @@ export interface LoadResponse {
 export interface SearchRequest {
   query: string
   top_n?: number
+  llm_route?: boolean
+  per_slot_top_n?: number | null
 }
 
 export interface SearchScore {
@@ -47,13 +50,27 @@ export interface SearchResult {
   gender: string
   image_url: string
   scores: SearchScore
+  /** 搭配检索时的 slot：top / bottom / dress */
+  slot?: string
+  slot_label?: string
 }
 
 export interface SearchTiming {
   bm25_ms: number
   vector_ms: number
+  merge_ms?: number
   rerank_ms: number
   total_ms: number
+  gemini_ms?: number
+}
+
+export interface LlmRouteMeta {
+  mode: 'single' | 'outfit'
+  reason: string
+  plan?: Record<string, unknown>
+  used_queries: { slot: string | null; query: string }[]
+  gemini_ms: number
+  per_slot_top_n?: number
 }
 
 export interface SearchResponse {
@@ -63,6 +80,7 @@ export interface SearchResponse {
   candidates: number
   timing: SearchTiming
   results: SearchResult[]
+  llm_route: LlmRouteMeta | null
 }
 
 export interface ProductResponse {

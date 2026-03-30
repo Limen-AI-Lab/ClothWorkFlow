@@ -1,13 +1,17 @@
 """FastAPI 后端 — 为 React 前端提供 REST API"""
 
+import asyncio
 import json
+import os
+from contextlib import asynccontextmanager
 from pathlib import Path
 
+import httpx
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 from clothworkflow.core.config import (
     PROJECT_ROOT, PACKAGE_ROOT, CONFIG_FILE,
@@ -20,7 +24,36 @@ from clothworkflow.core.config import (
 )
 from clothworkflow.core.indexer import load_index, index_is_stale, build_index, load_analysis_results
 
-app = FastAPI(title="ClothWorkFlow API", version="0.3.0")
+
+def _auto_load_if_enabled() -> None:
+    """在后台线程执行，避免阻塞 Uvicorn 监听端口（否则建索引期间浏览器会 connection refused）"""
+    auto = os.getenv("CLOTHWORKFLOW_AUTO_LOAD", "1").strip().lower()
+    skip_auto = auto in ("0", "false", "no", "off")
+    dirs_resp = get_analysis_dirs()
+    if skip_auto and dirs_resp["dirs"]:
+        print("已跳过自动加载（CLOTHWORKFLOW_AUTO_LOAD=0），请在界面选择并加载数据集。")
+        return
+    if not dirs_resp["dirs"]:
+        return
+    first = dirs_resp["dirs"][0]["path"]
+    print(f"自动加载（后台）: {first}")
+    try:
+        load_data(LoadRequest(analysis_dir=first))
+        print("自动加载完成。")
+    except Exception as e:
+        print(f"自动加载失败（可在页面选择数据集后重试）: {e}")
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    async def _bg():
+        await asyncio.to_thread(_auto_load_if_enabled)
+
+    asyncio.create_task(_bg())
+    yield
+
+
+app = FastAPI(title="ClothWorkFlow API", version="0.3.0", lifespan=lifespan)
 
 app.add_middleware(
     CORSMiddleware,
@@ -34,6 +67,7 @@ _retriever = None
 _meta_list = None
 _analysis_dir = None
 _all_analysis_data = {}
+_bucket_indices: dict[str, frozenset[int]] | None = None
 
 
 # ============ 路径解析 ============
@@ -67,6 +101,14 @@ def resolve_image_path(img_path_str: str) -> str | None:
 class SearchRequest(BaseModel):
     query: str
     top_n: int = 5
+    llm_route: bool = Field(
+        False,
+        description="为 True 时用 Gemini 判断单品/搭配；搭配则按上装/下装等分桶各检索一次。",
+    )
+    per_slot_top_n: int | None = Field(
+        None,
+        description="搭配模式下每个 slot 的返回条数；默认按 top_n 与 slot 数自动分配。",
+    )
 
 
 class LoadRequest(BaseModel):
@@ -92,28 +134,56 @@ def get_analysis_dirs():
 
 @app.post("/api/load")
 def load_data(req: LoadRequest):
-    global _retriever, _meta_list, _analysis_dir, _all_analysis_data
+    global _retriever, _meta_list, _analysis_dir, _all_analysis_data, _bucket_indices
 
     analysis_path = Path(req.analysis_dir)
     if not analysis_path.exists():
         raise HTTPException(404, f"目录不存在: {req.analysis_dir}")
 
-    if index_is_stale(analysis_path):
-        build_index(analysis_path)
+    try:
+        if index_is_stale(analysis_path):
+            build_index(analysis_path)
 
-    embeddings, meta_list, bm25_corpus = load_index(analysis_path)
-    from clothworkflow.core.retriever import HybridRetriever
-    _retriever = HybridRetriever(embeddings, meta_list, bm25_corpus)
-    _meta_list = meta_list
-    _analysis_dir = req.analysis_dir
+        embeddings, meta_list, bm25_corpus = load_index(analysis_path)
+        from clothworkflow.core.retriever import HybridRetriever
+        _retriever = HybridRetriever(embeddings, meta_list, bm25_corpus)
+        _meta_list = meta_list
+        _analysis_dir = req.analysis_dir
+        from clothworkflow.core.search_intent import build_bucket_index
 
-    _all_analysis_data = {}
-    for item in load_analysis_results(analysis_path):
-        source = item.get("_source_file", "")
-        if source:
-            _all_analysis_data[Path(source).stem] = item
+        _bucket_indices = build_bucket_index(meta_list)
 
-    return {"status": "ok", "count": len(meta_list), "dim": embeddings.shape[1]}
+        _all_analysis_data = {}
+        for item in load_analysis_results(analysis_path):
+            source = item.get("_source_file", "")
+            if source:
+                _all_analysis_data[Path(source).stem] = item
+
+        return {"status": "ok", "count": len(meta_list), "dim": embeddings.shape[1]}
+    except HTTPException:
+        raise
+    except SystemExit as e:
+        raise HTTPException(400, str(e) or "索引构建或加载失败") from e
+    except Exception as e:
+        raise HTTPException(
+            status_code=503,
+            detail=(
+                f"加载失败: {e}。若本地 models/bge-m3 不完整，可删除该文件夹后重试以下载完整模型；"
+                "Python 3.14 下 HuggingFace 下载可能崩溃，建议改用 3.12/3.13 虚拟环境。"
+            ),
+        ) from e
+
+
+def _search_results_to_items(raw_results: list[dict]) -> list[dict]:
+    items = []
+    for r in raw_results:
+        resolved = resolve_image_path(r["image"])
+        row = {
+            **r,
+            "image_url": f"/api/image?path={resolved}" if resolved else None,
+        }
+        items.append(row)
+    return items
 
 
 @app.post("/api/search")
@@ -121,23 +191,117 @@ def search(req: SearchRequest):
     if _retriever is None:
         raise HTTPException(400, "请先加载分析数据")
 
-    result = _retriever.search(req.query.strip(), top_n=req.top_n)
+    q = req.query.strip()
+    if not q:
+        raise HTTPException(400, "query 不能为空")
 
-    items = []
-    for r in result["results"]:
-        resolved = resolve_image_path(r["image"])
-        items.append({
-            **r,
-            "image_url": f"/api/image?path={resolved}" if resolved else None,
-        })
+    if not req.llm_route:
+        result = _retriever.search(q, top_n=req.top_n)
+        items = _search_results_to_items(result["results"])
+        return {
+            "query": result["query"],
+            "query_tokens": result.get("query_tokens", []),
+            "total_items": result["total_items"],
+            "candidates": result["candidates_before_rerank"],
+            "timing": result["timing"],
+            "results": items,
+            "llm_route": None,
+        }
+
+    api_key = os.getenv("GEMINI_API_KEY", "").strip()
+    if not api_key:
+        raise HTTPException(
+            400,
+            "已开启智能理解（llm_route），请设置环境变量 GEMINI_API_KEY（Google AI Studio API Key）",
+        )
+
+    from clothworkflow.core.search_intent import (
+        gemini_classify_search_intent,
+        ROLE_TO_BUCKET,
+        SLOT_LABEL_ZH,
+    )
+
+    try:
+        plan, gemini_ms = gemini_classify_search_intent(q, api_key)
+    except httpx.HTTPStatusError as e:
+        detail = e.response.text[:500] if e.response is not None else str(e)
+        raise HTTPException(502, f"Gemini API 请求失败: {detail}") from e
+    except Exception as e:
+        raise HTTPException(502, f"Gemini 意图解析失败: {e}") from e
+
+    if plan["mode"] == "single":
+        result = _retriever.search(plan["single_query"], top_n=req.top_n)
+        items = _search_results_to_items(result["results"])
+        timing = dict(result["timing"])
+        timing["gemini_ms"] = gemini_ms
+        timing["total_ms"] = timing.get("total_ms", 0) + gemini_ms
+        return {
+            "query": q,
+            "query_tokens": result.get("query_tokens", []),
+            "total_items": result["total_items"],
+            "candidates": result["candidates_before_rerank"],
+            "timing": timing,
+            "results": items,
+            "llm_route": {
+                "mode": "single",
+                "reason": plan["reason"],
+                "plan": plan,
+                "used_queries": [{"slot": None, "query": plan["single_query"]}],
+                "gemini_ms": gemini_ms,
+            },
+        }
+
+    slots = plan["slots"]
+    n_slots = len(slots)
+    per = req.per_slot_top_n
+    if per is None or per < 1:
+        per = max(3, min(15, req.top_n // max(1, n_slots)))
+
+    assert _bucket_indices is not None
+    acc_timing = {"bm25_ms": 0, "vector_ms": 0, "merge_ms": 0, "rerank_ms": 0, "total_ms": 0}
+    candidates_sum = 0
+    items: list[dict] = []
+    used_queries: list[dict] = []
+    rank = 1
+
+    for slot in slots:
+        role = slot["role"]
+        sq = slot["query"]
+        bucket = ROLE_TO_BUCKET[role]
+        allowed = _bucket_indices.get(bucket) or frozenset()
+        used_queries.append({"slot": role, "query": sq})
+        sub = _retriever.search(sq, top_n=per, allowed_indices=allowed)
+        candidates_sum += sub["candidates_before_rerank"]
+        for k in acc_timing:
+            if k in sub["timing"]:
+                acc_timing[k] += sub["timing"][k]
+        for r in sub["results"]:
+            row = {**r, "rank": rank}
+            rank += 1
+            row["slot"] = role
+            row["slot_label"] = SLOT_LABEL_ZH.get(role, role)
+            resolved = resolve_image_path(row["image"])
+            row["image_url"] = f"/api/image?path={resolved}" if resolved else None
+            items.append(row)
+
+    acc_timing["gemini_ms"] = gemini_ms
+    acc_timing["total_ms"] = acc_timing.get("total_ms", 0) + gemini_ms
 
     return {
-        "query": result["query"],
-        "query_tokens": result.get("query_tokens", []),
-        "total_items": result["total_items"],
-        "candidates": result["candidates_before_rerank"],
-        "timing": result["timing"],
+        "query": q,
+        "query_tokens": [],
+        "total_items": _retriever.n,
+        "candidates": candidates_sum,
+        "timing": acc_timing,
         "results": items,
+        "llm_route": {
+            "mode": "outfit",
+            "reason": plan["reason"],
+            "plan": plan,
+            "used_queries": used_queries,
+            "gemini_ms": gemini_ms,
+            "per_slot_top_n": per,
+        },
     }
 
 
@@ -205,6 +369,7 @@ def get_status():
         "loaded": _retriever is not None,
         "count": _retriever.n if _retriever else 0,
         "analysis_dir": _analysis_dir,
+        "gemini_configured": bool(os.getenv("GEMINI_API_KEY", "").strip()),
     }
 
 
@@ -213,12 +378,7 @@ def get_status():
 def main():
     import uvicorn
 
-    # 自动加载数据
-    dirs_resp = get_analysis_dirs()
-    if dirs_resp["dirs"]:
-        first = dirs_resp["dirs"][0]["path"]
-        print(f"自动加载: {first}")
-        load_data(LoadRequest(analysis_dir=first))
+    # 自动加载在 lifespan 后台线程中进行，此处不再阻塞
 
     # 如果有前端构建产物则 serve
     frontend_dist = PACKAGE_ROOT / "web" / "dist"

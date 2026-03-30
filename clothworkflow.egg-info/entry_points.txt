@@ -1,0 +1,5 @@
+[console_scripts]
+cw-analyze = clothworkflow.cli.analyze:main
+cw-pipeline = clothworkflow.cli.pipeline:main
+cw-recommend = clothworkflow.cli.recommend:main
+cw-scrape = clothworkflow.cli.scrape:main

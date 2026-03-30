@@ -1,3 +1,10 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["clothworkflow*"]
+
 [project]
 name = "clothworkflow"
 version = "0.3.0"
@@ -6,7 +13,10 @@ readme = "README.md"
 requires-python = ">=3.13"
 
 dependencies = [
+    "fastapi>=0.115.0",
+    "uvicorn[standard]>=0.32.0",
     "httpx>=0.28.1",
+    "python-dotenv>=1.0.0",
     "jieba>=0.42",
     "numpy>=2.4.3",
     "rank-bm25>=0.2",

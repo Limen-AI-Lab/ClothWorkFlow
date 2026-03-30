@@ -1,15 +1,17 @@
 import { useState, useEffect } from 'react'
 import { Routes, Route, Link, useLocation } from 'react-router-dom'
-import { Layout, Menu, Badge, Spin, Typography } from 'antd'
+import { Layout, Menu, Badge, Spin, Typography, ConfigProvider } from 'antd'
 import {
   SearchOutlined,
   BarChartOutlined,
   SettingOutlined,
   InfoCircleOutlined,
   LoadingOutlined,
+  UserOutlined,
 } from '@ant-design/icons'
 import SearchPage from './pages/SearchPage'
 import StatsPage from './pages/StatsPage'
+import ModelPresetsPage from './pages/ModelPresetsPage'
 import ConfigPage from './pages/ConfigPage'
 import AboutPage from './pages/AboutPage'
 import { getStatus } from './api'
@@ -44,102 +46,109 @@ function App() {
     {
       key: '/search',
       icon: <SearchOutlined />,
-      label: <Link to="/search">Smart Search</Link>,
+      label: <Link to="/search">智能搜索</Link>,
     },
     {
       key: '/stats',
       icon: <BarChartOutlined />,
-      label: <Link to="/stats">Data Overview</Link>,
+      label: <Link to="/stats">数据概览</Link>,
+    },
+    {
+      key: '/model-presets',
+      icon: <UserOutlined />,
+      label: <Link to="/model-presets">预设模特</Link>,
     },
     {
       key: '/config',
       icon: <SettingOutlined />,
-      label: <Link to="/config">Settings</Link>,
+      label: <Link to="/config">设置</Link>,
     },
     {
       key: '/about',
       icon: <InfoCircleOutlined />,
-      label: <Link to="/about">About</Link>,
+      label: <Link to="/about">关于</Link>,
     },
   ]
 
   const selectedKey = location.pathname || '/search'
 
   return (
-    <Layout style={{ minHeight: '100vh' }}>
-      <Sider
-        collapsible
-        collapsed={collapsed}
-        onCollapse={setCollapsed}
-        style={{
-          background: '#1a1a2e',
-        }}
-      >
-        <div
-          style={{
-            height: 64,
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-            color: '#fff',
-            fontSize: collapsed ? 16 : 20,
-            fontWeight: 'bold',
-            borderBottom: '1px solid rgba(255, 255, 255, 0.1)',
-          }}
+    <ConfigProvider
+      theme={{
+        token: {
+          borderRadius: 0,
+          colorPrimary: '#000000',
+          colorBorder: '#000000',
+          fontFamily:
+            "'Courier New', Courier, 'Microsoft YaHei', monospace, sans-serif",
+        },
+        components: {
+          Card: { borderRadiusLG: 0, paddingLG: 20 },
+          Button: {
+            borderRadius: 0,
+            fontWeight: 700,
+            controlHeight: 40,
+          },
+          Menu: { itemBorderRadius: 0 },
+          Layout: { headerBg: '#ffffff', bodyBg: '#fafafa' },
+        },
+      }}
+    >
+      <Layout className="cw-app-aistudio" style={{ minHeight: '100vh' }}>
+        <Sider
+          collapsible
+          collapsed={collapsed}
+          onCollapse={setCollapsed}
+          className="cw-aistudio-sider"
+          width={240}
         >
-          {collapsed ? 'CW' : 'ClothWorkFlow'}
-        </div>
-        <Menu
-          theme="dark"
-          mode="inline"
-          selectedKeys={[selectedKey]}
-          items={menuItems}
-          style={{ background: '#1a1a2e', borderRight: 0 }}
-        />
-      </Sider>
-      <Layout>
-        <Header
-          style={{
-            padding: '0 24px',
-            background: '#fff',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'space-between',
-            borderBottom: '1px solid #f0f0f0',
-          }}
-        >
-          <Text strong style={{ fontSize: 18 }}>
-            Smart Clothing Search & Recommendation System
-          </Text>
-          <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
-            {loading ? (
-              <Spin indicator={<LoadingOutlined spin />} size="small" />
-            ) : status?.loaded ? (
-              <Badge status="success" text={`Loaded ${status.count} products`} />
-            ) : (
-              <Badge status="warning" text="No data loaded" />
-            )}
+          <div className="cw-aistudio-logo">
+            {collapsed ? 'CW' : '服饰工作流'}
           </div>
-        </Header>
-        <Content
-          style={{
-            margin: '24px',
-            padding: 24,
-            minHeight: 280,
-            background: '#f5f5f5',
-            borderRadius: 8,
-          }}
-        >
-          <Routes>
-            <Route path="/" element={<SearchPage />} />
-            <Route path="/search" element={<SearchPage />} />
-            <Route path="/stats" element={<StatsPage />} />
-            <Route path="/config" element={<ConfigPage />} />
-            <Route path="/about" element={<AboutPage />} />
-          </Routes>
-        </Content>
+          <Menu
+            theme="light"
+            mode="inline"
+            selectedKeys={[selectedKey]}
+            items={menuItems}
+            className="cw-aistudio-menu"
+          />
+        </Sider>
+        <Layout>
+          <Header className="cw-aistudio-header">
+            <Text strong className="cw-aistudio-header-title">
+              智能服饰搜索 / AI 工作室
+            </Text>
+            <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
+              {loading ? (
+                <Spin indicator={<LoadingOutlined spin />} size="small" />
+              ) : status?.loaded ? (
+                <Badge
+                  status="success"
+                  text={`已加载 ${status.count} 件`}
+                  className="cw-aistudio-badge"
+                />
+              ) : (
+                <Badge
+                  status="warning"
+                  text="未加载索引"
+                  className="cw-aistudio-badge"
+                />
+              )}
+            </div>
+          </Header>
+          <Content className="cw-aistudio-content">
+            <Routes>
+              <Route path="/" element={<SearchPage />} />
+              <Route path="/search" element={<SearchPage />} />
+              <Route path="/stats" element={<StatsPage />} />
+              <Route path="/model-presets" element={<ModelPresetsPage />} />
+              <Route path="/config" element={<ConfigPage />} />
+              <Route path="/about" element={<AboutPage />} />
+            </Routes>
+          </Content>
+        </Layout>
       </Layout>
-    </Layout>
+    </ConfigProvider>
   )
 }
 

@@ -12,6 +12,20 @@ PACKAGE_ROOT = Path(__file__).parent.parent       # clothworkflow/
 PROJECT_ROOT = PACKAGE_ROOT.parent                # ClothWorkFlow/
 CONFIG_FILE = PROJECT_ROOT / "config.yaml"
 
+
+def _load_project_dotenv() -> None:
+    """从项目根目录 .env 注入环境变量（不覆盖已存在的环境变量）。供 API / CLI 读取 GEMINI_API_KEY 等。"""
+    try:
+        from dotenv import load_dotenv
+    except ImportError:
+        return
+    p = PROJECT_ROOT / ".env"
+    if p.is_file():
+        load_dotenv(p, override=False)
+
+
+_load_project_dotenv()
+
 # ============ 加载 YAML 配置 ============
 
 def _load_yaml() -> dict:

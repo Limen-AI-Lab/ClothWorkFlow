@@ -24,7 +24,7 @@ const ConfigPage = () => {
       setYamlContent(data.yaml)
       setOriginalYaml(data.yaml)
     } catch (error) {
-      message.error('Failed to load configuration')
+      message.error('加载配置失败')
       console.error('配置错误:', error)
     } finally {
       setLoading(false)
@@ -36,9 +36,9 @@ const ConfigPage = () => {
     try {
       await updateConfig({ yaml: yamlContent })
       setOriginalYaml(yamlContent)
-      message.success('Configuration saved')
+      message.success('配置已保存')
     } catch (error) {
-      message.error('Failed to save configuration')
+      message.error('保存配置失败')
       console.error('保存错误:', error)
     } finally {
       setSaving(false)
@@ -47,7 +47,7 @@ const ConfigPage = () => {
 
   const handleReset = () => {
     setYamlContent(originalYaml)
-    message.info('Reset to last saved configuration')
+    message.info('已恢复为上次保存的配置')
   }
 
   if (loading) {
@@ -62,7 +62,7 @@ const ConfigPage = () => {
     <div style={{ maxWidth: 1200, margin: '0 auto' }}>
       <Title level={2} style={{ marginBottom: 24 }}>
         <SettingOutlined style={{ marginRight: 8 }} />
-        Settings
+        设置
       </Title>
 
       <Card
@@ -74,7 +74,7 @@ const ConfigPage = () => {
               onClick={handleReset}
               disabled={yamlContent === originalYaml}
             >
-              Reset
+              重置
             </Button>
             <Button
               type="primary"
@@ -83,7 +83,7 @@ const ConfigPage = () => {
               loading={saving}
               disabled={yamlContent === originalYaml}
             >
-              Save Configuration
+              保存配置
             </Button>
           </Space>
         }
@@ -103,7 +103,7 @@ const ConfigPage = () => {
         />
         <div style={{ marginTop: 16 }}>
           <Text type="secondary">
-            Click "Save Configuration" button to apply changes. Note: Configuration errors may cause system issues.
+            点击「保存配置」应用修改。注意：配置错误可能导致系统异常。
           </Text>
         </div>
       </Card>

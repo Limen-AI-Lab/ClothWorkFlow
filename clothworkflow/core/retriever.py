@@ -33,8 +33,9 @@ class HybridRetriever:
     def search(self, query: str, top_n: int = 5,
                bm25_k: int = RECOMMEND_BM25_K,
                vector_k: int = RECOMMEND_VECTOR_K,
-               rerank_k: int = RECOMMEND_RERANK_K) -> dict:
-        """混合检索 + Reranker 精排"""
+               rerank_k: int = RECOMMEND_RERANK_K,
+               allowed_indices: frozenset[int] | None = None) -> dict:
+        """混合检索 + Reranker 精排。allowed_indices 非空时仅在给定商品下标子集内检索。"""
         t0 = time.time()
 
         # Step 1: BM25
@@ -46,6 +47,30 @@ class HybridRetriever:
         query_vec = self.embed_model.encode([query], normalize_embeddings=True)
         vec_scores = (query_vec @ self.embeddings.T)[0]
         t2 = time.time()
+
+        if allowed_indices is not None:
+            if not allowed_indices:
+                return {
+                    "query": query,
+                    "query_tokens": query_tokens,
+                    "total_items": self.n,
+                    "candidates_before_rerank": 0,
+                    "timing": {
+                        "bm25_ms": round((t1 - t0) * 1000),
+                        "vector_ms": round((t2 - t1) * 1000),
+                        "merge_ms": 0,
+                        "rerank_ms": 0,
+                        "total_ms": round((t2 - t0) * 1000),
+                    },
+                    "results": [],
+                }
+            mask = np.zeros(self.n, dtype=bool)
+            for i in allowed_indices:
+                if 0 <= i < self.n:
+                    mask[i] = True
+            low = np.float32(-1e9)
+            bm25_scores = np.where(mask, bm25_scores, low)
+            vec_scores = np.where(mask, vec_scores, low)
 
         # Step 3: RRF 融合
         rrf_k = RECOMMEND_RRF_K
